@@ -1,0 +1,848 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\esteban\Documents\VATSIM_Argentinav2004\VATSIM Argentina\VATSIM Argentina.sct2
+SECTORTITLE:VATSIM Argentina.sct2
+ARTCC boundary:CTA Ezeiza Radar:
+ARTCC boundary:CTR Aeroparque J. Newbery:
+ARTCC boundary:CTR Bahia Blanca:
+ARTCC boundary:CTR Bariloche:
+ARTCC boundary:CTR Chapelco:
+ARTCC boundary:CTR Concordia:
+ARTCC boundary:CTR Ezeiza:
+ARTCC boundary:CTR Gessel:
+ARTCC boundary:CTR Gualeguaychu:
+ARTCC boundary:CTR Mariano Moreno:
+ARTCC boundary:CTR Neuquen:
+ARTCC boundary:CTR Parana:
+ARTCC boundary:CTR Santa Rosa:
+ARTCC boundary:CTR Sauce Viejo:
+ARTCC boundary:CTR Tandil:
+ARTCC boundary:FIR EZEIZA:
+ARTCC boundary:TMA Bahia Blanca:
+ARTCC boundary:TMA Baires:
+ARTCC boundary:TMA Bariloche:
+ARTCC boundary:TMA General Pico:
+ARTCC boundary:TMA Gualeguaychu:
+ARTCC boundary:TMA Mar del Plata:
+ARTCC boundary:TMA Neuquen:
+ARTCC boundary:TMA Rosario:
+ARTCC boundary:TMA San Martin de los Andes:
+ARTCC boundary:TMA Santa Rosa:
+ARTCC boundary:TMA Santa Rosa de Conlara:
+ARTCC boundary:TMA Tandil:
+Fixes:AKPUR:name
+Fixes:AKPUR:symbol
+Fixes:ALGIL:name
+Fixes:ALGIL:symbol
+Fixes:AMVIB:name
+Fixes:AMVIB:symbol
+Fixes:ANRAL:name
+Fixes:ANRAL:symbol
+Fixes:ARTOK:name
+Fixes:ARTOK:symbol
+Fixes:ARVET:name
+Fixes:ARVET:symbol
+Fixes:ARVOV:name
+Fixes:ARVOV:symbol
+Fixes:ASADA:name
+Fixes:ASADA:symbol
+Fixes:ATAKO:name
+Fixes:ATAKO:symbol
+Fixes:ATIRA:name
+Fixes:ATIRA:symbol
+Fixes:ATITO:name
+Fixes:ATITO:symbol
+Fixes:ATOMO:name
+Fixes:ATOMO:symbol
+Fixes:ATOVO:name
+Fixes:ATOVO:symbol
+Fixes:BIVAM:name
+Fixes:BIVAM:symbol
+Fixes:BIXIM:name
+Fixes:BIXIM:symbol
+Fixes:BODIR:name
+Fixes:BODIR:symbol
+Fixes:BOGOR:name
+Fixes:BOGOR:symbol
+Fixes:CABAL:name
+Fixes:CABAL:symbol
+Fixes:CHATO:name
+Fixes:CHATO:symbol
+Fixes:DABOT:name
+Fixes:DABOT:symbol
+Fixes:DALAB:name
+Fixes:DALAB:symbol
+Fixes:DAMIN:name
+Fixes:DAMIN:symbol
+Fixes:DARKA:name
+Fixes:DARKA:symbol
+Fixes:DEXAL:name
+Fixes:DEXAL:symbol
+Fixes:DORVO:name
+Fixes:DORVO:symbol
+Fixes:DOTRI:name
+Fixes:DOTRI:symbol
+Fixes:EDNOR:name
+Fixes:EDNOR:symbol
+Fixes:EGANI:name
+Fixes:EGANI:symbol
+Fixes:EGIMA:name
+Fixes:EGIMA:symbol
+Fixes:EGOBO:name
+Fixes:EGOBO:symbol
+Fixes:EGOKO:name
+Fixes:EGOKO:symbol
+Fixes:EGOVI:name
+Fixes:EGOVI:symbol
+Fixes:EKEBA:name
+Fixes:EKEBA:symbol
+Fixes:EKEMO:name
+Fixes:EKEMO:symbol
+Fixes:EKOPA:name
+Fixes:EKOPA:symbol
+Fixes:EKOTA:name
+Fixes:EKOTA:symbol
+Fixes:ELABO:name
+Fixes:ELABO:symbol
+Fixes:ENRIL:name
+Fixes:ENRIL:symbol
+Fixes:EPGOL:name
+Fixes:EPGOL:symbol
+Fixes:ESKAD:name
+Fixes:ESKAD:symbol
+Fixes:ESKON:name
+Fixes:ESKON:symbol
+Fixes:ESLAN:name
+Fixes:ESLAN:symbol
+Fixes:ESURO:name
+Fixes:ESURO:symbol
+Fixes:EZE19:name
+Fixes:EZE19:symbol
+Fixes:GATOS:name
+Fixes:GATOS:symbol
+Fixes:GAVAM:name
+Fixes:GAVAM:symbol
+Fixes:GEDUK:name
+Fixes:GEDUK:symbol
+Fixes:GENAX:name
+Fixes:GENAX:symbol
+Fixes:GUXOR:name
+Fixes:GUXOR:symbol
+Fixes:ILTOS:name
+Fixes:ILTOS:symbol
+Fixes:IMBAK:name
+Fixes:IMBAK:symbol
+Fixes:IRASU:name
+Fixes:IRASU:symbol
+Fixes:IREMO:name
+Fixes:IREMO:symbol
+Fixes:KALIM:name
+Fixes:KALIM:symbol
+Fixes:KIKIN:name
+Fixes:KIKIN:symbol
+Fixes:KIMID:name
+Fixes:KIMID:symbol
+Fixes:KIMIS:name
+Fixes:KIMIS:symbol
+Fixes:KORGA:name
+Fixes:KORGA:symbol
+Fixes:KORTA:name
+Fixes:KORTA:symbol
+Fixes:KOTOG:name
+Fixes:KOTOG:symbol
+Fixes:KOTUK:name
+Fixes:KOTUK:symbol
+Fixes:KUKEN:name
+Fixes:KUKEN:symbol
+Fixes:LANDA:name
+Fixes:LANDA:symbol
+Fixes:LIMAY:name
+Fixes:LIMAY:symbol
+Fixes:LOGAM:name
+Fixes:LOGAM:symbol
+Fixes:LOLAS:name
+Fixes:LOLAS:symbol
+Fixes:MUDNO:name
+Fixes:MUDNO:symbol
+Fixes:MULTA:name
+Fixes:MULTA:symbol
+Fixes:MUPIS:name
+Fixes:MUPIS:symbol
+Fixes:NIDBA:name
+Fixes:NIDBA:symbol
+Fixes:NUXIM:name
+Fixes:NUXIM:symbol
+Fixes:OGLER:name
+Fixes:OGLER:symbol
+Fixes:OPNIN:name
+Fixes:OPNIN:symbol
+Fixes:OPUVI:name
+Fixes:OPUVI:symbol
+Fixes:ORERA:name
+Fixes:ORERA:symbol
+Fixes:OSEKO:name
+Fixes:OSEKO:symbol
+Fixes:OTADO:name
+Fixes:OTADO:symbol
+Fixes:PABAS:name
+Fixes:PABAS:symbol
+Fixes:PABEV:name
+Fixes:PABEV:symbol
+Fixes:PADAS:name
+Fixes:PADAS:symbol
+Fixes:PAGAD:name
+Fixes:PAGAD:symbol
+Fixes:PAGON:name
+Fixes:PAGON:symbol
+Fixes:PAPIX:name
+Fixes:PAPIX:symbol
+Fixes:PEDRO:name
+Fixes:PEDRO:symbol
+Fixes:PONVA:name
+Fixes:PONVA:symbol
+Fixes:PORPA:name
+Fixes:PORPA:symbol
+Fixes:POSTI:name
+Fixes:POSTI:symbol
+Fixes:PUGLI:name
+Fixes:PUGLI:symbol
+Fixes:PULAS:name
+Fixes:PULAS:symbol
+Fixes:PULGA:name
+Fixes:PULGA:symbol
+Fixes:PULPA:name
+Fixes:PULPA:symbol
+Fixes:PUNOL:name
+Fixes:PUNOL:symbol
+Fixes:RAXUR:name
+Fixes:RAXUR:symbol
+Fixes:REKUL:name
+Fixes:REKUL:symbol
+Fixes:RODOV:name
+Fixes:RODOV:symbol
+Fixes:ROGAS:name
+Fixes:ROGAS:symbol
+Fixes:ROKER:name
+Fixes:ROKER:symbol
+Fixes:ROPIS:name
+Fixes:ROPIS:symbol
+Fixes:ROPON:name
+Fixes:ROPON:symbol
+Fixes:SAKSA:name
+Fixes:SAKSA:symbol
+Fixes:SARGO:name
+Fixes:SARGO:symbol
+Fixes:SIGUL:name
+Fixes:SIGUL:symbol
+Fixes:SIKAR:name
+Fixes:SIKAR:symbol
+Fixes:SIMOT:name
+Fixes:SIMOT:symbol
+Fixes:SINUT:name
+Fixes:SINUT:symbol
+Fixes:SIRAN:name
+Fixes:SIRAN:symbol
+Fixes:SISAX:name
+Fixes:SISAX:symbol
+Fixes:SUGRA:name
+Fixes:SUGRA:symbol
+Fixes:TEDAR:name
+Fixes:TEDAR:symbol
+Fixes:TENIL:name
+Fixes:TENIL:symbol
+Fixes:TESEX:name
+Fixes:TESEX:symbol
+Fixes:TINTA:name
+Fixes:TINTA:symbol
+Fixes:TODES:name
+Fixes:TODES:symbol
+Fixes:TONAR:name
+Fixes:TONAR:symbol
+Fixes:TOPIL:name
+Fixes:TOPIL:symbol
+Fixes:TORES:name
+Fixes:TORES:symbol
+Fixes:TORUL:name
+Fixes:TORUL:symbol
+Fixes:TOSOR:name
+Fixes:TOSOR:symbol
+Fixes:UDITA:name
+Fixes:UDITA:symbol
+Fixes:UGAGI:name
+Fixes:UGAGI:symbol
+Fixes:UGALA:name
+Fixes:UGALA:symbol
+Fixes:UMSAR:name
+Fixes:UMSAR:symbol
+Fixes:URETI:name
+Fixes:URETI:symbol
+Fixes:URINO:name
+Fixes:URINO:symbol
+Fixes:UTRET:name
+Fixes:UTRET:symbol
+Fixes:VALOS:name
+Fixes:VALOS:symbol
+Fixes:VANAR:name
+Fixes:VANAR:symbol
+Fixes:VAPES:name
+Fixes:VAPES:symbol
+Fixes:VARES:name
+Fixes:VARES:symbol
+Fixes:VASAL:name
+Fixes:VASAL:symbol
+Fixes:VOTRA:name
+Fixes:VOTRA:symbol
+Fixes:VULON:name
+Fixes:VULON:symbol
+Free Text:ADs no controlados\ESP:freetext
+Free Text:ADs no controlados\GEZ:freetext
+Free Text:ADs no controlados\LJN:freetext
+Free Text:ADs no controlados\MBL:freetext
+Free Text:ADs no controlados\MUS:freetext
+Free Text:ADs no controlados\PTL:freetext
+Free Text:SAAR\1:freetext
+Free Text:SAAR\2:freetext
+Free Text:SAAR\3:freetext
+Free Text:SAAR\4:freetext
+Free Text:SAAR\5:freetext
+Free Text:SAAR\A:freetext
+Free Text:SAAR\B:freetext
+Free Text:SABE parkings\1:freetext
+Free Text:SABE parkings\10:freetext
+Free Text:SABE parkings\11:freetext
+Free Text:SABE parkings\12:freetext
+Free Text:SABE parkings\13:freetext
+Free Text:SABE parkings\14:freetext
+Free Text:SABE parkings\15:freetext
+Free Text:SABE parkings\16:freetext
+Free Text:SABE parkings\17:freetext
+Free Text:SABE parkings\18:freetext
+Free Text:SABE parkings\18A:freetext
+Free Text:SABE parkings\19:freetext
+Free Text:SABE parkings\2:freetext
+Free Text:SABE parkings\20:freetext
+Free Text:SABE parkings\21:freetext
+Free Text:SABE parkings\22:freetext
+Free Text:SABE parkings\23:freetext
+Free Text:SABE parkings\24:freetext
+Free Text:SABE parkings\25:freetext
+Free Text:SABE parkings\26:freetext
+Free Text:SABE parkings\27:freetext
+Free Text:SABE parkings\28:freetext
+Free Text:SABE parkings\29:freetext
+Free Text:SABE parkings\3:freetext
+Free Text:SABE parkings\30:freetext
+Free Text:SABE parkings\31:freetext
+Free Text:SABE parkings\32:freetext
+Free Text:SABE parkings\33:freetext
+Free Text:SABE parkings\34:freetext
+Free Text:SABE parkings\35:freetext
+Free Text:SABE parkings\36:freetext
+Free Text:SABE parkings\37:freetext
+Free Text:SABE parkings\38:freetext
+Free Text:SABE parkings\39:freetext
+Free Text:SABE parkings\4:freetext
+Free Text:SABE parkings\40:freetext
+Free Text:SABE parkings\41:freetext
+Free Text:SABE parkings\42:freetext
+Free Text:SABE parkings\43:freetext
+Free Text:SABE parkings\44:freetext
+Free Text:SABE parkings\45:freetext
+Free Text:SABE parkings\46:freetext
+Free Text:SABE parkings\47:freetext
+Free Text:SABE parkings\48:freetext
+Free Text:SABE parkings\49:freetext
+Free Text:SABE parkings\5:freetext
+Free Text:SABE parkings\50:freetext
+Free Text:SABE parkings\51:freetext
+Free Text:SABE parkings\52:freetext
+Free Text:SABE parkings\53:freetext
+Free Text:SABE parkings\54:freetext
+Free Text:SABE parkings\55:freetext
+Free Text:SABE parkings\56:freetext
+Free Text:SABE parkings\57:freetext
+Free Text:SABE parkings\58:freetext
+Free Text:SABE parkings\59:freetext
+Free Text:SABE parkings\6:freetext
+Free Text:SABE parkings\60:freetext
+Free Text:SABE parkings\7:freetext
+Free Text:SABE parkings\8:freetext
+Free Text:SABE parkings\9:freetext
+Free Text:SABE taxiways\1:freetext
+Free Text:SABE taxiways\1W:freetext
+Free Text:SABE taxiways\2:freetext
+Free Text:SABE taxiways\2W:freetext
+Free Text:SABE taxiways\3:freetext
+Free Text:SABE taxiways\3W:freetext
+Free Text:SABE taxiways\4:freetext
+Free Text:SABE taxiways\5:freetext
+Free Text:SABE taxiways\A:freetext
+Free Text:SABE taxiways\B:freetext
+Free Text:SABE taxiways\C:freetext
+Free Text:SABE taxiways\D:freetext
+Free Text:SABE taxiways\E:freetext
+Free Text:SADF\1:freetext
+Free Text:SADF\2:freetext
+Free Text:SADF\3:freetext
+Free Text:SADF\4:freetext
+Free Text:SADF\A:freetext
+Free Text:SADF\B:freetext
+Free Text:SADF\C:freetext
+Free Text:SADM taxiways\ A:freetext
+Free Text:SADM taxiways\ A:freetext
+Free Text:SADM taxiways\ A:freetext
+Free Text:SADM taxiways\ B:freetext
+Free Text:SADM taxiways\ C:freetext
+Free Text:SADM taxiways\ D:freetext
+Free Text:SADM taxiways\ E:freetext
+Free Text:SADM taxiways\ F:freetext
+Free Text:SAEZ parkings\10:freetext
+Free Text:SAEZ parkings\11:freetext
+Free Text:SAEZ parkings\12:freetext
+Free Text:SAEZ parkings\13:freetext
+Free Text:SAEZ parkings\14:freetext
+Free Text:SAEZ parkings\15:freetext
+Free Text:SAEZ parkings\16:freetext
+Free Text:SAEZ parkings\17:freetext
+Free Text:SAEZ parkings\18:freetext
+Free Text:SAEZ parkings\2:freetext
+Free Text:SAEZ parkings\22:freetext
+Free Text:SAEZ parkings\23:freetext
+Free Text:SAEZ parkings\24:freetext
+Free Text:SAEZ parkings\25:freetext
+Free Text:SAEZ parkings\3:freetext
+Free Text:SAEZ parkings\33:freetext
+Free Text:SAEZ parkings\33A:freetext
+Free Text:SAEZ parkings\33B:freetext
+Free Text:SAEZ parkings\34:freetext
+Free Text:SAEZ parkings\34A:freetext
+Free Text:SAEZ parkings\34B:freetext
+Free Text:SAEZ parkings\34C:freetext
+Free Text:SAEZ parkings\35:freetext
+Free Text:SAEZ parkings\35A:freetext
+Free Text:SAEZ parkings\35B:freetext
+Free Text:SAEZ parkings\36:freetext
+Free Text:SAEZ parkings\37:freetext
+Free Text:SAEZ parkings\4:freetext
+Free Text:SAEZ parkings\40:freetext
+Free Text:SAEZ parkings\41:freetext
+Free Text:SAEZ parkings\42:freetext
+Free Text:SAEZ parkings\43:freetext
+Free Text:SAEZ parkings\44:freetext
+Free Text:SAEZ parkings\45:freetext
+Free Text:SAEZ parkings\46:freetext
+Free Text:SAEZ parkings\47:freetext
+Free Text:SAEZ parkings\5:freetext
+Free Text:SAEZ parkings\50:freetext
+Free Text:SAEZ parkings\51:freetext
+Free Text:SAEZ parkings\52:freetext
+Free Text:SAEZ parkings\53:freetext
+Free Text:SAEZ parkings\54:freetext
+Free Text:SAEZ parkings\55:freetext
+Free Text:SAEZ parkings\6:freetext
+Free Text:SAEZ parkings\7:freetext
+Free Text:SAEZ parkings\8:freetext
+Free Text:SAEZ parkings\9:freetext
+Free Text:SAEZ taxiways\A:freetext
+Free Text:SAEZ taxiways\B:freetext
+Free Text:SAEZ taxiways\C:freetext
+Free Text:SAEZ taxiways\D:freetext
+Free Text:SAEZ taxiways\E:freetext
+Free Text:SAEZ taxiways\F:freetext
+Free Text:SAEZ taxiways\G:freetext
+Free Text:SAEZ taxiways\H:freetext
+Free Text:SAEZ taxiways\J:freetext
+Free Text:SAZB\1:freetext
+Free Text:SAZB\2:freetext
+Free Text:SAZB\3:freetext
+Free Text:SAZB\4:freetext
+Free Text:SAZB\A:freetext
+Free Text:SAZB\B:freetext
+Free Text:SAZB\C:freetext
+Free Text:SAZB\D:freetext
+Free Text:SAZB\E:freetext
+Free Text:SAZB\F:freetext
+Free Text:SAZB\G:freetext
+Free Text:SAZB\H:freetext
+Free Text:SAZM\1:freetext
+Free Text:SAZM\10:freetext
+Free Text:SAZM\11:freetext
+Free Text:SAZM\12:freetext
+Free Text:SAZM\2:freetext
+Free Text:SAZM\3:freetext
+Free Text:SAZM\4:freetext
+Free Text:SAZM\5:freetext
+Free Text:SAZM\6:freetext
+Free Text:SAZM\7:freetext
+Free Text:SAZM\8:freetext
+Free Text:SAZM\9:freetext
+Free Text:SAZM\A:freetext
+Free Text:SAZM\B:freetext
+Free Text:SAZN\1:freetext
+Free Text:SAZN\2:freetext
+Free Text:SAZN\3:freetext
+Free Text:SAZN\4:freetext
+Free Text:SAZN\5:freetext
+Free Text:SAZN\6:freetext
+Free Text:SAZN\7:freetext
+Free Text:SAZN\8:freetext
+Free Text:SAZN\9:freetext
+Free Text:SAZN\A:freetext
+Free Text:SAZN\B:freetext
+Free Text:SAZN\C:freetext
+Free Text:SAZS\1:freetext
+Free Text:SAZS\10:freetext
+Free Text:SAZS\2:freetext
+Free Text:SAZS\3:freetext
+Free Text:SAZS\4:freetext
+Free Text:SAZS\5:freetext
+Free Text:SAZS\5B:freetext
+Free Text:SAZS\6:freetext
+Free Text:SAZS\7:freetext
+Free Text:SAZS\8:freetext
+Free Text:SAZS\9:freetext
+Free Text:SAZS\A:freetext
+Free Text:SAZS\B:freetext
+Free Text:SAZS\C:freetext
+Geo:Antartida:
+Geo:GEO:
+Geo:Islas Malvinas Argentinas:
+Geo:Linea Costera:
+Geo:Lineas limitrofes CHI-PAR-URU:
+Geo:SAAC:
+Geo:SAAG:
+Geo:SAAJ:
+Geo:SAAN Airport:
+Geo:SAAP Airport:
+Geo:SAAR:
+Geo:SAAV Airport:
+Geo:SABE:
+Geo:SADF:
+Geo:SADJ:
+Geo:SADL:
+Geo:SADM:
+Geo:SADO:
+Geo:SADP:
+Geo:SAEZ:
+Geo:SAZB:
+Geo:SAZG:
+Geo:SAZM:
+Geo:SAZN:
+Geo:SAZR:
+Geo:SAZS:
+Geo:SAZT:
+Geo:SAZV:
+Geo:SAZY:
+High airways:UA306:line
+High airways:UA307:line
+High airways:UA570:line
+High airways:UB555:line
+High airways:UB684:line
+High airways:UB687:line
+High airways:UB688:line
+High airways:UL211:line
+High airways:UL216:line
+High airways:UL322:line
+High airways:UL324:line
+High airways:UL404:line
+High airways:UL416:line
+High airways:UL417:line
+High airways:UL531:line
+High airways:UL550:line
+High airways:UL653:line
+High airways:UL670:line
+High airways:UL793:line
+High airways:UM400:line
+High airways:UM402:line
+High airways:UM418:line
+High airways:UM424:line
+High airways:UM534:line
+High airways:UM543:line
+High airways:UM654:line
+High airways:UM658:line
+High airways:UM776:line
+High airways:UM784:line
+High airways:UM789:line
+High airways:UM799:line
+High airways:UN527:line
+High airways:UN674:line
+High airways:UN741:line
+High airways:UN775:line
+High airways:UN857:line
+High airways:UT103:line
+High airways:UT105:line
+High airways:UT106:line
+High airways:UT108:line
+High airways:UT109:line
+High airways:UT652:line
+High airways:UT653:line
+High airways:UT654:line
+High airways:UT655:line
+High airways:UT657:line
+High airways:UT658:line
+High airways:UT659:line
+High airways:UT662:line
+High airways:UT667:line
+High airways:UT669:line
+High airways:UT670:line
+High airways:UT671:line
+High airways:UT672:line
+High airways:UT675:line
+High airways:UT677:line
+High airways:UW10:line
+High airways:UW14:line
+High airways:UW15:line
+High airways:UW18:line
+High airways:UW2:line
+High airways:UW20:line
+High airways:UW22:line
+High airways:UW23:line
+High airways:UW24:line
+High airways:UW26:line
+High airways:UW29:line
+High airways:UW3:line
+High airways:UW30:line
+High airways:UW31:line
+High airways:UW32:line
+High airways:UW33:line
+High airways:UW34:line
+High airways:UW38:line
+High airways:UW39:line
+High airways:UW40:line
+High airways:UW41:line
+High airways:UW42:line
+High airways:UW44:line
+High airways:UW45:line
+High airways:UW46:line
+High airways:UW48:line
+High airways:UW5:line
+High airways:UW50:line
+High airways:UW52:line
+High airways:UW54:line
+High airways:UW56:line
+High airways:UW57:line
+High airways:UW58:line
+High airways:UW6:line
+High airways:UW62:line
+High airways:UW63:line
+High airways:UW64:line
+High airways:UW65:line
+High airways:UW68:line
+High airways:UW7:line
+High airways:UW8:line
+Low airways:A305:line
+Low airways:A306:line
+Low airways:A307:line
+Low airways:A310:line
+Low airways:A314:line
+Low airways:A428:line
+Low airways:A430:line
+Low airways:A556:line
+Low airways:A570:line
+Low airways:B432:line
+Low airways:B555:line
+Low airways:B556:line
+Low airways:B560:line
+Low airways:B561:line
+Low airways:B682:line
+Low airways:B684:line
+Low airways:B687:line
+Low airways:B688:line
+Low airways:G550:line
+Low airways:G680:line
+Low airways:L405:line
+Low airways:L775:line
+Low airways:M424:line
+Low airways:M789:line
+Low airways:N674:line
+Low airways:R563:line
+Low airways:R683:line
+Low airways:T105:line
+Low airways:T108:line
+Low airways:T654:line
+Low airways:T655:line
+Low airways:T657:line
+Low airways:T658:line
+Low airways:T659:line
+Low airways:T661:line
+Low airways:T669:line
+Low airways:W10:line
+Low airways:W11:line
+Low airways:W12:line
+Low airways:W13:line
+Low airways:W14:line
+Low airways:W15:line
+Low airways:W16:line
+Low airways:W18:line
+Low airways:W19:line
+Low airways:W20:line
+Low airways:W21:line
+Low airways:W22:line
+Low airways:W23:line
+Low airways:W24:line
+Low airways:W25:line
+Low airways:W26:line
+Low airways:W27:line
+Low airways:W28:line
+Low airways:W29:line
+Low airways:W3:line
+Low airways:W30:line
+Low airways:W31:line
+Low airways:W32:line
+Low airways:W33:line
+Low airways:W34:line
+Low airways:W37:line
+Low airways:W38:line
+Low airways:W39:line
+Low airways:W4:line
+Low airways:W40:line
+Low airways:W41:line
+Low airways:W42:line
+Low airways:W44:line
+Low airways:W48:line
+Low airways:W5:line
+Low airways:W50:line
+Low airways:W52:line
+Low airways:W54:line
+Low airways:W55:line
+Low airways:W56:line
+Low airways:W58:line
+Low airways:W59:line
+Low airways:W6:line
+Low airways:W60:line
+Low airways:W61:line
+Low airways:W62:line
+Low airways:W63:line
+Low airways:W64:line
+Low airways:W65:line
+Low airways:W66:line
+Low airways:W67:line
+Low airways:W68:line
+Low airways:W69:line
+Low airways:W7:line
+Low airways:W8:line
+Low airways:W9:line
+NDBs:CHP:frequency
+NDBs:CHP:name
+NDBs:CHP:symbol
+NDBs:GES:frequency
+NDBs:GES:name
+NDBs:GES:symbol
+NDBs:ILM:frequency
+NDBs:ILM:name
+NDBs:ILM:symbol
+NDBs:MDP:frequency
+NDBs:MDP:name
+NDBs:MDP:symbol
+NDBs:N:frequency
+NDBs:N:name
+NDBs:N:symbol
+NDBs:NIN:frequency
+NDBs:NIN:name
+NDBs:NIN:symbol
+NDBs:PEH:frequency
+NDBs:PEH:name
+NDBs:PEH:symbol
+NDBs:PTA:frequency
+NDBs:PTA:name
+NDBs:PTA:symbol
+NDBs:STR:frequency
+NDBs:STR:name
+NDBs:STR:symbol
+NDBs:SVO:frequency
+NDBs:SVO:name
+NDBs:SVO:symbol
+Regions:SAAR:polygon
+Regions:SABE:polygon
+Regions:SADF:polygon
+Regions:SAEZ:polygon
+Regions:SAZB:polygon
+Regions:SAZN:polygon
+Regions:SAZS:polygon
+VORs:BAR:frequency
+VORs:BAR:name
+VORs:BAR:symbol
+VORs:BCA:frequency
+VORs:BCA:name
+VORs:BCA:symbol
+VORs:CHP:frequency
+VORs:CHP:name
+VORs:CHP:symbol
+VORs:DIL:frequency
+VORs:DIL:name
+VORs:DIL:symbol
+VORs:ENO:frequency
+VORs:ENO:name
+VORs:ENO:symbol
+VORs:EZE:frequency
+VORs:EZE:name
+VORs:EZE:symbol
+VORs:FDO:frequency
+VORs:FDO:name
+VORs:FDO:symbol
+VORs:GBE:frequency
+VORs:GBE:name
+VORs:GBE:symbol
+VORs:GPI:frequency
+VORs:GPI:name
+VORs:GPI:symbol
+VORs:GUA:frequency
+VORs:GUA:name
+VORs:GUA:symbol
+VORs:LYE:frequency
+VORs:LYE:name
+VORs:LYE:symbol
+VORs:MDP:frequency
+VORs:MDP:name
+VORs:MDP:symbol
+VORs:MJZ:frequency
+VORs:MJZ:name
+VORs:MJZ:symbol
+VORs:NEU:frequency
+VORs:NEU:name
+VORs:NEU:symbol
+VORs:NIN:frequency
+VORs:NIN:name
+VORs:NIN:symbol
+VORs:OEL:frequency
+VORs:OEL:name
+VORs:OEL:symbol
+VORs:OSA:frequency
+VORs:OSA:name
+VORs:OSA:symbol
+VORs:PAL:frequency
+VORs:PAL:name
+VORs:PAL:symbol
+VORs:PAR:frequency
+VORs:PAR:name
+VORs:PAR:symbol
+VORs:PDI:frequency
+VORs:PDI:name
+VORs:PDI:symbol
+VORs:PTA:frequency
+VORs:PTA:name
+VORs:PTA:symbol
+VORs:ROS:frequency
+VORs:ROS:name
+VORs:ROS:symbol
+VORs:SNT:frequency
+VORs:SNT:name
+VORs:SNT:symbol
+VORs:STO:frequency
+VORs:STO:name
+VORs:STO:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-42.834859:-72.970535:-30.684027:-44.478328

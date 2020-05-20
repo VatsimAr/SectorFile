@@ -1,0 +1,19 @@
+Settings	SettingsfileSYMBOLOGY	\Settings\symbology.txt
+Settings	SettingsfileVOICE	\Settings\voice_channels.txt
+Settings	SettingsfilePROFILE	\Settings\login_profiles.txt
+Settings	SettingsfileTAGS	\Settings\TAG.txt
+Settings	SettingsfileSIL	\Settings\list.txt
+Settings	SettingsfileSEL	\Settings\list.txt
+Settings	SettingsfileDEP	\Settings\list.txt
+Settings	SettingsfileARR	\Settings\list.txt
+Settings	SettingsfileFP	\Settings\list.txt
+Settings	SettingsfilePLUGINS	\Settings\plugin.txt
+Settings	Settingsfile	\Settings\general.txt
+Settings	SettingsfileSCREEN	\Settings\screen.txt
+Settings	SettingsfileCONFLICT	\Settings\list.txt
+Settings	SettingsfileVCCS	\Settings\list.txt
+Settings	SettingsfilePILOTING	\Settings\list.txt
+Settings	sector	\VATSIM Argentina.sct2
+RecentFiles	Recent2	\FIR Cordoba.asr
+Plugins	Plugin0	\Plugins\RDFPlugin.dll
+Plugins	Plugin0Display0	Standard ES radar screen

@@ -1,0 +1,196 @@
+;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+; VATSIM Argentina - EuroScope Aliases
+;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+;
+; VERSION HISTORY
+; v4.1
+;
+;=================================================
+; ESPAÑOL
+;=================================================
+; TODAS LAS POSICIONES
+;==============
+
+.invalido Su plan de vuelo está incorrecto, le envié por privado la corrección
+.bd Buen día, adelante
+.bt Buenas tardes, adelante
+.bn Buenas noches, adelante
+.modoc Transponder modo charlie
+.modos Transponder modo standby
+.999 Mayday recibido. Vientos $winds($arr) - todas las pistas están disponibles para su uso. Cuando esté en condiciones notifique intenciones y transponder 7700
+.uni Comunique UNICOM 122.800, buen vuelo!
+.atento Atento.
+
+;==============
+; GENERAL
+;==============
+
+.ir Identificado radar cruzando $calt
+.cr Contacto radar
+.com Comunique $1 frecuencia $2
+.ppd Posterior $1, autorizado directo $2
+.nc Notifique vertical $1
+.md Metar $metar($arr)
+.mo Metar $metar($dep) 
+.online /$callsign online!
+.logout /$callsign cerrando ops, gracias a todos!!
+.breakm /Cerrando en $1 minutos
+.W $metar($1)
+
+;==============
+; SUPERFICIE
+;==============
+
+.auth Autorizado $dep $arr via ruta plan, $ALT, salida $sid RWY$deprwy, ssr$squawk
+.cc Colación correcta, notifique listo para retroceso y encendido
+.re Retroceso y encendido aprobado, notifique listo a rodar
+.ruede Ruede a punto de espera RWY$deprwy via $2
+.ruedepuerta Ruede a posición $1 via $2
+.frec Frecuencia, buenas noches
+
+;==============
+; TORRE
+;==============
+
+.cdi Se encuentra en condiciones de salida inmediata?
+.om Ocupa y mantenga RWY$deprwy
+.odt Detrás del tránsito aterrizando ocupa y mantenga RWY$deprwy detrás
+.ad Vientos $wind, RWY$deprwy, autorizado a despegar
+.adi Vientos $wind, RWY$deprwy, autorizado a despegar de inmediato
+.aa Vientos $wind($arr), RWY$arrrwy, autorizado a aterrizar
+.esc REALICE ESCAPE, REALICE ESCAPE
+.ca Continúe aproximación, vientos $wind
+.dn Despegó $time, notifique cruzando $1
+.al Su arribo $time, libere próximo a su $1
+
+;==============
+; APROXIMACION/SALIDA
+;==============
+
+.sc Squawk C por favor
+.rd Contacto radar $calt, info $1, Q$altim($arr), descienda $alt
+.ra Contacto radar $calt, ascienda $alt
+.a Ascienda $alt
+.dir Autorizado DCT $1
+.d Descienda $alt
+.da Descienda $alt ft, Q$altim($arr)
+.esp Realice espera sobre $1 según publicado
+.nra Notifique rumbo actual
+.vi Vire izquierda rumbo $1 
+.vd Vire derecha rumbo $1
+.nv Notifique velocidad indicada 
+.rv Reduzca para $1 kt
+.rvn Resuma velocidad normal
+.ns No tiene restricciones de velocidad
+.vri Vectores radar para ILS app RWY$arrrwy
+.autc Autorizado carta $1 app RWY$arrrwy, Q$altim($arr), notifique iniciando procedimiento
+.autv Autorizado aproximación visual RWY$arrrwy, notifique final
+
+;==============
+; CENTRO
+;==============
+
+.sq Squawk $squawk
+.apa Ascienda a $alt para alcanzar sobre $1
+.ada Descienda a $alt para alcanzar sobre $1
+.ar Posterior $1 autorizado $2 RWY$arrrwy
+.bye Servicio radar terminado, comunique UNICOM 122.800
+.di Despegó $time, identificado radar cruzando $calt
+
+;==============
+; COORDINACION
+;==============
+.coordauth $aircraft $dep $arr $cruise/$arr $sid $squawk
+.reqauth $aircraft $arr $cruise
+
+;=================================================
+; ENGLISH
+;=================================================
+; ALL POSITIONS
+;==============
+
+.einvalido Your flight plan is invalid. I will private message you with further details. Standby
+.ebd Good morning, go ahead
+.ebt Good afternoon, go ahead
+.ebn Good evening, go ahead
+.emodoc Squawk mode charlie
+.emodos Squawk mode standby
+.e999 Roger Mayday. Wind $winds($arr) - all runways available for use. When able state your intentions and Squawk 7700
+.euni No further ATC is available, monitor UNICOM on 122.800, frequency change approved. Bye
+.eatento Standby please
+
+;==============
+; GENERAL
+;==============
+
+.eir Radar indentified passing $calt
+.ecr Radar contact
+.ecom Contact $1 on $2
+.eppd After $1, proceed direct to $2
+.enc Report over $1
+.emd Weather $metar($arr)
+.emo Weather $metar($dep) 
+.eonline /$callsign is online
+.elogout /$callsign is closing, thanks everybody!
+.ebreakm /Closing in $1 mins
+.W $metar($1)
+
+;==============
+; GROUND
+;==============
+
+.eauth Cleared to $arr, $alt, $sid departure out of RWY$deprwy, sqwk$squawk
+.ecc Readback correct, report when ready for push and start
+.ere Pushback and startup approved, advise when ready to taxi
+.eruede Taxi to h/p RWY$deprwy via twys $1
+.eruedepuerta Taxi to stand $1 via twys $2
+.efrec Shutdown approved, good night
+
+;==============
+; TOWER
+;==============
+
+.ecdi Ready for immediate departure?
+.eom Line up and wait RWY$deprwy
+.eodt Behind landing $1 line up and wait RWY$deprwy behind
+.ead Winds $wind, RWY$deprwy, cleared for takeoff
+.eadi Winds $wind, RWY$deprwy, cleared for immediate takeoff
+.eaa Winds $wind($arr), RWY$arrrwy, cleared to land
+.eesc GO AROUND, GO AROUND
+.eca Continue app, winds $wind
+.edn Airbone $time, report passing $1
+.eal On the ground at $time, vacate next to your $1
+
+;==============
+; APP/DEP
+;==============
+
+.esc Squawk C please
+.erd Radar contact at $calt, info $1, Q$altim($arr), descend $alt
+.era Radar contact at $calt, climb $alt
+.ea Climb $alt
+.edir Proceed direct to $1
+.ed Descend $alt
+.eda Descend $alt ft, Q$altim($arr)
+.eesp Hold over $1 as published
+.enra Report present heading
+.evi Turn left heading $1 
+.evd Turn right heading $1
+.env Report indicated speed 
+.erv Reduce speed $1 kt
+.ervn Resume normal speed
+.ens No speed restrictions
+.evri Radar vectoring for ILS app RWY$arrrwy
+.eautc Cleared chart number $1 app RWY$arrrwy, Q$altim($arr), report commencing procedure
+.eautv Cleared for visual app RWY$arrrwy, report on final
+
+;==============
+; CENTER
+;==============
+
+.sq Squawk $squawk
+.eapa Climb to reach $alt by $1
+.eada Descend to reach $alt by $1
+.ear After $1 cleared $2 arrival for RWY$arrrwy
+.ebye Radar service terminated, no further ATC available, frequency change approved, unicom 122.8
+.edi Airbone $time, radar identified passing $calt
