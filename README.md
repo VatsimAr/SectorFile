@@ -1,1 +1,1 @@
-# SectorFile
+# VATSIM Argentina SectorFile
