@@ -829,8 +829,8 @@ Fixes:SAKSA:name
 Fixes:SAKSA:symbol
 Fixes:SALBO:name
 Fixes:SALBO:symbol
-Fixes:SARGO:name
-Fixes:SARGO:symbol
+Fixes:UGIMI:name
+Fixes:UGIMI:symbol
 Fixes:SARNA:name
 Fixes:SARNA:symbol
 Fixes:SASKU:name
@@ -2091,9 +2091,9 @@ Regions:SAZB:polygon
 Regions:SAZN:polygon
 Regions:SAZS:polygon
 Runways:SAAC Concordia 03-21:name
-Runways:SAAG Gualeguaychú 19-01:name
+Runways:SAAG Gualeguaychï¿½ 19-01:name
 Runways:SAAI Punta Indio 06-24:name
-Runways:SAAJ Junín 36-18:name
+Runways:SAAJ Junï¿½n 36-18:name
 Runways:SAAP Parana Gral Urquiza 19-01:name
 Runways:SAAR Airport Rosario 02-20:extended centerline 2
 Runways:SAAR Airport Rosario 02-20:extended centerline 2 left base
@@ -2148,22 +2148,22 @@ Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2 right ticks
 Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2 right vectoring
 Runways:SAEZ Ezeiza Ministro Pistarini 17-35:name
 Runways:SAME El Plumerillo (Mendoza) 36-18:name
-Runways:SAMM Malargüe (Mendoza) 14-32:centerline
-Runways:SAMM Malargüe (Mendoza) 14-32:extended centerline 1
-Runways:SAMM Malargüe (Mendoza) 14-32:extended centerline 1 left base
-Runways:SAMM Malargüe (Mendoza) 14-32:extended centerline 1 left ticks
-Runways:SAMM Malargüe (Mendoza) 14-32:extended centerline 1 left vectoring
-Runways:SAMM Malargüe (Mendoza) 14-32:extended centerline 1 right base
-Runways:SAMM Malargüe (Mendoza) 14-32:extended centerline 1 right ticks
-Runways:SAMM Malargüe (Mendoza) 14-32:extended centerline 1 right vectoring
-Runways:SAMM Malargüe (Mendoza) 14-32:extended centerline 2
-Runways:SAMM Malargüe (Mendoza) 14-32:extended centerline 2 left base
-Runways:SAMM Malargüe (Mendoza) 14-32:extended centerline 2 left ticks
-Runways:SAMM Malargüe (Mendoza) 14-32:extended centerline 2 left vectoring
-Runways:SAMM Malargüe (Mendoza) 14-32:extended centerline 2 right base
-Runways:SAMM Malargüe (Mendoza) 14-32:extended centerline 2 right ticks
-Runways:SAMM Malargüe (Mendoza) 14-32:extended centerline 2 right vectoring
-Runways:SAMM Malargüe (Mendoza) 14-32:name
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:centerline
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:extended centerline 1
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:extended centerline 1 left base
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:extended centerline 1 left ticks
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:extended centerline 1 left vectoring
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:extended centerline 1 right base
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:extended centerline 1 right ticks
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:extended centerline 1 right vectoring
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:extended centerline 2
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:extended centerline 2 left base
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:extended centerline 2 left ticks
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:extended centerline 2 left vectoring
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:extended centerline 2 right base
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:extended centerline 2 right ticks
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:extended centerline 2 right vectoring
+Runways:SAMM Malargï¿½e (Mendoza) 14-32:name
 Runways:SANC Catamarca 01-19:name
 Runways:SANE Santiago del Estero 03-21:name
 Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:name
@@ -2194,7 +2194,7 @@ Runways:SAZB Bahia Blanca Cdte. Espora 06-24:name
 Runways:SAZB Bahia Blanca Cdte. Espora 17L-35R:name
 Runways:SAZB Bahia Blanca Cdte. Espora 17R-35L:name
 Runways:SAZM Mar del Plata Brig. B. de la Colina 13-31:name
-Runways:SAZN Pte. Perón 09-27:name
+Runways:SAZN Pte. Perï¿½n 09-27:name
 Runways:SAZS San Carlos de Bariloche 11-29:name
 Runways:SAZT Tandil 01-19:name
 Runways:SAZY Chapelco 06-24:name
