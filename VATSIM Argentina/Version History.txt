@@ -1,238 +1,259 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-        	VATSIM Argentina - SECTOR FILE PARA EUROSCOPE
+      	VATSIM Argentina - SECTOR FILE PARA EUROSCOPE
 
-               			VERSION ACTUAL 6.3
+          			VERSION ACTUAL 6.3
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
+==============================
+
 V6.3 (26/05/2020)
-Actualizado por
-	-	Arregla voices list
-	-	
+Actualizado por Javier Escandarani
+	-  Arregla voices channels
+	-  Reemplaza SARGO por UGIMI
+	-  Remplaza columna E por C en departure list
+	-  Actualiza frecuencias y posiciones ATIS de acuerdo nuevas posiciones
+	-  Actualiza frecuencias y posiciones GND de acuerdo nuevas posiciones
 
 ==============================
+
 V6.2 (25/02/2020)
 Actualizado por Pablo Lopez
-	-       Sector SABE_APP
+	-  Sector SABE_APP
 
 ==============================
+
 V6.1 (11/02/2020)
 Actualizado por Pablo Lopez
-	-       Airac 2003
+	-  Airac 2003
 
 ==============================
+
 V6.0 (10/01/2020)
 Actualizado por Pablo Lopez
-	-       Airac 2001
+	-  Airac 2001
 
 ==============================
+
 v5.9 (09/12/2019)
 Actualizado por Carlos Montenegro
-	-	Airacs 1912 - Rutas ATS y RNAV AMDT3 ANAC
+	-  Airacs 1912 - Rutas ATS y RNAV AMDT3 ANAC
 
 ==============================
+
 V5.8 (25/11/2019)
 Actualizado por Carlos Montenegro
-	-       Airacs 1912 - FIX/SID/STAR AMDT3 ANAC
+	-  Airacs 1912 - FIX/SID/STAR AMDT3 ANAC
 
 ==============================
+
 V5.7 (21/10/2019)
 Actualizado por Carlos Montenegro
-	-       Airacs 1911 - Y corrección de FIXs
+	-  Airacs 1911 - Y correcciï¿½n de FIXs
 
 ==============================
+
 V5.6 (07/09/2019)
 Actualizado por Carlos Montenegro
-	-	Se actualizó con AMD ANAC 02/2019 - Se Agregó pista ripio SAAG - Correcciones en SAZY, SAWH
+	-  Se actualizï¿½ con AMD ANAC 02/2019 - Se Agregï¿½ pista ripio SAAG - Correcciones en SAZY, SAWH
 
 ==============================
+
 V5.5 (16/08/2019)
 Actualizado por Carlos Montenegro
-	-	Se actualizó a la AIRAC 1909 - Actualizacion y agregados de aeródromos
+	-  Se actualizï¿½ a la AIRAC 1909 - Actualizacion y agregados de aerï¿½dromos
 
 ==============================
+
 v5.4 (28/03/2019)
 Actualizado por Agustin Miglino
-
-        -       Se saltea versi—n 5.3 a 5.4 a los efectos de correlacionar con numeraci—n AIRAC
-        -       Sector Actualizado al AIRAC 1904
-        -       Actualizacion de archivo Vatsim Argentina.sct2
-        -       Actualizacion de archivo Vatsim Argentina.ese
-        -       Actualizacion de archivo login_profiles.txt
-        -       Actualizacion de archivo voice_channels.txt
+	-  Se saltea versiï¿½n 5.3 a 5.4 a los efectos de correlacionar con numeraciï¿½n AIRAC
+	-  Sector Actualizado al AIRAC 1904
+	-  Actualizacion de archivo Vatsim Argentina.sct2
+	-  Actualizacion de archivo Vatsim Argentina.ese
+	-  Actualizacion de archivo login_profiles.txt
+	-  Actualizacion de archivo voice_channels.txt
 
 ==============================
+
 v5.2 (11/03/2019)
 Actualizado por Agustin Miglino
+	-  Sector Actualizado al AIRAC 1903
+	-  Actualizacion de archivo list.txt
+	-  Actualizacion de archivo login_profiles.txt
 
-        -       Sector Actualizado al AIRAC 1903
-        -       Actualizacion de archivo list.txt
-        -       Actualizacion de archivo login_profiles.txt
-
+==============================
 
 v5.1 (14/01/2019)
+Actualizado por Carlos Montenegro
+	- 	Actualizaciï¿½n Airacs para Euroscope V.1912
+
 ==============================
-Revisión por Carlos Montenegro
-
-	- 	Actualización Airacs para Euroscope V.1912
-
 
 v5.7 (20/10/2019)
-==============================
-Revisión por Martin Ongaro
-
+Actualizado por Martin Ongaro
 	- 	FIXES faltantes agregados
 			AKSAS S029.49.03.000 W058.09.39.000
 			DEXAL S039.23.57.000 W067.52.13.000
 			GESNI S034.16.27.000 W063.54.07.000
-			IREXA S034.49.53.000 W063.59.22.000			
+			IREXA S034.49.53.000 W063.59.22.000
 			RIOKA S030.35.46.000 W058.18.37.000
 			VAKAP S039.46.49.000 W064.43.10.000
 			VUNSO S041.51.55.000 W066.12.57.000
 	- 	FIX SOVLI, TMA Malargue error de tipeo corregido
-	- 	FIXES desactualizados removidos: ILKOM, ISUGU, SEBMU 
+	- 	FIXES desactualizados removidos: ILKOM, ISUGU, SEBMU
 	- 	FIXES duplicados removidos: MUBES, ILTIP
 	- 	VATSIM Argentina.sct2 configurado con FIXES mas importantes, ARTCC boundary, high airways, etc.
 	- 	Minor fixes de tipeo
 
-v5.0 (13/01/2019)
 ==============================
+
+v5.0 (13/01/2019)
 Actualizado por Javier Escandarani
-	-	Actualización AIRAC 1901
-	-	Reidentación del .sct2
-	-	Modificación de aerovías acorde a actualización AIP 31/01/2019
-	-	Modificación de waypoints acorde a actualización AIP 31/01/2019
-	-	Modificación de SIDs y STARs acorde a actualización AIP 31/01/2019
-	- 	Actualización de declinaciones magnéticas
-	- 	Incorporación de fijos utilizados en nuevas IAC RNP
-	-	Incorporación de señalización de calles de rodaje
+	-	Actualizaciï¿½n AIRAC 1901
+	-	Reidentaciï¿½n del .sct2
+	-	Modificaciï¿½n de aerovï¿½as acorde a actualizaciï¿½n AIP 31/01/2019
+	-	Modificaciï¿½n de waypoints acorde a actualizaciï¿½n AIP 31/01/2019
+	-	Modificaciï¿½n de SIDs y STARs acorde a actualizaciï¿½n AIP 31/01/2019
+	- 	Actualizaciï¿½n de declinaciones magnï¿½ticas
+	- 	Incorporaciï¿½n de fijos utilizados en nuevas IAC RNP
+	-	Incorporaciï¿½n de seï¿½alizaciï¿½n de calles de rodaje
 	-	Configuraciones varias
 
-v4.1 (29/04/2017)
 ==============================
+
+v4.1 (29/04/2017)
 Actualizado por Javier Escandarani
-	-  Lineas de vectorización de RWY se activan dependiendo de la pista activa seleccionada en la lista
-	-  Corrección de puntos de visibilidad en SAEF_CTR y SACF_CTR
-	-  Eliminación del error en la primera vez que se abre el sector file
+	-  Lineas de vectorizaciï¿½n de RWY se activan dependiendo de la pista activa seleccionada en la lista
+	-  Correcciï¿½n de puntos de visibilidad en SAEF_CTR y SACF_CTR
+	-  Eliminaciï¿½n del error en la primera vez que se abre el sector file
 	-  Auto-display de METAR's de aeropuertos activos
-	-  Actualización AIRAC 1704
-	-  Incorporación de vCSS (Intercom)
-	-  Incorporación de de ALIASES para coordinación
+	-  Actualizaciï¿½n AIRAC 1704
+	-  Incorporaciï¿½n de vCSS (Intercom)
+	-  Incorporaciï¿½n de de ALIASES para coordinaciï¿½n
+
+==============================
 
 v4.0 (05/03/2017)
-==============================
 Actualizado por Javier Escandarani
-	-  Cambio de nombre de archivos acorde al cambio de nombre de la división
-	-  Actualización AIRAC 1702
-	-  Corrección de errores tales como nombres de FIXES, coordenadas y aerovías
-	-  Incorporación de un ASR por FIR
-	-  Corrección de SID y STAR en el .sct2
-	-  Actualización de SID y STAR en el .ese
-	-  Incorporación y modificación de ALIASES
-	-  Creación de nueva etiqueta
-	-  Creación y corrección de aeródromos tanto comerciales como de aviación general entre ellos SAZR, SANC, SAWE, SANE, SANU, SAOC, SAOU, SARC, SARP, SASJ, SAVC, SAMR, SAVV, SAVY, SAAI
-	-  Eliminación de FIXES deprecados
-	-  Incorporación de identificativos visibles de pistas para aeródromos más pequeños
-	-  Corrección de identificativos y rumbos magnéticos de pistas de aeródromos en la sección RUNWAYS
-	-  Incorporación de códigos IATA de aeródromos no controlados en el radar
+	-  Cambio de nombre de archivos acorde al cambio de nombre de la divisiï¿½n
+	-  Actualizaciï¿½n AIRAC 1702
+	-  Correcciï¿½n de errores tales como nombres de FIXES, coordenadas y aerovï¿½as
+	-  Incorporaciï¿½n de un ASR por FIR
+	-  Correcciï¿½n de SID y STAR en el .sct2
+	-  Actualizaciï¿½n de SID y STAR en el .ese
+	-  Incorporaciï¿½n y modificaciï¿½n de ALIASES
+	-  Creaciï¿½n de nueva etiqueta
+	-  Creaciï¿½n y correcciï¿½n de aerï¿½dromos tanto comerciales como de aviaciï¿½n general entre ellos SAZR, SANC, SAWE, SANE, SANU, SAOC, SAOU, SARC, SARP, SASJ, SAVC, SAMR, SAVV, SAVY, SAAI
+	-  Eliminaciï¿½n de FIXES deprecados
+	-  Incorporaciï¿½n de identificativos visibles de pistas para aerï¿½dromos mï¿½s pequeï¿½os
+	-  Correcciï¿½n de identificativos y rumbos magnï¿½ticos de pistas de aerï¿½dromos en la secciï¿½n RUNWAYS
+	-  Incorporaciï¿½n de cï¿½digos IATA de aerï¿½dromos no controlados en el radar
+
+==============================
 
 v3.2 (02/12/2016)
-==============================
 Actualizado por Javier Escandarani
-	-  Incorporación de ALIASES para la comunicación con tránsitos por texto
-	-  Cambios en la interfaz gráfica
+	-  Incorporaciï¿½n de ALIASES para la comunicaciï¿½n con trï¿½nsitos por texto
+	-  Cambios en la interfaz grï¿½fica
+
+==============================
 
 v3.1 (26/10/2016)
-==============================
 Actualizado por Javier Escandarani
-	-  Incorporación de SAEF N CTR y SAEF S CTR
-	-  Actualización de cartas de acuerdo a NOTAM 04/2016
+	-  Incorporaciï¿½n de SAEF N CTR y SAEF S CTR
+	-  Actualizaciï¿½n de cartas de acuerdo a NOTAM 04/2016
+
+==============================
 
 v3.0 (22/09/2016)
-==============================
 Actualizado por Javier Escandarani
- 	-  Modificación de aerovías y fixes con respecto a actualización de AIP's del 13/10/2016
-	-  Corrección de lista de pistas disponibles y activas por declinación magnética
+ 	-  Modificaciï¿½n de aerovï¿½as y fixes con respecto a actualizaciï¿½n de AIP's del 13/10/2016
+	-  Correcciï¿½n de lista de pistas disponibles y activas por declinaciï¿½n magnï¿½tica
 	-  Correcciones menores
-	-  Actualización del AIRAC (1612)
+	-  Actualizaciï¿½n del AIRAC (1612)
 
+==============================
 
 v2.4 (17/04/2016)
-==============================
 Actualizado por Javier Escandarani
-	-  Incorporación de las SID y STAR de todos los aeropuertos argentinos
-	-  Corrección de errores de relación entre identificativo y dependencia
-	-  Actualización del AIRAC (1604)
+	-  Incorporaciï¿½n de las SID y STAR de todos los aeropuertos argentinos
+	-  Correcciï¿½n de errores de relaciï¿½n entre identificativo y dependencia
+	-  Actualizaciï¿½n del AIRAC (1604)
+
+==============================
 
 v2.3 (02/04/2016)
-==============================
 Actualizado por Javier Escandarani
-	-  Actualización de frecuencias correspondientes a la nueva tabla de posiciones ATC en el Voice Communication Setup
-	-  Actualización de frecuencias correspondientes a la nueva tabla de posiciones ATC en el archivo .ese
+	-  Actualizaciï¿½n de frecuencias correspondientes a la nueva tabla de posiciones ATC en el Voice Communication Setup
+	-  Actualizaciï¿½n de frecuencias correspondientes a la nueva tabla de posiciones ATC en el archivo .ese
 	-  SID SURBO7 de SABE agregada
 
-v2.2 (30/03/2016)
 ==============================
+
+v2.2 (30/03/2016)
 Actualizado por Javier Escandarani
-    -  Corrección de coordenadas en SARE y SAWG
-	-  Implementación de nuevas cartas SID y STAR en Resistencia y Gallegos (agregando también los fijos faltantes)
+	-  Correcciï¿½n de coordenadas en SARE y SAWG
+	-  Implementaciï¿½n de nuevas cartas SID y STAR en Resistencia y Gallegos (agregando tambiï¿½n los fijos faltantes)
+
+==============================
 
 v2.1 (28/03/2016)
-==============================
 Actualizado por Javier Escandarani
-    -  Creación 2D del aeródromo Morón  (SADM)
-    -  Corrección de dependencias (Córdoba) según nueva tabla de posiciones ATC
-	-  Incorporación de aeródromos a CTR's para reconocer tránsitos dentro de sus zonas
+	-  Creaciï¿½n 2D del aerï¿½dromo Morï¿½n  (SADM)
+	-  Correcciï¿½n de dependencias (Cï¿½rdoba) segï¿½n nueva tabla de posiciones ATC
+	-  Incorporaciï¿½n de aerï¿½dromos a CTR's para reconocer trï¿½nsitos dentro de sus zonas
+
+==============================
 
 v2.0.2 beta (13/08/2013 2353z)
-==============================
-    -  Corregido los sectores de SABE_TWR a los de SABE_APP
-    -  Corregido los sectores de SAEZ_TWR a los de SAEZ_APP
-    -  Actualizado por: Pablo Maciel
+	-  Corregido los sectores de SABE_TWR a los de SABE_APP
+	-  Corregido los sectores de SAEZ_TWR a los de SAEZ_APP
+	-  Actualizado por: Pablo Maciel
 
+==============================
 
 v2.0.1 beta
-=========
 	- Corregidos algunos errores en la lineas costeras
-	- Guia rápida mejorada
+	- Guia rï¿½pida mejorada
 	- Se incluye una segunda opcion para escenarios de SAEZ
-	llamada "SAEZ opcion 2"; dibujada sólo por líneas
+	llamada "SAEZ opcion 2"; dibujada sï¿½lo por lï¿½neas
 
+==============================
 
 v2.0 beta
-=========
  Escrito por Emiliano Ferraco para el ARTCC Argentino
  (Se utilizaron lineas del archivo original ARTCC Argentino 2010).
 
-		- Implementación del formato .sct2;
-		- Información ordenada y clasificada, para hacer más fácil su búsqueda y selección;
-		- Redibujado de los límites costeros y límites internacionales;
-		- Redibujado de los límites de los cinco FIRs;
-		- Selección independiente de cada FIR en la sección ARTCC;
-		- Corrección de errores en los límites de algunos TMAs y CTRs;
-		- Corrección de errores en datos lat/long de FIXES y VORs;
-		- Eliminación de datos innecesarios o en desuso;
-		- Incorporación de aerovías faltantes;
-		- Eliminación de rutas inexistentes;
-		- Eliminación datos erróneos de rutas existentes;
-		- Incorporación de SID/STARS faltantes;
+		- Implementaciï¿½n del formato .sct2;
+		- Informaciï¿½n ordenada y clasificada, para hacer mï¿½s fï¿½cil su bï¿½squeda y selecciï¿½n;
+		- Redibujado de los lï¿½mites costeros y lï¿½mites internacionales;
+		- Redibujado de los lï¿½mites de los cinco FIRs;
+		- Selecciï¿½n independiente de cada FIR en la secciï¿½n ARTCC;
+		- Correcciï¿½n de errores en los lï¿½mites de algunos TMAs y CTRs;
+		- Correcciï¿½n de errores en datos lat/long de FIXES y VORs;
+		- Eliminaciï¿½n de datos innecesarios o en desuso;
+		- Incorporaciï¿½n de aerovï¿½as faltantes;
+		- Eliminaciï¿½n de rutas inexistentes;
+		- Eliminaciï¿½n datos errï¿½neos de rutas existentes;
+		- Incorporaciï¿½n de SID/STARS faltantes;
 		- ATIS Voice
-		- Incorporación de gráficos 2D para algunos aeropuertos
+		- Incorporaciï¿½n de grï¿½ficos 2D para algunos aeropuertos
 		(SABE, SAEZ, SACO, SANT, SAZS, SAAR);
-		- Mejora en los gráficos de otros aeropuertos
+		- Mejora en los grï¿½ficos de otros aeropuertos
 		(SAME, SARI, SASA, SAWH, SAZM, SADF, SAWE, SAWG, SAWH, SAWC, SAVC, SAVT, SAVV);
-		- Incorporación de dos escenarios para SABE a elección: X-ARG y Argentina-Real;
-		- Archivos definidos para el “Settings file setup”:
-		   - Aliases.txt: incorpora aliases en inglés;
-		   - Voice_channels.txt: listado completo de ATCs y sus frecuencias;
-		   - Demás archivos...
-		- Programación del archivo .ESE que incorpora:
-		   - Textos en el RADAR Display (taxiways y parkings para aeropuertos);
-		   - Definiciones de POSICIONES, frecuencias de contacto y Puntos de Visibilidad;
-		   - Definiciones de SECTORES, con sus límites verticales
+		- Incorporaciï¿½n de dos escenarios para SABE a elecciï¿½n: X-ARG y Argentina-Real;
+		- Archivos definidos para el ï¿½Settings file setupï¿½:
+		  - Aliases.txt: incorpora aliases en inglï¿½s;
+		  - Voice_channels.txt: listado completo de ATCs y sus frecuencias;
+		  - Demï¿½s archivos...
+		- Programaciï¿½n del archivo .ESE que incorpora:
+		  - Textos en el RADAR Display (taxiways y parkings para aeropuertos);
+		  - Definiciones de POSICIONES, frecuencias de contacto y Puntos de Visibilidad;
+		  - Definiciones de SECTORES, con sus lï¿½mites verticales
 			(por ahora COMPLETOS FIRs de CORDOBA, EZEIZA y COMODORO RIVADAVIA)
-		   - Definiciones de PUNTOS DE COORDINACIÓN entre sectores
+		  - Definiciones de PUNTOS DE COORDINACIï¿½N entre sectores
 			(por ahora FIRs de CORDOBA, EZEIZA y COMODORO RIVADAVIA);
 
 		 Compatibilidad de aeropuertos:
@@ -240,14 +261,15 @@ v2.0 beta
 		SABE - Escenario de Argentina Real
 		SAEZ - Escenario de TROPICALSIM
 		SAME - Escenario de Argentina Real
-		SARI - Escenario de Alcalá Simulación
+		SARI - Escenario de Alcalï¿½ Simulaciï¿½n
 		SASA - Escenario de Argentina Real
 		SACO - Escenario de Ivano Marongiu
 
 ------------------------------------------------------------------------
- Información cotejada con Jeppview, Google Earth y el AIP Argentino
+ Informaciï¿½n cotejada con Jeppview, Google Earth y el AIP Argentino
 ------------------------------------------------------------------------
 
+==============================
+
 v1.0
-=====
-		- ARTCC Argentino 2010
+	-	ARTCC Argentino 2010
