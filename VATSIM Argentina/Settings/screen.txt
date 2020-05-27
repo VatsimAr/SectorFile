@@ -2,9 +2,9 @@ m_ShowControllers:1
 m_ShowAircraft:0
 m_ShowTextMessages:0
 m_ShowTitle:1
-m_ShowTitleFileName:1
+m_ShowTitleFileName:0
 m_ShowTitleController:1
-m_ShowTitlePrimaryFreq:1
+m_ShowTitlePrimaryFreq:0
 m_ShowTitleAtisFreq:1
 m_ShowTitleClock:1
 m_ShowTitleLeader:1
@@ -33,7 +33,7 @@ m_ConnectSILtoTOP:0
 m_ScreenNumber:1
 m_ScreenPosition:0
 m_ScreenMaximized:0
-m_ShowTitleSelectedAc:1
+m_ShowTitleSelectedAc:0
 m_PlanesListX:1772
 m_PlanesListY:445
 m_MetarListX:1213
@@ -52,7 +52,3 @@ m_ShowTooltips:1
 m_OnTheGroundAltitude:5000
 m_OnTheGroundSpeed:50
 m_ShowCdtOnCflCheck:0
-m_ShowTsVccsMiniControl:0
-ScenarioEditorX:0
-ScenarioEditorY:0
-m_ShowSTARControllers:1
