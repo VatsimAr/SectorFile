@@ -13,9 +13,9 @@ Actualizado por Javier Escandarani
 	-  Arregla voices channels
 	-  Reemplaza SARGO por UGIMI
 	-  Remplaza columna E por C en departure list
-	-  Actualiza frecuencias y posiciones ATIS de acuerdo nuevas posiciones
-	-  Actualiza frecuencias y posiciones GND de acuerdo nuevas posiciones
-
+	-  Actualiza frecuencias y posiciones ATIS de acuerdo con nuevas posiciones
+	-  Actualiza frecuencias y posiciones GND de acuerdo con nuevas posiciones
+	-  Actualiza frecuencias y posiciones TWR de acuerdo con nuevas posiciones
 ==============================
 
 V6.2 (25/02/2020)
