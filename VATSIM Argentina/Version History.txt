@@ -17,6 +17,7 @@ Actualizado por Javier Escandarani
 	-  Actualiza frecuencias y posiciones GND de acuerdo con nuevas posiciones
 	-  Actualiza frecuencias y posiciones TWR de acuerdo con nuevas posiciones
 	-  Actualiza frecuencias y posiciones APP de acuerdo con nuevas posiciones
+	-  Actualiza frecuencias y posiciones CTR de acuerdo con nuevas posiciones
 
 ==============================
 
