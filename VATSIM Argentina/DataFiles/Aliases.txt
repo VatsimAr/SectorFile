@@ -6,18 +6,18 @@
 ; v4.1
 ;
 ;=================================================
-; ESPAÑOL
+; ESPAï¿½OL
 ;=================================================
 ; TODAS LAS POSICIONES
 ;==============
 
-.invalido Su plan de vuelo está incorrecto, le envié por privado la corrección
-.bd Buen día, adelante
+.invalido Su plan de vuelo estï¿½ incorrecto, le enviï¿½ por privado la correcciï¿½n
+.bd Buen dï¿½a, adelante
 .bt Buenas tardes, adelante
 .bn Buenas noches, adelante
 .modoc Transponder modo charlie
 .modos Transponder modo standby
-.999 Mayday recibido. Vientos $winds($arr) - todas las pistas están disponibles para su uso. Cuando esté en condiciones notifique intenciones y transponder 7700
+.999 Mayday recibido. Vientos $winds($arr) - todas las pistas estï¿½n disponibles para su uso. Cuando estï¿½ en condiciones notifique intenciones y transponder 7700
 .uni Comunique UNICOM 122.800, buen vuelo!
 .atento Atento.
 
@@ -31,7 +31,7 @@
 .ppd Posterior $1, autorizado directo $2
 .nc Notifique vertical $1
 .md Metar $metar($arr)
-.mo Metar $metar($dep) 
+.mo Metar $metar($dep)
 .online /$callsign online!
 .logout /$callsign cerrando ops, gracias a todos!!
 .breakm /Cerrando en $1 minutos
@@ -42,10 +42,10 @@
 ;==============
 
 .auth Autorizado $dep $arr via ruta plan, $ALT, salida $sid RWY$deprwy, ssr$squawk
-.cc Colación correcta, notifique listo para retroceso y encendido
+.cc Colaciï¿½n correcta, notifique listo para retroceso y encendido
 .re Retroceso y encendido aprobado, notifique listo a rodar
 .ruede Ruede a punto de espera RWY$deprwy via $2
-.ruedepuerta Ruede a posición $1 via $2
+.ruedepuerta Ruede a posiciï¿½n $1 via $2
 .frec Frecuencia, buenas noches
 
 ;==============
@@ -54,14 +54,15 @@
 
 .cdi Se encuentra en condiciones de salida inmediata?
 .om Ocupa y mantenga RWY$deprwy
-.odt Detrás del tránsito aterrizando ocupa y mantenga RWY$deprwy detrás
+.odt Detrï¿½s del trï¿½nsito aterrizando ocupa y mantenga RWY$deprwy detrï¿½s
 .ad Vientos $wind, RWY$deprwy, autorizado a despegar
 .adi Vientos $wind, RWY$deprwy, autorizado a despegar de inmediato
 .aa Vientos $wind($arr), RWY$arrrwy, autorizado a aterrizar
 .esc REALICE ESCAPE, REALICE ESCAPE
-.ca Continúe aproximación, vientos $wind
-.dn Despegó $time, notifique cruzando $1
-.al Su arribo $time, libere próximo a su $1
+.ca Continï¿½e aproximaciï¿½n, vientos $wind
+.dn Despegï¿½ $time, notifique cruzando $1
+.al Su arribo $time, libere prï¿½ximo a su $1
+.tp Hola! Esta dependencia es una torre procedimental acorde al GRP 4.6 que brinda servicio de control de aproximacion en un radio de 25nm. Por favor, contacteme. Â¡Muchas gracias!
 
 ;==============
 ; APROXIMACION/SALIDA
@@ -74,17 +75,17 @@
 .dir Autorizado DCT $1
 .d Descienda $alt
 .da Descienda $alt ft, Q$altim($arr)
-.esp Realice espera sobre $1 según publicado
+.esp Realice espera sobre $1 segï¿½n publicado
 .nra Notifique rumbo actual
-.vi Vire izquierda rumbo $1 
+.vi Vire izquierda rumbo $1
 .vd Vire derecha rumbo $1
-.nv Notifique velocidad indicada 
+.nv Notifique velocidad indicada
 .rv Reduzca para $1 kt
 .rvn Resuma velocidad normal
 .ns No tiene restricciones de velocidad
 .vri Vectores radar para ILS app RWY$arrrwy
 .autc Autorizado carta $1 app RWY$arrrwy, Q$altim($arr), notifique iniciando procedimiento
-.autv Autorizado aproximación visual RWY$arrrwy, notifique final
+.autv Autorizado aproximaciï¿½n visual RWY$arrrwy, notifique final
 
 ;==============
 ; CENTRO
@@ -95,7 +96,7 @@
 .ada Descienda a $alt para alcanzar sobre $1
 .ar Posterior $1 autorizado $2 RWY$arrrwy
 .bye Servicio radar terminado, comunique UNICOM 122.800
-.di Despegó $time, identificado radar cruzando $calt
+.di Despegï¿½ $time, identificado radar cruzando $calt
 
 ;==============
 ; COORDINACION
@@ -129,7 +130,7 @@
 .eppd After $1, proceed direct to $2
 .enc Report over $1
 .emd Weather $metar($arr)
-.emo Weather $metar($dep) 
+.emo Weather $metar($dep)
 .eonline /$callsign is online
 .elogout /$callsign is closing, thanks everybody!
 .ebreakm /Closing in $1 mins
@@ -160,6 +161,7 @@
 .eca Continue app, winds $wind
 .edn Airbone $time, report passing $1
 .eal On the ground at $time, vacate next to your $1
+.etp Hi. This is a procedural tower according to GRP 4.6 that controls the approach for this airport on a 25nm radius. Please, contact me. Than you!
 
 ;==============
 ; APP/DEP
@@ -174,9 +176,9 @@
 .eda Descend $alt ft, Q$altim($arr)
 .eesp Hold over $1 as published
 .enra Report present heading
-.evi Turn left heading $1 
+.evi Turn left heading $1
 .evd Turn right heading $1
-.env Report indicated speed 
+.env Report indicated speed
 .erv Reduce speed $1 kt
 .ervn Resume normal speed
 .ens No speed restrictions
