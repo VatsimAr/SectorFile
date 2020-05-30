@@ -12,7 +12,7 @@ V6.3 (01/06/2020)
 Actualizado por Javier Escandarani
 	-  Arregla voices channels
 	-  Reemplaza SARGO por UGIMI
-	-  Remplaza columna E por C en departure list
+	-  Reemplaza columna E por C en departure list
 	-  Actualiza frecuencias y posiciones ATIS de acuerdo con nuevas posiciones
 	-  Actualiza frecuencias y posiciones GND de acuerdo con nuevas posiciones
 	-  Actualiza frecuencias y posiciones TWR de acuerdo con nuevas posiciones
@@ -25,6 +25,8 @@ Actualizado por Javier Escandarani
 	-  Readme.md
 	-  Airac 2006
 	-  Separación de SACF en sectores Centro, Norte y Sur
+	-  Separación de SAVF en sectores Centro, Norte y Sur
+	-  Muestra aerovias que estaban ocultas
 
 ==============================
 
