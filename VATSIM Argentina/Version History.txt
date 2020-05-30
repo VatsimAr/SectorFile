@@ -21,6 +21,8 @@ Actualizado por Javier Escandarani
 	-  Actualiza colores del radar acorde al de la vida real
 	-  Actualiza salidas de SADP acordes a cambio de pista
 	-  Actualiza salidas de SACO acordes a cambio de pista
+	-  Elementos de listas, posiciones y colores
+	-  Readme.md
 
 ==============================
 
