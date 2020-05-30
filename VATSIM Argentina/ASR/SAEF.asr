@@ -30,6 +30,7 @@ ARTCC boundary:TMA San Martin de los Andes:
 ARTCC boundary:TMA Santa Rosa:
 ARTCC boundary:TMA Santa Rosa de Conlara:
 ARTCC boundary:TMA Tandil:
+DisplayRotation:0.00000:
 Fixes:AKPUR:name
 Fixes:AKPUR:symbol
 Fixes:ALGIL:name
@@ -230,8 +231,6 @@ Fixes:ROPON:name
 Fixes:ROPON:symbol
 Fixes:SAKSA:name
 Fixes:SAKSA:symbol
-Fixes:UGIMI:name
-Fixes:UGIMI:symbol
 Fixes:SIGUL:name
 Fixes:SIGUL:symbol
 Fixes:SIKAR:name
@@ -272,6 +271,8 @@ Fixes:UGAGI:name
 Fixes:UGAGI:symbol
 Fixes:UGALA:name
 Fixes:UGALA:symbol
+Fixes:UGIMI:name
+Fixes:UGIMI:symbol
 Fixes:UMSAR:name
 Fixes:UMSAR:symbol
 Fixes:URETI:name
@@ -842,6 +843,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-42.834859:-72.970535:-30.684027:-44.478328
+WINDOWAREA:-42.440160:-76.169493:-30.117220:-47.677286

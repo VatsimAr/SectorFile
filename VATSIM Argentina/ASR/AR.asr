@@ -93,6 +93,7 @@ ARTCC boundary:TMA Tucuman:
 ARTCC boundary:TMA Ushuaia:
 ARTCC boundary:TMA Viedma:
 ARTCC boundary:TMA Villa Reynolds:
+DisplayRotation:0.00000:
 Fixes:AER60:name
 Fixes:AER60:symbol
 Fixes:AKNEL:name
@@ -1565,8 +1566,6 @@ Fixes:SAMTU:name
 Fixes:SAMTU:symbol
 Fixes:SANBU:name
 Fixes:SANBU:symbol
-Fixes:UGIMI:name
-Fixes:UGIMI:symbol
 Fixes:SARLI:name
 Fixes:SARLI:symbol
 Fixes:SARNA:name
@@ -1814,6 +1813,8 @@ Fixes:UGERA:symbol
 Fixes:UGIBO:name
 Fixes:UGIBO:symbol
 Fixes:UGIMI:name
+Fixes:UGIMI:name
+Fixes:UGIMI:symbol
 Fixes:UGIMI:symbol
 Fixes:UGIRA:name
 Fixes:UGIRA:symbol
@@ -3392,6 +3393,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-34.829550:-58.575191:-34.794538:-58.493091
+WINDOWAREA:-41.181769:-74.091680:-29.433016:-46.927068
