@@ -14,6 +14,14 @@ Settings	SettingsfileCONFLICT	\Settings\list.txt
 Settings	SettingsfileVCCS	\Settings\list.txt
 Settings	SettingsfilePILOTING	\Settings\list.txt
 Settings	sector	\VATSIM Argentina.sct2
-RecentFiles	Recent2	\FIR Cordoba.asr
+
 Plugins	Plugin0	\Plugins\RDFPlugin.dll
 Plugins	Plugin0Display0	Standard ES radar screen
+RecentFiles	Recent1	\ASR\AR.asr
+RecentFiles	Recent2	\ASR\SAEF.asr
+RecentFiles	Recent3	\ASR\SAMF.asr
+RecentFiles	Recent4	\ASR\SARR.asr
+RecentFiles	Recent5	\ASR\SACF.asr
+RecentFiles	Recent6	\ASR\SAVF.asr
+RecentFiles	Recent7	\ASR\SABE.asr
+RecentFiles	Recent8	\ASR\SAEZ.asr
