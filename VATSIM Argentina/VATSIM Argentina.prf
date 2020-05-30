@@ -19,7 +19,7 @@ Settings	airports	\DataFiles\ICAO_Airports.txt
 Settings	alias	\DataFiles\Aliases.txt
 Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
 Settings	airportcoords	\DataFiles\icao.txt
-Settings	airways	\DataFiles\ISEC.txt
+Settings	airways	\DataFiles\AIRWAY.txt
 Plugins	Plugin0	\Plugins\RDFPlugin.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 RecentFiles	Recent1	\ASR\AR.asr
