@@ -2,12 +2,12 @@ SYMBOLOGY
 SYMBOLSIZE
 Airports:symbol:6579300:1.0:0:0:7
 Airports:name:10658466:4.0:0:0:1
-Low airways:line:9216:3.5:1:1:7
+Low airways:line:2368548:3.5:0:1:7
 Low airways:name:4079166:0.1:0:0:2
-High airways:line:9216:3.5:1:1:7
+High airways:line:2368548:3.5:0:1:7
 High airways:name:4079166:0.1:0:1:0
 Fixes:symbol:7895160:0.5:0:1:13
-Fixes:name:4802889:3.2:0:0:6
+Fixes:name:3223857:3.2:0:0:6
 Sids:line:6579300:3.0:2:0:7
 Stars:line:6579300:3.0:3:0:7
 ARTCC high boundary:line:6579300:3.0:0:2:7
