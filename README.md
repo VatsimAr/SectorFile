@@ -2,6 +2,4 @@
 
 ## Instrucciones de instalación
 
-### Instalación del SectorFile completo
-
-### Instalación del SectorFile sin perder configuraciones personales
+Descargar el comprimido y descomprimir la carpeta VATSIM Argentina en Documents/Euroscope/. Al iniciar el Euroscope la siguiente vez, elegir el .prf desde Documents/Euroscope/VATSIM Argentina/VATSIM Argentina.prf
