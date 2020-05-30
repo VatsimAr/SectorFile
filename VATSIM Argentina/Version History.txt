@@ -18,6 +18,9 @@ Actualizado por Javier Escandarani
 	-  Actualiza frecuencias y posiciones TWR de acuerdo con nuevas posiciones
 	-  Actualiza frecuencias y posiciones APP de acuerdo con nuevas posiciones
 	-  Actualiza frecuencias y posiciones CTR de acuerdo con nuevas posiciones
+	-  Actualiza colores del radar acorde al de la vida real
+	-  Actualiza salidas de SADP acordes a cambio de pista
+	-  Actualiza salidas de SACO acordes a cambio de pista
 
 ==============================
 
