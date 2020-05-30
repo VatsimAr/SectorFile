@@ -46,7 +46,7 @@ Datablock:ongoing accepted:65535:3.5:0:0:7
 Datablock:ongoing refused:65535:3.5:0:0:7
 Datablock:detailed background:5526612:3.5:0:0:7
 Datablock:active item background:26:3.5:0:0:7
-Datablock:AC list background:8816262:3.5:0:0:7
+Datablock:AC list background:2697513:3.5:0:0:7
 Datablock:AC list selected background:12632256:3.5:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
 Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
