@@ -93,7 +93,6 @@ ARTCC boundary:TMA Tucuman:
 ARTCC boundary:TMA Ushuaia:
 ARTCC boundary:TMA Viedma:
 ARTCC boundary:TMA Villa Reynolds:
-DisplayRotation:0.00000:
 Fixes:AER60:name
 Fixes:AER60:symbol
 Fixes:AKNEL:name
@@ -1813,8 +1812,6 @@ Fixes:UGERA:symbol
 Fixes:UGIBO:name
 Fixes:UGIBO:symbol
 Fixes:UGIMI:name
-Fixes:UGIMI:name
-Fixes:UGIMI:symbol
 Fixes:UGIMI:symbol
 Fixes:UGIRA:name
 Fixes:UGIRA:symbol
@@ -2162,7 +2159,6 @@ Free Text:SADM taxiways\ C:freetext
 Free Text:SADM taxiways\ D:freetext
 Free Text:SADM taxiways\ E:freetext
 Free Text:SADM taxiways\ F:freetext
-Free Text:SAEF MSA\2300:freetext
 Free Text:SAEZ parkings\10:freetext
 Free Text:SAEZ parkings\11:freetext
 Free Text:SAEZ parkings\12:freetext
@@ -2548,6 +2544,8 @@ High airways:UB688:line
 High airways:UB688:name
 High airways:UL211:line
 High airways:UL211:name
+High airways:UL211F:line
+High airways:UL211F:name
 High airways:UL216:line
 High airways:UL216:name
 High airways:UL322:line
@@ -2568,6 +2566,8 @@ High airways:UL550:line
 High airways:UL550:name
 High airways:UL653:line
 High airways:UL653:name
+High airways:UL660:line
+High airways:UL660:name
 High airways:UL670:line
 High airways:UL670:name
 High airways:UL793:line
@@ -2580,6 +2580,8 @@ High airways:UM418:line
 High airways:UM418:name
 High airways:UM424:line
 High airways:UM424:name
+High airways:UM429:line
+High airways:UM429:name
 High airways:UM534:line
 High airways:UM534:name
 High airways:UM543:line
@@ -2680,6 +2682,8 @@ High airways:UT694:line
 High airways:UT694:name
 High airways:UT700:line
 High airways:UT700:name
+High airways:UT704:line
+High airways:UT704:name
 High airways:UT705:line
 High airways:UT705:name
 High airways:UW10:line
@@ -2716,6 +2720,8 @@ High airways:UW33:line
 High airways:UW33:name
 High airways:UW34:line
 High airways:UW34:name
+High airways:UW35:line
+High airways:UW35:name
 High airways:UW38:line
 High airways:UW38:name
 High airways:UW39:line
@@ -2762,12 +2768,36 @@ High airways:UW68:line
 High airways:UW68:name
 High airways:UW7:line
 High airways:UW7:name
+High airways:UW70:line
+High airways:UW70:name
 High airways:UW8:line
 High airways:UW8:name
 High airways:UZ102:line
 High airways:UZ102:name
 High airways:UZ103:line
 High airways:UZ103:name
+High airways:UZ105:line
+High airways:UZ105:name
+High airways:UZ107:line
+High airways:UZ107:name
+High airways:UZ108:line
+High airways:UZ108:name
+High airways:UZ109:line
+High airways:UZ109:name
+High airways:UZ111:line
+High airways:UZ111:name
+High airways:UZ112:line
+High airways:UZ112:name
+High airways:UZ113:line
+High airways:UZ113:name
+High airways:UZ114:line
+High airways:UZ114:name
+High airways:UZ115:line
+High airways:UZ115:name
+High airways:UZ116:line
+High airways:UZ116:name
+High airways:UZ117:line
+High airways:UZ117:name
 Low airways:A305:line
 Low airways:A305:name
 Low airways:A306:line
@@ -2848,6 +2878,8 @@ Low airways:T672:line
 Low airways:T672:name
 Low airways:T693:line
 Low airways:T693:name
+Low airways:T704:line
+Low airways:T704:name
 Low airways:W10:line
 Low airways:W10:name
 Low airways:W100:line
@@ -2920,6 +2952,8 @@ Low airways:W45:line
 Low airways:W45:name
 Low airways:W48:line
 Low airways:W48:name
+Low airways:W49:line
+Low airways:W49:name
 Low airways:W5:line
 Low airways:W5:name
 Low airways:W50:line
@@ -2976,6 +3010,14 @@ Low airways:Z102:line
 Low airways:Z102:name
 Low airways:Z104:line
 Low airways:Z104:name
+Low airways:Z107:line
+Low airways:Z107:name
+Low airways:Z109:line
+Low airways:Z109:name
+Low airways:Z110:line
+Low airways:Z110:name
+Low airways:Z116:line
+Low airways:Z116:name
 NDBs:A:frequency
 NDBs:A:name
 NDBs:A:symbol

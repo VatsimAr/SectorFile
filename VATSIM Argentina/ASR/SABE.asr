@@ -209,8 +209,6 @@ Fixes:DIGIS:name
 Fixes:DIGIS:symbol
 Fixes:DIKIS:name
 Fixes:DIKIS:symbol
-Fixes:DOMSO:name
-Fixes:DOMSO:symbol
 Fixes:DONKA:name
 Fixes:DONKA:symbol
 Fixes:DOPRI:name
@@ -313,8 +311,6 @@ Fixes:GATUD:name
 Fixes:GATUD:symbol
 Fixes:GAVAM:name
 Fixes:GAVAM:symbol
-Fixes:GAVAT:name
-Fixes:GAVAT:symbol
 Fixes:GAVEX:name
 Fixes:GAVEX:symbol
 Fixes:GAXOK:name
@@ -335,8 +331,6 @@ Fixes:GEGAL:name
 Fixes:GEGAL:symbol
 Fixes:GEKAL:name
 Fixes:GEKAL:symbol
-Fixes:GELIK:name
-Fixes:GELIK:symbol
 Fixes:GEMIL:name
 Fixes:GEMIL:symbol
 Fixes:GEMOB:name
@@ -367,8 +361,6 @@ Fixes:GUXOR:name
 Fixes:GUXOR:symbol
 Fixes:HORNO:name
 Fixes:HORNO:symbol
-Fixes:ILKOM:name
-Fixes:ILKOM:symbol
 Fixes:ILMEV:name
 Fixes:ILMEV:symbol
 Fixes:ILPAR:name
@@ -437,8 +429,6 @@ Fixes:ISOPO:name
 Fixes:ISOPO:symbol
 Fixes:ISORO:name
 Fixes:ISORO:symbol
-Fixes:ISRAT:name
-Fixes:ISRAT:symbol
 Fixes:ISTER:name
 Fixes:ISTER:symbol
 Fixes:ISUSA:name
@@ -521,8 +511,6 @@ Fixes:KOTON:name
 Fixes:KOTON:symbol
 Fixes:KOTUK:name
 Fixes:KOTUK:symbol
-Fixes:KOVAK:name
-Fixes:KOVAK:symbol
 Fixes:KOVUK:name
 Fixes:KOVUK:symbol
 Fixes:KOVUN:name
@@ -605,8 +593,6 @@ Fixes:MIGUS:name
 Fixes:MIGUS:symbol
 Fixes:MIKIM:name
 Fixes:MIKIM:symbol
-Fixes:MIMAK:name
-Fixes:MIMAK:symbol
 Fixes:MIMEX:name
 Fixes:MIMEX:symbol
 Fixes:MIPAT:name
@@ -631,8 +617,6 @@ Fixes:MUBES:name
 Fixes:MUBES:symbol
 Fixes:MUDUL:name
 Fixes:MUDUL:symbol
-Fixes:MUGRO:name
-Fixes:MUGRO:symbol
 Fixes:MULTA:name
 Fixes:MULTA:symbol
 Fixes:MUMUK:name
@@ -649,10 +633,6 @@ Fixes:NEBEG:name
 Fixes:NEBEG:symbol
 Fixes:NEGOS:name
 Fixes:NEGOS:symbol
-Fixes:NEKOS:name
-Fixes:NEKOS:symbol
-Fixes:NELEM:name
-Fixes:NELEM:symbol
 Fixes:NEMEN:name
 Fixes:NEMEN:symbol
 Fixes:NEPIS:name
@@ -679,8 +659,6 @@ Fixes:OPROS:name
 Fixes:OPROS:symbol
 Fixes:OPSIS:name
 Fixes:OPSIS:symbol
-Fixes:OPSUL:name
-Fixes:OPSUL:symbol
 Fixes:OPTIR:name
 Fixes:OPTIR:symbol
 Fixes:OPTUL:name
@@ -695,8 +673,6 @@ Fixes:ORAMU:name
 Fixes:ORAMU:symbol
 Fixes:ORBAK:name
 Fixes:ORBAK:symbol
-Fixes:OREPA:name
-Fixes:OREPA:symbol
 Fixes:ORERA:name
 Fixes:ORERA:symbol
 Fixes:ORIGI:name
@@ -723,12 +699,8 @@ Fixes:PABAS:name
 Fixes:PABAS:symbol
 Fixes:PADAS:name
 Fixes:PADAS:symbol
-Fixes:PADEX:name
-Fixes:PADEX:symbol
 Fixes:PADIM:name
 Fixes:PADIM:symbol
-Fixes:PADOM:name
-Fixes:PADOM:symbol
 Fixes:PAGAD:name
 Fixes:PAGAD:symbol
 Fixes:PAGAR:name
@@ -805,8 +777,6 @@ Fixes:REPAM:name
 Fixes:REPAM:symbol
 Fixes:REPEV:name
 Fixes:REPEV:symbol
-Fixes:RODIK:name
-Fixes:RODIK:symbol
 Fixes:RODOV:name
 Fixes:RODOV:symbol
 Fixes:ROGAS:name
@@ -829,12 +799,8 @@ Fixes:SAKSA:name
 Fixes:SAKSA:symbol
 Fixes:SALBO:name
 Fixes:SALBO:symbol
-Fixes:UGIMI:name
-Fixes:UGIMI:symbol
 Fixes:SARNA:name
 Fixes:SARNA:symbol
-Fixes:SASKU:name
-Fixes:SASKU:symbol
 Fixes:SASTA:name
 Fixes:SASTA:symbol
 Fixes:SATRA:name
@@ -873,8 +839,6 @@ Fixes:SISAX:name
 Fixes:SISAX:symbol
 Fixes:SOLER:name
 Fixes:SOLER:symbol
-Fixes:SONA:name
-Fixes:SONA:symbol
 Fixes:SORSI:name
 Fixes:SORSI:symbol
 Fixes:SORTI:name
@@ -907,12 +871,8 @@ Fixes:TIKLA:name
 Fixes:TIKLA:symbol
 Fixes:TINTA:name
 Fixes:TINTA:symbol
-Fixes:TISVI:name
-Fixes:TISVI:symbol
 Fixes:TODES:name
 Fixes:TODES:symbol
-Fixes:TOGLA:name
-Fixes:TOGLA:symbol
 Fixes:TOGOR:name
 Fixes:TOGOR:symbol
 Fixes:TOKAM:name
@@ -935,8 +895,6 @@ Fixes:TOSOR:name
 Fixes:TOSOR:symbol
 Fixes:TREJO:name
 Fixes:TREJO:symbol
-Fixes:UBREL:name
-Fixes:UBREL:symbol
 Fixes:UBRIX:name
 Fixes:UBRIX:symbol
 Fixes:UDENA:name
@@ -959,8 +917,6 @@ Fixes:UGIRA:name
 Fixes:UGIRA:symbol
 Fixes:UGRIS:name
 Fixes:UGRIS:symbol
-Fixes:UKAPO:name
-Fixes:UKAPO:symbol
 Fixes:UKEKA:name
 Fixes:UKEKA:symbol
 Fixes:UKESO:name
@@ -997,8 +953,6 @@ Fixes:VALOS:name
 Fixes:VALOS:symbol
 Fixes:VANAR:name
 Fixes:VANAR:symbol
-Fixes:VAPAB:name
-Fixes:VAPAB:symbol
 Fixes:VAPES:name
 Fixes:VAPES:symbol
 Fixes:VARES:name
@@ -1112,7 +1066,6 @@ Free Text:SABE taxiways\B:freetext
 Free Text:SABE taxiways\C:freetext
 Free Text:SABE taxiways\D:freetext
 Free Text:SABE taxiways\E:freetext
-Free Text:SABE taxiways\PPAL	:freetext
 Free Text:SACO parkings\1:freetext
 Free Text:SACO parkings\10:freetext
 Free Text:SACO parkings\11:freetext
@@ -1533,26 +1486,20 @@ High airways:UA306:line
 High airways:UA306:name
 High airways:UA307:line
 High airways:UA307:name
-High airways:UA310:line
-High airways:UA310:name
-High airways:UA556:line
-High airways:UA556:name
 High airways:UA570:line
 High airways:UA570:name
 High airways:UB555:line
 High airways:UB555:name
-High airways:UB560:line
-High airways:UB560:name
 High airways:UB684:line
 High airways:UB684:name
 High airways:UB687:line
 High airways:UB687:name
 High airways:UB688:line
 High airways:UB688:name
-High airways:UG550:line
-High airways:UG550:name
 High airways:UL211:line
 High airways:UL211:name
+High airways:UL211F:line
+High airways:UL211F:name
 High airways:UL216:line
 High airways:UL216:name
 High airways:UL322:line
@@ -1561,6 +1508,8 @@ High airways:UL324:line
 High airways:UL324:name
 High airways:UL404:line
 High airways:UL404:name
+High airways:UL405:line
+High airways:UL405:name
 High airways:UL416:line
 High airways:UL416:name
 High airways:UL417:line
@@ -1569,10 +1518,10 @@ High airways:UL531:line
 High airways:UL531:name
 High airways:UL550:line
 High airways:UL550:name
-High airways:UL650:line
-High airways:UL650:name
 High airways:UL653:line
 High airways:UL653:name
+High airways:UL660:line
+High airways:UL660:name
 High airways:UL670:line
 High airways:UL670:name
 High airways:UL793:line
@@ -1585,8 +1534,8 @@ High airways:UM418:line
 High airways:UM418:name
 High airways:UM424:line
 High airways:UM424:name
-High airways:UM529:line
-High airways:UM529:name
+High airways:UM429:line
+High airways:UM429:name
 High airways:UM534:line
 High airways:UM534:name
 High airways:UM543:line
@@ -1597,10 +1546,14 @@ High airways:UM658:line
 High airways:UM658:name
 High airways:UM776:line
 High airways:UM776:name
+High airways:UM783:line
+High airways:UM783:name
 High airways:UM784:line
 High airways:UM784:name
 High airways:UM789:line
 High airways:UM789:name
+High airways:UM792:line
+High airways:UM792:name
 High airways:UM799:line
 High airways:UM799:name
 High airways:UN525:line
@@ -1613,8 +1566,12 @@ High airways:UN741:line
 High airways:UN741:name
 High airways:UN775:line
 High airways:UN775:name
+High airways:UN785:line
+High airways:UN785:name
 High airways:UN857:line
 High airways:UN857:name
+High airways:UP526:line
+High airways:UP526:name
 High airways:UT103:line
 High airways:UT103:name
 High airways:UT105:line
@@ -1625,6 +1582,8 @@ High airways:UT108:line
 High airways:UT108:name
 High airways:UT109:line
 High airways:UT109:name
+High airways:UT110:line
+High airways:UT110:name
 High airways:UT652:line
 High airways:UT652:name
 High airways:UT653:line
@@ -1643,8 +1602,6 @@ High airways:UT662:line
 High airways:UT662:name
 High airways:UT667:line
 High airways:UT667:name
-High airways:UT668:line
-High airways:UT668:name
 High airways:UT669:line
 High airways:UT669:name
 High airways:UT670:line
@@ -1657,16 +1614,38 @@ High airways:UT675:line
 High airways:UT675:name
 High airways:UT677:line
 High airways:UT677:name
+High airways:UT680:line
+High airways:UT680:name
+High airways:UT681:line
+High airways:UT681:name
+High airways:UT682:line
+High airways:UT682:name
+High airways:UT684:line
+High airways:UT684:name
+High airways:UT685:line
+High airways:UT685:name
+High airways:UT687:line
+High airways:UT687:name
+High airways:UT688:line
+High airways:UT688:name
+High airways:UT691:line
+High airways:UT691:name
+High airways:UT693:line
+High airways:UT693:name
+High airways:UT694:line
+High airways:UT694:name
+High airways:UT700:line
+High airways:UT700:name
+High airways:UT704:line
+High airways:UT704:name
+High airways:UT705:line
+High airways:UT705:name
 High airways:UW10:line
 High airways:UW10:name
-High airways:UW100:line
-High airways:UW100:name
 High airways:UW14:line
 High airways:UW14:name
 High airways:UW15:line
 High airways:UW15:name
-High airways:UW16:line
-High airways:UW16:name
 High airways:UW18:line
 High airways:UW18:name
 High airways:UW2:line
@@ -1695,8 +1674,8 @@ High airways:UW33:line
 High airways:UW33:name
 High airways:UW34:line
 High airways:UW34:name
-High airways:UW37:line
-High airways:UW37:name
+High airways:UW35:line
+High airways:UW35:name
 High airways:UW38:line
 High airways:UW38:name
 High airways:UW39:line
@@ -1743,8 +1722,36 @@ High airways:UW68:line
 High airways:UW68:name
 High airways:UW7:line
 High airways:UW7:name
+High airways:UW70:line
+High airways:UW70:name
 High airways:UW8:line
 High airways:UW8:name
+High airways:UZ102:line
+High airways:UZ102:name
+High airways:UZ103:line
+High airways:UZ103:name
+High airways:UZ105:line
+High airways:UZ105:name
+High airways:UZ107:line
+High airways:UZ107:name
+High airways:UZ108:line
+High airways:UZ108:name
+High airways:UZ109:line
+High airways:UZ109:name
+High airways:UZ111:line
+High airways:UZ111:name
+High airways:UZ112:line
+High airways:UZ112:name
+High airways:UZ113:line
+High airways:UZ113:name
+High airways:UZ114:line
+High airways:UZ114:name
+High airways:UZ115:line
+High airways:UZ115:name
+High airways:UZ116:line
+High airways:UZ116:name
+High airways:UZ117:line
+High airways:UZ117:name
 Low airways:A305:line
 Low airways:A305:name
 Low airways:A306:line
@@ -1817,8 +1824,16 @@ Low airways:T659:line
 Low airways:T659:name
 Low airways:T661:line
 Low airways:T661:name
+Low airways:T662:line
+Low airways:T662:name
 Low airways:T669:line
 Low airways:T669:name
+Low airways:T672:line
+Low airways:T672:name
+Low airways:T693:line
+Low airways:T693:name
+Low airways:T704:line
+Low airways:T704:name
 Low airways:W10:line
 Low airways:W10:name
 Low airways:W100:line
@@ -1887,8 +1902,12 @@ Low airways:W42:line
 Low airways:W42:name
 Low airways:W44:line
 Low airways:W44:name
+Low airways:W45:line
+Low airways:W45:name
 Low airways:W48:line
 Low airways:W48:name
+Low airways:W49:line
+Low airways:W49:name
 Low airways:W5:line
 Low airways:W5:name
 Low airways:W50:line
@@ -1929,10 +1948,30 @@ Low airways:W69:line
 Low airways:W69:name
 Low airways:W7:line
 Low airways:W7:name
+Low airways:W70:line
+Low airways:W70:name
+Low airways:W71:line
+Low airways:W71:name
+Low airways:W72:line
+Low airways:W72:name
+Low airways:W73:line
+Low airways:W73:name
 Low airways:W8:line
 Low airways:W8:name
 Low airways:W9:line
 Low airways:W9:name
+Low airways:Z102:line
+Low airways:Z102:name
+Low airways:Z104:line
+Low airways:Z104:name
+Low airways:Z107:line
+Low airways:Z107:name
+Low airways:Z109:line
+Low airways:Z109:name
+Low airways:Z110:line
+Low airways:Z110:name
+Low airways:Z116:line
+Low airways:Z116:name
 NDBs:ADO:frequency
 NDBs:ADO:name
 NDBs:ADO:symbol
@@ -2091,10 +2130,7 @@ Regions:SAZB:polygon
 Regions:SAZN:polygon
 Regions:SAZS:polygon
 Runways:SAAC Concordia 03-21:name
-Runways:SAAG Gualeguaych� 19-01:name
 Runways:SAAI Punta Indio 06-24:name
-Runways:SAAJ Jun�n 36-18:name
-Runways:SAAP Parana Gral Urquiza 19-01:name
 Runways:SAAR Airport Rosario 02-20:extended centerline 2
 Runways:SAAR Airport Rosario 02-20:extended centerline 2 left base
 Runways:SAAR Airport Rosario 02-20:extended centerline 2 left ticks
@@ -2114,21 +2150,12 @@ Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1 right ticks
 Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1 right vectoring
 Runways:SABE Jorge Newbery Aeroparque 13-31:name
 Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:name
-Runways:SACO Cordoba Ing. Ambrosio Taravella 18-36:extended centerline 1
-Runways:SACO Cordoba Ing. Ambrosio Taravella 18-36:extended centerline 1 left base
-Runways:SACO Cordoba Ing. Ambrosio Taravella 18-36:extended centerline 1 left ticks
-Runways:SACO Cordoba Ing. Ambrosio Taravella 18-36:extended centerline 1 left vectoring
-Runways:SACO Cordoba Ing. Ambrosio Taravella 18-36:extended centerline 1 right base
-Runways:SACO Cordoba Ing. Ambrosio Taravella 18-36:extended centerline 1 right ticks
-Runways:SACO Cordoba Ing. Ambrosio Taravella 18-36:extended centerline 1 right vectoring
-Runways:SACO Cordoba Ing. Ambrosio Taravella 18-36:name
 Runways:SADF San Fernando 05-23:name
 Runways:SADJ Mariano Moreno 16-34:name
 Runways:SADL La Plata 02-20:name
 Runways:SADL La Plata 32-14:name
 Runways:SADM Moron 02-20:name
 Runways:SADO Campo de Mayo 18-36:name
-Runways:SADP El Palomar 34-16:name
 Runways:SAEZ Ezeiza Ministro Pistarini 11-29:centerline
 Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1
 Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1 left base
@@ -2148,23 +2175,6 @@ Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2 right ticks
 Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2 right vectoring
 Runways:SAEZ Ezeiza Ministro Pistarini 17-35:name
 Runways:SAME El Plumerillo (Mendoza) 36-18:name
-Runways:SAMM Malarg�e (Mendoza) 14-32:centerline
-Runways:SAMM Malarg�e (Mendoza) 14-32:extended centerline 1
-Runways:SAMM Malarg�e (Mendoza) 14-32:extended centerline 1 left base
-Runways:SAMM Malarg�e (Mendoza) 14-32:extended centerline 1 left ticks
-Runways:SAMM Malarg�e (Mendoza) 14-32:extended centerline 1 left vectoring
-Runways:SAMM Malarg�e (Mendoza) 14-32:extended centerline 1 right base
-Runways:SAMM Malarg�e (Mendoza) 14-32:extended centerline 1 right ticks
-Runways:SAMM Malarg�e (Mendoza) 14-32:extended centerline 1 right vectoring
-Runways:SAMM Malarg�e (Mendoza) 14-32:extended centerline 2
-Runways:SAMM Malarg�e (Mendoza) 14-32:extended centerline 2 left base
-Runways:SAMM Malarg�e (Mendoza) 14-32:extended centerline 2 left ticks
-Runways:SAMM Malarg�e (Mendoza) 14-32:extended centerline 2 left vectoring
-Runways:SAMM Malarg�e (Mendoza) 14-32:extended centerline 2 right base
-Runways:SAMM Malarg�e (Mendoza) 14-32:extended centerline 2 right ticks
-Runways:SAMM Malarg�e (Mendoza) 14-32:extended centerline 2 right vectoring
-Runways:SAMM Malarg�e (Mendoza) 14-32:name
-Runways:SANC Catamarca 01-19:name
 Runways:SANE Santiago del Estero 03-21:name
 Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:name
 Runways:SANR Termas de Rio Hondo 01-19:name
@@ -2185,7 +2195,6 @@ Runways:SASA Salta 06-24:name
 Runways:SASJ Jujuy Gob. Horacio Guzman 16-34:name
 Runways:SAVT Trelew / Almirante Zar 07-25:name
 Runways:SAVV Viedma / Gobernador Castello 11-29:name
-Runways:SAVY Puerto Madryn / El Tehuelche 05-23:name
 Runways:SAWC El Calafate 07-25:name
 Runways:SAWE Rio Grande 07-25:name
 Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:name
@@ -2194,7 +2203,6 @@ Runways:SAZB Bahia Blanca Cdte. Espora 06-24:name
 Runways:SAZB Bahia Blanca Cdte. Espora 17L-35R:name
 Runways:SAZB Bahia Blanca Cdte. Espora 17R-35L:name
 Runways:SAZM Mar del Plata Brig. B. de la Colina 13-31:name
-Runways:SAZN Pte. Per�n 09-27:name
 Runways:SAZS San Carlos de Bariloche 11-29:name
 Runways:SAZT Tandil 01-19:name
 Runways:SAZY Chapelco 06-24:name
@@ -2429,6 +2437,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-34.568578:-58.433666:-34.551559:-58.394585
+WINDOWAREA:-34.924862:-59.221170:-34.169066:-57.473675
