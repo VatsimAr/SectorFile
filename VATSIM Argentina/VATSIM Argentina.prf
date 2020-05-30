@@ -14,7 +14,12 @@ Settings	SettingsfileCONFLICT	\Settings\list.txt
 Settings	SettingsfileVCCS	\Settings\list.txt
 Settings	SettingsfilePILOTING	\Settings\list.txt
 Settings	sector	\VATSIM Argentina.sct2
-
+Settings	airlines	\DataFiles\ICAO_Airlines.txt
+Settings	airports	\DataFiles\ICAO_Airports.txt
+Settings	alias	\DataFiles\Aliases.txt
+Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
+Settings	airportcoords	\DataFiles\icao.txt
+Settings	airways	\DataFiles\ISEC.txt
 Plugins	Plugin0	\Plugins\RDFPlugin.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 RecentFiles	Recent1	\ASR\AR.asr
