@@ -20,13 +20,14 @@ Settings	alias	\DataFiles\Aliases.txt
 Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
 Settings	airportcoords	\DataFiles\icao.txt
 Settings	airways	\DataFiles\AIRWAY.txt
-Plugins	Plugin0	\Plugins\RDFPlugin.dll
-Plugins	Plugin0Display0	Standard ES radar screen
-RecentFiles	Recent1	\ASR\AR.asr
-RecentFiles	Recent2	\ASR\SAEF.asr
-RecentFiles	Recent3	\ASR\SAMF.asr
-RecentFiles	Recent4	\ASR\SARR.asr
-RecentFiles	Recent5	\ASR\SACF.asr
-RecentFiles	Recent6	\ASR\SAVF.asr
-RecentFiles	Recent7	\ASR\SABE.asr
-RecentFiles	Recent8	\ASR\SAEZ.asr
+RecentFiles	Recent1	\ASR\SAEF.asr
+RecentFiles	Recent2	\ASR\SABE.asr
+RecentFiles	Recent3	\ASR\SAEZ.asr
+RecentFiles	Recent4	\ASR\AR.asr
+RecentFiles	Recent5	\ASR\SAMF.asr
+RecentFiles	Recent6	\ASR\SARR.asr
+RecentFiles	Recent7	\ASR\SACF.asr
+RecentFiles	Recent8	\ASR\SAVF.asr
+ASRFastKeys	1	\ASR\SAEF.asr
+ASRFastKeys	2	\ASR\SABE.asr
+ASRFastKeys	3	\ASR\SAEZ.asr
