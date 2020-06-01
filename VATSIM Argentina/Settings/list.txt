@@ -44,7 +44,7 @@ m_Resizable:1
 m_OrderingColumn:8
 m_HeaderOnly:0
 m_Column:DSQ:3:1:57:29:0:1::::1954430019
-m_Column:C/S:7:0:9:0:8:1::::0
+m_Column:C/S:7:0:9:8:8:1::::0
 m_Column:CT:4:1:80:32:0:1::::0
 m_Column:ATYP:4:1:16:0:0:1::::1954430019
 m_Column:WTC:4:1:10:0:0:1::::1954430019

@@ -27,6 +27,9 @@ Actualizado por Javier Escandarani
 	-  Separación de SACF en sectores Centro, Norte y Sur
 	-  Separación de SAVF en sectores Centro, Norte y Sur
 	-  Muestra aerovias que estaban ocultas
+	-  Remueve SADS
+	-  Configuraciones varias
+	-  Agrega todos los transponders nacionales para SAEF
 
 ==============================
 
