@@ -27,10 +27,6 @@ PROFILE:SACO_APP:100:5
 ATIS2:Cordoba Control
 ATIS3:argentina.vatsur.org
 ATIS4:
-PROFILE:SACO_APP:150:6
-ATIS2:Cordoba Control
-ATIS3:argentina.vatsur.org
-ATIS4:
 PROFILE:SAZN_APP:100:5
 ATIS2:Neuquen Tower/Torre
 ATIS3:argentina.vatsur.org
