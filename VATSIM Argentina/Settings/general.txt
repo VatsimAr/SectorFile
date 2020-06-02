@@ -8,7 +8,7 @@ m_ShowSimulatedData:0
 m_TransitionAltitude:3000
 m_AllowConcernedACTagDown:1
 m_CenterlineDme:0.0
-m_CenterlineLength:10.0
+m_CenterlineLength:15.0
 m_CenterlineTickDme:1.0
 m_CenterlineTickInterval:1.0
 m_CenterlineTickLength:0.5

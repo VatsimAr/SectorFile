@@ -1075,6 +1075,10 @@ Regions:SAEZ:polygon
 Regions:SAZB:polygon
 Regions:SAZN:polygon
 Regions:SAZS:polygon
+Runways:SAAR Airport Rosario 02-20:centerline
+Runways:SAAR Airport Rosario 02-20:extended centerline 2
+Runways:SAAR Airport Rosario 02-20:extended centerline 2 left ticks
+Runways:SAAR Airport Rosario 02-20:extended centerline 2 right ticks
 Runways:SABE Jorge Newbery Aeroparque 13-31:centerline
 Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1
 Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1 left ticks
@@ -1096,6 +1100,13 @@ Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 1 right ticks
 Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2
 Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2 left ticks
 Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2 right ticks
+Runways:SAZS San Carlos de Bariloche 11-29:centerline
+Runways:SAZS San Carlos de Bariloche 11-29:extended centerline 1
+Runways:SAZS San Carlos de Bariloche 11-29:extended centerline 1 left ticks
+Runways:SAZS San Carlos de Bariloche 11-29:extended centerline 1 right ticks
+Runways:SAZS San Carlos de Bariloche 11-29:extended centerline 2
+Runways:SAZS San Carlos de Bariloche 11-29:extended centerline 2 left ticks
+Runways:SAZS San Carlos de Bariloche 11-29:extended centerline 2 right ticks
 VORs:BAR:frequency
 VORs:BAR:name
 VORs:BAR:symbol
@@ -1180,4 +1191,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-42.016154:-76.013812:-29.643341:-47.406294
+WINDOWAREA:-42.324952:-77.615155:-29.952139:-49.007637
