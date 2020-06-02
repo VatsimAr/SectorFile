@@ -28,7 +28,6 @@ ARTCC boundary:TMA Neuquen:
 ARTCC boundary:TMA Rosario:
 ARTCC boundary:TMA San Martin de los Andes:
 ARTCC boundary:TMA Santa Rosa:
-ARTCC boundary:TMA Santa Rosa de Conlara:
 ARTCC boundary:TMA Tandil:
 Fixes:AKPUR:name
 Fixes:AKPUR:symbol
@@ -1196,4 +1195,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-36.543155:-63.094836:-32.488832:-53.758510
+WINDOWAREA:-42.003658:-75.767757:-29.630845:-47.275551
