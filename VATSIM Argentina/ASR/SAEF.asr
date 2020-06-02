@@ -105,6 +105,8 @@ Fixes:EKOTA:name
 Fixes:EKOTA:symbol
 Fixes:ELABO:name
 Fixes:ELABO:symbol
+Fixes:ENPID:name
+Fixes:ENPID:symbol
 Fixes:ENRIL:name
 Fixes:ENRIL:symbol
 Fixes:EPGOL:name
@@ -119,6 +121,8 @@ Fixes:ESURO:name
 Fixes:ESURO:symbol
 Fixes:EZE19:name
 Fixes:EZE19:symbol
+Fixes:FUCSA:name
+Fixes:FUCSA:symbol
 Fixes:GATOS:name
 Fixes:GATOS:symbol
 Fixes:GAVAM:name
@@ -127,6 +131,8 @@ Fixes:GEDUK:name
 Fixes:GEDUK:symbol
 Fixes:GENAX:name
 Fixes:GENAX:symbol
+Fixes:GESTA:name
+Fixes:GESTA:symbol
 Fixes:GUXOR:name
 Fixes:GUXOR:symbol
 Fixes:ILTOS:name
@@ -235,8 +241,12 @@ Fixes:SIGUL:name
 Fixes:SIGUL:symbol
 Fixes:SIKAR:name
 Fixes:SIKAR:symbol
+Fixes:SIKED:name
+Fixes:SIKED:symbol
 Fixes:SIMOT:name
 Fixes:SIMOT:symbol
+Fixes:SINAL:name
+Fixes:SINAL:symbol
 Fixes:SINUT:name
 Fixes:SINUT:symbol
 Fixes:SIRAN:name
@@ -293,6 +303,8 @@ Fixes:VARES:name
 Fixes:VARES:symbol
 Fixes:VASAL:name
 Fixes:VASAL:symbol
+Fixes:VERAS:name
+Fixes:VERAS:symbol
 Fixes:VOTRA:name
 Fixes:VOTRA:symbol
 Fixes:VULON:name
@@ -1065,52 +1077,25 @@ Regions:SAZN:polygon
 Regions:SAZS:polygon
 Runways:SABE Jorge Newbery Aeroparque 13-31:centerline
 Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1 left base
 Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1 left ticks
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1 left vectoring
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1 right base
 Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1 right ticks
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1 right vectoring
 Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 2
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 2 left base
 Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 2 left ticks
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 2 left vectoring
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 2 right base
 Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 2 right ticks
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 2 right vectoring
-Runways:SABE Jorge Newbery Aeroparque 13-31:name
 Runways:SAEZ Ezeiza Ministro Pistarini 11-29:centerline
 Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1 left base
 Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1 left ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1 left vectoring
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1 right base
 Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1 right ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1 right vectoring
 Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 2
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 2 left base
 Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 2 left ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 2 left vectoring
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 2 right base
 Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 2 right ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 2 right vectoring
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:name
 Runways:SAEZ Ezeiza Ministro Pistarini 17-35:centerline
 Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 1
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 1 left base
 Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 1 left ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 1 left vectoring
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 1 right base
 Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 1 right ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 1 right vectoring
 Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2 left base
 Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2 left ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2 left vectoring
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2 right base
 Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2 right ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2 right vectoring
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:name
 VORs:BAR:frequency
 VORs:BAR:name
 VORs:BAR:symbol
@@ -1195,4 +1180,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-42.003658:-75.767757:-29.630845:-47.275551
+WINDOWAREA:-42.016154:-76.013812:-29.643341:-47.406294

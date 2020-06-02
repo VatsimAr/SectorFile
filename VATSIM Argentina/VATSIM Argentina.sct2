@@ -1,6 +1,6 @@
 ﻿;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ;        VATSIM Argentina - SECTOR FILE PARA EUROSCOPE
-;                      VERSION 6.3
+;                      VERSION 6.4
 ;
 ;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ; Si tiene alguna consulta o sugerencia, escriba a vatsur10@vatsur.org
@@ -42,7 +42,7 @@
 ;
 ;
 [INFO]
-VATSIM Argentina v6.3
+VATSIM Argentina v6.4
 SAEF_CTR
 SAEZ
 S034.49.27.000
@@ -1384,6 +1384,8 @@ BE218 S034.45.45.000 W059.08.36.000
 VERAS S034.35.61.000 W058.10.45.000
 BE109 S035.10.56.000 W058.30.52.000
 ENPID S034.42.29.000 W058.09.23.000
+FUCSA S034.39.29.844 W058.14.15.983
+SIKED S034.36.42.164 W058.19.17.686
 
 ;SAEZ EZEIZA--------------------
 ARSOT S034.46.37.000 W058.54.51.000

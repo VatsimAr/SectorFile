@@ -2,9 +2,21 @@
 
       	VATSIM Argentina - SECTOR FILE PARA EUROSCOPE
 
-          			VERSION ACTUAL 6.3
+          			VERSION ACTUAL 6.4
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+==============================
+
+V6.4 (03/06/2020)
+Actualizado por Javier Escandarani & Mariano Lopez
+	-  Agrega puntos de transferencia entre Baires y Aeroparque/Ezeiza
+	-  Agrega FUCSA
+	-  Cambios en alertas
+	-  Cambios en lineas de vectores
+	-  Ajuste de visibilidades para los profiles
+	-  Elimina plugins
+	-  Ajustes en TAG
 
 ==============================
 

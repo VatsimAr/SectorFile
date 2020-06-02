@@ -11,18 +11,22 @@ PROFILE:SADF_TWR:20:4
 ATIS2:San Fernando Tower/Torre
 ATIS3:argentina.vatsur.org
 ATIS4:
-PROFILE:SAEZ_TWR:150:5
+PROFILE:SAEZ_TWR:50:4
 ATIS2:Ezeiza Tower/Torre
 ATIS3:Procedural Tower - Service for SAEZ/SADM from GND to FL055
 ATIS4:argentina.vatsur.org
-PROFILE:SABE_TWR:60:5
+PROFILE:SABE_TWR:50:4
 ATIS2:Aeroparque Tower/Torre
 ATIS3:Procedural Tower -Service for SABE/SADF/SADO/SADP from GND to FL055
 ATIS4:argentina.vatsur.org
-PROFILE:SACO_APP:100:5
+PROFILE:SACO_TWR:50:4
 ATIS2:Cordoba Tower/Torre
 ATIS3:Procedural Tower
 ATIS4:argentina.vatsur.org
+PROFILE:SACO_APP:100:5
+ATIS2:Cordoba Control
+ATIS3:argentina.vatsur.org
+ATIS4:
 PROFILE:SACO_APP:150:6
 ATIS2:Cordoba Control
 ATIS3:argentina.vatsur.org
