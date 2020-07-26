@@ -49,6 +49,8 @@ Fixes:DONKA:name
 Fixes:DONKA:symbol
 Fixes:DOPRI:name
 Fixes:DOPRI:symbol
+Fixes:EDVIK:name
+Fixes:EDVIK:symbol
 Fixes:EGAKU:name
 Fixes:EGAKU:symbol
 Fixes:EGETU:name
@@ -57,6 +59,8 @@ Fixes:EGIKA:name
 Fixes:EGIKA:symbol
 Fixes:ELABO:name
 Fixes:ELABO:symbol
+Fixes:ENVOK:name
+Fixes:ENVOK:symbol
 Fixes:ESKOP:name
 Fixes:ESKOP:symbol
 Fixes:ESPER:name
@@ -83,6 +87,8 @@ Fixes:ILPAR:name
 Fixes:ILPAR:symbol
 Fixes:ILSAS:name
 Fixes:ILSAS:symbol
+Fixes:IMBER:name
+Fixes:IMBER:symbol
 Fixes:IMBOL:name
 Fixes:IMBOL:symbol
 Fixes:IRATI:name
@@ -195,8 +201,14 @@ Fixes:TESIT:name
 Fixes:TESIT:symbol
 Fixes:TIKLA:name
 Fixes:TIKLA:symbol
+Fixes:TIPLO:name
+Fixes:TIPLO:symbol
+Fixes:TOPOG:name
+Fixes:TOPOG:symbol
 Fixes:TREJO:name
 Fixes:TREJO:symbol
+Fixes:UBRIX:name
+Fixes:UBRIX:symbol
 Fixes:UBSAS:name
 Fixes:UBSAS:symbol
 Fixes:UDEXA:name
@@ -213,6 +225,8 @@ Fixes:VAPES:name
 Fixes:VAPES:symbol
 Fixes:VINOS:name
 Fixes:VINOS:symbol
+Fixes:VULEK:name
+Fixes:VULEK:symbol
 Fixes:VUPRO:name
 Fixes:VUPRO:symbol
 Fixes:VURAK:name
@@ -1177,4 +1191,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-36.752961:-83.774558:-19.568107:-44.040989
+WINDOWAREA:-27.150430:-65.789562:-26.543344:-64.391561

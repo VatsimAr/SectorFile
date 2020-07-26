@@ -6,12 +6,12 @@ Low airways:line:2368548:3.5:0:1:7
 Low airways:name:4079166:0.1:0:0:2
 High airways:line:2368548:3.5:0:1:7
 High airways:name:4079166:0.1:0:1:0
-Fixes:symbol:7895160:0.5:0:1:13
-Fixes:name:3223857:3.2:0:0:6
-Sids:line:6579300:3.0:2:0:7
+Fixes:symbol:14342874:0.5:0:1:13
+Fixes:name:16380324:3.0:0:1:6
+Sids:line:6016631:1.4:2:1:7
 Stars:line:6579300:3.0:3:0:7
 ARTCC high boundary:line:6579300:3.0:0:2:7
-ARTCC boundary:line:3552822:3.0:0:1:7
+ARTCC boundary:line:10974927:3.0:0:1:7
 ARTCC low boundary:line:11513680:3.0:1:0:7
 Geo:line:13818335:1.0:0:1:7
 VORs:symbol:18835:0.5:0:1:6
@@ -21,7 +21,7 @@ NDBs:symbol:12039936:1.0:0:1:7
 NDBs:name:10790052:1.9:0:0:8
 NDBs:frequency:5395026:0.1:0:0:6
 Runways:centerline:8421504:3.5:0:0:7
-Runways:extended centerline:7763514:3.5:0:0:7
+Runways:extended centerline:10601943:3.5:0:0:7
 Runways:name:16777215:3.5:0:10:7
 Datablock:non concerned:5539508:3.5:0:0:7
 Datablock:notified:13816530:3.5:0:0:7
@@ -90,7 +90,7 @@ Chat:text:16777215:3.5:0:0:7
 Chat:background:3289650:3.5:0:0:7
 Chat:name normal:16777215:3.5:0:0:7
 Chat:name unread:16776960:3.5:0:0:7
-Sector:line:64:1.0:0:2:7
+Sector:line:21760:1.0:0:2:7
 Sector:msaw:32768:2.0:0:2:7
 Sector:active sector background:0:3.5:0:0:7
 Sector:inactive sector background:1381653:3.5:2:4:7
@@ -108,10 +108,7 @@ SYMBOLITEM:LINETO 2 2
 SYMBOLITEM:LINETO -2 2
 SYMBOLITEM:LINETO -2 -2
 SYMBOL:3
-SYMBOLITEM:MOVETO -3 2
-SYMBOLITEM:LINETO 0 -3
-SYMBOLITEM:LINETO 3 2
-SYMBOLITEM:LINETO -3 2
+SYMBOLITEM:POLYGON -4 3 0 -4 4 3
 SYMBOL:4
 SYMBOLITEM:MOVETO -4 0
 SYMBOLITEM:LINETO 0 4

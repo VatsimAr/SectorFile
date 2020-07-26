@@ -2153,7 +2153,6 @@ Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:name
 Runways:SADF San Fernando 05-23:name
 Runways:SADJ Mariano Moreno 16-34:name
 Runways:SADL La Plata 02-20:name
-Runways:SADL La Plata 32-14:name
 Runways:SADM Moron 02-20:name
 Runways:SADO Campo de Mayo 18-36:name
 Runways:SAEZ Ezeiza Ministro Pistarini 11-29:centerline
@@ -2434,8 +2433,8 @@ LEADER:10
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
-SIMULATION_MODE:1
+SIMULATION_MODE:4
 DISABLEPANNING:0
 DISABLEZOOMING:0
-TAGFAMILY:Matias (built in)
-WINDOWAREA:-34.569675:-58.441017:-34.548315:-58.391830
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-34.570485:-58.442803:-34.549125:-58.393416

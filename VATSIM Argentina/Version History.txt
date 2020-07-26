@@ -2,9 +2,18 @@
 
       	VATSIM Argentina - SECTOR FILE PARA EUROSCOPE
 
-          			VERSION ACTUAL 6.4
+          			VERSION ACTUAL 6.5
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+==============================
+
+V6.5 (??/??/2020)
+Actualizado por Javier Escandarani
+	-  Agrega MUPER y KABIS
+	-  Adopta colores de radar real
+	-  Agrega puntos en ASR
+	-  ASR para Rosario Control
 
 ==============================
 

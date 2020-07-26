@@ -37,6 +37,8 @@ Fixes:AMVIB:name
 Fixes:AMVIB:symbol
 Fixes:ANRAL:name
 Fixes:ANRAL:symbol
+Fixes:ARMUP:name
+Fixes:ARMUP:symbol
 Fixes:ARSOT:name
 Fixes:ARSOT:symbol
 Fixes:ARTOK:name
@@ -65,6 +67,8 @@ Fixes:BODIR:name
 Fixes:BODIR:symbol
 Fixes:BOGOR:name
 Fixes:BOGOR:symbol
+Fixes:BUTUV:name
+Fixes:BUTUV:symbol
 Fixes:CABAL:name
 Fixes:CABAL:symbol
 Fixes:CHATO:name
@@ -85,6 +89,8 @@ Fixes:DOTRI:name
 Fixes:DOTRI:symbol
 Fixes:EDNOR:name
 Fixes:EDNOR:symbol
+Fixes:EDPIL:name
+Fixes:EDPIL:symbol
 Fixes:EGANI:name
 Fixes:EGANI:symbol
 Fixes:EGIMA:name
@@ -109,6 +115,8 @@ Fixes:ENPID:name
 Fixes:ENPID:symbol
 Fixes:ENRIL:name
 Fixes:ENRIL:symbol
+Fixes:ENTIB:name
+Fixes:ENTIB:symbol
 Fixes:EPGOL:name
 Fixes:EPGOL:symbol
 Fixes:ESKAD:name
@@ -117,6 +125,8 @@ Fixes:ESKON:name
 Fixes:ESKON:symbol
 Fixes:ESLAN:name
 Fixes:ESLAN:symbol
+Fixes:ESNIM:name
+Fixes:ESNIM:symbol
 Fixes:ESURO:name
 Fixes:ESURO:symbol
 Fixes:EZE19:name
@@ -129,12 +139,16 @@ Fixes:GAVAM:name
 Fixes:GAVAM:symbol
 Fixes:GEDUK:name
 Fixes:GEDUK:symbol
+Fixes:GELEL:name
+Fixes:GELEL:symbol
 Fixes:GENAX:name
 Fixes:GENAX:symbol
 Fixes:GESTA:name
 Fixes:GESTA:symbol
 Fixes:GUXOR:name
 Fixes:GUXOR:symbol
+Fixes:ILRAM:name
+Fixes:ILRAM:symbol
 Fixes:ILTOS:name
 Fixes:ILTOS:symbol
 Fixes:IMBAK:name
@@ -143,10 +157,18 @@ Fixes:IRASU:name
 Fixes:IRASU:symbol
 Fixes:IREMO:name
 Fixes:IREMO:symbol
+Fixes:IREXA:name
+Fixes:IREXA:symbol
+Fixes:ISMIL:name
+Fixes:ISMIL:symbol
+Fixes:ISOPO:name
+Fixes:ISOPO:symbol
 Fixes:KALIM:name
 Fixes:KALIM:symbol
 Fixes:KIKIN:name
 Fixes:KIKIN:symbol
+Fixes:KIKIP:name
+Fixes:KIKIP:symbol
 Fixes:KIMID:name
 Fixes:KIMID:symbol
 Fixes:KIMIS:name
@@ -159,6 +181,8 @@ Fixes:KOTOG:name
 Fixes:KOTOG:symbol
 Fixes:KOTUK:name
 Fixes:KOTUK:symbol
+Fixes:KUGRI:name
+Fixes:KUGRI:symbol
 Fixes:KUKEN:name
 Fixes:KUKEN:symbol
 Fixes:LANDA:name
@@ -169,18 +193,32 @@ Fixes:LOGAM:name
 Fixes:LOGAM:symbol
 Fixes:LOLAS:name
 Fixes:LOLAS:symbol
+Fixes:LOMEK:name
+Fixes:LOMEK:symbol
+Fixes:MOCHO:name
+Fixes:MOCHO:symbol
+Fixes:MOXAN:name
+Fixes:MOXAN:symbol
 Fixes:MUDNO:name
 Fixes:MUDNO:symbol
 Fixes:MULTA:name
 Fixes:MULTA:symbol
+Fixes:MUPER:name
+Fixes:MUPER:symbol
 Fixes:MUPIS:name
 Fixes:MUPIS:symbol
+Fixes:NIBGO:name
+Fixes:NIBGO:symbol
 Fixes:NIDBA:name
 Fixes:NIDBA:symbol
+Fixes:NINSI:name
+Fixes:NINSI:symbol
 Fixes:NUXIM:name
 Fixes:NUXIM:symbol
 Fixes:OGLER:name
 Fixes:OGLER:symbol
+Fixes:OGSAN:name
+Fixes:OGSAN:symbol
 Fixes:OPNIN:name
 Fixes:OPNIN:symbol
 Fixes:OPUVI:name
@@ -197,6 +235,8 @@ Fixes:PABEV:name
 Fixes:PABEV:symbol
 Fixes:PADAS:name
 Fixes:PADAS:symbol
+Fixes:PADIT:name
+Fixes:PADIT:symbol
 Fixes:PAGAD:name
 Fixes:PAGAD:symbol
 Fixes:PAGON:name
@@ -237,6 +277,8 @@ Fixes:ROPON:name
 Fixes:ROPON:symbol
 Fixes:SAKSA:name
 Fixes:SAKSA:symbol
+Fixes:SANBU:name
+Fixes:SANBU:symbol
 Fixes:SIGUL:name
 Fixes:SIGUL:symbol
 Fixes:SIKAR:name
@@ -263,8 +305,12 @@ Fixes:TESEX:name
 Fixes:TESEX:symbol
 Fixes:TINTA:name
 Fixes:TINTA:symbol
+Fixes:TIPLO:name
+Fixes:TIPLO:symbol
 Fixes:TODES:name
 Fixes:TODES:symbol
+Fixes:TOLUK:name
+Fixes:TOLUK:symbol
 Fixes:TONAR:name
 Fixes:TONAR:symbol
 Fixes:TOPIL:name
@@ -275,6 +321,8 @@ Fixes:TORUL:name
 Fixes:TORUL:symbol
 Fixes:TOSOR:name
 Fixes:TOSOR:symbol
+Fixes:TRINI:name
+Fixes:TRINI:symbol
 Fixes:UDITA:name
 Fixes:UDITA:symbol
 Fixes:UGAGI:name
@@ -293,6 +341,8 @@ Fixes:URINO:name
 Fixes:URINO:symbol
 Fixes:UTRET:name
 Fixes:UTRET:symbol
+Fixes:VAKAP:name
+Fixes:VAKAP:symbol
 Fixes:VALOS:name
 Fixes:VALOS:symbol
 Fixes:VANAR:name
@@ -307,8 +357,14 @@ Fixes:VERAS:name
 Fixes:VERAS:symbol
 Fixes:VOTRA:name
 Fixes:VOTRA:symbol
+Fixes:VUKSO:name
+Fixes:VUKSO:symbol
 Fixes:VULON:name
 Fixes:VULON:symbol
+Fixes:VUMKI:name
+Fixes:VUMKI:symbol
+Fixes:XOPIS:name
+Fixes:XOPIS:symbol
 Free Text:ADs no controlados\ESP:freetext
 Free Text:ADs no controlados\GEZ:freetext
 Free Text:ADs no controlados\LJN:freetext
@@ -1180,7 +1236,7 @@ VORs:STO:frequency
 VORs:STO:name
 VORs:STO:symbol
 SHOWC:1
-SHOWSB:0
+SHOWSB:1
 BELOW:0
 ABOVE:0
 LEADER:10
@@ -1191,4 +1247,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-42.324952:-77.615155:-29.952139:-49.007637
+WINDOWAREA:-42.286649:-77.468897:-29.813474:-48.629329
