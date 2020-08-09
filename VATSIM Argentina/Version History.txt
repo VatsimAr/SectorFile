@@ -2,19 +2,25 @@
 
       	VATSIM Argentina - SECTOR FILE PARA EUROSCOPE
 
-          			VERSION ACTUAL 6.5
+          			VERSION ACTUAL 7
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
+
 ==============================
 
-V6.5 (??/??/2020)
-Actualizado por Javier Escandarani
-	-  Agrega MUPER y KABIS
-	-  Adopta colores de radar real
-	-  Agrega puntos en ASR
-	-  ASR para Rosario Control
+V7 (27/07/2020)
+Actualizado por Javier Escandarani & Mariano Lopez
+	Creacion del sector desde 0 solo se mantuvo la base de los ARTCC
+	-se separo los sectoresen artcc, artcc high, artcc low
+	-se agrego el  atz de sadf,sadp,sadm,sadj
+	-se rediseño el gnd de aeroparque ajustando las posiciones de estacionamiento
+	-se agrega el sector aeroparque.gnd
+	-se actualizaron punto, aerovias, vor, ndb, aerodromos, pistas, sid y star directamente desde el airac
+	-se reacomodo el sistema de iluminacion de espacios aereos interiores y adyacemtes conectados
+	-se actualiza el sistema de armado de sectores.
 
+==============================
 ==============================
 
 V6.4 (03/06/2020)
