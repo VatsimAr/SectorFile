@@ -9,8 +9,25 @@
 
 ==============================
 
+V7.1 (14/08/2020)
+Actualizado por Esteban Palacios
+	-se corrigio problemas con sid y star de aerodromos(salian todos juntos)
+	-se corrigio deparure list para los gnd
+	-Se agrego el airac 2009
+	-Se rediseño el gnd de palomar ajustando las posiciones de estacionamiento
+	-Se rediseño el gnd de san fernando ajustando las posiciones de estacionamiento
+	-se rediseño de geo a region san fernando y palomar
+	-se agrego los ils de 13 de sabe y 17 de sadp
+	-Se optimizo el asr de sabe, dejandolo simil INDRA real
+	-se agrego asr baires
+	-se agrego asr sadp_gnd , sabe_gnd y sanfer_gnd
+
+==============================
+==============================
+==============================
+
 V7 (27/07/2020)
-Actualizado por Javier Escandarani & Mariano Lopez
+Actualizado por Javier Escandarani , Esteban Palacios & Mariano Lopez
 	Creacion del sector desde 0 solo se mantuvo la base de los ARTCC
 	-se separo los sectoresen artcc, artcc high, artcc low
 	-se agrego el  atz de sadf,sadp,sadm,sadj

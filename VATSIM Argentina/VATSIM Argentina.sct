@@ -1,3 +1,15 @@
+;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+;        VATSIM Argentina - SECTOR FILE PARA EUROSCOPE
+;                      VERSION 7.1
+;
+;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+; Si tiene alguna consulta o sugerencia, escriba a vatsur10@vatsur.org
+; Para conocer el historial de edición del Sector File, revise el archivo VersionHistory.txt
+;
+; Se utilizaron lineas del archivo original ARTCC Argentino 2010, actualizado al AIRAC 2009 por Esteban Palacios
+;------------------------------------------------------------------------
+; Información cotejada con Jeppview, SkyVector,Navigraph, Google Earth y el AIP Argentino
+;------------------------------------------------------------------------
 #define limite 1982288720
 #define Blue 16711680
 #define White 16777215
@@ -35,7 +47,7 @@
 #define apronedificioSur 5393217
 #define bloqueo 10354589
 [INFO]
-Argentina
+VATSIM Argentina v7.1
 ARG
 SAEZ
 S034.49.27.000
