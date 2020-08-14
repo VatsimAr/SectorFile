@@ -1,6 +1,6 @@
-AIRAC cycle    : 2006
+AIRAC cycle    : 2009
 Version        : 1
-Valid (from/to): 21/MAY/2020 - 18/JUN/2020
+Valid (from/to): 13/AUG/2020 - 10/SEP/2020
 
 Forum          : http://forum.navigraph.com
 
@@ -11,5 +11,5 @@ or distributed for any purpose without the written consent of Navigraph.
 The contents of this database is dated and must not be used for real
 world navigation as it is unlawful and unsafe to do so.
 
-Parser-Version : DFD v1.0 20.0515 (c) Richard Stefan
-Files parsed on: 15/05/2020
+Parser-Version : DFD v1.0 20.0806 (c) Richard Stefan
+Files parsed on: 06/08/2020

@@ -1,7 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:VATSIM Argentina.sct2
+SECTORFILE:D:\Users\esteban\Documents\EuroScope\VATSIM Argentina\VATSIM Argentina.sct
+SECTORTITLE:VATSIM Argentina.sct
 Airports:SADL:symbol
 ARTCC boundary:CTA Ezeiza Radar:
 ARTCC boundary:CTR Aeroparque J. Newbery:

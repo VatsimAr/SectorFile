@@ -17,7 +17,17 @@ Settings	airlines	\DataFiles\ICAO_Airlines.txt
 Settings	airports	\DataFiles\ICAO_Airports.txt
 Settings	alias	\DataFiles\Aliases.txt
 Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
-Settings	airportcoords	\DataFiles\icao.txt
+Settings	airportcoords	\DataFiles\ICAO.txt
 Settings	airways	\DataFiles\AIRWAY.txt
-
-
+Settings	sector	\VATSIM Argentina.sct
+RecentFiles	Recent2	\ASR\BAIRES.asr
+RecentFiles	Recent3	\ASR\SAMF.asr
+RecentFiles	Recent4	\ASR\SACF.asr
+RecentFiles	Recent5	\ASR\SADP_GND.asr
+RecentFiles	Recent6	\ASR\SABE_GND.asr
+RecentFiles	Recent7	\ASR\SADF_GND.asr
+RecentFiles	Recent8	\ASR\SAEF.asr
+RecentFiles	Recent9	\ASR\SARR.asr
+RecentFiles	Recent1	\ASR\SABE.asr
+RecentFiles	Recent10	\ASR\SAVF.asr
+RecentFiles	Recent11	\ASR\SAEZ.asr

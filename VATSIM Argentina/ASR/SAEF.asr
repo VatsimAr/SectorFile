@@ -1,34 +1,9 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:VATSIM Argentina.sct2
-ARTCC boundary:CTA Ezeiza Radar:
-ARTCC boundary:CTR Aeroparque J. Newbery:
-ARTCC boundary:CTR Bahia Blanca:
-ARTCC boundary:CTR Bariloche:
-ARTCC boundary:CTR Chapelco:
-ARTCC boundary:CTR Concordia:
-ARTCC boundary:CTR Ezeiza:
-ARTCC boundary:CTR Gessel:
-ARTCC boundary:CTR Gualeguaychu:
-ARTCC boundary:CTR Mariano Moreno:
-ARTCC boundary:CTR Neuquen:
-ARTCC boundary:CTR Parana:
-ARTCC boundary:CTR Santa Rosa:
-ARTCC boundary:CTR Sauce Viejo:
-ARTCC boundary:CTR Tandil:
-ARTCC boundary:FIR EZEIZA:
-ARTCC boundary:TMA Bahia Blanca:
-ARTCC boundary:TMA Baires:
-ARTCC boundary:TMA Bariloche:
-ARTCC boundary:TMA General Pico:
-ARTCC boundary:TMA Gualeguaychu:
-ARTCC boundary:TMA Mar del Plata:
-ARTCC boundary:TMA Neuquen:
-ARTCC boundary:TMA Rosario:
-ARTCC boundary:TMA San Martin de los Andes:
-ARTCC boundary:TMA Santa Rosa:
-ARTCC boundary:TMA Tandil:
+SECTORFILE:D:\Users\esteban\Documents\EuroScope\VATSIM Argentina\VATSIM Argentina.sct
+SECTORTITLE:VATSIM Argentina.sct
+ARTCC boundary:FIREZEIZA:
 Fixes:AKPUR:name
 Fixes:AKPUR:symbol
 Fixes:ALGIL:name
@@ -87,8 +62,6 @@ Fixes:DORVO:name
 Fixes:DORVO:symbol
 Fixes:DOTRI:name
 Fixes:DOTRI:symbol
-Fixes:EDNOR:name
-Fixes:EDNOR:symbol
 Fixes:EDPIL:name
 Fixes:EDPIL:symbol
 Fixes:EGANI:name
@@ -101,8 +74,6 @@ Fixes:EGOKO:name
 Fixes:EGOKO:symbol
 Fixes:EGOVI:name
 Fixes:EGOVI:symbol
-Fixes:EKEBA:name
-Fixes:EKEBA:symbol
 Fixes:EKEMO:name
 Fixes:EKEMO:symbol
 Fixes:EKOPA:name
@@ -131,8 +102,6 @@ Fixes:ESURO:name
 Fixes:ESURO:symbol
 Fixes:EZE19:name
 Fixes:EZE19:symbol
-Fixes:FUCSA:name
-Fixes:FUCSA:symbol
 Fixes:GATOS:name
 Fixes:GATOS:symbol
 Fixes:GAVAM:name
@@ -349,8 +318,6 @@ Fixes:VANAR:name
 Fixes:VANAR:symbol
 Fixes:VAPES:name
 Fixes:VAPES:symbol
-Fixes:VARES:name
-Fixes:VARES:symbol
 Fixes:VASAL:name
 Fixes:VASAL:symbol
 Fixes:VERAS:name
@@ -359,18 +326,10 @@ Fixes:VOTRA:name
 Fixes:VOTRA:symbol
 Fixes:VUKSO:name
 Fixes:VUKSO:symbol
-Fixes:VULON:name
-Fixes:VULON:symbol
 Fixes:VUMKI:name
 Fixes:VUMKI:symbol
 Fixes:XOPIS:name
 Fixes:XOPIS:symbol
-Free Text:ADs no controlados\ESP:freetext
-Free Text:ADs no controlados\GEZ:freetext
-Free Text:ADs no controlados\LJN:freetext
-Free Text:ADs no controlados\MBL:freetext
-Free Text:ADs no controlados\MUS:freetext
-Free Text:ADs no controlados\PTL:freetext
 Free Text:SAAR\1:freetext
 Free Text:SAAR\2:freetext
 Free Text:SAAR\3:freetext
@@ -378,67 +337,6 @@ Free Text:SAAR\4:freetext
 Free Text:SAAR\5:freetext
 Free Text:SAAR\A:freetext
 Free Text:SAAR\B:freetext
-Free Text:SABE parkings\1:freetext
-Free Text:SABE parkings\10:freetext
-Free Text:SABE parkings\11:freetext
-Free Text:SABE parkings\12:freetext
-Free Text:SABE parkings\13:freetext
-Free Text:SABE parkings\14:freetext
-Free Text:SABE parkings\15:freetext
-Free Text:SABE parkings\16:freetext
-Free Text:SABE parkings\17:freetext
-Free Text:SABE parkings\18:freetext
-Free Text:SABE parkings\18A:freetext
-Free Text:SABE parkings\19:freetext
-Free Text:SABE parkings\2:freetext
-Free Text:SABE parkings\20:freetext
-Free Text:SABE parkings\21:freetext
-Free Text:SABE parkings\22:freetext
-Free Text:SABE parkings\23:freetext
-Free Text:SABE parkings\24:freetext
-Free Text:SABE parkings\25:freetext
-Free Text:SABE parkings\26:freetext
-Free Text:SABE parkings\27:freetext
-Free Text:SABE parkings\28:freetext
-Free Text:SABE parkings\29:freetext
-Free Text:SABE parkings\3:freetext
-Free Text:SABE parkings\30:freetext
-Free Text:SABE parkings\31:freetext
-Free Text:SABE parkings\32:freetext
-Free Text:SABE parkings\33:freetext
-Free Text:SABE parkings\34:freetext
-Free Text:SABE parkings\35:freetext
-Free Text:SABE parkings\36:freetext
-Free Text:SABE parkings\37:freetext
-Free Text:SABE parkings\38:freetext
-Free Text:SABE parkings\39:freetext
-Free Text:SABE parkings\4:freetext
-Free Text:SABE parkings\40:freetext
-Free Text:SABE parkings\41:freetext
-Free Text:SABE parkings\42:freetext
-Free Text:SABE parkings\43:freetext
-Free Text:SABE parkings\44:freetext
-Free Text:SABE parkings\45:freetext
-Free Text:SABE parkings\46:freetext
-Free Text:SABE parkings\47:freetext
-Free Text:SABE parkings\48:freetext
-Free Text:SABE parkings\49:freetext
-Free Text:SABE parkings\5:freetext
-Free Text:SABE parkings\50:freetext
-Free Text:SABE parkings\51:freetext
-Free Text:SABE parkings\52:freetext
-Free Text:SABE parkings\53:freetext
-Free Text:SABE parkings\54:freetext
-Free Text:SABE parkings\55:freetext
-Free Text:SABE parkings\56:freetext
-Free Text:SABE parkings\57:freetext
-Free Text:SABE parkings\58:freetext
-Free Text:SABE parkings\59:freetext
-Free Text:SABE parkings\6:freetext
-Free Text:SABE parkings\60:freetext
-Free Text:SABE parkings\7:freetext
-Free Text:SABE parkings\8:freetext
-Free Text:SABE parkings\9:freetext
 Free Text:SABE taxiways\1:freetext
 Free Text:SABE taxiways\1W:freetext
 Free Text:SABE taxiways\2:freetext
@@ -456,6 +354,8 @@ Free Text:SADF\1:freetext
 Free Text:SADF\2:freetext
 Free Text:SADF\3:freetext
 Free Text:SADF\4:freetext
+Free Text:SADF\A:freetext
+Free Text:SADF\A:freetext
 Free Text:SADF\A:freetext
 Free Text:SADF\B:freetext
 Free Text:SADF\C:freetext
@@ -577,9 +477,6 @@ Free Text:SAZS\B:freetext
 Free Text:SAZS\C:freetext
 Geo:Antartida:
 Geo:GEO:
-Geo:Islas Malvinas Argentinas:
-Geo:Linea Costera:
-Geo:Lineas limitrofes CHI-PAR-URU:
 Geo:SAAC:
 Geo:SAAG:
 Geo:SAAJ:
@@ -610,8 +507,6 @@ High airways:UA307:line
 High airways:UA307:name
 High airways:UA570:line
 High airways:UA570:name
-High airways:UB555:line
-High airways:UB555:name
 High airways:UB684:line
 High airways:UB684:name
 High airways:UB687:line
@@ -642,8 +537,6 @@ High airways:UL550:line
 High airways:UL550:name
 High airways:UL653:line
 High airways:UL653:name
-High airways:UL660:line
-High airways:UL660:name
 High airways:UL670:line
 High airways:UL670:name
 High airways:UL793:line
@@ -656,8 +549,6 @@ High airways:UM418:line
 High airways:UM418:name
 High airways:UM424:line
 High airways:UM424:name
-High airways:UM429:line
-High airways:UM429:name
 High airways:UM534:line
 High airways:UM534:name
 High airways:UM543:line
@@ -694,8 +585,6 @@ High airways:UN857:line
 High airways:UN857:name
 High airways:UP526:line
 High airways:UP526:name
-High airways:UT103:line
-High airways:UT103:name
 High airways:UT105:line
 High airways:UT105:name
 High airways:UT106:line
@@ -796,8 +685,6 @@ High airways:UW33:line
 High airways:UW33:name
 High airways:UW34:line
 High airways:UW34:name
-High airways:UW35:line
-High airways:UW35:name
 High airways:UW38:line
 High airways:UW38:name
 High airways:UW39:line
@@ -812,8 +699,6 @@ High airways:UW44:line
 High airways:UW44:name
 High airways:UW45:line
 High airways:UW45:name
-High airways:UW46:line
-High airways:UW46:name
 High airways:UW48:line
 High airways:UW48:name
 High airways:UW5:line
@@ -822,8 +707,6 @@ High airways:UW50:line
 High airways:UW50:name
 High airways:UW52:line
 High airways:UW52:name
-High airways:UW54:line
-High airways:UW54:name
 High airways:UW56:line
 High airways:UW56:name
 High airways:UW57:line
@@ -844,8 +727,6 @@ High airways:UW68:line
 High airways:UW68:name
 High airways:UW7:line
 High airways:UW7:name
-High airways:UW70:line
-High airways:UW70:name
 High airways:UW8:line
 High airways:UW8:name
 High airways:UZ102:line
@@ -868,8 +749,6 @@ High airways:UZ113:line
 High airways:UZ113:name
 High airways:UZ114:line
 High airways:UZ114:name
-High airways:UZ115:line
-High airways:UZ115:name
 High airways:UZ116:line
 High airways:UZ116:name
 High airways:UZ117:line
@@ -1036,8 +915,6 @@ Low airways:W50:line
 Low airways:W50:name
 Low airways:W52:line
 Low airways:W52:name
-Low airways:W54:line
-Low airways:W54:name
 Low airways:W55:line
 Low airways:W55:name
 Low airways:W56:line
@@ -1103,11 +980,11 @@ NDBs:GES:symbol
 NDBs:ILM:frequency
 NDBs:ILM:name
 NDBs:ILM:symbol
-NDBs:MDP:frequency
-NDBs:MDP:name
-NDBs:MDP:symbol
+NDBs:N:frequency
 NDBs:N:frequency
 NDBs:N:name
+NDBs:N:name
+NDBs:N:symbol
 NDBs:N:symbol
 NDBs:NIN:frequency
 NDBs:NIN:name
@@ -1118,9 +995,6 @@ NDBs:PEH:symbol
 NDBs:PTA:frequency
 NDBs:PTA:name
 NDBs:PTA:symbol
-NDBs:STR:frequency
-NDBs:STR:name
-NDBs:STR:symbol
 NDBs:SVO:frequency
 NDBs:SVO:name
 NDBs:SVO:symbol
@@ -1131,38 +1005,13 @@ Regions:SAEZ:polygon
 Regions:SAZB:polygon
 Regions:SAZN:polygon
 Regions:SAZS:polygon
-Runways:SAAR Airport Rosario 02-20:centerline
-Runways:SAAR Airport Rosario 02-20:extended centerline 2
-Runways:SAAR Airport Rosario 02-20:extended centerline 2 left ticks
-Runways:SAAR Airport Rosario 02-20:extended centerline 2 right ticks
-Runways:SABE Jorge Newbery Aeroparque 13-31:centerline
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1 left ticks
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1 right ticks
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 2
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 2 left ticks
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 2 right ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:centerline
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1 left ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1 right ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 2
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 2 left ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 2 right ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:centerline
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 1
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 1 left ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 1 right ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2 left ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 17-35:extended centerline 2 right ticks
-Runways:SAZS San Carlos de Bariloche 11-29:centerline
-Runways:SAZS San Carlos de Bariloche 11-29:extended centerline 1
-Runways:SAZS San Carlos de Bariloche 11-29:extended centerline 1 left ticks
-Runways:SAZS San Carlos de Bariloche 11-29:extended centerline 1 right ticks
-Runways:SAZS San Carlos de Bariloche 11-29:extended centerline 2
-Runways:SAZS San Carlos de Bariloche 11-29:extended centerline 2 left ticks
-Runways:SAZS San Carlos de Bariloche 11-29:extended centerline 2 right ticks
+Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:centerline
+Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 1
+Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 1 left ticks
+Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 1 right ticks
+Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 2
+Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 2 left ticks
+Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 2 right ticks
 VORs:BAR:frequency
 VORs:BAR:name
 VORs:BAR:symbol
@@ -1247,4 +1096,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-42.286649:-77.468897:-29.813474:-48.629329
+WINDOWAREA:-42.286649:-77.673143:-29.813474:-48.425083

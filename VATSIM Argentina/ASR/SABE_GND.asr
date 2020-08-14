@@ -1,0 +1,91 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Users\esteban\Documents\EuroScope\VATSIM Argentina\VATSIM Argentina.sct
+SECTORTITLE:VATSIM Argentina.sct
+Free Text:SABE taxiways\1:freetext
+Free Text:SABE taxiways\1W:freetext
+Free Text:SABE taxiways\2:freetext
+Free Text:SABE taxiways\2W:freetext
+Free Text:SABE taxiways\3:freetext
+Free Text:SABE taxiways\3W:freetext
+Free Text:SABE taxiways\4:freetext
+Free Text:SABE taxiways\5:freetext
+Free Text:SABE taxiways\A:freetext
+Free Text:SABE taxiways\B:freetext
+Free Text:SABE taxiways\C:freetext
+Free Text:SABE taxiways\D:freetext
+Free Text:SABE taxiways\E:freetext
+Free Text:SABE taxiways\PPAL:freetext
+Free Text:SABE\1:freetext
+Free Text:SABE\10:freetext
+Free Text:SABE\11:freetext
+Free Text:SABE\12:freetext
+Free Text:SABE\13:freetext
+Free Text:SABE\14:freetext
+Free Text:SABE\15:freetext
+Free Text:SABE\16:freetext
+Free Text:SABE\17:freetext
+Free Text:SABE\18:freetext
+Free Text:SABE\18A:freetext
+Free Text:SABE\19:freetext
+Free Text:SABE\2:freetext
+Free Text:SABE\20:freetext
+Free Text:SABE\21:freetext
+Free Text:SABE\22:freetext
+Free Text:SABE\23:freetext
+Free Text:SABE\24:freetext
+Free Text:SABE\25:freetext
+Free Text:SABE\26:freetext
+Free Text:SABE\27:freetext
+Free Text:SABE\28:freetext
+Free Text:SABE\29:freetext
+Free Text:SABE\3:freetext
+Free Text:SABE\30:freetext
+Free Text:SABE\31:freetext
+Free Text:SABE\32:freetext
+Free Text:SABE\33:freetext
+Free Text:SABE\39:freetext
+Free Text:SABE\4:freetext
+Free Text:SABE\40:freetext
+Free Text:SABE\41:freetext
+Free Text:SABE\42:freetext
+Free Text:SABE\43:freetext
+Free Text:SABE\44:freetext
+Free Text:SABE\45:freetext
+Free Text:SABE\46:freetext
+Free Text:SABE\47:freetext
+Free Text:SABE\48:freetext
+Free Text:SABE\49:freetext
+Free Text:SABE\5:freetext
+Free Text:SABE\50:freetext
+Free Text:SABE\51:freetext
+Free Text:SABE\52:freetext
+Free Text:SABE\53:freetext
+Free Text:SABE\54:freetext
+Free Text:SABE\55:freetext
+Free Text:SABE\56:freetext
+Free Text:SABE\6:freetext
+Free Text:SABE\66:freetext
+Free Text:SABE\67:freetext
+Free Text:SABE\68:freetext
+Free Text:SABE\69:freetext
+Free Text:SABE\7:freetext
+Free Text:SABE\8:freetext
+Free Text:SABE\9:freetext
+Geo:LineaCostera:
+Geo:SABE:
+Regions:SABE:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-34.569474:-58.448899:-34.542774:-58.386291

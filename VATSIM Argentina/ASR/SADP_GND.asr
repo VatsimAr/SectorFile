@@ -1,0 +1,45 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Users\esteban\Documents\EuroScope\VATSIM Argentina\VATSIM Argentina.sct
+SECTORTITLE:VATSIM Argentina.sct
+Free Text:SADP\1:freetext
+Free Text:SADP\10:freetext
+Free Text:SADP\11:freetext
+Free Text:SADP\12:freetext
+Free Text:SADP\13:freetext
+Free Text:SADP\14:freetext
+Free Text:SADP\2:freetext
+Free Text:SADP\3:freetext
+Free Text:SADP\4:freetext
+Free Text:SADP\5:freetext
+Free Text:SADP\6:freetext
+Free Text:SADP\7:freetext
+Free Text:SADP\8:freetext
+Free Text:SADP\9:freetext
+Free Text:SADP\A:freetext
+Free Text:SADP\A:freetext
+Free Text:SADP\A:freetext
+Free Text:SADP\A-1:freetext
+Free Text:SADP\A-2:freetext
+Free Text:SADP\B:freetext
+Free Text:SADP\B:freetext
+Free Text:SADP\B:freetext
+Free Text:SADP\C:freetext
+Free Text:SADP\D:freetext
+Geo:SADP:
+Regions:noname:polygon
+Regions:SADP:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-34.622283:-58.638847:-34.595583:-58.576239

@@ -1,30 +1,11 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:VATSIM Argentina.sct2
-ARTCC boundary:CTR Comodoro Rivadavia:
-ARTCC boundary:CTR El Calafate:
-ARTCC boundary:CTR Esquel:
-ARTCC boundary:CTR Monte Agradable:
-ARTCC boundary:CTR Puerto Madryn:
-ARTCC boundary:CTR Rio Gallegos:
-ARTCC boundary:CTR Rio Grande:
-ARTCC boundary:CTR Sauce Viejo:
-ARTCC boundary:CTR Trelew:
-ARTCC boundary:CTR Viedma:
-ARTCC boundary:FIR COMODORO RIVADAVIA:
-ARTCC boundary:TMA Comodoro Rivadavia:
-ARTCC boundary:TMA El Calafate:
-ARTCC boundary:TMA Esquel:
-ARTCC boundary:TMA Rio Gallegos:
-ARTCC boundary:TMA Rio Grande:
-ARTCC boundary:TMA Trelew:
-ARTCC boundary:TMA Ushuaia:
-ARTCC boundary:TMA Viedma:
+SECTORFILE:D:\Users\esteban\Documents\EuroScope\VATSIM Argentina\VATSIM Argentina.sct
+SECTORTITLE:VATSIM Argentina.sct
+ARTCC boundary:FIRComodoro:
 Fixes:ANDEX:name
 Fixes:ANDEX:symbol
-Fixes:ANDUS:name
-Fixes:ANDUS:symbol
 Fixes:AROPO:name
 Fixes:AROPO:symbol
 Fixes:ASADO:name
@@ -63,8 +44,6 @@ Fixes:DAKAX:name
 Fixes:DAKAX:symbol
 Fixes:DAKSA:name
 Fixes:DAKSA:symbol
-Fixes:DETIN:name
-Fixes:DETIN:symbol
 Fixes:DEVIS:name
 Fixes:DEVIS:symbol
 Fixes:DIGIS:name
@@ -85,8 +64,6 @@ Fixes:EKATO:name
 Fixes:EKATO:symbol
 Fixes:ELADA:name
 Fixes:ELADA:symbol
-Fixes:ERUPO:name
-Fixes:ERUPO:symbol
 Fixes:ETASO:name
 Fixes:ETASO:symbol
 Fixes:GATUD:name
@@ -99,10 +76,6 @@ Fixes:GUDUX:name
 Fixes:GUDUX:symbol
 Fixes:HORNO:name
 Fixes:HORNO:symbol
-Fixes:IMBAV:name
-Fixes:IMBAV:symbol
-Fixes:IRAVA:name
-Fixes:IRAVA:symbol
 Fixes:IRAVU:name
 Fixes:IRAVU:symbol
 Fixes:IREMO:name
@@ -111,16 +84,12 @@ Fixes:IROLA:name
 Fixes:IROLA:symbol
 Fixes:ISKES:name
 Fixes:ISKES:symbol
-Fixes:ISONI:name
-Fixes:ISONI:symbol
 Fixes:KABES:name
 Fixes:KABES:symbol
 Fixes:KADEB:name
 Fixes:KADEB:symbol
 Fixes:KAGEN:name
 Fixes:KAGEN:symbol
-Fixes:KEVOR:name
-Fixes:KEVOR:symbol
 Fixes:KEXOP:name
 Fixes:KEXOP:symbol
 Fixes:KIBAR:name
@@ -135,10 +104,6 @@ Fixes:KOTON:name
 Fixes:KOTON:symbol
 Fixes:KRILL:name
 Fixes:KRILL:symbol
-Fixes:LITOK:name
-Fixes:LITOK:symbol
-Fixes:LOBOS:name
-Fixes:LOBOS:symbol
 Fixes:LOKEN:name
 Fixes:LOKEN:symbol
 Fixes:LOLAN:name
@@ -151,8 +116,6 @@ Fixes:LOMUS:name
 Fixes:LOMUS:symbol
 Fixes:MANTI:name
 Fixes:MANTI:symbol
-Fixes:MASPI:name
-Fixes:MASPI:symbol
 Fixes:MIDAL:name
 Fixes:MIDAL:symbol
 Fixes:MIKIM:name
@@ -197,8 +160,6 @@ Fixes:SILAN:name
 Fixes:SILAN:symbol
 Fixes:SILUS:name
 Fixes:SILUS:symbol
-Fixes:SIRIT:name
-Fixes:SIRIT:symbol
 Fixes:SULSU:name
 Fixes:SULSU:symbol
 Fixes:SUNKO:name
@@ -209,8 +170,6 @@ Fixes:TORES:name
 Fixes:TORES:symbol
 Fixes:UDENA:name
 Fixes:UDENA:symbol
-Fixes:UGADA:name
-Fixes:UGADA:symbol
 Fixes:UGIRA:name
 Fixes:UGIRA:symbol
 Fixes:UGRIS:name
@@ -275,9 +234,6 @@ Free Text:SAWH\B:freetext
 Geo:Antartida:
 Geo:EGYP:
 Geo:GEO:
-Geo:Islas Malvinas Argentinas:
-Geo:Linea Costera:
-Geo:Lineas limitrofes CHI-PAR-URU:
 Geo:SAVC:
 Geo:SAVE:
 Geo:SAVT:
@@ -295,8 +251,6 @@ High airways:UA307:line
 High airways:UA307:name
 High airways:UA570:line
 High airways:UA570:name
-High airways:UB555:line
-High airways:UB555:name
 High airways:UB684:line
 High airways:UB684:name
 High airways:UB687:line
@@ -327,8 +281,6 @@ High airways:UL550:line
 High airways:UL550:name
 High airways:UL653:line
 High airways:UL653:name
-High airways:UL660:line
-High airways:UL660:name
 High airways:UL670:line
 High airways:UL670:name
 High airways:UL793:line
@@ -341,8 +293,6 @@ High airways:UM418:line
 High airways:UM418:name
 High airways:UM424:line
 High airways:UM424:name
-High airways:UM429:line
-High airways:UM429:name
 High airways:UM534:line
 High airways:UM534:name
 High airways:UM543:line
@@ -379,8 +329,6 @@ High airways:UN857:line
 High airways:UN857:name
 High airways:UP526:line
 High airways:UP526:name
-High airways:UT103:line
-High airways:UT103:name
 High airways:UT105:line
 High airways:UT105:name
 High airways:UT106:line
@@ -481,8 +429,6 @@ High airways:UW33:line
 High airways:UW33:name
 High airways:UW34:line
 High airways:UW34:name
-High airways:UW35:line
-High airways:UW35:name
 High airways:UW38:line
 High airways:UW38:name
 High airways:UW39:line
@@ -497,8 +443,6 @@ High airways:UW44:line
 High airways:UW44:name
 High airways:UW45:line
 High airways:UW45:name
-High airways:UW46:line
-High airways:UW46:name
 High airways:UW48:line
 High airways:UW48:name
 High airways:UW5:line
@@ -507,8 +451,6 @@ High airways:UW50:line
 High airways:UW50:name
 High airways:UW52:line
 High airways:UW52:name
-High airways:UW54:line
-High airways:UW54:name
 High airways:UW56:line
 High airways:UW56:name
 High airways:UW57:line
@@ -529,8 +471,6 @@ High airways:UW68:line
 High airways:UW68:name
 High airways:UW7:line
 High airways:UW7:name
-High airways:UW70:line
-High airways:UW70:name
 High airways:UW8:line
 High airways:UW8:name
 High airways:UZ102:line
@@ -553,8 +493,6 @@ High airways:UZ113:line
 High airways:UZ113:name
 High airways:UZ114:line
 High airways:UZ114:name
-High airways:UZ115:line
-High airways:UZ115:name
 High airways:UZ116:line
 High airways:UZ116:name
 High airways:UZ117:line
@@ -721,8 +659,6 @@ Low airways:W50:line
 Low airways:W50:name
 Low airways:W52:line
 Low airways:W52:name
-Low airways:W54:line
-Low airways:W54:name
 Low airways:W55:line
 Low airways:W55:name
 Low airways:W56:line
@@ -785,12 +721,6 @@ NDBs:ADO:symbol
 NDBs:BIO:frequency
 NDBs:BIO:name
 NDBs:BIO:symbol
-NDBs:ECA:frequency
-NDBs:ECA:name
-NDBs:ECA:symbol
-NDBs:GRA:frequency
-NDBs:GRA:name
-NDBs:GRA:symbol
 NDBs:GRE:frequency
 NDBs:GRE:name
 NDBs:GRE:symbol
@@ -807,358 +737,118 @@ NDBs:SCZ:frequency
 NDBs:SCZ:name
 NDBs:SCZ:symbol
 Regions:SAWC:polygon
-Runways:EGYP Malvinas 05-23:centerline
-Runways:EGYP Malvinas 05-23:extended centerline 1
-Runways:EGYP Malvinas 05-23:extended centerline 1 left base
-Runways:EGYP Malvinas 05-23:extended centerline 1 left ticks
-Runways:EGYP Malvinas 05-23:extended centerline 1 left vectoring
-Runways:EGYP Malvinas 05-23:extended centerline 1 right base
-Runways:EGYP Malvinas 05-23:extended centerline 1 right ticks
-Runways:EGYP Malvinas 05-23:extended centerline 1 right vectoring
-Runways:EGYP Malvinas 05-23:extended centerline 2
-Runways:EGYP Malvinas 05-23:extended centerline 2 left base
-Runways:EGYP Malvinas 05-23:extended centerline 2 left ticks
-Runways:EGYP Malvinas 05-23:extended centerline 2 left vectoring
-Runways:EGYP Malvinas 05-23:extended centerline 2 right base
-Runways:EGYP Malvinas 05-23:extended centerline 2 right ticks
-Runways:EGYP Malvinas 05-23:extended centerline 2 right vectoring
-Runways:EGYP Malvinas 05-23:name
-Runways:EGYP Malvinas 10-28:centerline
-Runways:EGYP Malvinas 10-28:extended centerline 1
-Runways:EGYP Malvinas 10-28:extended centerline 1 left base
-Runways:EGYP Malvinas 10-28:extended centerline 1 left ticks
-Runways:EGYP Malvinas 10-28:extended centerline 1 left vectoring
-Runways:EGYP Malvinas 10-28:extended centerline 1 right base
-Runways:EGYP Malvinas 10-28:extended centerline 1 right ticks
-Runways:EGYP Malvinas 10-28:extended centerline 1 right vectoring
-Runways:EGYP Malvinas 10-28:extended centerline 2
-Runways:EGYP Malvinas 10-28:extended centerline 2 left base
-Runways:EGYP Malvinas 10-28:extended centerline 2 left ticks
-Runways:EGYP Malvinas 10-28:extended centerline 2 left vectoring
-Runways:EGYP Malvinas 10-28:extended centerline 2 right base
-Runways:EGYP Malvinas 10-28:extended centerline 2 right ticks
-Runways:EGYP Malvinas 10-28:extended centerline 2 right vectoring
-Runways:EGYP Malvinas 10-28:name
-Runways:SAVB El Bolson 18-36:centerline
-Runways:SAVB El Bolson 18-36:extended centerline 1
-Runways:SAVB El Bolson 18-36:extended centerline 1 left base
-Runways:SAVB El Bolson 18-36:extended centerline 1 left ticks
-Runways:SAVB El Bolson 18-36:extended centerline 1 left vectoring
-Runways:SAVB El Bolson 18-36:extended centerline 1 right base
-Runways:SAVB El Bolson 18-36:extended centerline 1 right ticks
-Runways:SAVB El Bolson 18-36:extended centerline 1 right vectoring
-Runways:SAVB El Bolson 18-36:extended centerline 2
-Runways:SAVB El Bolson 18-36:extended centerline 2 left base
-Runways:SAVB El Bolson 18-36:extended centerline 2 left ticks
-Runways:SAVB El Bolson 18-36:extended centerline 2 left vectoring
-Runways:SAVB El Bolson 18-36:extended centerline 2 right base
-Runways:SAVB El Bolson 18-36:extended centerline 2 right ticks
-Runways:SAVB El Bolson 18-36:extended centerline 2 right vectoring
-Runways:SAVB El Bolson 18-36:name
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:centerline
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:extended centerline 1
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:extended centerline 1 left base
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:extended centerline 1 left ticks
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:extended centerline 1 left vectoring
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:extended centerline 1 right base
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:extended centerline 1 right ticks
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:extended centerline 1 right vectoring
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:extended centerline 2
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:extended centerline 2 left base
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:extended centerline 2 left ticks
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:extended centerline 2 left vectoring
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:extended centerline 2 right base
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:extended centerline 2 right ticks
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:extended centerline 2 right vectoring
-Runways:SAVC Comodoro Rivadavia/Gral. E. Mosconi 07-25:name
-Runways:SAVD El Maiten 06-24:centerline
-Runways:SAVD El Maiten 06-24:extended centerline 1
-Runways:SAVD El Maiten 06-24:extended centerline 1 left base
-Runways:SAVD El Maiten 06-24:extended centerline 1 left ticks
-Runways:SAVD El Maiten 06-24:extended centerline 1 left vectoring
-Runways:SAVD El Maiten 06-24:extended centerline 1 right base
-Runways:SAVD El Maiten 06-24:extended centerline 1 right ticks
-Runways:SAVD El Maiten 06-24:extended centerline 1 right vectoring
-Runways:SAVD El Maiten 06-24:extended centerline 2
-Runways:SAVD El Maiten 06-24:extended centerline 2 left base
-Runways:SAVD El Maiten 06-24:extended centerline 2 left ticks
-Runways:SAVD El Maiten 06-24:extended centerline 2 left vectoring
-Runways:SAVD El Maiten 06-24:extended centerline 2 right base
-Runways:SAVD El Maiten 06-24:extended centerline 2 right ticks
-Runways:SAVD El Maiten 06-24:extended centerline 2 right vectoring
-Runways:SAVD El Maiten 06-24:name
-Runways:SAVE Esquel 04-22:centerline
-Runways:SAVE Esquel 04-22:extended centerline 1
-Runways:SAVE Esquel 04-22:extended centerline 1 left base
-Runways:SAVE Esquel 04-22:extended centerline 1 left ticks
-Runways:SAVE Esquel 04-22:extended centerline 1 left vectoring
-Runways:SAVE Esquel 04-22:extended centerline 1 right base
-Runways:SAVE Esquel 04-22:extended centerline 1 right ticks
-Runways:SAVE Esquel 04-22:extended centerline 1 right vectoring
-Runways:SAVE Esquel 04-22:extended centerline 2
-Runways:SAVE Esquel 04-22:extended centerline 2 left base
-Runways:SAVE Esquel 04-22:extended centerline 2 left ticks
-Runways:SAVE Esquel 04-22:extended centerline 2 left vectoring
-Runways:SAVE Esquel 04-22:extended centerline 2 right base
-Runways:SAVE Esquel 04-22:extended centerline 2 right ticks
-Runways:SAVE Esquel 04-22:extended centerline 2 right vectoring
-Runways:SAVE Esquel 04-22:name
-Runways:SAVH Las Heras (Santa Cruz) 09-27:centerline
-Runways:SAVH Las Heras (Santa Cruz) 09-27:extended centerline 1
-Runways:SAVH Las Heras (Santa Cruz) 09-27:extended centerline 1 left base
-Runways:SAVH Las Heras (Santa Cruz) 09-27:extended centerline 1 left ticks
-Runways:SAVH Las Heras (Santa Cruz) 09-27:extended centerline 1 left vectoring
-Runways:SAVH Las Heras (Santa Cruz) 09-27:extended centerline 1 right base
-Runways:SAVH Las Heras (Santa Cruz) 09-27:extended centerline 1 right ticks
-Runways:SAVH Las Heras (Santa Cruz) 09-27:extended centerline 1 right vectoring
-Runways:SAVH Las Heras (Santa Cruz) 09-27:extended centerline 2
-Runways:SAVH Las Heras (Santa Cruz) 09-27:extended centerline 2 left base
-Runways:SAVH Las Heras (Santa Cruz) 09-27:extended centerline 2 left ticks
-Runways:SAVH Las Heras (Santa Cruz) 09-27:extended centerline 2 left vectoring
-Runways:SAVH Las Heras (Santa Cruz) 09-27:extended centerline 2 right base
-Runways:SAVH Las Heras (Santa Cruz) 09-27:extended centerline 2 right ticks
-Runways:SAVH Las Heras (Santa Cruz) 09-27:extended centerline 2 right vectoring
-Runways:SAVH Las Heras (Santa Cruz) 09-27:name
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:centerline
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:extended centerline 1
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:extended centerline 1 left base
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:extended centerline 1 left ticks
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:extended centerline 1 left vectoring
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:extended centerline 1 right base
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:extended centerline 1 right ticks
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:extended centerline 1 right vectoring
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:extended centerline 2
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:extended centerline 2 left base
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:extended centerline 2 left ticks
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:extended centerline 2 left vectoring
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:extended centerline 2 right base
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:extended centerline 2 right ticks
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:extended centerline 2 right vectoring
-Runways:SAVN San Antonio Oeste/Antoine De Saint Exupery 12-30:name
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:centerline
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:extended centerline 1
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:extended centerline 1 left base
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:extended centerline 1 left ticks
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:extended centerline 1 left vectoring
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:extended centerline 1 right base
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:extended centerline 1 right ticks
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:extended centerline 1 right vectoring
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:extended centerline 2
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:extended centerline 2 left base
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:extended centerline 2 left ticks
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:extended centerline 2 left vectoring
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:extended centerline 2 right base
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:extended centerline 2 right ticks
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:extended centerline 2 right vectoring
-Runways:SAVR Alto Rio Senguer / D. C. Szlapelis 08-26:name
-Runways:SAVS Sierra Grande 02-20:centerline
-Runways:SAVS Sierra Grande 02-20:extended centerline 1
-Runways:SAVS Sierra Grande 02-20:extended centerline 1 left base
-Runways:SAVS Sierra Grande 02-20:extended centerline 1 left ticks
-Runways:SAVS Sierra Grande 02-20:extended centerline 1 left vectoring
-Runways:SAVS Sierra Grande 02-20:extended centerline 1 right base
-Runways:SAVS Sierra Grande 02-20:extended centerline 1 right ticks
-Runways:SAVS Sierra Grande 02-20:extended centerline 1 right vectoring
-Runways:SAVS Sierra Grande 02-20:extended centerline 2
-Runways:SAVS Sierra Grande 02-20:extended centerline 2 left base
-Runways:SAVS Sierra Grande 02-20:extended centerline 2 left ticks
-Runways:SAVS Sierra Grande 02-20:extended centerline 2 left vectoring
-Runways:SAVS Sierra Grande 02-20:extended centerline 2 right base
-Runways:SAVS Sierra Grande 02-20:extended centerline 2 right ticks
-Runways:SAVS Sierra Grande 02-20:extended centerline 2 right vectoring
-Runways:SAVS Sierra Grande 02-20:name
-Runways:SAVT Trelew / Almirante Zar 07-25:centerline
-Runways:SAVT Trelew / Almirante Zar 07-25:extended centerline 1
-Runways:SAVT Trelew / Almirante Zar 07-25:extended centerline 1 left base
-Runways:SAVT Trelew / Almirante Zar 07-25:extended centerline 1 left ticks
-Runways:SAVT Trelew / Almirante Zar 07-25:extended centerline 1 left vectoring
-Runways:SAVT Trelew / Almirante Zar 07-25:extended centerline 1 right base
-Runways:SAVT Trelew / Almirante Zar 07-25:extended centerline 1 right ticks
-Runways:SAVT Trelew / Almirante Zar 07-25:extended centerline 1 right vectoring
-Runways:SAVT Trelew / Almirante Zar 07-25:extended centerline 2
-Runways:SAVT Trelew / Almirante Zar 07-25:extended centerline 2 left base
-Runways:SAVT Trelew / Almirante Zar 07-25:extended centerline 2 left ticks
-Runways:SAVT Trelew / Almirante Zar 07-25:extended centerline 2 left vectoring
-Runways:SAVT Trelew / Almirante Zar 07-25:extended centerline 2 right base
-Runways:SAVT Trelew / Almirante Zar 07-25:extended centerline 2 right ticks
-Runways:SAVT Trelew / Almirante Zar 07-25:extended centerline 2 right vectoring
-Runways:SAVT Trelew / Almirante Zar 07-25:name
-Runways:SAWC El Calafate 07-25:centerline
-Runways:SAWC El Calafate 07-25:extended centerline 1
-Runways:SAWC El Calafate 07-25:extended centerline 1 left base
-Runways:SAWC El Calafate 07-25:extended centerline 1 left ticks
-Runways:SAWC El Calafate 07-25:extended centerline 1 left vectoring
-Runways:SAWC El Calafate 07-25:extended centerline 1 right base
-Runways:SAWC El Calafate 07-25:extended centerline 1 right ticks
-Runways:SAWC El Calafate 07-25:extended centerline 1 right vectoring
-Runways:SAWC El Calafate 07-25:extended centerline 2
-Runways:SAWC El Calafate 07-25:extended centerline 2 left base
-Runways:SAWC El Calafate 07-25:extended centerline 2 left ticks
-Runways:SAWC El Calafate 07-25:extended centerline 2 left vectoring
-Runways:SAWC El Calafate 07-25:extended centerline 2 right base
-Runways:SAWC El Calafate 07-25:extended centerline 2 right ticks
-Runways:SAWC El Calafate 07-25:extended centerline 2 right vectoring
-Runways:SAWC El Calafate 07-25:name
-Runways:SAWD Puerto Deseado 06-24:centerline
-Runways:SAWD Puerto Deseado 06-24:extended centerline 1
-Runways:SAWD Puerto Deseado 06-24:extended centerline 1 left base
-Runways:SAWD Puerto Deseado 06-24:extended centerline 1 left ticks
-Runways:SAWD Puerto Deseado 06-24:extended centerline 1 left vectoring
-Runways:SAWD Puerto Deseado 06-24:extended centerline 1 right base
-Runways:SAWD Puerto Deseado 06-24:extended centerline 1 right ticks
-Runways:SAWD Puerto Deseado 06-24:extended centerline 1 right vectoring
-Runways:SAWD Puerto Deseado 06-24:extended centerline 2
-Runways:SAWD Puerto Deseado 06-24:extended centerline 2 left base
-Runways:SAWD Puerto Deseado 06-24:extended centerline 2 left ticks
-Runways:SAWD Puerto Deseado 06-24:extended centerline 2 left vectoring
-Runways:SAWD Puerto Deseado 06-24:extended centerline 2 right base
-Runways:SAWD Puerto Deseado 06-24:extended centerline 2 right ticks
-Runways:SAWD Puerto Deseado 06-24:extended centerline 2 right vectoring
-Runways:SAWD Puerto Deseado 06-24:name
-Runways:SAWE Rio Grande 07-25:centerline
-Runways:SAWE Rio Grande 07-25:extended centerline 1
-Runways:SAWE Rio Grande 07-25:extended centerline 1 left base
-Runways:SAWE Rio Grande 07-25:extended centerline 1 left ticks
-Runways:SAWE Rio Grande 07-25:extended centerline 1 left vectoring
-Runways:SAWE Rio Grande 07-25:extended centerline 1 right base
-Runways:SAWE Rio Grande 07-25:extended centerline 1 right ticks
-Runways:SAWE Rio Grande 07-25:extended centerline 1 right vectoring
-Runways:SAWE Rio Grande 07-25:extended centerline 2
-Runways:SAWE Rio Grande 07-25:extended centerline 2 left base
-Runways:SAWE Rio Grande 07-25:extended centerline 2 left ticks
-Runways:SAWE Rio Grande 07-25:extended centerline 2 left vectoring
-Runways:SAWE Rio Grande 07-25:extended centerline 2 right base
-Runways:SAWE Rio Grande 07-25:extended centerline 2 right ticks
-Runways:SAWE Rio Grande 07-25:extended centerline 2 right vectoring
-Runways:SAWE Rio Grande 07-25:name
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:centerline
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:extended centerline 1
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:extended centerline 1 left base
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:extended centerline 1 left ticks
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:extended centerline 1 left vectoring
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:extended centerline 1 right base
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:extended centerline 1 right ticks
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:extended centerline 1 right vectoring
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:extended centerline 2
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:extended centerline 2 left base
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:extended centerline 2 left ticks
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:extended centerline 2 left vectoring
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:extended centerline 2 right base
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:extended centerline 2 right ticks
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:extended centerline 2 right vectoring
-Runways:SAWG Rio Gallegos/Norberto Fernandez 07-25:name
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:centerline
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:extended centerline 1
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:extended centerline 1 left base
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:extended centerline 1 left ticks
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:extended centerline 1 left vectoring
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:extended centerline 1 right base
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:extended centerline 1 right ticks
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:extended centerline 1 right vectoring
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:extended centerline 2
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:extended centerline 2 left base
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:extended centerline 2 left ticks
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:extended centerline 2 left vectoring
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:extended centerline 2 right base
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:extended centerline 2 right ticks
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:extended centerline 2 right vectoring
-Runways:SAWH Ushuaia / Malvinas Argentinas 25-07:name
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:centerline
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:extended centerline 1
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:extended centerline 1 left base
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:extended centerline 1 left ticks
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:extended centerline 1 left vectoring
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:extended centerline 1 right base
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:extended centerline 1 right ticks
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:extended centerline 1 right vectoring
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:extended centerline 2
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:extended centerline 2 left base
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:extended centerline 2 left ticks
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:extended centerline 2 left vectoring
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:extended centerline 2 right base
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:extended centerline 2 right ticks
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:extended centerline 2 right vectoring
-Runways:SAWJ San Julian / Cap. Daniel Vazquez 07-25:name
-Runways:SAWM Rio Mayo 09-27:centerline
-Runways:SAWM Rio Mayo 09-27:extended centerline 1
-Runways:SAWM Rio Mayo 09-27:extended centerline 1 left base
-Runways:SAWM Rio Mayo 09-27:extended centerline 1 left ticks
-Runways:SAWM Rio Mayo 09-27:extended centerline 1 left vectoring
-Runways:SAWM Rio Mayo 09-27:extended centerline 1 right base
-Runways:SAWM Rio Mayo 09-27:extended centerline 1 right ticks
-Runways:SAWM Rio Mayo 09-27:extended centerline 1 right vectoring
-Runways:SAWM Rio Mayo 09-27:extended centerline 2
-Runways:SAWM Rio Mayo 09-27:extended centerline 2 left base
-Runways:SAWM Rio Mayo 09-27:extended centerline 2 left ticks
-Runways:SAWM Rio Mayo 09-27:extended centerline 2 left vectoring
-Runways:SAWM Rio Mayo 09-27:extended centerline 2 right base
-Runways:SAWM Rio Mayo 09-27:extended centerline 2 right ticks
-Runways:SAWM Rio Mayo 09-27:extended centerline 2 right vectoring
-Runways:SAWM Rio Mayo 09-27:name
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:centerline
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:extended centerline 1
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:extended centerline 1 left base
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:extended centerline 1 left ticks
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:extended centerline 1 left vectoring
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:extended centerline 1 right base
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:extended centerline 1 right ticks
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:extended centerline 1 right vectoring
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:extended centerline 2
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:extended centerline 2 left base
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:extended centerline 2 left ticks
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:extended centerline 2 left vectoring
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:extended centerline 2 right base
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:extended centerline 2 right ticks
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:extended centerline 2 right vectoring
-Runways:SAWO Ushuaia / Est. Aeronaval 16-34:name
-Runways:SAWP Perito Moreno 27-09:centerline
-Runways:SAWP Perito Moreno 27-09:extended centerline 1
-Runways:SAWP Perito Moreno 27-09:extended centerline 1 left base
-Runways:SAWP Perito Moreno 27-09:extended centerline 1 left ticks
-Runways:SAWP Perito Moreno 27-09:extended centerline 1 left vectoring
-Runways:SAWP Perito Moreno 27-09:extended centerline 1 right base
-Runways:SAWP Perito Moreno 27-09:extended centerline 1 right ticks
-Runways:SAWP Perito Moreno 27-09:extended centerline 1 right vectoring
-Runways:SAWP Perito Moreno 27-09:extended centerline 2
-Runways:SAWP Perito Moreno 27-09:extended centerline 2 left base
-Runways:SAWP Perito Moreno 27-09:extended centerline 2 left ticks
-Runways:SAWP Perito Moreno 27-09:extended centerline 2 left vectoring
-Runways:SAWP Perito Moreno 27-09:extended centerline 2 right base
-Runways:SAWP Perito Moreno 27-09:extended centerline 2 right ticks
-Runways:SAWP Perito Moreno 27-09:extended centerline 2 right vectoring
-Runways:SAWP Perito Moreno 27-09:name
-Runways:SAWR Gobernador Gregores 09-27:centerline
-Runways:SAWR Gobernador Gregores 09-27:extended centerline 1
-Runways:SAWR Gobernador Gregores 09-27:extended centerline 1 left base
-Runways:SAWR Gobernador Gregores 09-27:extended centerline 1 left ticks
-Runways:SAWR Gobernador Gregores 09-27:extended centerline 1 left vectoring
-Runways:SAWR Gobernador Gregores 09-27:extended centerline 1 right base
-Runways:SAWR Gobernador Gregores 09-27:extended centerline 1 right ticks
-Runways:SAWR Gobernador Gregores 09-27:extended centerline 1 right vectoring
-Runways:SAWR Gobernador Gregores 09-27:extended centerline 2
-Runways:SAWR Gobernador Gregores 09-27:extended centerline 2 left base
-Runways:SAWR Gobernador Gregores 09-27:extended centerline 2 left ticks
-Runways:SAWR Gobernador Gregores 09-27:extended centerline 2 left vectoring
-Runways:SAWR Gobernador Gregores 09-27:extended centerline 2 right base
-Runways:SAWR Gobernador Gregores 09-27:extended centerline 2 right ticks
-Runways:SAWR Gobernador Gregores 09-27:extended centerline 2 right vectoring
-Runways:SAWR Gobernador Gregores 09-27:name
-Runways:SAWS Jose de San Martin 09-27:centerline
-Runways:SAWS Jose de San Martin 09-27:extended centerline 1
-Runways:SAWS Jose de San Martin 09-27:extended centerline 1 left base
-Runways:SAWS Jose de San Martin 09-27:extended centerline 1 left ticks
-Runways:SAWS Jose de San Martin 09-27:extended centerline 1 left vectoring
-Runways:SAWS Jose de San Martin 09-27:extended centerline 1 right base
-Runways:SAWS Jose de San Martin 09-27:extended centerline 1 right ticks
-Runways:SAWS Jose de San Martin 09-27:extended centerline 1 right vectoring
-Runways:SAWS Jose de San Martin 09-27:extended centerline 2
-Runways:SAWS Jose de San Martin 09-27:extended centerline 2 left base
-Runways:SAWS Jose de San Martin 09-27:extended centerline 2 left ticks
-Runways:SAWS Jose de San Martin 09-27:extended centerline 2 left vectoring
-Runways:SAWS Jose de San Martin 09-27:extended centerline 2 right base
-Runways:SAWS Jose de San Martin 09-27:extended centerline 2 right ticks
-Runways:SAWS Jose de San Martin 09-27:extended centerline 2 right vectoring
-Runways:SAWS Jose de San Martin 09-27:name
+Runways:SAVD EL MAITEN 06-24:centerline
+Runways:SAVD EL MAITEN 06-24:extended centerline 1
+Runways:SAVD EL MAITEN 06-24:extended centerline 1 left base
+Runways:SAVD EL MAITEN 06-24:extended centerline 1 left ticks
+Runways:SAVD EL MAITEN 06-24:extended centerline 1 left vectoring
+Runways:SAVD EL MAITEN 06-24:extended centerline 1 right base
+Runways:SAVD EL MAITEN 06-24:extended centerline 1 right ticks
+Runways:SAVD EL MAITEN 06-24:extended centerline 1 right vectoring
+Runways:SAVD EL MAITEN 06-24:extended centerline 2
+Runways:SAVD EL MAITEN 06-24:extended centerline 2 left base
+Runways:SAVD EL MAITEN 06-24:extended centerline 2 left ticks
+Runways:SAVD EL MAITEN 06-24:extended centerline 2 left vectoring
+Runways:SAVD EL MAITEN 06-24:extended centerline 2 right base
+Runways:SAVD EL MAITEN 06-24:extended centerline 2 right ticks
+Runways:SAVD EL MAITEN 06-24:extended centerline 2 right vectoring
+Runways:SAVD EL MAITEN 06-24:name
+Runways:SAVS SIERRA GRANDE 02-20:centerline
+Runways:SAVS SIERRA GRANDE 02-20:extended centerline 1
+Runways:SAVS SIERRA GRANDE 02-20:extended centerline 1 left base
+Runways:SAVS SIERRA GRANDE 02-20:extended centerline 1 left ticks
+Runways:SAVS SIERRA GRANDE 02-20:extended centerline 1 left vectoring
+Runways:SAVS SIERRA GRANDE 02-20:extended centerline 1 right base
+Runways:SAVS SIERRA GRANDE 02-20:extended centerline 1 right ticks
+Runways:SAVS SIERRA GRANDE 02-20:extended centerline 1 right vectoring
+Runways:SAVS SIERRA GRANDE 02-20:extended centerline 2
+Runways:SAVS SIERRA GRANDE 02-20:extended centerline 2 left base
+Runways:SAVS SIERRA GRANDE 02-20:extended centerline 2 left ticks
+Runways:SAVS SIERRA GRANDE 02-20:extended centerline 2 left vectoring
+Runways:SAVS SIERRA GRANDE 02-20:extended centerline 2 right base
+Runways:SAVS SIERRA GRANDE 02-20:extended centerline 2 right ticks
+Runways:SAVS SIERRA GRANDE 02-20:extended centerline 2 right vectoring
+Runways:SAVS SIERRA GRANDE 02-20:name
+Runways:SAWC EL CALAFATE 07-25:centerline
+Runways:SAWC EL CALAFATE 07-25:extended centerline 1
+Runways:SAWC EL CALAFATE 07-25:extended centerline 1 left base
+Runways:SAWC EL CALAFATE 07-25:extended centerline 1 left ticks
+Runways:SAWC EL CALAFATE 07-25:extended centerline 1 left vectoring
+Runways:SAWC EL CALAFATE 07-25:extended centerline 1 right base
+Runways:SAWC EL CALAFATE 07-25:extended centerline 1 right ticks
+Runways:SAWC EL CALAFATE 07-25:extended centerline 1 right vectoring
+Runways:SAWC EL CALAFATE 07-25:extended centerline 2
+Runways:SAWC EL CALAFATE 07-25:extended centerline 2 left base
+Runways:SAWC EL CALAFATE 07-25:extended centerline 2 left ticks
+Runways:SAWC EL CALAFATE 07-25:extended centerline 2 left vectoring
+Runways:SAWC EL CALAFATE 07-25:extended centerline 2 right base
+Runways:SAWC EL CALAFATE 07-25:extended centerline 2 right ticks
+Runways:SAWC EL CALAFATE 07-25:extended centerline 2 right vectoring
+Runways:SAWC EL CALAFATE 07-25:name
+Runways:SAWD PUERTO DESEADO 06-24:centerline
+Runways:SAWD PUERTO DESEADO 06-24:extended centerline 1
+Runways:SAWD PUERTO DESEADO 06-24:extended centerline 1 left base
+Runways:SAWD PUERTO DESEADO 06-24:extended centerline 1 left ticks
+Runways:SAWD PUERTO DESEADO 06-24:extended centerline 1 left vectoring
+Runways:SAWD PUERTO DESEADO 06-24:extended centerline 1 right base
+Runways:SAWD PUERTO DESEADO 06-24:extended centerline 1 right ticks
+Runways:SAWD PUERTO DESEADO 06-24:extended centerline 1 right vectoring
+Runways:SAWD PUERTO DESEADO 06-24:extended centerline 2
+Runways:SAWD PUERTO DESEADO 06-24:extended centerline 2 left base
+Runways:SAWD PUERTO DESEADO 06-24:extended centerline 2 left ticks
+Runways:SAWD PUERTO DESEADO 06-24:extended centerline 2 left vectoring
+Runways:SAWD PUERTO DESEADO 06-24:extended centerline 2 right base
+Runways:SAWD PUERTO DESEADO 06-24:extended centerline 2 right ticks
+Runways:SAWD PUERTO DESEADO 06-24:extended centerline 2 right vectoring
+Runways:SAWD PUERTO DESEADO 06-24:name
+Runways:SAWM RIO MAYO 09-27:centerline
+Runways:SAWM RIO MAYO 09-27:extended centerline 1
+Runways:SAWM RIO MAYO 09-27:extended centerline 1 left base
+Runways:SAWM RIO MAYO 09-27:extended centerline 1 left ticks
+Runways:SAWM RIO MAYO 09-27:extended centerline 1 left vectoring
+Runways:SAWM RIO MAYO 09-27:extended centerline 1 right base
+Runways:SAWM RIO MAYO 09-27:extended centerline 1 right ticks
+Runways:SAWM RIO MAYO 09-27:extended centerline 1 right vectoring
+Runways:SAWM RIO MAYO 09-27:extended centerline 2
+Runways:SAWM RIO MAYO 09-27:extended centerline 2 left base
+Runways:SAWM RIO MAYO 09-27:extended centerline 2 left ticks
+Runways:SAWM RIO MAYO 09-27:extended centerline 2 left vectoring
+Runways:SAWM RIO MAYO 09-27:extended centerline 2 right base
+Runways:SAWM RIO MAYO 09-27:extended centerline 2 right ticks
+Runways:SAWM RIO MAYO 09-27:extended centerline 2 right vectoring
+Runways:SAWM RIO MAYO 09-27:name
+Runways:SAWR GOBERNADOR GREGORES 09-27:centerline
+Runways:SAWR GOBERNADOR GREGORES 09-27:extended centerline 1
+Runways:SAWR GOBERNADOR GREGORES 09-27:extended centerline 1 left base
+Runways:SAWR GOBERNADOR GREGORES 09-27:extended centerline 1 left ticks
+Runways:SAWR GOBERNADOR GREGORES 09-27:extended centerline 1 left vectoring
+Runways:SAWR GOBERNADOR GREGORES 09-27:extended centerline 1 right base
+Runways:SAWR GOBERNADOR GREGORES 09-27:extended centerline 1 right ticks
+Runways:SAWR GOBERNADOR GREGORES 09-27:extended centerline 1 right vectoring
+Runways:SAWR GOBERNADOR GREGORES 09-27:extended centerline 2
+Runways:SAWR GOBERNADOR GREGORES 09-27:extended centerline 2 left base
+Runways:SAWR GOBERNADOR GREGORES 09-27:extended centerline 2 left ticks
+Runways:SAWR GOBERNADOR GREGORES 09-27:extended centerline 2 left vectoring
+Runways:SAWR GOBERNADOR GREGORES 09-27:extended centerline 2 right base
+Runways:SAWR GOBERNADOR GREGORES 09-27:extended centerline 2 right ticks
+Runways:SAWR GOBERNADOR GREGORES 09-27:extended centerline 2 right vectoring
+Runways:SAWR GOBERNADOR GREGORES 09-27:name
+Runways:SAWS JOSE DE SAN MARTIN 09-27:centerline
+Runways:SAWS JOSE DE SAN MARTIN 09-27:extended centerline 1
+Runways:SAWS JOSE DE SAN MARTIN 09-27:extended centerline 1 left base
+Runways:SAWS JOSE DE SAN MARTIN 09-27:extended centerline 1 left ticks
+Runways:SAWS JOSE DE SAN MARTIN 09-27:extended centerline 1 left vectoring
+Runways:SAWS JOSE DE SAN MARTIN 09-27:extended centerline 1 right base
+Runways:SAWS JOSE DE SAN MARTIN 09-27:extended centerline 1 right ticks
+Runways:SAWS JOSE DE SAN MARTIN 09-27:extended centerline 1 right vectoring
+Runways:SAWS JOSE DE SAN MARTIN 09-27:extended centerline 2
+Runways:SAWS JOSE DE SAN MARTIN 09-27:extended centerline 2 left base
+Runways:SAWS JOSE DE SAN MARTIN 09-27:extended centerline 2 left ticks
+Runways:SAWS JOSE DE SAN MARTIN 09-27:extended centerline 2 left vectoring
+Runways:SAWS JOSE DE SAN MARTIN 09-27:extended centerline 2 right base
+Runways:SAWS JOSE DE SAN MARTIN 09-27:extended centerline 2 right ticks
+Runways:SAWS JOSE DE SAN MARTIN 09-27:extended centerline 2 right vectoring
+Runways:SAWS JOSE DE SAN MARTIN 09-27:name
 VORs:BAL:frequency
 VORs:BAL:name
 VORs:BAL:symbol
@@ -1183,9 +873,6 @@ VORs:MBI:symbol
 VORs:MTP:frequency
 VORs:MTP:name
 VORs:MTP:symbol
-VORs:NAS:frequency
-VORs:NAS:name
-VORs:NAS:symbol
 VORs:PWL:frequency
 VORs:PWL:name
 VORs:PWL:symbol
@@ -1213,4 +900,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-58.975293:-90.356465:-37.494225:-40.689504
+WINDOWAREA:-58.975293:-90.708215:-37.494225:-40.337754

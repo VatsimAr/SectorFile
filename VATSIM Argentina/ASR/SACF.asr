@@ -1,20 +1,9 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:VATSIM Argentina.sct2
-ARTCC boundary:CTR Catamarca:
-ARTCC boundary:CTR Cordoba:
-ARTCC boundary:CTR Jujuy:
-ARTCC boundary:CTR Rio Cuarto:
-ARTCC boundary:CTR Salta:
-ARTCC boundary:CTR Tucuman:
-ARTCC boundary:FIR CORDOBA:
-ARTCC boundary:TMA Catamarca:
-ARTCC boundary:TMA Cordoba:
-ARTCC boundary:TMA Rio Cuarto:
-ARTCC boundary:TMA Salta:
-ARTCC boundary:TMA Santiago del Estero:
-ARTCC boundary:TMA Tucuman:
+SECTORFILE:D:\Users\esteban\Documents\EuroScope\VATSIM Argentina\VATSIM Argentina.sct
+SECTORTITLE:VATSIM Argentina.sct
+ARTCC boundary:FIRCORDOBA:
 Fixes:AKRAS:name
 Fixes:AKRAS:symbol
 Fixes:ALDEX:name
@@ -125,14 +114,10 @@ Fixes:LAJAS:name
 Fixes:LAJAS:symbol
 Fixes:LITOR:name
 Fixes:LITOR:symbol
-Fixes:LIXOM:name
-Fixes:LIXOM:symbol
 Fixes:LOBUK:name
 Fixes:LOBUK:symbol
 Fixes:LOGET:name
 Fixes:LOGET:symbol
-Fixes:MARIA:name
-Fixes:MARIA:symbol
 Fixes:MAVBI:name
 Fixes:MAVBI:symbol
 Fixes:MIMEX:name
@@ -235,8 +220,6 @@ Fixes:VURTA:name
 Fixes:VURTA:symbol
 Fixes:VUSDI:name
 Fixes:VUSDI:symbol
-Fixes:VUSGA:name
-Fixes:VUSGA:symbol
 Free Text:SACO parkings\1:freetext
 Free Text:SACO parkings\10:freetext
 Free Text:SACO parkings\11:freetext
@@ -307,9 +290,6 @@ Free Text:SASJ taxiways\B:freetext
 Free Text:SASJ taxiways\C:freetext
 Geo:Antartida:
 Geo:GEO:
-Geo:Islas Malvinas Argentinas:
-Geo:Linea Costera:
-Geo:Lineas limitrofes CHI-PAR-URU:
 Geo:SACA:
 Geo:SACE:
 Geo:SACO:
@@ -330,8 +310,6 @@ High airways:UA307:line
 High airways:UA307:name
 High airways:UA570:line
 High airways:UA570:name
-High airways:UB555:line
-High airways:UB555:name
 High airways:UB684:line
 High airways:UB684:name
 High airways:UB687:line
@@ -362,8 +340,6 @@ High airways:UL550:line
 High airways:UL550:name
 High airways:UL653:line
 High airways:UL653:name
-High airways:UL660:line
-High airways:UL660:name
 High airways:UL670:line
 High airways:UL670:name
 High airways:UL793:line
@@ -376,8 +352,6 @@ High airways:UM418:line
 High airways:UM418:name
 High airways:UM424:line
 High airways:UM424:name
-High airways:UM429:line
-High airways:UM429:name
 High airways:UM534:line
 High airways:UM534:name
 High airways:UM543:line
@@ -414,8 +388,6 @@ High airways:UN857:line
 High airways:UN857:name
 High airways:UP526:line
 High airways:UP526:name
-High airways:UT103:line
-High airways:UT103:name
 High airways:UT105:line
 High airways:UT105:name
 High airways:UT106:line
@@ -516,8 +488,6 @@ High airways:UW33:line
 High airways:UW33:name
 High airways:UW34:line
 High airways:UW34:name
-High airways:UW35:line
-High airways:UW35:name
 High airways:UW38:line
 High airways:UW38:name
 High airways:UW39:line
@@ -532,8 +502,6 @@ High airways:UW44:line
 High airways:UW44:name
 High airways:UW45:line
 High airways:UW45:name
-High airways:UW46:line
-High airways:UW46:name
 High airways:UW48:line
 High airways:UW48:name
 High airways:UW5:line
@@ -542,8 +510,6 @@ High airways:UW50:line
 High airways:UW50:name
 High airways:UW52:line
 High airways:UW52:name
-High airways:UW54:line
-High airways:UW54:name
 High airways:UW56:line
 High airways:UW56:name
 High airways:UW57:line
@@ -564,8 +530,6 @@ High airways:UW68:line
 High airways:UW68:name
 High airways:UW7:line
 High airways:UW7:name
-High airways:UW70:line
-High airways:UW70:name
 High airways:UW8:line
 High airways:UW8:name
 High airways:UZ102:line
@@ -588,8 +552,6 @@ High airways:UZ113:line
 High airways:UZ113:name
 High airways:UZ114:line
 High airways:UZ114:name
-High airways:UZ115:line
-High airways:UZ115:name
 High airways:UZ116:line
 High airways:UZ116:name
 High airways:UZ117:line
@@ -756,8 +718,6 @@ Low airways:W50:line
 Low airways:W50:name
 Low airways:W52:line
 Low airways:W52:name
-Low airways:W54:line
-Low airways:W54:name
 Low airways:W55:line
 Low airways:W55:name
 Low airways:W56:line
@@ -833,310 +793,54 @@ Regions:SAWC:polygon
 Regions:SAZB:polygon
 Regions:SAZN:polygon
 Regions:SAZS:polygon
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:centerline
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:extended centerline 1
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:extended centerline 1 left base
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:extended centerline 1 left ticks
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:extended centerline 1 left vectoring
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:extended centerline 1 right base
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:extended centerline 1 right ticks
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:extended centerline 1 right vectoring
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:extended centerline 2
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:extended centerline 2 left base
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:extended centerline 2 left ticks
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:extended centerline 2 left vectoring
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:extended centerline 2 right base
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:extended centerline 2 right ticks
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:extended centerline 2 right vectoring
-Runways:SACA Cordoba / Cap. Omar Dario Gelardi 16-34:name
-Runways:SACC La Cumbre 14-32:centerline
-Runways:SACC La Cumbre 14-32:extended centerline 1
-Runways:SACC La Cumbre 14-32:extended centerline 1 left base
-Runways:SACC La Cumbre 14-32:extended centerline 1 left ticks
-Runways:SACC La Cumbre 14-32:extended centerline 1 left vectoring
-Runways:SACC La Cumbre 14-32:extended centerline 1 right base
-Runways:SACC La Cumbre 14-32:extended centerline 1 right ticks
-Runways:SACC La Cumbre 14-32:extended centerline 1 right vectoring
-Runways:SACC La Cumbre 14-32:extended centerline 2
-Runways:SACC La Cumbre 14-32:extended centerline 2 left base
-Runways:SACC La Cumbre 14-32:extended centerline 2 left ticks
-Runways:SACC La Cumbre 14-32:extended centerline 2 left vectoring
-Runways:SACC La Cumbre 14-32:extended centerline 2 right base
-Runways:SACC La Cumbre 14-32:extended centerline 2 right ticks
-Runways:SACC La Cumbre 14-32:extended centerline 2 right vectoring
-Runways:SACC La Cumbre 14-32:name
-Runways:SACD Coronel Olmedo 04-22:centerline
-Runways:SACD Coronel Olmedo 04-22:extended centerline 1
-Runways:SACD Coronel Olmedo 04-22:extended centerline 1 left base
-Runways:SACD Coronel Olmedo 04-22:extended centerline 1 left ticks
-Runways:SACD Coronel Olmedo 04-22:extended centerline 1 left vectoring
-Runways:SACD Coronel Olmedo 04-22:extended centerline 1 right base
-Runways:SACD Coronel Olmedo 04-22:extended centerline 1 right ticks
-Runways:SACD Coronel Olmedo 04-22:extended centerline 1 right vectoring
-Runways:SACD Coronel Olmedo 04-22:extended centerline 2
-Runways:SACD Coronel Olmedo 04-22:extended centerline 2 left base
-Runways:SACD Coronel Olmedo 04-22:extended centerline 2 left ticks
-Runways:SACD Coronel Olmedo 04-22:extended centerline 2 left vectoring
-Runways:SACD Coronel Olmedo 04-22:extended centerline 2 right base
-Runways:SACD Coronel Olmedo 04-22:extended centerline 2 right ticks
-Runways:SACD Coronel Olmedo 04-22:extended centerline 2 right vectoring
-Runways:SACD Coronel Olmedo 04-22:name
-Runways:SACD Coronel Olmedo 18-36:centerline
-Runways:SACD Coronel Olmedo 18-36:extended centerline 1
-Runways:SACD Coronel Olmedo 18-36:extended centerline 1 left base
-Runways:SACD Coronel Olmedo 18-36:extended centerline 1 left ticks
-Runways:SACD Coronel Olmedo 18-36:extended centerline 1 left vectoring
-Runways:SACD Coronel Olmedo 18-36:extended centerline 1 right base
-Runways:SACD Coronel Olmedo 18-36:extended centerline 1 right ticks
-Runways:SACD Coronel Olmedo 18-36:extended centerline 1 right vectoring
-Runways:SACD Coronel Olmedo 18-36:extended centerline 2
-Runways:SACD Coronel Olmedo 18-36:extended centerline 2 left base
-Runways:SACD Coronel Olmedo 18-36:extended centerline 2 left ticks
-Runways:SACD Coronel Olmedo 18-36:extended centerline 2 left vectoring
-Runways:SACD Coronel Olmedo 18-36:extended centerline 2 right base
-Runways:SACD Coronel Olmedo 18-36:extended centerline 2 right ticks
-Runways:SACD Coronel Olmedo 18-36:extended centerline 2 right vectoring
-Runways:SACD Coronel Olmedo 18-36:name
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:centerline
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:extended centerline 1
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:extended centerline 1 left base
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:extended centerline 1 left ticks
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:extended centerline 1 left vectoring
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:extended centerline 1 right base
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:extended centerline 1 right ticks
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:extended centerline 1 right vectoring
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:extended centerline 2
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:extended centerline 2 left base
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:extended centerline 2 left ticks
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:extended centerline 2 left vectoring
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:extended centerline 2 right base
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:extended centerline 2 right ticks
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:extended centerline 2 right vectoring
-Runways:SACO Cordoba Ing. Ambrosio Taravella 05-23:name
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:centerline
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:extended centerline 1
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:extended centerline 1 left base
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:extended centerline 1 left ticks
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:extended centerline 1 left vectoring
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:extended centerline 1 right base
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:extended centerline 1 right ticks
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:extended centerline 1 right vectoring
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:extended centerline 2
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:extended centerline 2 left base
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:extended centerline 2 left ticks
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:extended centerline 2 left vectoring
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:extended centerline 2 right base
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:extended centerline 2 right ticks
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:extended centerline 2 right vectoring
-Runways:SACO Cordoba Ing. Ambrosio Taravella 19-01:name
-Runways:SACT Chamical - Gobernador Gordillo 01-19:centerline
-Runways:SACT Chamical - Gobernador Gordillo 01-19:extended centerline 1
-Runways:SACT Chamical - Gobernador Gordillo 01-19:extended centerline 1 left base
-Runways:SACT Chamical - Gobernador Gordillo 01-19:extended centerline 1 left ticks
-Runways:SACT Chamical - Gobernador Gordillo 01-19:extended centerline 1 left vectoring
-Runways:SACT Chamical - Gobernador Gordillo 01-19:extended centerline 1 right base
-Runways:SACT Chamical - Gobernador Gordillo 01-19:extended centerline 1 right ticks
-Runways:SACT Chamical - Gobernador Gordillo 01-19:extended centerline 1 right vectoring
-Runways:SACT Chamical - Gobernador Gordillo 01-19:extended centerline 2
-Runways:SACT Chamical - Gobernador Gordillo 01-19:extended centerline 2 left base
-Runways:SACT Chamical - Gobernador Gordillo 01-19:extended centerline 2 left ticks
-Runways:SACT Chamical - Gobernador Gordillo 01-19:extended centerline 2 left vectoring
-Runways:SACT Chamical - Gobernador Gordillo 01-19:extended centerline 2 right base
-Runways:SACT Chamical - Gobernador Gordillo 01-19:extended centerline 2 right ticks
-Runways:SACT Chamical - Gobernador Gordillo 01-19:extended centerline 2 right vectoring
-Runways:SACT Chamical - Gobernador Gordillo 01-19:name
-Runways:SANE Santiago del Estero 03-21:centerline
-Runways:SANE Santiago del Estero 03-21:extended centerline 1
-Runways:SANE Santiago del Estero 03-21:extended centerline 1 left base
-Runways:SANE Santiago del Estero 03-21:extended centerline 1 left ticks
-Runways:SANE Santiago del Estero 03-21:extended centerline 1 left vectoring
-Runways:SANE Santiago del Estero 03-21:extended centerline 1 right base
-Runways:SANE Santiago del Estero 03-21:extended centerline 1 right ticks
-Runways:SANE Santiago del Estero 03-21:extended centerline 1 right vectoring
-Runways:SANE Santiago del Estero 03-21:extended centerline 2
-Runways:SANE Santiago del Estero 03-21:extended centerline 2 left base
-Runways:SANE Santiago del Estero 03-21:extended centerline 2 left ticks
-Runways:SANE Santiago del Estero 03-21:extended centerline 2 left vectoring
-Runways:SANE Santiago del Estero 03-21:extended centerline 2 right base
-Runways:SANE Santiago del Estero 03-21:extended centerline 2 right ticks
-Runways:SANE Santiago del Estero 03-21:extended centerline 2 right vectoring
-Runways:SANE Santiago del Estero 03-21:name
-Runways:SANI Tinogasta 14-32:centerline
-Runways:SANI Tinogasta 14-32:extended centerline 1
-Runways:SANI Tinogasta 14-32:extended centerline 1 left base
-Runways:SANI Tinogasta 14-32:extended centerline 1 left ticks
-Runways:SANI Tinogasta 14-32:extended centerline 1 left vectoring
-Runways:SANI Tinogasta 14-32:extended centerline 1 right base
-Runways:SANI Tinogasta 14-32:extended centerline 1 right ticks
-Runways:SANI Tinogasta 14-32:extended centerline 1 right vectoring
-Runways:SANI Tinogasta 14-32:extended centerline 2
-Runways:SANI Tinogasta 14-32:extended centerline 2 left base
-Runways:SANI Tinogasta 14-32:extended centerline 2 left ticks
-Runways:SANI Tinogasta 14-32:extended centerline 2 left vectoring
-Runways:SANI Tinogasta 14-32:extended centerline 2 right base
-Runways:SANI Tinogasta 14-32:extended centerline 2 right ticks
-Runways:SANI Tinogasta 14-32:extended centerline 2 right vectoring
-Runways:SANI Tinogasta 14-32:name
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:centerline
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:extended centerline 1
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:extended centerline 1 left base
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:extended centerline 1 left ticks
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:extended centerline 1 left vectoring
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:extended centerline 1 right base
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:extended centerline 1 right ticks
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:extended centerline 1 right vectoring
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:extended centerline 2
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:extended centerline 2 left base
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:extended centerline 2 left ticks
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:extended centerline 2 left vectoring
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:extended centerline 2 right base
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:extended centerline 2 right ticks
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:extended centerline 2 right vectoring
-Runways:SANL La Rioja Cap. Vicente Almonacid 02-20:name
-Runways:SANO Chilecito 17-35:centerline
-Runways:SANO Chilecito 17-35:extended centerline 1
-Runways:SANO Chilecito 17-35:extended centerline 1 left base
-Runways:SANO Chilecito 17-35:extended centerline 1 left ticks
-Runways:SANO Chilecito 17-35:extended centerline 1 left vectoring
-Runways:SANO Chilecito 17-35:extended centerline 1 right base
-Runways:SANO Chilecito 17-35:extended centerline 1 right ticks
-Runways:SANO Chilecito 17-35:extended centerline 1 right vectoring
-Runways:SANO Chilecito 17-35:extended centerline 2
-Runways:SANO Chilecito 17-35:extended centerline 2 left base
-Runways:SANO Chilecito 17-35:extended centerline 2 left ticks
-Runways:SANO Chilecito 17-35:extended centerline 2 left vectoring
-Runways:SANO Chilecito 17-35:extended centerline 2 right base
-Runways:SANO Chilecito 17-35:extended centerline 2 right ticks
-Runways:SANO Chilecito 17-35:extended centerline 2 right vectoring
-Runways:SANO Chilecito 17-35:name
-Runways:SANR Termas de Rio Hondo 01-19:centerline
-Runways:SANR Termas de Rio Hondo 01-19:extended centerline 1
-Runways:SANR Termas de Rio Hondo 01-19:extended centerline 1 left base
-Runways:SANR Termas de Rio Hondo 01-19:extended centerline 1 left ticks
-Runways:SANR Termas de Rio Hondo 01-19:extended centerline 1 left vectoring
-Runways:SANR Termas de Rio Hondo 01-19:extended centerline 1 right base
-Runways:SANR Termas de Rio Hondo 01-19:extended centerline 1 right ticks
-Runways:SANR Termas de Rio Hondo 01-19:extended centerline 1 right vectoring
-Runways:SANR Termas de Rio Hondo 01-19:extended centerline 2
-Runways:SANR Termas de Rio Hondo 01-19:extended centerline 2 left base
-Runways:SANR Termas de Rio Hondo 01-19:extended centerline 2 left ticks
-Runways:SANR Termas de Rio Hondo 01-19:extended centerline 2 left vectoring
-Runways:SANR Termas de Rio Hondo 01-19:extended centerline 2 right base
-Runways:SANR Termas de Rio Hondo 01-19:extended centerline 2 right ticks
-Runways:SANR Termas de Rio Hondo 01-19:extended centerline 2 right vectoring
-Runways:SANR Termas de Rio Hondo 01-19:name
-Runways:SANT Tucuman 02-20:centerline
-Runways:SANT Tucuman 02-20:extended centerline 1
-Runways:SANT Tucuman 02-20:extended centerline 1 left base
-Runways:SANT Tucuman 02-20:extended centerline 1 left ticks
-Runways:SANT Tucuman 02-20:extended centerline 1 left vectoring
-Runways:SANT Tucuman 02-20:extended centerline 1 right base
-Runways:SANT Tucuman 02-20:extended centerline 1 right ticks
-Runways:SANT Tucuman 02-20:extended centerline 1 right vectoring
-Runways:SANT Tucuman 02-20:extended centerline 2
-Runways:SANT Tucuman 02-20:extended centerline 2 left base
-Runways:SANT Tucuman 02-20:extended centerline 2 left ticks
-Runways:SANT Tucuman 02-20:extended centerline 2 left vectoring
-Runways:SANT Tucuman 02-20:extended centerline 2 right base
-Runways:SANT Tucuman 02-20:extended centerline 2 right ticks
-Runways:SANT Tucuman 02-20:extended centerline 2 right vectoring
-Runways:SANT Tucuman 02-20:name
-Runways:SAOC Rio Cuarto 18-36:centerline
-Runways:SAOC Rio Cuarto 18-36:extended centerline 1
-Runways:SAOC Rio Cuarto 18-36:extended centerline 1 left base
-Runways:SAOC Rio Cuarto 18-36:extended centerline 1 left ticks
-Runways:SAOC Rio Cuarto 18-36:extended centerline 1 left vectoring
-Runways:SAOC Rio Cuarto 18-36:extended centerline 1 right base
-Runways:SAOC Rio Cuarto 18-36:extended centerline 1 right ticks
-Runways:SAOC Rio Cuarto 18-36:extended centerline 1 right vectoring
-Runways:SAOC Rio Cuarto 18-36:extended centerline 2
-Runways:SAOC Rio Cuarto 18-36:extended centerline 2 left base
-Runways:SAOC Rio Cuarto 18-36:extended centerline 2 left ticks
-Runways:SAOC Rio Cuarto 18-36:extended centerline 2 left vectoring
-Runways:SAOC Rio Cuarto 18-36:extended centerline 2 right base
-Runways:SAOC Rio Cuarto 18-36:extended centerline 2 right ticks
-Runways:SAOC Rio Cuarto 18-36:extended centerline 2 right vectoring
-Runways:SAOC Rio Cuarto 18-36:name
-Runways:SAOD Villa Dolores 01-19:centerline
-Runways:SAOD Villa Dolores 01-19:extended centerline 1
-Runways:SAOD Villa Dolores 01-19:extended centerline 1 left base
-Runways:SAOD Villa Dolores 01-19:extended centerline 1 left ticks
-Runways:SAOD Villa Dolores 01-19:extended centerline 1 left vectoring
-Runways:SAOD Villa Dolores 01-19:extended centerline 1 right base
-Runways:SAOD Villa Dolores 01-19:extended centerline 1 right ticks
-Runways:SAOD Villa Dolores 01-19:extended centerline 1 right vectoring
-Runways:SAOD Villa Dolores 01-19:extended centerline 2
-Runways:SAOD Villa Dolores 01-19:extended centerline 2 left base
-Runways:SAOD Villa Dolores 01-19:extended centerline 2 left ticks
-Runways:SAOD Villa Dolores 01-19:extended centerline 2 left vectoring
-Runways:SAOD Villa Dolores 01-19:extended centerline 2 right base
-Runways:SAOD Villa Dolores 01-19:extended centerline 2 right ticks
-Runways:SAOD Villa Dolores 01-19:extended centerline 2 right vectoring
-Runways:SAOD Villa Dolores 01-19:name
-Runways:SAOD Villa Dolores 17-35:centerline
-Runways:SAOD Villa Dolores 17-35:extended centerline 1
-Runways:SAOD Villa Dolores 17-35:extended centerline 1 left base
-Runways:SAOD Villa Dolores 17-35:extended centerline 1 left ticks
-Runways:SAOD Villa Dolores 17-35:extended centerline 1 left vectoring
-Runways:SAOD Villa Dolores 17-35:extended centerline 1 right base
-Runways:SAOD Villa Dolores 17-35:extended centerline 1 right ticks
-Runways:SAOD Villa Dolores 17-35:extended centerline 1 right vectoring
-Runways:SAOD Villa Dolores 17-35:extended centerline 2
-Runways:SAOD Villa Dolores 17-35:extended centerline 2 left base
-Runways:SAOD Villa Dolores 17-35:extended centerline 2 left ticks
-Runways:SAOD Villa Dolores 17-35:extended centerline 2 left vectoring
-Runways:SAOD Villa Dolores 17-35:extended centerline 2 right base
-Runways:SAOD Villa Dolores 17-35:extended centerline 2 right ticks
-Runways:SAOD Villa Dolores 17-35:extended centerline 2 right vectoring
-Runways:SAOD Villa Dolores 17-35:name
-Runways:SAOM Marcos Juarez 07-25:centerline
-Runways:SAOM Marcos Juarez 07-25:extended centerline 1
-Runways:SAOM Marcos Juarez 07-25:extended centerline 1 left base
-Runways:SAOM Marcos Juarez 07-25:extended centerline 1 left ticks
-Runways:SAOM Marcos Juarez 07-25:extended centerline 1 left vectoring
-Runways:SAOM Marcos Juarez 07-25:extended centerline 1 right base
-Runways:SAOM Marcos Juarez 07-25:extended centerline 1 right ticks
-Runways:SAOM Marcos Juarez 07-25:extended centerline 1 right vectoring
-Runways:SAOM Marcos Juarez 07-25:extended centerline 2
-Runways:SAOM Marcos Juarez 07-25:extended centerline 2 left base
-Runways:SAOM Marcos Juarez 07-25:extended centerline 2 left ticks
-Runways:SAOM Marcos Juarez 07-25:extended centerline 2 left vectoring
-Runways:SAOM Marcos Juarez 07-25:extended centerline 2 right base
-Runways:SAOM Marcos Juarez 07-25:extended centerline 2 right ticks
-Runways:SAOM Marcos Juarez 07-25:extended centerline 2 right vectoring
-Runways:SAOM Marcos Juarez 07-25:name
-Runways:SASA Salta 02-20:centerline
-Runways:SASA Salta 02-20:extended centerline 1
-Runways:SASA Salta 02-20:extended centerline 1 left base
-Runways:SASA Salta 02-20:extended centerline 1 left ticks
-Runways:SASA Salta 02-20:extended centerline 1 left vectoring
-Runways:SASA Salta 02-20:extended centerline 1 right base
-Runways:SASA Salta 02-20:extended centerline 1 right ticks
-Runways:SASA Salta 02-20:extended centerline 1 right vectoring
-Runways:SASA Salta 02-20:extended centerline 2
-Runways:SASA Salta 02-20:extended centerline 2 left base
-Runways:SASA Salta 02-20:extended centerline 2 left ticks
-Runways:SASA Salta 02-20:extended centerline 2 left vectoring
-Runways:SASA Salta 02-20:extended centerline 2 right base
-Runways:SASA Salta 02-20:extended centerline 2 right ticks
-Runways:SASA Salta 02-20:extended centerline 2 right vectoring
-Runways:SASA Salta 02-20:name
-Runways:SASA Salta 06-24:centerline
-Runways:SASA Salta 06-24:extended centerline 1
-Runways:SASA Salta 06-24:extended centerline 1 left base
-Runways:SASA Salta 06-24:extended centerline 1 left ticks
-Runways:SASA Salta 06-24:extended centerline 1 left vectoring
-Runways:SASA Salta 06-24:extended centerline 1 right base
-Runways:SASA Salta 06-24:extended centerline 1 right ticks
-Runways:SASA Salta 06-24:extended centerline 1 right vectoring
-Runways:SASA Salta 06-24:extended centerline 2
-Runways:SASA Salta 06-24:extended centerline 2 left base
-Runways:SASA Salta 06-24:extended centerline 2 left ticks
-Runways:SASA Salta 06-24:extended centerline 2 left vectoring
-Runways:SASA Salta 06-24:extended centerline 2 right base
-Runways:SASA Salta 06-24:extended centerline 2 right ticks
-Runways:SASA Salta 06-24:extended centerline 2 right vectoring
-Runways:SASA Salta 06-24:name
+Runways:SANI TINOGASTA 14-32:centerline
+Runways:SANI TINOGASTA 14-32:extended centerline 1
+Runways:SANI TINOGASTA 14-32:extended centerline 1 left base
+Runways:SANI TINOGASTA 14-32:extended centerline 1 left ticks
+Runways:SANI TINOGASTA 14-32:extended centerline 1 left vectoring
+Runways:SANI TINOGASTA 14-32:extended centerline 1 right base
+Runways:SANI TINOGASTA 14-32:extended centerline 1 right ticks
+Runways:SANI TINOGASTA 14-32:extended centerline 1 right vectoring
+Runways:SANI TINOGASTA 14-32:extended centerline 2
+Runways:SANI TINOGASTA 14-32:extended centerline 2 left base
+Runways:SANI TINOGASTA 14-32:extended centerline 2 left ticks
+Runways:SANI TINOGASTA 14-32:extended centerline 2 left vectoring
+Runways:SANI TINOGASTA 14-32:extended centerline 2 right base
+Runways:SANI TINOGASTA 14-32:extended centerline 2 right ticks
+Runways:SANI TINOGASTA 14-32:extended centerline 2 right vectoring
+Runways:SANI TINOGASTA 14-32:name
+Runways:SANR TERMAS DE RIO HONDO 01-19:centerline
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1 left base
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1 left ticks
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1 left vectoring
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1 right base
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1 right ticks
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1 right vectoring
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 left base
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 left ticks
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 left vectoring
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 right base
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 right ticks
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 right vectoring
+Runways:SANR TERMAS DE RIO HONDO 01-19:name
+Runways:SAOD VILLA DOLORES 17-35:centerline
+Runways:SAOD VILLA DOLORES 17-35:extended centerline 1
+Runways:SAOD VILLA DOLORES 17-35:extended centerline 1 left base
+Runways:SAOD VILLA DOLORES 17-35:extended centerline 1 left ticks
+Runways:SAOD VILLA DOLORES 17-35:extended centerline 1 left vectoring
+Runways:SAOD VILLA DOLORES 17-35:extended centerline 1 right base
+Runways:SAOD VILLA DOLORES 17-35:extended centerline 1 right ticks
+Runways:SAOD VILLA DOLORES 17-35:extended centerline 1 right vectoring
+Runways:SAOD VILLA DOLORES 17-35:extended centerline 2
+Runways:SAOD VILLA DOLORES 17-35:extended centerline 2 left base
+Runways:SAOD VILLA DOLORES 17-35:extended centerline 2 left ticks
+Runways:SAOD VILLA DOLORES 17-35:extended centerline 2 left vectoring
+Runways:SAOD VILLA DOLORES 17-35:extended centerline 2 right base
+Runways:SAOD VILLA DOLORES 17-35:extended centerline 2 right ticks
+Runways:SAOD VILLA DOLORES 17-35:extended centerline 2 right vectoring
+Runways:SAOD VILLA DOLORES 17-35:name
 VORs:CAT:frequency
 VORs:CAT:name
 VORs:CAT:symbol
@@ -1191,4 +895,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-27.150430:-65.789562:-26.543344:-64.391561
+WINDOWAREA:-36.032881:-84.756810:-18.778459:-44.297314

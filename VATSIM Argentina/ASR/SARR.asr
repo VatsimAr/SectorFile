@@ -1,14 +1,9 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:VATSIM Argentina.sct2
-ARTCC boundary:CTR Corrientes:
-ARTCC boundary:CTR Iguazu:
-ARTCC boundary:CTR Resistencia:
-ARTCC boundary:FIR RESISTENCIA:
-ARTCC boundary:TMA Posadas:
-ARTCC boundary:TMA Reconquista:
-ARTCC boundary:TMA Resistencia:
+SECTORFILE:D:\Users\esteban\Documents\EuroScope\VATSIM Argentina\VATSIM Argentina.sct
+SECTORTITLE:VATSIM Argentina.sct
+ARTCC boundary:FIRResistencia:
 Fixes:AKPEL:name
 Fixes:AKPEL:symbol
 Fixes:ARPAS:name
@@ -49,8 +44,6 @@ Fixes:GETRA:name
 Fixes:GETRA:symbol
 Fixes:GUKAS:name
 Fixes:GUKAS:symbol
-Fixes:ILPEP:name
-Fixes:ILPEP:symbol
 Fixes:ILSAS:name
 Fixes:ILSAS:symbol
 Fixes:IRATU:name
@@ -113,12 +106,8 @@ Fixes:UGAKO:name
 Fixes:UGAKO:symbol
 Fixes:USEPA:name
 Fixes:USEPA:symbol
-Fixes:VARES:name
-Fixes:VARES:symbol
 Fixes:VINOS:name
 Fixes:VINOS:symbol
-Fixes:VUMDA:name
-Fixes:VUMDA:symbol
 Free Text:SARC parkings\1:freetext
 Free Text:SARC parkings\2:freetext
 Free Text:SARC parkings\3:freetext
@@ -164,9 +153,6 @@ Free Text:SARP taxiways\1:freetext
 Free Text:SARP taxiways\2:freetext
 Geo:Antartida:
 Geo:GEO:
-Geo:Islas Malvinas Argentinas:
-Geo:Linea Costera:
-Geo:Lineas limitrofes CHI-PAR-URU:
 Geo:SARC:
 Geo:SARE:
 Geo:SARF:
@@ -178,8 +164,6 @@ High airways:UA307:line
 High airways:UA307:name
 High airways:UA570:line
 High airways:UA570:name
-High airways:UB555:line
-High airways:UB555:name
 High airways:UB684:line
 High airways:UB684:name
 High airways:UB687:line
@@ -210,8 +194,6 @@ High airways:UL550:line
 High airways:UL550:name
 High airways:UL653:line
 High airways:UL653:name
-High airways:UL660:line
-High airways:UL660:name
 High airways:UL670:line
 High airways:UL670:name
 High airways:UL793:line
@@ -224,8 +206,6 @@ High airways:UM418:line
 High airways:UM418:name
 High airways:UM424:line
 High airways:UM424:name
-High airways:UM429:line
-High airways:UM429:name
 High airways:UM534:line
 High airways:UM534:name
 High airways:UM543:line
@@ -262,8 +242,6 @@ High airways:UN857:line
 High airways:UN857:name
 High airways:UP526:line
 High airways:UP526:name
-High airways:UT103:line
-High airways:UT103:name
 High airways:UT105:line
 High airways:UT105:name
 High airways:UT106:line
@@ -364,8 +342,6 @@ High airways:UW33:line
 High airways:UW33:name
 High airways:UW34:line
 High airways:UW34:name
-High airways:UW35:line
-High airways:UW35:name
 High airways:UW38:line
 High airways:UW38:name
 High airways:UW39:line
@@ -380,8 +356,6 @@ High airways:UW44:line
 High airways:UW44:name
 High airways:UW45:line
 High airways:UW45:name
-High airways:UW46:line
-High airways:UW46:name
 High airways:UW48:line
 High airways:UW48:name
 High airways:UW5:line
@@ -390,8 +364,6 @@ High airways:UW50:line
 High airways:UW50:name
 High airways:UW52:line
 High airways:UW52:name
-High airways:UW54:line
-High airways:UW54:name
 High airways:UW56:line
 High airways:UW56:name
 High airways:UW57:line
@@ -412,8 +384,6 @@ High airways:UW68:line
 High airways:UW68:name
 High airways:UW7:line
 High airways:UW7:name
-High airways:UW70:line
-High airways:UW70:name
 High airways:UW8:line
 High airways:UW8:name
 High airways:UZ102:line
@@ -436,8 +406,6 @@ High airways:UZ113:line
 High airways:UZ113:name
 High airways:UZ114:line
 High airways:UZ114:name
-High airways:UZ115:line
-High airways:UZ115:name
 High airways:UZ116:line
 High airways:UZ116:name
 High airways:UZ117:line
@@ -604,8 +572,6 @@ Low airways:W50:line
 Low airways:W50:name
 Low airways:W52:line
 Low airways:W52:name
-Low airways:W54:line
-Low airways:W54:name
 Low airways:W55:line
 Low airways:W55:name
 Low airways:W56:line
@@ -668,114 +634,57 @@ NDBs:LIB:symbol
 NDBs:PSP:frequency
 NDBs:PSP:name
 NDBs:PSP:symbol
-NDBs:SIS:frequency
-NDBs:SIS:name
-NDBs:SIS:symbol
 Regions:SARE:polygon
 Regions:SARF:polygon
 Regions:SARI:polygon
-Runways:SARE Resistencia 03-21:centerline
-Runways:SARE Resistencia 03-21:extended centerline 1
-Runways:SARE Resistencia 03-21:extended centerline 1 left base
-Runways:SARE Resistencia 03-21:extended centerline 1 left ticks
-Runways:SARE Resistencia 03-21:extended centerline 1 left vectoring
-Runways:SARE Resistencia 03-21:extended centerline 1 right base
-Runways:SARE Resistencia 03-21:extended centerline 1 right ticks
-Runways:SARE Resistencia 03-21:extended centerline 1 right vectoring
-Runways:SARE Resistencia 03-21:extended centerline 2
-Runways:SARE Resistencia 03-21:extended centerline 2 left base
-Runways:SARE Resistencia 03-21:extended centerline 2 left ticks
-Runways:SARE Resistencia 03-21:extended centerline 2 left vectoring
-Runways:SARE Resistencia 03-21:extended centerline 2 right base
-Runways:SARE Resistencia 03-21:extended centerline 2 right ticks
-Runways:SARE Resistencia 03-21:extended centerline 2 right vectoring
-Runways:SARE Resistencia 03-21:name
-Runways:SARF Formosa 04-22:centerline
-Runways:SARF Formosa 04-22:extended centerline 1
-Runways:SARF Formosa 04-22:extended centerline 1 left base
-Runways:SARF Formosa 04-22:extended centerline 1 left ticks
-Runways:SARF Formosa 04-22:extended centerline 1 left vectoring
-Runways:SARF Formosa 04-22:extended centerline 1 right base
-Runways:SARF Formosa 04-22:extended centerline 1 right ticks
-Runways:SARF Formosa 04-22:extended centerline 1 right vectoring
-Runways:SARF Formosa 04-22:extended centerline 2
-Runways:SARF Formosa 04-22:extended centerline 2 left base
-Runways:SARF Formosa 04-22:extended centerline 2 left ticks
-Runways:SARF Formosa 04-22:extended centerline 2 left vectoring
-Runways:SARF Formosa 04-22:extended centerline 2 right base
-Runways:SARF Formosa 04-22:extended centerline 2 right ticks
-Runways:SARF Formosa 04-22:extended centerline 2 right vectoring
-Runways:SARF Formosa 04-22:name
-Runways:SARI Cataratas del Iguazu 13-31:centerline
-Runways:SARI Cataratas del Iguazu 13-31:extended centerline 1
-Runways:SARI Cataratas del Iguazu 13-31:extended centerline 1 left base
-Runways:SARI Cataratas del Iguazu 13-31:extended centerline 1 left ticks
-Runways:SARI Cataratas del Iguazu 13-31:extended centerline 1 left vectoring
-Runways:SARI Cataratas del Iguazu 13-31:extended centerline 1 right base
-Runways:SARI Cataratas del Iguazu 13-31:extended centerline 1 right ticks
-Runways:SARI Cataratas del Iguazu 13-31:extended centerline 1 right vectoring
-Runways:SARI Cataratas del Iguazu 13-31:extended centerline 2
-Runways:SARI Cataratas del Iguazu 13-31:extended centerline 2 left base
-Runways:SARI Cataratas del Iguazu 13-31:extended centerline 2 left ticks
-Runways:SARI Cataratas del Iguazu 13-31:extended centerline 2 left vectoring
-Runways:SARI Cataratas del Iguazu 13-31:extended centerline 2 right base
-Runways:SARI Cataratas del Iguazu 13-31:extended centerline 2 right ticks
-Runways:SARI Cataratas del Iguazu 13-31:extended centerline 2 right vectoring
-Runways:SARI Cataratas del Iguazu 13-31:name
-Runways:SARL Paso de los Libres 18-36:centerline
-Runways:SARL Paso de los Libres 18-36:extended centerline 1
-Runways:SARL Paso de los Libres 18-36:extended centerline 1 left base
-Runways:SARL Paso de los Libres 18-36:extended centerline 1 left ticks
-Runways:SARL Paso de los Libres 18-36:extended centerline 1 left vectoring
-Runways:SARL Paso de los Libres 18-36:extended centerline 1 right base
-Runways:SARL Paso de los Libres 18-36:extended centerline 1 right ticks
-Runways:SARL Paso de los Libres 18-36:extended centerline 1 right vectoring
-Runways:SARL Paso de los Libres 18-36:extended centerline 2
-Runways:SARL Paso de los Libres 18-36:extended centerline 2 left base
-Runways:SARL Paso de los Libres 18-36:extended centerline 2 left ticks
-Runways:SARL Paso de los Libres 18-36:extended centerline 2 left vectoring
-Runways:SARL Paso de los Libres 18-36:extended centerline 2 right base
-Runways:SARL Paso de los Libres 18-36:extended centerline 2 right ticks
-Runways:SARL Paso de los Libres 18-36:extended centerline 2 right vectoring
-Runways:SARL Paso de los Libres 18-36:name
-Runways:SARM Monte Caseros 18-36:centerline
-Runways:SARM Monte Caseros 18-36:extended centerline 1
-Runways:SARM Monte Caseros 18-36:extended centerline 1 left base
-Runways:SARM Monte Caseros 18-36:extended centerline 1 left ticks
-Runways:SARM Monte Caseros 18-36:extended centerline 1 left vectoring
-Runways:SARM Monte Caseros 18-36:extended centerline 1 right base
-Runways:SARM Monte Caseros 18-36:extended centerline 1 right ticks
-Runways:SARM Monte Caseros 18-36:extended centerline 1 right vectoring
-Runways:SARM Monte Caseros 18-36:extended centerline 2
-Runways:SARM Monte Caseros 18-36:extended centerline 2 left base
-Runways:SARM Monte Caseros 18-36:extended centerline 2 left ticks
-Runways:SARM Monte Caseros 18-36:extended centerline 2 left vectoring
-Runways:SARM Monte Caseros 18-36:extended centerline 2 right base
-Runways:SARM Monte Caseros 18-36:extended centerline 2 right ticks
-Runways:SARM Monte Caseros 18-36:extended centerline 2 right vectoring
-Runways:SARM Monte Caseros 18-36:name
-Runways:SARP Posadas 01-19:centerline
-Runways:SARP Posadas 01-19:extended centerline 1
-Runways:SARP Posadas 01-19:extended centerline 1 left base
-Runways:SARP Posadas 01-19:extended centerline 1 left ticks
-Runways:SARP Posadas 01-19:extended centerline 1 left vectoring
-Runways:SARP Posadas 01-19:extended centerline 1 right base
-Runways:SARP Posadas 01-19:extended centerline 1 right ticks
-Runways:SARP Posadas 01-19:extended centerline 1 right vectoring
-Runways:SARP Posadas 01-19:extended centerline 2
-Runways:SARP Posadas 01-19:extended centerline 2 left base
-Runways:SARP Posadas 01-19:extended centerline 2 left ticks
-Runways:SARP Posadas 01-19:extended centerline 2 left vectoring
-Runways:SARP Posadas 01-19:extended centerline 2 right base
-Runways:SARP Posadas 01-19:extended centerline 2 right ticks
-Runways:SARP Posadas 01-19:extended centerline 2 right vectoring
-Runways:SARP Posadas 01-19:name
-VORs:CRR:frequency
-VORs:CRR:frequency
-VORs:CRR:name
-VORs:CRR:name
-VORs:CRR:symbol
-VORs:CRR:symbol
+Runways:SARE RESISTENCIA 03-21:centerline
+Runways:SARE RESISTENCIA 03-21:extended centerline 1
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 left base
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 left ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 left vectoring
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 right base
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 right ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 right vectoring
+Runways:SARE RESISTENCIA 03-21:extended centerline 2
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 left base
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 left ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 left vectoring
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 right base
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 right ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 right vectoring
+Runways:SARE RESISTENCIA 03-21:name
+Runways:SARF FORMOSA 04-22:centerline
+Runways:SARF FORMOSA 04-22:extended centerline 1
+Runways:SARF FORMOSA 04-22:extended centerline 1 left base
+Runways:SARF FORMOSA 04-22:extended centerline 1 left ticks
+Runways:SARF FORMOSA 04-22:extended centerline 1 left vectoring
+Runways:SARF FORMOSA 04-22:extended centerline 1 right base
+Runways:SARF FORMOSA 04-22:extended centerline 1 right ticks
+Runways:SARF FORMOSA 04-22:extended centerline 1 right vectoring
+Runways:SARF FORMOSA 04-22:extended centerline 2
+Runways:SARF FORMOSA 04-22:extended centerline 2 left base
+Runways:SARF FORMOSA 04-22:extended centerline 2 left ticks
+Runways:SARF FORMOSA 04-22:extended centerline 2 left vectoring
+Runways:SARF FORMOSA 04-22:extended centerline 2 right base
+Runways:SARF FORMOSA 04-22:extended centerline 2 right ticks
+Runways:SARF FORMOSA 04-22:extended centerline 2 right vectoring
+Runways:SARF FORMOSA 04-22:name
+Runways:SARL PASO DE LOS LIBRES 18-36:centerline
+Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 1
+Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 1 left base
+Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 1 left ticks
+Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 1 left vectoring
+Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 1 right base
+Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 1 right ticks
+Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 1 right vectoring
+Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 2
+Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 2 left base
+Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 2 left ticks
+Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 2 left vectoring
+Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 2 right base
+Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 2 right ticks
+Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 2 right vectoring
+Runways:SARL PASO DE LOS LIBRES 18-36:name
 VORs:FOZ:frequency
 VORs:FOZ:name
 VORs:FOZ:symbol
@@ -809,4 +718,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-32.251901:-71.464009:-21.253595:-46.034525
+WINDOWAREA:-32.251901:-71.644104:-21.253595:-45.854430
