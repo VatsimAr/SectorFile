@@ -9,6 +9,22 @@
 
 ==============================
 
+V7.2 (26/08/2020)
+Actualizado por Esteban Palacios
+	-se agrega Ezeiza Gnd Con las regiones y posiciones de estacionamiento actuales
+    -se corrigio problemas con sid y star de aerodromos salen completos por pista y transicion
+    -se remodelo SADM, SADJ
+    -se agrego ils 35 y 11 saez
+    -modificaron los atz de sadf sadp sadj sadm
+    -se agrego atz campo de mayo
+    -se agrago asr saez gnd y saez
+    -se modifico los asr de sabe y baires
+    
+==============================
+==============================
+==============================
+
+
 V7.1 (14/08/2020)
 Actualizado por Esteban Palacios
 	-se corrigio problemas con sid y star de aerodromos(salian todos juntos)

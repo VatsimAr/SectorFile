@@ -1,8 +1,11 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:VATSIM Argentina.sct
+SECTORFILE:D:\Users\esteban\Documents\GitHub\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
 SECTORTITLE:VATSIM Argentina.sct
+ARTCC low boundary:ATZMayo:
+ARTCC low boundary:ATZPalomar:
+ARTCC low boundary:ATZSanFer:
 ARTCC low boundary:CTRAeroparque:
 Fixes:ENPID:name
 Fixes:FUSCA:name
@@ -14,20 +17,7 @@ Fixes:SURBO:name
 Fixes:TRINI:name
 Fixes:VANAR:name
 Fixes:VERAS:name
-Free Text:SABE taxiways\1:freetext
-Free Text:SABE taxiways\1W:freetext
-Free Text:SABE taxiways\2:freetext
-Free Text:SABE taxiways\2W:freetext
-Free Text:SABE taxiways\3:freetext
-Free Text:SABE taxiways\3W:freetext
-Free Text:SABE taxiways\4:freetext
-Free Text:SABE taxiways\5:freetext
-Free Text:SABE taxiways\A:freetext
-Free Text:SABE taxiways\B:freetext
-Free Text:SABE taxiways\C:freetext
-Free Text:SABE taxiways\D:freetext
-Free Text:SABE taxiways\E:freetext
-Free Text:SABE taxiways\PPAL:freetext
+Free Text:SABE\1:freetext
 Free Text:SABE\1:freetext
 Free Text:SABE\10:freetext
 Free Text:SABE\11:freetext
@@ -41,6 +31,7 @@ Free Text:SABE\18:freetext
 Free Text:SABE\18A:freetext
 Free Text:SABE\19:freetext
 Free Text:SABE\2:freetext
+Free Text:SABE\2:freetext
 Free Text:SABE\20:freetext
 Free Text:SABE\21:freetext
 Free Text:SABE\22:freetext
@@ -52,11 +43,13 @@ Free Text:SABE\27:freetext
 Free Text:SABE\28:freetext
 Free Text:SABE\29:freetext
 Free Text:SABE\3:freetext
+Free Text:SABE\3:freetext
 Free Text:SABE\30:freetext
 Free Text:SABE\31:freetext
 Free Text:SABE\32:freetext
 Free Text:SABE\33:freetext
 Free Text:SABE\39:freetext
+Free Text:SABE\4:freetext
 Free Text:SABE\4:freetext
 Free Text:SABE\40:freetext
 Free Text:SABE\41:freetext
@@ -68,6 +61,7 @@ Free Text:SABE\46:freetext
 Free Text:SABE\47:freetext
 Free Text:SABE\48:freetext
 Free Text:SABE\49:freetext
+Free Text:SABE\5:freetext
 Free Text:SABE\5:freetext
 Free Text:SABE\50:freetext
 Free Text:SABE\51:freetext
@@ -135,8 +129,8 @@ NDBs:OP:name
 NDBs:OP:name
 NDBs:P:name
 NDBs:P:name
-Regions:noname:polygon
-Regions:noname:polygon
+NDBs:P:name
+NDBs:P:name
 Regions:SABE:polygon
 Regions:SABE_ILS13:polygon
 Regions:SADF:polygon

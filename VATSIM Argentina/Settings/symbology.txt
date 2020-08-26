@@ -10,9 +10,9 @@ Fixes:symbol:14342874:0.5:0:1:13
 Fixes:name:14835237:3.5:0:1:2
 Sids:line:6016631:1.4:2:1:7
 Stars:line:6579300:3.0:3:0:7
-ARTCC high boundary:line:6579300:3.0:0:2:7
-ARTCC boundary:line:10974927:3.0:0:1:7
-ARTCC low boundary:line:5263535:3.0:1:2:7
+ARTCC high boundary:line:6579300:3.0:0:1:7
+ARTCC boundary:line:5263535:3.0:0:1:7
+ARTCC low boundary:line:5263535:3.0:0:1:7
 Geo:line:13818335:1.0:0:1:7
 VORs:symbol:16777215:0.5:0:1:6
 VORs:name:14835237:3.5:1:3:2
@@ -74,7 +74,7 @@ Other:free of conflict:65280:3.5:0:2:7
 Other:conflict warning:65535:3.5:0:2:7
 Other:conflict detected:255:3.5:0:2:7
 Other:route annotation:16777215:3.5:0:2:7
-Other:freetext:11053224:3.0:0:0:7
+Other:freetext:16777215:3.5:0:0:7
 Other:range rings:65535:5.0:0:0:2
 Other:off antenna range rings:255:5.0:0:0:2
 Other:plane range rings:5921370:5.0:0:0:2
