@@ -19,6 +19,8 @@ Actualizado por Esteban Palacios
     -se agrego atz campo de mayo
     -se agrago asr saez gnd y saez
     -se modifico los asr de sabe y baires
+    -se agrego arco radar 100nm y 150nm de eze en saef
+    -se modifico asr saef
     
 ==============================
 ==============================

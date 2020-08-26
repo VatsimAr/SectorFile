@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:VATSIM Argentina.sct
+SECTORFILE:D:\Users\esteban\Documents\GitHub\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
 SECTORTITLE:VATSIM Argentina.sct
 ARTCC boundary:FIREZEIZA:
 Fixes:AKPUR:name
@@ -337,19 +337,6 @@ Free Text:SAAR\4:freetext
 Free Text:SAAR\5:freetext
 Free Text:SAAR\A:freetext
 Free Text:SAAR\B:freetext
-Free Text:SABE taxiways\1:freetext
-Free Text:SABE taxiways\1W:freetext
-Free Text:SABE taxiways\2:freetext
-Free Text:SABE taxiways\2W:freetext
-Free Text:SABE taxiways\3:freetext
-Free Text:SABE taxiways\3W:freetext
-Free Text:SABE taxiways\4:freetext
-Free Text:SABE taxiways\5:freetext
-Free Text:SABE taxiways\A:freetext
-Free Text:SABE taxiways\B:freetext
-Free Text:SABE taxiways\C:freetext
-Free Text:SABE taxiways\D:freetext
-Free Text:SABE taxiways\E:freetext
 Free Text:SADF\1:freetext
 Free Text:SADF\2:freetext
 Free Text:SADF\3:freetext
@@ -359,70 +346,6 @@ Free Text:SADF\A:freetext
 Free Text:SADF\A:freetext
 Free Text:SADF\B:freetext
 Free Text:SADF\C:freetext
-Free Text:SADM taxiways\ A:freetext
-Free Text:SADM taxiways\ A:freetext
-Free Text:SADM taxiways\ A:freetext
-Free Text:SADM taxiways\ B:freetext
-Free Text:SADM taxiways\ C:freetext
-Free Text:SADM taxiways\ D:freetext
-Free Text:SADM taxiways\ E:freetext
-Free Text:SADM taxiways\ F:freetext
-Free Text:SAEZ parkings\10:freetext
-Free Text:SAEZ parkings\11:freetext
-Free Text:SAEZ parkings\12:freetext
-Free Text:SAEZ parkings\13:freetext
-Free Text:SAEZ parkings\14:freetext
-Free Text:SAEZ parkings\15:freetext
-Free Text:SAEZ parkings\16:freetext
-Free Text:SAEZ parkings\17:freetext
-Free Text:SAEZ parkings\18:freetext
-Free Text:SAEZ parkings\2:freetext
-Free Text:SAEZ parkings\22:freetext
-Free Text:SAEZ parkings\23:freetext
-Free Text:SAEZ parkings\24:freetext
-Free Text:SAEZ parkings\25:freetext
-Free Text:SAEZ parkings\3:freetext
-Free Text:SAEZ parkings\33:freetext
-Free Text:SAEZ parkings\33A:freetext
-Free Text:SAEZ parkings\33B:freetext
-Free Text:SAEZ parkings\34:freetext
-Free Text:SAEZ parkings\34A:freetext
-Free Text:SAEZ parkings\34B:freetext
-Free Text:SAEZ parkings\34C:freetext
-Free Text:SAEZ parkings\35:freetext
-Free Text:SAEZ parkings\35A:freetext
-Free Text:SAEZ parkings\35B:freetext
-Free Text:SAEZ parkings\36:freetext
-Free Text:SAEZ parkings\37:freetext
-Free Text:SAEZ parkings\4:freetext
-Free Text:SAEZ parkings\40:freetext
-Free Text:SAEZ parkings\41:freetext
-Free Text:SAEZ parkings\42:freetext
-Free Text:SAEZ parkings\43:freetext
-Free Text:SAEZ parkings\44:freetext
-Free Text:SAEZ parkings\45:freetext
-Free Text:SAEZ parkings\46:freetext
-Free Text:SAEZ parkings\47:freetext
-Free Text:SAEZ parkings\5:freetext
-Free Text:SAEZ parkings\50:freetext
-Free Text:SAEZ parkings\51:freetext
-Free Text:SAEZ parkings\52:freetext
-Free Text:SAEZ parkings\53:freetext
-Free Text:SAEZ parkings\54:freetext
-Free Text:SAEZ parkings\55:freetext
-Free Text:SAEZ parkings\6:freetext
-Free Text:SAEZ parkings\7:freetext
-Free Text:SAEZ parkings\8:freetext
-Free Text:SAEZ parkings\9:freetext
-Free Text:SAEZ taxiways\A:freetext
-Free Text:SAEZ taxiways\B:freetext
-Free Text:SAEZ taxiways\C:freetext
-Free Text:SAEZ taxiways\D:freetext
-Free Text:SAEZ taxiways\E:freetext
-Free Text:SAEZ taxiways\F:freetext
-Free Text:SAEZ taxiways\G:freetext
-Free Text:SAEZ taxiways\H:freetext
-Free Text:SAEZ taxiways\J:freetext
 Free Text:SAZB\1:freetext
 Free Text:SAZB\2:freetext
 Free Text:SAZB\3:freetext
@@ -477,6 +400,7 @@ Free Text:SAZS\B:freetext
 Free Text:SAZS\C:freetext
 Geo:Antartida:
 Geo:GEO:
+Geo:RadarSAEF:
 Geo:SAAC:
 Geo:SAAG:
 Geo:SAAJ:
@@ -491,7 +415,6 @@ Geo:SADL:
 Geo:SADM:
 Geo:SADO:
 Geo:SADP:
-Geo:SAEZ:
 Geo:SAZB:
 Geo:SAZG:
 Geo:SAZM:
@@ -1096,4 +1019,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-42.286649:-77.673143:-29.813474:-48.425083
+WINDOWAREA:-41.993349:-75.049479:-29.256425:-45.801419
