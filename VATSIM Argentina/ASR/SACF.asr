@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:VATSIM Argentina.sct
+SECTORFILE:D:\Users\esteban\Documents\GitHub\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
 SECTORTITLE:VATSIM Argentina.sct
 ARTCC boundary:FIRCORDOBA:
 Fixes:AKRAS:name
@@ -220,78 +220,157 @@ Fixes:VURTA:name
 Fixes:VURTA:symbol
 Fixes:VUSDI:name
 Fixes:VUSDI:symbol
-Free Text:SACO parkings\1:freetext
-Free Text:SACO parkings\10:freetext
-Free Text:SACO parkings\11:freetext
-Free Text:SACO parkings\12:freetext
-Free Text:SACO parkings\13:freetext
-Free Text:SACO parkings\14:freetext
-Free Text:SACO parkings\15:freetext
-Free Text:SACO parkings\16:freetext
-Free Text:SACO parkings\17:freetext
-Free Text:SACO parkings\18:freetext
-Free Text:SACO parkings\19:freetext
-Free Text:SACO parkings\19A:freetext
-Free Text:SACO parkings\2:freetext
-Free Text:SACO parkings\20:freetext
-Free Text:SACO parkings\21:freetext
-Free Text:SACO parkings\22:freetext
-Free Text:SACO parkings\23:freetext
-Free Text:SACO parkings\23A:freetext
-Free Text:SACO parkings\24:freetext
-Free Text:SACO parkings\25:freetext
-Free Text:SACO parkings\26:freetext
-Free Text:SACO parkings\27:freetext
-Free Text:SACO parkings\28:freetext
-Free Text:SACO parkings\3:freetext
-Free Text:SACO parkings\4:freetext
-Free Text:SACO parkings\5:freetext
-Free Text:SACO parkings\6:freetext
-Free Text:SACO parkings\7:freetext
-Free Text:SACO parkings\8:freetext
-Free Text:SACO parkings\9:freetext
-Free Text:SACO taxiways\A:freetext
-Free Text:SACO taxiways\B:freetext
-Free Text:SACO taxiways\C:freetext
+Free Text:CordobaControl\FL060:freetext
+Free Text:CordobaControl\FL060:freetext
+Free Text:CordobaControl\FL070:freetext
+Free Text:CordobaControl\FL070:freetext
+Free Text:CordobaControl\FL070:freetext
+Free Text:CordobaControl\FL080:freetext
+Free Text:CordobaControl\FL080:freetext
+Free Text:CordobaControl\FL080:freetext
+Free Text:CordobaControl\FL090:freetext
+Free Text:CordobaControl\FL110:freetext
+Free Text:SACO\1:freetext
+Free Text:SACO\10:freetext
+Free Text:SACO\11:freetext
+Free Text:SACO\12:freetext
+Free Text:SACO\13:freetext
+Free Text:SACO\14:freetext
+Free Text:SACO\15:freetext
+Free Text:SACO\16:freetext
+Free Text:SACO\16A:freetext
+Free Text:SACO\17:freetext
+Free Text:SACO\18:freetext
+Free Text:SACO\19:freetext
+Free Text:SACO\1A:freetext
+Free Text:SACO\2:freetext
+Free Text:SACO\20:freetext
+Free Text:SACO\21:freetext
+Free Text:SACO\22:freetext
+Free Text:SACO\23:freetext
+Free Text:SACO\23A:freetext
+Free Text:SACO\24:freetext
+Free Text:SACO\24A:freetext
+Free Text:SACO\25:freetext
+Free Text:SACO\26:freetext
+Free Text:SACO\26A:freetext
+Free Text:SACO\3:freetext
+Free Text:SACO\4:freetext
+Free Text:SACO\4A:freetext
+Free Text:SACO\5:freetext
+Free Text:SACO\6:freetext
+Free Text:SACO\7:freetext
+Free Text:SACO\7A:freetext
+Free Text:SACO\8:freetext
+Free Text:SACO\9:freetext
+Free Text:SACO\A:freetext
+Free Text:SACO\A:freetext
+Free Text:SACO\B:freetext
+Free Text:SACO\C:freetext
+Free Text:SANC\1:freetext
+Free Text:SANC\2:freetext
+Free Text:SANC\A:freetext
+Free Text:SANC\B:freetext
+Free Text:SANE\1:freetext
+Free Text:SANE\2:freetext
+Free Text:SANE\3:freetext
+Free Text:SANE\4:freetext
+Free Text:SANE\A:freetext
+Free Text:SANE\B:freetext
+Free Text:SANE\B:freetext
+Free Text:SANE\C:freetext
+Free Text:SANL\1:freetext
+Free Text:SANL\2:freetext
+Free Text:SANL\2A:freetext
+Free Text:SANL\3:freetext
+Free Text:SANL\4:freetext
+Free Text:SANL\5:freetext
+Free Text:SANL\A:freetext
+Free Text:SANL\A:freetext
+Free Text:SANL\B:freetext
+Free Text:SANL\B:freetext
 Free Text:SANR\1:freetext
+Free Text:SANR\10:freetext
+Free Text:SANR\11:freetext
+Free Text:SANR\12:freetext
 Free Text:SANR\2:freetext
 Free Text:SANR\3:freetext
 Free Text:SANR\4:freetext
+Free Text:SANR\5:freetext
+Free Text:SANR\6:freetext
+Free Text:SANR\7:freetext
+Free Text:SANR\8:freetext
+Free Text:SANR\9:freetext
+Free Text:SANR\A:freetext
+Free Text:SANR\A:freetext
+Free Text:SANR\B:freetext
+Free Text:SANR\B:freetext
 Free Text:SANT\1:freetext
 Free Text:SANT\1A:freetext
+Free Text:SANT\1B:freetext
+Free Text:SANT\1C:freetext
+Free Text:SANT\1C:freetext
 Free Text:SANT\2:freetext
+Free Text:SANT\2A:freetext
 Free Text:SANT\3:freetext
 Free Text:SANT\4:freetext
 Free Text:SANT\5:freetext
+Free Text:SANT\5A:freetext
 Free Text:SANT\6:freetext
+Free Text:SANT\6A:freetext
+Free Text:SANT\6B:freetext
+Free Text:SANT\A:freetext
 Free Text:SANT\A:freetext
 Free Text:SANT\B:freetext
 Free Text:SANT\C:freetext
 Free Text:SANT\D:freetext
-Free Text:SAOC taxiways\A:freetext
-Free Text:SAOC taxiways\B:freetext
+Free Text:SANT\D:freetext
+Free Text:SAOC\1:freetext
+Free Text:SAOC\2:freetext
+Free Text:SAOC\A:freetext
+Free Text:SAOC\B:freetext
+Free Text:SAOU\1:freetext
+Free Text:SAOU\2:freetext
+Free Text:SAOU\3:freetext
+Free Text:SAOU\4:freetext
+Free Text:SAOU\5:freetext
+Free Text:SAOU\6:freetext
+Free Text:SAOU\A:freetext
+Free Text:SAOU\A:freetext
+Free Text:SAOU\B:freetext
+Free Text:SAOU\C:freetext
+Free Text:SAOU\C:freetext
 Free Text:SASA\1:freetext
 Free Text:SASA\2:freetext
 Free Text:SASA\3:freetext
+Free Text:SASA\3A:freetext
+Free Text:SASA\3B:freetext
 Free Text:SASA\4:freetext
-Free Text:SASA\5:freetext
+Free Text:SASA\4A:freetext
 Free Text:SASA\6:freetext
+Free Text:SASA\6A:freetext
+Free Text:SASA\7:freetext
+Free Text:SASA\7A:freetext
+Free Text:SASA\A:freetext
 Free Text:SASA\A:freetext
 Free Text:SASA\B:freetext
-Free Text:SASJ parkings\1:freetext
-Free Text:SASJ parkings\1A:freetext
-Free Text:SASJ parkings\2:freetext
-Free Text:SASJ parkings\3:freetext
-Free Text:SASJ parkings\4:freetext
-Free Text:SASJ parkings\5:freetext
-Free Text:SASJ parkings\6:freetext
-Free Text:SASJ taxiways\A:freetext
-Free Text:SASJ taxiways\B:freetext
-Free Text:SASJ taxiways\C:freetext
-Geo:Antartida:
+Free Text:SASA\B:freetext
+Free Text:SASA\D:freetext
+Free Text:SASJ\1:freetext
+Free Text:SASJ\1A:freetext
+Free Text:SASJ\2:freetext
+Free Text:SASJ\3:freetext
+Free Text:SASJ\4:freetext
+Free Text:SASJ\5:freetext
+Free Text:SASJ\A:freetext
+Free Text:SASJ\A:freetext
+Free Text:SASJ\B:freetext
+Free Text:SASJ\C:freetext
+Free Text:SASJ\C:freetext
+Geo:CordobaControl:
 Geo:GEO:
-Geo:SACA:
-Geo:SACE:
+Geo:SACE_SACA:
+Geo:SACF_S_N:
 Geo:SACO:
 Geo:SACT:
 Geo:SANC:
@@ -304,6 +383,10 @@ Geo:SANT:
 Geo:SANU:
 Geo:SAOC:
 Geo:SAOM:
+Geo:SAOS:
+Geo:SAOU:
+Geo:SASA:
+Geo:SASJ:
 High airways:UA306:line
 High airways:UA306:name
 High airways:UA307:line
@@ -777,22 +860,9 @@ Low airways:Z116:name
 NDBs:LAR:frequency
 NDBs:LAR:name
 NDBs:LAR:symbol
-Regions:SAAR:polygon
-Regions:SABE:polygon
 Regions:SACO:polygon
-Regions:SADF:polygon
-Regions:SAEZ:polygon
-Regions:SAME:polygon
-Regions:SANR:polygon
 Regions:SANT:polygon
-Regions:SARE:polygon
-Regions:SARF:polygon
-Regions:SARI:polygon
 Regions:SASA:polygon
-Regions:SAWC:polygon
-Regions:SAZB:polygon
-Regions:SAZN:polygon
-Regions:SAZS:polygon
 Runways:SANI TINOGASTA 14-32:centerline
 Runways:SANI TINOGASTA 14-32:extended centerline 1
 Runways:SANI TINOGASTA 14-32:extended centerline 1 left base

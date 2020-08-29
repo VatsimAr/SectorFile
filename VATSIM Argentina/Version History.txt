@@ -21,6 +21,17 @@ Actualizado por Esteban Palacios
     -se modifico los asr de sabe y baires
     -se agrego arco radar 100nm y 150nm de eze en saef
     -se modifico asr saef
+    -se agrego region al aeropuerto de cordoba 
+    - se creo asr para saco gnd
+    - se agrego geo a saca y sace
+    - se agrego ils pista 19 saco
+    - se creo asr para el ctr de cordoba
+    - se creo geo para cordoba control con minimos de nivel de vuelo
+    - se creo asr para cordoba control
+    - se corrio geo de sanl, sanc, sasj, saoc, saos
+    - se mejoro la region de sant y sasa
+    - se corrigieron posiciones de estacionaminto, en toda la fir de cordoba
+    - se modifico el asr de la fir de cordoba
     
 ==============================
 ==============================

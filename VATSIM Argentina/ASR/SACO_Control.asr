@@ -1,0 +1,145 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Users\esteban\Documents\GitHub\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
+SECTORTITLE:VATSIM Argentina.sct
+ARTCC high boundary:TMACordoba:
+Fixes:AGUAD:name
+Fixes:AGUAD:symbol
+Fixes:ALDEX:name
+Fixes:ALDEX:symbol
+Fixes:ASEMI:name
+Fixes:ASEMI:symbol
+Fixes:ASISA:name
+Fixes:ASISA:symbol
+Fixes:DONKA:name
+Fixes:DONKA:symbol
+Fixes:ESUBO:name
+Fixes:ESUBO:symbol
+Fixes:ETEPO:name
+Fixes:ETEPO:symbol
+Fixes:GEMOP:name
+Fixes:GEMOP:symbol
+Fixes:GENAS:name
+Fixes:GENAS:symbol
+Fixes:GUVUX:name
+Fixes:GUVUX:symbol
+Fixes:IRAVO:name
+Fixes:IRAVO:symbol
+Fixes:IRETI:name
+Fixes:IRETI:symbol
+Fixes:KOVEV:name
+Fixes:KOVEV:symbol
+Fixes:LOGET:name
+Fixes:LOGET:symbol
+Fixes:LOKOT:name
+Fixes:LOKOT:symbol
+Fixes:MAVBI:name
+Fixes:MAVBI:symbol
+Fixes:NUXAB:name
+Fixes:NUXAB:symbol
+Fixes:OSUDA:name
+Fixes:OSUDA:symbol
+Fixes:PAGAR:name
+Fixes:PAGAR:symbol
+Fixes:PAMAK:name
+Fixes:PAMAK:symbol
+Fixes:PUPAT:name
+Fixes:PUPAT:symbol
+Fixes:RAXOB:name
+Fixes:RAXOB:symbol
+Fixes:RENUK:name
+Fixes:RENUK:symbol
+Fixes:RIQUE:name
+Fixes:RIQUE:symbol
+Fixes:SIBOL:name
+Fixes:SIBOL:symbol
+Fixes:SIGAT:name
+Fixes:SIGAT:symbol
+Fixes:SILAV:name
+Fixes:SILAV:symbol
+Fixes:SIMES:name
+Fixes:SIMES:symbol
+Fixes:TIRVI:name
+Fixes:TIRVI:symbol
+Fixes:TREJO:name
+Fixes:TREJO:symbol
+Fixes:UTRAX:name
+Fixes:UTRAX:symbol
+Fixes:VULIG:name
+Fixes:VULIG:symbol
+Fixes:VUROT:name
+Fixes:VUROT:symbol
+Fixes:XONEN:name
+Fixes:XONEN:symbol
+Free Text:CordobaControl\FL060:freetext
+Free Text:CordobaControl\FL060:freetext
+Free Text:CordobaControl\FL070:freetext
+Free Text:CordobaControl\FL070:freetext
+Free Text:CordobaControl\FL070:freetext
+Free Text:CordobaControl\FL080:freetext
+Free Text:CordobaControl\FL080:freetext
+Free Text:CordobaControl\FL080:freetext
+Free Text:CordobaControl\FL090:freetext
+Free Text:CordobaControl\FL110:freetext
+Free Text:SACO\1:freetext
+Free Text:SACO\10:freetext
+Free Text:SACO\11:freetext
+Free Text:SACO\12:freetext
+Free Text:SACO\13:freetext
+Free Text:SACO\14:freetext
+Free Text:SACO\15:freetext
+Free Text:SACO\16:freetext
+Free Text:SACO\16A:freetext
+Free Text:SACO\17:freetext
+Free Text:SACO\18:freetext
+Free Text:SACO\19:freetext
+Free Text:SACO\1A:freetext
+Free Text:SACO\2:freetext
+Free Text:SACO\20:freetext
+Free Text:SACO\21:freetext
+Free Text:SACO\22:freetext
+Free Text:SACO\23:freetext
+Free Text:SACO\23A:freetext
+Free Text:SACO\24:freetext
+Free Text:SACO\24A:freetext
+Free Text:SACO\25:freetext
+Free Text:SACO\26:freetext
+Free Text:SACO\26A:freetext
+Free Text:SACO\3:freetext
+Free Text:SACO\4:freetext
+Free Text:SACO\4A:freetext
+Free Text:SACO\5:freetext
+Free Text:SACO\6:freetext
+Free Text:SACO\7:freetext
+Free Text:SACO\7A:freetext
+Free Text:SACO\8:freetext
+Free Text:SACO\9:freetext
+Free Text:SACO\A:freetext
+Free Text:SACO\A:freetext
+Free Text:SACO\B:freetext
+Free Text:SACO\C:freetext
+Geo:CordobaControl:
+Geo:SACE_SACA:
+Geo:SACO:
+NDBs:H:frequency
+NDBs:H:name
+NDBs:H:symbol
+Regions:SACO:polygon
+Regions:SACO_ILS19:polygon
+VORs:CBA:frequency
+VORs:CBA:name
+VORs:CBA:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-36.032881:-84.756810:-18.778459:-44.297314
