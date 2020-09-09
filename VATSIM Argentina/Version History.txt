@@ -9,7 +9,7 @@
 
 ==============================
 
-V7.2 (26/08/2020)
+V7.2 a,b, y c (29/08/2020)
 Actualizado por Esteban Palacios
 	-se agrega Ezeiza Gnd Con las regiones y posiciones de estacionamiento actuales
     -se corrigio problemas con sid y star de aerodromos salen completos por pista y transicion
@@ -28,11 +28,17 @@ Actualizado por Esteban Palacios
     - se creo asr para el ctr de cordoba
     - se creo geo para cordoba control con minimos de nivel de vuelo
     - se creo asr para cordoba control
-    - se corrio geo de sanl, sanc, sasj, saoc, saos
+    - se corrio geo de sanl, sanc, sasj, saoc
     - se mejoro la region de sant y sasa
     - se corrigieron posiciones de estacionaminto, en toda la fir de cordoba
-    - se modifico el asr de la fir de cordoba
-    
+    - se modifico el asr de la fir de mendoza
+    -se agrego region al aeropuerto de mendoza 
+    - se creo asr para same gnd
+    - se creo geo para mendoza control con minimos de nivel de vuelo
+    - se creo asr para mendoza control
+    - se corrio geo de samm, sanu, samr, saor, saos.
+    - se corrigieron posiciones de estacionaminto, en toda la fir de mendoza
+    - se modifico el asr de la fir de mendoza 
 ==============================
 ==============================
 ==============================
