@@ -9,6 +9,41 @@
 
 ==============================
 
+V7.2 a,b, y c (29/08/2020)
+Actualizado por Esteban Palacios
+	-se agrega Ezeiza Gnd Con las regiones y posiciones de estacionamiento actuales
+    -se corrigio problemas con sid y star de aerodromos salen completos por pista y transicion
+    -se remodelo SADM, SADJ
+    -se agrego ils 35 y 11 saez
+    -modificaron los atz de sadf sadp sadj sadm
+    -se agrego atz campo de mayo
+    -se agrago asr saez gnd y saez
+    -se modifico los asr de sabe y baires
+    -se agrego arco radar 100nm y 150nm de eze en saef
+    -se modifico asr saef
+    -se agrego region al aeropuerto de cordoba 
+    - se creo asr para saco gnd
+    - se agrego geo a saca y sace
+    - se agrego ils pista 19 saco
+    - se creo asr para el ctr de cordoba
+    - se creo geo para cordoba control con minimos de nivel de vuelo
+    - se creo asr para cordoba control
+    - se corrio geo de sanl, sanc, sasj, saoc
+    - se mejoro la region de sant y sasa
+    - se corrigieron posiciones de estacionaminto, en toda la fir de cordoba
+    - se modifico el asr de la fir de mendoza
+    -se agrego region al aeropuerto de mendoza 
+    - se creo asr para same gnd
+    - se creo geo para mendoza control con minimos de nivel de vuelo
+    - se creo asr para mendoza control
+    - se corrio geo de samm, sanu, samr, saor, saos.
+    - se corrigieron posiciones de estacionaminto, en toda la fir de mendoza
+    - se modifico el asr de la fir de mendoza 
+==============================
+==============================
+==============================
+
+
 V7.1 (14/08/2020)
 Actualizado por Esteban Palacios
 	-se corrigio problemas con sid y star de aerodromos(salian todos juntos)

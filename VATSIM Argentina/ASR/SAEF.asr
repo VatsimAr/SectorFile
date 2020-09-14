@@ -1,9 +1,10 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:VATSIM Argentina.sct
+SECTORFILE:D:\Users\esteban\Documents\GitHub\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
 SECTORTITLE:VATSIM Argentina.sct
 ARTCC boundary:FIREZEIZA:
+ARTCC high boundary:TMABaires:
 Fixes:AKPUR:name
 Fixes:AKPUR:symbol
 Fixes:ALGIL:name
@@ -330,108 +331,317 @@ Fixes:VUMKI:name
 Fixes:VUMKI:symbol
 Fixes:XOPIS:name
 Fixes:XOPIS:symbol
+Free Text:SAAP\1:freetext
+Free Text:SAAP\2:freetext
+Free Text:SAAP\3:freetext
+Free Text:SAAP\4:freetext
+Free Text:SAAP\5:freetext
+Free Text:SAAP\A:freetext
+Free Text:SAAP\A:freetext
+Free Text:SAAP\A:freetext
+Free Text:SAAP\A:freetext
+Free Text:SAAP\A:freetext
+Free Text:SAAP\B:freetext
+Free Text:SAAP\B:freetext
+Free Text:SAAP\C:freetext
+Free Text:SAAP\D:freetext
+Free Text:SAAP\E:freetext
 Free Text:SAAR\1:freetext
+Free Text:SAAR\1A:freetext
+Free Text:SAAR\1B:freetext
 Free Text:SAAR\2:freetext
+Free Text:SAAR\2A:freetext
+Free Text:SAAR\2B:freetext
 Free Text:SAAR\3:freetext
+Free Text:SAAR\3A:freetext
+Free Text:SAAR\3B:freetext
 Free Text:SAAR\4:freetext
+Free Text:SAAR\4A:freetext
+Free Text:SAAR\4B:freetext
 Free Text:SAAR\5:freetext
+Free Text:SAAR\6:freetext
+Free Text:SAAR\7:freetext
+Free Text:SAAR\A:freetext
 Free Text:SAAR\A:freetext
 Free Text:SAAR\B:freetext
-Free Text:SABE taxiways\1:freetext
-Free Text:SABE taxiways\1W:freetext
-Free Text:SABE taxiways\2:freetext
-Free Text:SABE taxiways\2W:freetext
-Free Text:SABE taxiways\3:freetext
-Free Text:SABE taxiways\3W:freetext
-Free Text:SABE taxiways\4:freetext
-Free Text:SABE taxiways\5:freetext
-Free Text:SABE taxiways\A:freetext
-Free Text:SABE taxiways\B:freetext
-Free Text:SABE taxiways\C:freetext
-Free Text:SABE taxiways\D:freetext
-Free Text:SABE taxiways\E:freetext
+Free Text:SAAR\B:freetext
+Free Text:SAAR\D:freetext
+Free Text:SAAR\E:freetext
+Free Text:SABE\1:freetext
+Free Text:SABE\1:freetext
+Free Text:SABE\10:freetext
+Free Text:SABE\11:freetext
+Free Text:SABE\12:freetext
+Free Text:SABE\13:freetext
+Free Text:SABE\14:freetext
+Free Text:SABE\15:freetext
+Free Text:SABE\16:freetext
+Free Text:SABE\17:freetext
+Free Text:SABE\18:freetext
+Free Text:SABE\18A:freetext
+Free Text:SABE\19:freetext
+Free Text:SABE\1W:freetext
+Free Text:SABE\2:freetext
+Free Text:SABE\2:freetext
+Free Text:SABE\20:freetext
+Free Text:SABE\21:freetext
+Free Text:SABE\22:freetext
+Free Text:SABE\23:freetext
+Free Text:SABE\24:freetext
+Free Text:SABE\25:freetext
+Free Text:SABE\26:freetext
+Free Text:SABE\27:freetext
+Free Text:SABE\28:freetext
+Free Text:SABE\29:freetext
+Free Text:SABE\2W:freetext
+Free Text:SABE\3:freetext
+Free Text:SABE\3:freetext
+Free Text:SABE\30:freetext
+Free Text:SABE\31:freetext
+Free Text:SABE\32:freetext
+Free Text:SABE\33:freetext
+Free Text:SABE\39:freetext
+Free Text:SABE\3W:freetext
+Free Text:SABE\4:freetext
+Free Text:SABE\4:freetext
+Free Text:SABE\40:freetext
+Free Text:SABE\41:freetext
+Free Text:SABE\42:freetext
+Free Text:SABE\43:freetext
+Free Text:SABE\44:freetext
+Free Text:SABE\45:freetext
+Free Text:SABE\46:freetext
+Free Text:SABE\47:freetext
+Free Text:SABE\48:freetext
+Free Text:SABE\49:freetext
+Free Text:SABE\5:freetext
+Free Text:SABE\5:freetext
+Free Text:SABE\50:freetext
+Free Text:SABE\51:freetext
+Free Text:SABE\52:freetext
+Free Text:SABE\53:freetext
+Free Text:SABE\54:freetext
+Free Text:SABE\55:freetext
+Free Text:SABE\56:freetext
+Free Text:SABE\6:freetext
+Free Text:SABE\66:freetext
+Free Text:SABE\67:freetext
+Free Text:SABE\68:freetext
+Free Text:SABE\69:freetext
+Free Text:SABE\7:freetext
+Free Text:SABE\8:freetext
+Free Text:SABE\9:freetext
+Free Text:SABE\A:freetext
+Free Text:SABE\C:freetext
+Free Text:SABE\E:freetext
 Free Text:SADF\1:freetext
+Free Text:SADF\1-A:freetext
 Free Text:SADF\2:freetext
+Free Text:SADF\2-A:freetext
+Free Text:SADF\2-B:freetext
 Free Text:SADF\3:freetext
+Free Text:SADF\3-A:freetext
 Free Text:SADF\4:freetext
+Free Text:SADF\4-A:freetext
+Free Text:SADF\4-B:freetext
 Free Text:SADF\A:freetext
 Free Text:SADF\A:freetext
 Free Text:SADF\A:freetext
 Free Text:SADF\B:freetext
 Free Text:SADF\C:freetext
-Free Text:SADM taxiways\ A:freetext
-Free Text:SADM taxiways\ A:freetext
-Free Text:SADM taxiways\ A:freetext
-Free Text:SADM taxiways\ B:freetext
-Free Text:SADM taxiways\ C:freetext
-Free Text:SADM taxiways\ D:freetext
-Free Text:SADM taxiways\ E:freetext
-Free Text:SADM taxiways\ F:freetext
-Free Text:SAEZ parkings\10:freetext
-Free Text:SAEZ parkings\11:freetext
-Free Text:SAEZ parkings\12:freetext
-Free Text:SAEZ parkings\13:freetext
-Free Text:SAEZ parkings\14:freetext
-Free Text:SAEZ parkings\15:freetext
-Free Text:SAEZ parkings\16:freetext
-Free Text:SAEZ parkings\17:freetext
-Free Text:SAEZ parkings\18:freetext
-Free Text:SAEZ parkings\2:freetext
-Free Text:SAEZ parkings\22:freetext
-Free Text:SAEZ parkings\23:freetext
-Free Text:SAEZ parkings\24:freetext
-Free Text:SAEZ parkings\25:freetext
-Free Text:SAEZ parkings\3:freetext
-Free Text:SAEZ parkings\33:freetext
-Free Text:SAEZ parkings\33A:freetext
-Free Text:SAEZ parkings\33B:freetext
-Free Text:SAEZ parkings\34:freetext
-Free Text:SAEZ parkings\34A:freetext
-Free Text:SAEZ parkings\34B:freetext
-Free Text:SAEZ parkings\34C:freetext
-Free Text:SAEZ parkings\35:freetext
-Free Text:SAEZ parkings\35A:freetext
-Free Text:SAEZ parkings\35B:freetext
-Free Text:SAEZ parkings\36:freetext
-Free Text:SAEZ parkings\37:freetext
-Free Text:SAEZ parkings\4:freetext
-Free Text:SAEZ parkings\40:freetext
-Free Text:SAEZ parkings\41:freetext
-Free Text:SAEZ parkings\42:freetext
-Free Text:SAEZ parkings\43:freetext
-Free Text:SAEZ parkings\44:freetext
-Free Text:SAEZ parkings\45:freetext
-Free Text:SAEZ parkings\46:freetext
-Free Text:SAEZ parkings\47:freetext
-Free Text:SAEZ parkings\5:freetext
-Free Text:SAEZ parkings\50:freetext
-Free Text:SAEZ parkings\51:freetext
-Free Text:SAEZ parkings\52:freetext
-Free Text:SAEZ parkings\53:freetext
-Free Text:SAEZ parkings\54:freetext
-Free Text:SAEZ parkings\55:freetext
-Free Text:SAEZ parkings\6:freetext
-Free Text:SAEZ parkings\7:freetext
-Free Text:SAEZ parkings\8:freetext
-Free Text:SAEZ parkings\9:freetext
-Free Text:SAEZ taxiways\A:freetext
-Free Text:SAEZ taxiways\B:freetext
-Free Text:SAEZ taxiways\C:freetext
-Free Text:SAEZ taxiways\D:freetext
-Free Text:SAEZ taxiways\E:freetext
-Free Text:SAEZ taxiways\F:freetext
-Free Text:SAEZ taxiways\G:freetext
-Free Text:SAEZ taxiways\H:freetext
-Free Text:SAEZ taxiways\J:freetext
+Free Text:SADJ\A:freetext
+Free Text:SADJ\A:freetext
+Free Text:SADJ\B:freetext
+Free Text:SADJ\C:freetext
+Free Text:SADJ\D:freetext
+Free Text:SADM\A(1):freetext
+Free Text:SADM\A(1):freetext
+Free Text:SADM\A(2):freetext
+Free Text:SADM\B:freetext
+Free Text:SADM\C:freetext
+Free Text:SADM\D:freetext
+Free Text:SADM\E:freetext
+Free Text:SADM\F:freetext
+Free Text:SADM\G:freetext
+Free Text:SADM\H:freetext
+Free Text:SADP\1:freetext
+Free Text:SADP\10:freetext
+Free Text:SADP\11:freetext
+Free Text:SADP\12:freetext
+Free Text:SADP\13:freetext
+Free Text:SADP\14:freetext
+Free Text:SADP\2:freetext
+Free Text:SADP\3:freetext
+Free Text:SADP\4:freetext
+Free Text:SADP\5:freetext
+Free Text:SADP\6:freetext
+Free Text:SADP\7:freetext
+Free Text:SADP\8:freetext
+Free Text:SADP\9:freetext
+Free Text:SADP\A:freetext
+Free Text:SADP\A:freetext
+Free Text:SADP\A:freetext
+Free Text:SADP\A-1:freetext
+Free Text:SADP\A-2:freetext
+Free Text:SADP\B:freetext
+Free Text:SADP\B:freetext
+Free Text:SADP\B:freetext
+Free Text:SADP\C:freetext
+Free Text:SADP\D:freetext
+Free Text:SAEZ\10:freetext
+Free Text:SAEZ\11:freetext
+Free Text:SAEZ\11A:freetext
+Free Text:SAEZ\11B:freetext
+Free Text:SAEZ\12:freetext
+Free Text:SAEZ\13:freetext
+Free Text:SAEZ\14:freetext
+Free Text:SAEZ\14A:freetext
+Free Text:SAEZ\14B:freetext
+Free Text:SAEZ\15:freetext
+Free Text:SAEZ\15A:freetext
+Free Text:SAEZ\15B:freetext
+Free Text:SAEZ\16:freetext
+Free Text:SAEZ\16A:freetext
+Free Text:SAEZ\16B:freetext
+Free Text:SAEZ\17:freetext
+Free Text:SAEZ\17A:freetext
+Free Text:SAEZ\17B:freetext
+Free Text:SAEZ\18:freetext
+Free Text:SAEZ\18A:freetext
+Free Text:SAEZ\18B:freetext
+Free Text:SAEZ\2:freetext
+Free Text:SAEZ\3:freetext
+Free Text:SAEZ\33:freetext
+Free Text:SAEZ\33A:freetext
+Free Text:SAEZ\33B:freetext
+Free Text:SAEZ\34:freetext
+Free Text:SAEZ\34A:freetext
+Free Text:SAEZ\34B:freetext
+Free Text:SAEZ\34C:freetext
+Free Text:SAEZ\35:freetext
+Free Text:SAEZ\35A:freetext
+Free Text:SAEZ\35B:freetext
+Free Text:SAEZ\36:freetext
+Free Text:SAEZ\36A:freetext
+Free Text:SAEZ\37:freetext
+Free Text:SAEZ\4:freetext
+Free Text:SAEZ\40:freetext
+Free Text:SAEZ\41:freetext
+Free Text:SAEZ\42:freetext
+Free Text:SAEZ\43:freetext
+Free Text:SAEZ\43A:freetext
+Free Text:SAEZ\43B:freetext
+Free Text:SAEZ\44:freetext
+Free Text:SAEZ\44A:freetext
+Free Text:SAEZ\45:freetext
+Free Text:SAEZ\46:freetext
+Free Text:SAEZ\47:freetext
+Free Text:SAEZ\5:freetext
+Free Text:SAEZ\50:freetext
+Free Text:SAEZ\50A:freetext
+Free Text:SAEZ\50B:freetext
+Free Text:SAEZ\51:freetext
+Free Text:SAEZ\51A:freetext
+Free Text:SAEZ\52:freetext
+Free Text:SAEZ\52A:freetext
+Free Text:SAEZ\52B:freetext
+Free Text:SAEZ\53:freetext
+Free Text:SAEZ\53A:freetext
+Free Text:SAEZ\54:freetext
+Free Text:SAEZ\54A:freetext
+Free Text:SAEZ\55:freetext
+Free Text:SAEZ\55A:freetext
+Free Text:SAEZ\55B:freetext
+Free Text:SAEZ\56:freetext
+Free Text:SAEZ\56A:freetext
+Free Text:SAEZ\56B:freetext
+Free Text:SAEZ\57:freetext
+Free Text:SAEZ\58:freetext
+Free Text:SAEZ\59:freetext
+Free Text:SAEZ\6:freetext
+Free Text:SAEZ\60:freetext
+Free Text:SAEZ\61:freetext
+Free Text:SAEZ\61A:freetext
+Free Text:SAEZ\61B:freetext
+Free Text:SAEZ\61C:freetext
+Free Text:SAEZ\62:freetext
+Free Text:SAEZ\62A:freetext
+Free Text:SAEZ\62B:freetext
+Free Text:SAEZ\62C:freetext
+Free Text:SAEZ\63:freetext
+Free Text:SAEZ\63A:freetext
+Free Text:SAEZ\63B:freetext
+Free Text:SAEZ\63C:freetext
+Free Text:SAEZ\64:freetext
+Free Text:SAEZ\64A:freetext
+Free Text:SAEZ\64B:freetext
+Free Text:SAEZ\64C:freetext
+Free Text:SAEZ\65:freetext
+Free Text:SAEZ\65A:freetext
+Free Text:SAEZ\65B:freetext
+Free Text:SAEZ\65C:freetext
+Free Text:SAEZ\66:freetext
+Free Text:SAEZ\66A:freetext
+Free Text:SAEZ\66B:freetext
+Free Text:SAEZ\66C:freetext
+Free Text:SAEZ\67A:freetext
+Free Text:SAEZ\7:freetext
+Free Text:SAEZ\70:freetext
+Free Text:SAEZ\71:freetext
+Free Text:SAEZ\72:freetext
+Free Text:SAEZ\73:freetext
+Free Text:SAEZ\74:freetext
+Free Text:SAEZ\74A:freetext
+Free Text:SAEZ\74B:freetext
+Free Text:SAEZ\75:freetext
+Free Text:SAEZ\75A:freetext
+Free Text:SAEZ\75B:freetext
+Free Text:SAEZ\76:freetext
+Free Text:SAEZ\76A:freetext
+Free Text:SAEZ\76B:freetext
+Free Text:SAEZ\77:freetext
+Free Text:SAEZ\77A:freetext
+Free Text:SAEZ\77B:freetext
+Free Text:SAEZ\8:freetext
+Free Text:SAEZ\9:freetext
+Free Text:SAEZ\A:freetext
+Free Text:SAEZ\B:freetext
+Free Text:SAEZ\C:freetext
+Free Text:SAEZ\D:freetext
+Free Text:SAEZ\D:freetext
+Free Text:SAEZ\E:freetext
+Free Text:SAEZ\F:freetext
+Free Text:SAEZ\F:freetext
+Free Text:SAEZ\G:freetext
+Free Text:SAEZ\G:freetext
+Free Text:SAEZ\G:freetext
+Free Text:SAEZ\H:freetext
+Free Text:SAEZ\H:freetext
+Free Text:SAEZ\H:freetext
+Free Text:SAEZ\I:freetext
+Free Text:SAEZ\I:freetext
+Free Text:SAEZ\I:freetext
+Free Text:SAEZ\J:freetext
+Free Text:SAEZ\J:freetext
+Free Text:SAEZ\K:freetext
 Free Text:SAZB\1:freetext
 Free Text:SAZB\2:freetext
 Free Text:SAZB\3:freetext
 Free Text:SAZB\4:freetext
+Free Text:SAZB\5:freetext
+Free Text:SAZB\6:freetext
+Free Text:SAZB\7:freetext
+Free Text:SAZB\8:freetext
 Free Text:SAZB\A:freetext
+Free Text:SAZB\A:freetext
+Free Text:SAZB\B:freetext
+Free Text:SAZB\B:freetext
 Free Text:SAZB\B:freetext
 Free Text:SAZB\C:freetext
 Free Text:SAZB\D:freetext
 Free Text:SAZB\E:freetext
+Free Text:SAZB\E:freetext
+Free Text:SAZB\F:freetext
 Free Text:SAZB\F:freetext
 Free Text:SAZB\G:freetext
 Free Text:SAZB\H:freetext
@@ -439,16 +649,20 @@ Free Text:SAZM\1:freetext
 Free Text:SAZM\10:freetext
 Free Text:SAZM\11:freetext
 Free Text:SAZM\12:freetext
+Free Text:SAZM\12A:freetext
 Free Text:SAZM\2:freetext
 Free Text:SAZM\3:freetext
 Free Text:SAZM\4:freetext
 Free Text:SAZM\5:freetext
+Free Text:SAZM\5A:freetext
 Free Text:SAZM\6:freetext
 Free Text:SAZM\7:freetext
 Free Text:SAZM\8:freetext
 Free Text:SAZM\9:freetext
 Free Text:SAZM\A:freetext
 Free Text:SAZM\B:freetext
+Free Text:SAZM\B:freetext
+Free Text:SAZM\C:freetext
 Free Text:SAZN\1:freetext
 Free Text:SAZN\2:freetext
 Free Text:SAZN\3:freetext
@@ -457,10 +671,17 @@ Free Text:SAZN\5:freetext
 Free Text:SAZN\6:freetext
 Free Text:SAZN\7:freetext
 Free Text:SAZN\8:freetext
-Free Text:SAZN\9:freetext
 Free Text:SAZN\A:freetext
 Free Text:SAZN\B:freetext
 Free Text:SAZN\C:freetext
+Free Text:SAZN\C:freetext
+Free Text:SAZR\1:freetext
+Free Text:SAZR\2:freetext
+Free Text:SAZR\2A:freetext
+Free Text:SAZR\3:freetext
+Free Text:SAZR\3A:freetext
+Free Text:SAZR\4:freetext
+Free Text:SAZR\A:freetext
 Free Text:SAZS\1:freetext
 Free Text:SAZS\10:freetext
 Free Text:SAZS\2:freetext
@@ -468,22 +689,33 @@ Free Text:SAZS\3:freetext
 Free Text:SAZS\4:freetext
 Free Text:SAZS\5:freetext
 Free Text:SAZS\5B:freetext
+Free Text:SAZS\5C:freetext
 Free Text:SAZS\6:freetext
 Free Text:SAZS\7:freetext
 Free Text:SAZS\8:freetext
-Free Text:SAZS\9:freetext
+Free Text:SAZS\A:freetext
 Free Text:SAZS\A:freetext
 Free Text:SAZS\B:freetext
 Free Text:SAZS\C:freetext
-Geo:Antartida:
+Free Text:SAZT\1:freetext
+Free Text:SAZT\A:freetext
+Free Text:SAZY\1:freetext
+Free Text:SAZY\2:freetext
+Free Text:SAZY\3:freetext
+Free Text:SAZY\3A:freetext
+Free Text:SAZY\3B:freetext
+Free Text:SAZY\4:freetext
+Free Text:SAZY\5:freetext
+Free Text:SAZY\A:freetext
 Geo:GEO:
+Geo:RadarSAEF:
 Geo:SAAC:
 Geo:SAAG:
 Geo:SAAJ:
 Geo:SAAN Airport:
-Geo:SAAP Airport:
+Geo:SAAP:
 Geo:SAAR:
-Geo:SAAV Airport:
+Geo:SAAV:
 Geo:SABE:
 Geo:SADF:
 Geo:SADJ:
@@ -491,7 +723,8 @@ Geo:SADL:
 Geo:SADM:
 Geo:SADO:
 Geo:SADP:
-Geo:SAEZ:
+Geo:SAEF:
+Geo:SAEF_N_S:
 Geo:SAZB:
 Geo:SAZG:
 Geo:SAZM:
@@ -998,13 +1231,10 @@ NDBs:PTA:symbol
 NDBs:SVO:frequency
 NDBs:SVO:name
 NDBs:SVO:symbol
-Regions:SAAR:polygon
 Regions:SABE:polygon
 Regions:SADF:polygon
+Regions:SADP:polygon
 Regions:SAEZ:polygon
-Regions:SAZB:polygon
-Regions:SAZN:polygon
-Regions:SAZS:polygon
 Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:centerline
 Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 1
 Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 1 left ticks
@@ -1096,4 +1326,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-42.286649:-77.673143:-29.813474:-48.425083
+WINDOWAREA:-41.993349:-75.049479:-29.256425:-45.801419
