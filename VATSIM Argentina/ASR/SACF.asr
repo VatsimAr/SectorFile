@@ -220,16 +220,6 @@ Fixes:VURTA:name
 Fixes:VURTA:symbol
 Fixes:VUSDI:name
 Fixes:VUSDI:symbol
-Free Text:CordobaControl\FL060:freetext
-Free Text:CordobaControl\FL060:freetext
-Free Text:CordobaControl\FL070:freetext
-Free Text:CordobaControl\FL070:freetext
-Free Text:CordobaControl\FL070:freetext
-Free Text:CordobaControl\FL080:freetext
-Free Text:CordobaControl\FL080:freetext
-Free Text:CordobaControl\FL080:freetext
-Free Text:CordobaControl\FL090:freetext
-Free Text:CordobaControl\FL110:freetext
 Free Text:SACO\1:freetext
 Free Text:SACO\10:freetext
 Free Text:SACO\11:freetext
@@ -367,7 +357,6 @@ Free Text:SASJ\A:freetext
 Free Text:SASJ\B:freetext
 Free Text:SASJ\C:freetext
 Free Text:SASJ\C:freetext
-Geo:CordobaControl:
 Geo:GEO:
 Geo:SACE_SACA:
 Geo:SACF_S_N:
@@ -965,4 +954,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-36.032881:-84.756810:-18.778459:-44.297314
+WINDOWAREA:-34.830662:-78.499066:-20.735243:-46.131470

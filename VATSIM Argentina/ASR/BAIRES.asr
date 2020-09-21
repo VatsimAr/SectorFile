@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:..\VATSIM Argentina.sct
+SECTORFILE:D:\Users\esteban\Documents\GitHub\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
 SECTORTITLE:VATSIM Argentina.sct
 ARTCC high boundary:TMABaires:
 ARTCC low boundary:ATZMayo:
@@ -377,8 +377,8 @@ LEADER:10
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
-SIMULATION_MODE:4
+SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-34.852277:-58.610374:-34.785713:-58.457522
+WINDOWAREA:-36.001409:-61.249150:-33.636581:-55.818746
