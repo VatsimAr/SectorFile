@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Users\esteban\Documents\GitHub\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
 SECTORTITLE:VATSIM Argentina.sct
 ARTCC high boundary:TMABaires:
 ARTCC low boundary:ATZMayo:
@@ -370,7 +369,7 @@ VORs:SNT:frequency
 VORs:SNT:name
 VORs:SNT:symbol
 SHOWC:1
-SHOWSB:1
+SHOWSB:0
 BELOW:0
 ABOVE:0
 LEADER:10
