@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:VATSIM Argentina.sct
+SECTORFILE:D:\Users\esteban\Documents\GitHub\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
 SECTORTITLE:VATSIM Argentina.sct
 ARTCC boundary:FIRComodoro:
 Fixes:ANDEX:name
@@ -180,57 +180,104 @@ Fixes:VUKNA:name
 Fixes:VUKNA:symbol
 Fixes:VURGI:name
 Fixes:VURGI:symbol
-Free Text:SAVC parkings\1:freetext
-Free Text:SAVC parkings\2:freetext
-Free Text:SAVC parkings\3:freetext
-Free Text:SAVC parkings\4:freetext
-Free Text:SAVC taxiways\1:freetext
-Free Text:SAVC taxiways\2:freetext
-Free Text:SAVC taxiways\3:freetext
-Free Text:SAVC taxiways\3:freetext
-Free Text:SAVC taxiways\3:freetext
+Free Text:EGYP\A:freetext
+Free Text:EGYP\B:freetext
+Free Text:EGYP\B:freetext
+Free Text:EGYP\C:freetext
+Free Text:EGYP\C:freetext
+Free Text:EGYP\D:freetext
+Free Text:EGYP\D:freetext
+Free Text:EGYP\E:freetext
+Free Text:EGYP\F:freetext
+Free Text:SAVC\1:freetext
+Free Text:SAVC\2:freetext
+Free Text:SAVC\3:freetext
+Free Text:SAVC\3A:freetext
+Free Text:SAVC\3B:freetext
+Free Text:SAVC\4:freetext
+Free Text:SAVC\5:freetext
+Free Text:SAVC\5A:freetext
+Free Text:SAVC\5B:freetext
+Free Text:SAVC\A:freetext
+Free Text:SAVC\A:freetext
+Free Text:SAVC\A:freetext
+Free Text:SAVC\A:freetext
+Free Text:SAVC\B:freetext
+Free Text:SAVC\B:freetext
+Free Text:SAVC\C:freetext
+Free Text:SAVC\C:freetext
+Free Text:SAVE\1:freetext
+Free Text:SAVE\1B:freetext
+Free Text:SAVE\2:freetext
+Free Text:SAVE\3:freetext
 Free Text:SAVE\A:freetext
 Free Text:SAVE\B:freetext
-Free Text:SAVT\1:freetext
+Free Text:SAVE\C:freetext
+Free Text:SAVT\1-A:freetext
 Free Text:SAVT\2:freetext
 Free Text:SAVT\3:freetext
 Free Text:SAVT\4:freetext
+Free Text:SAVT\5:freetext
 Free Text:SAVT\6:freetext
-Free Text:SAVT\7:freetext
-Free Text:SAVT\8:freetext
-Free Text:SAVT\9:freetext
+Free Text:SAVT\A:freetext
 Free Text:SAVT\A:freetext
 Free Text:SAVT\B:freetext
 Free Text:SAVT\C:freetext
 Free Text:SAVT\D:freetext
 Free Text:SAVT\E:freetext
 Free Text:SAVT\F:freetext
+Free Text:SAVT\G:freetext
+Free Text:SAVY\1:freetext
+Free Text:SAVY\1A:freetext
+Free Text:SAVY\2:freetext
+Free Text:SAVY\2A:freetext
+Free Text:SAVY\3:freetext
+Free Text:SAVY\3A:freetext
+Free Text:SAVY\A:freetext
 Free Text:SAWC\1:freetext
 Free Text:SAWC\2:freetext
 Free Text:SAWC\3:freetext
+Free Text:SAWC\4:freetext
+Free Text:SAWC\4A:freetext
+Free Text:SAWC\5:freetext
+Free Text:SAWC\6:freetext
+Free Text:SAWC\7:freetext
+Free Text:SAWC\8:freetext
+Free Text:SAWC\8A:freetext
 Free Text:SAWC\A:freetext
 Free Text:SAWC\B:freetext
+Free Text:SAWC\B:freetext
 Free Text:SAWC\C:freetext
-Free Text:SAWE parkings\1:freetext
-Free Text:SAWE parkings\2:freetext
-Free Text:SAWE parkings\3:freetext
-Free Text:SAWE parkings\4:freetext
-Free Text:SAWE parkings\5:freetext
-Free Text:SAWE taxiways\A:freetext
-Free Text:SAWE taxiways\B:freetext
-Free Text:SAWE taxiways\C:freetext
+Free Text:SAWE\1:freetext
+Free Text:SAWE\2:freetext
+Free Text:SAWE\3:freetext
+Free Text:SAWE\4:freetext
+Free Text:SAWE\5:freetext
+Free Text:SAWE\A:freetext
+Free Text:SAWE\B:freetext
+Free Text:SAWE\C:freetext
 Free Text:SAWG\1:freetext
 Free Text:SAWG\2:freetext
 Free Text:SAWG\3:freetext
+Free Text:SAWG\4:freetext
+Free Text:SAWG\5:freetext
+Free Text:SAWG\A:freetext
 Free Text:SAWG\A:freetext
 Free Text:SAWG\B:freetext
+Free Text:SAWG\B:freetext
+Free Text:SAWG\C:freetext
 Free Text:SAWG\C:freetext
 Free Text:SAWG\D:freetext
+Free Text:SAWG\D:freetext
 Free Text:SAWH\1:freetext
+Free Text:SAWH\1A:freetext
+Free Text:SAWH\2:freetext
 Free Text:SAWH\3:freetext
 Free Text:SAWH\4:freetext
+Free Text:SAWH\5:freetext
 Free Text:SAWH\A:freetext
 Free Text:SAWH\B:freetext
+Free Text:SAWH\C:freetext
 Geo:Antartida:
 Geo:EGYP:
 Geo:GEO:

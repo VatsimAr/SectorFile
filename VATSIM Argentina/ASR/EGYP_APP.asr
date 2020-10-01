@@ -1,0 +1,69 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Users\esteban\Documents\GitHub\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
+SECTORTITLE:VATSIM Argentina.sct
+ARTCC high boundary:CTRMalvinas:
+Fixes:ALPHA:name
+Fixes:ALPHA:symbol
+Fixes:ATOKI:name
+Fixes:ATOKI:symbol
+Fixes:BRAVO:name
+Fixes:BRAVO:symbol
+Fixes:DIGIS:name
+Fixes:DIGIS:symbol
+Fixes:LOMIN:name
+Fixes:LOMIN:symbol
+Fixes:MOSKA:name
+Fixes:MOSKA:symbol
+Fixes:OTAGI:name
+Fixes:OTAGI:symbol
+Free Text:EGYP\A:freetext
+Free Text:EGYP\B:freetext
+Free Text:EGYP\B:freetext
+Free Text:EGYP\C:freetext
+Free Text:EGYP\C:freetext
+Free Text:EGYP\D:freetext
+Free Text:EGYP\D:freetext
+Free Text:EGYP\E:freetext
+Free Text:EGYP\F:freetext
+Free Text:EGYPRADAR\(1200QFE):freetext
+Free Text:EGYPRADAR\(1400QFE):freetext
+Free Text:EGYPRADAR\(1900QFE):freetext
+Free Text:EGYPRADAR\(2400QFE):freetext
+Free Text:EGYPRADAR\(3100QFE):freetext
+Free Text:EGYPRADAR\(3200QFE):freetext
+Free Text:EGYPRADAR\1400:freetext
+Free Text:EGYPRADAR\1600:freetext
+Free Text:EGYPRADAR\2100:freetext
+Free Text:EGYPRADAR\2600:freetext
+Free Text:EGYPRADAR\3300:freetext
+Free Text:EGYPRADAR\3400:freetext
+Geo:EGYP:
+Geo:EGYPRADAR:
+NDBs:MP:frequency
+NDBs:MP:name
+NDBs:MP:symbol
+NDBs:SA:frequency
+NDBs:SA:name
+NDBs:SA:symbol
+Regions:SAWC:polygon
+VORs:MPA:frequency
+VORs:MPA:name
+VORs:MPA:symbol
+VORs:MTP:frequency
+VORs:MTP:name
+VORs:MTP:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-58.975293:-90.708215:-37.494225:-40.337754
