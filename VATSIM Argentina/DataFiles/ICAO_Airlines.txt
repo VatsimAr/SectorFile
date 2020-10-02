@@ -2841,7 +2841,7 @@ JAL	Japan Airlines - Japan	JAPANAIR
 JAM	Sunline Express - Kenya	SUNTRACK
 JAR	Airlink - Austria	AIRLINK
 JAS	Japan Air System Co., Ltd. - Japan	AIR SYSTEM
-JAT	Jat Airways - Serbia	JAT
+JAT	Jetsmart Chile	ROCKSMART
 JAV	Jordan Aviation - Jordan	JORDAN AVIATION
 JAW	Jamahiriya Airways - Libya	JAW
 JAX	Jet America - USA	JET AMERICA
@@ -2879,7 +2879,7 @@ JEK	Jet Link - Israel	JET OPS
 JEL	Tal Air Charters - Canada	JETEL
 JEM	Emerald Airways - United Kingdom	GEMSTONE
 JEP	Jets Personales - Spain	JET PERSONALES
-JES	JS Aviation - Mexico	JAY-ESS AVIATION
+JES	Jetsmart Argentina	SMARTBIRD
 JET	Wind Jet - Italy	GHIBLI
 JEV	Lagun Air - Spain	UNKNOWN
 JEX	JAL Express - Japan	JANEX

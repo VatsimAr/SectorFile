@@ -7006,7 +7006,9 @@ SAAC	Concordia Comodoro Pierres	 Argentina
 SAAG	Gualeguaychu	 Argentina
 SAAI	Punta Indio	 Argentina
 SAAJ	Junin	 Argentina
+SAAK	Isla Martín García	Argentina
 SAAM	Mazaruca	 Argentina
+SAAN	Pergamino	Argentina
 SAAP	Parana General Urquiza	 Argentina
 SAAR	Rosario	 Argentina
 SAAU	Villaguay	 Argentina
@@ -7056,6 +7058,7 @@ SANI	Tinogasta	 Argentina
 SANL	La Rioja Capitan Vicente Alman	 Argentina
 SANM	Pergamino-Saan	 Argentina
 SANO	Chilecito	 Argentina
+SANR	Termas de Río Hondo	Argentina
 SANT	Tucuman (San Miguel Tucuman)	 Argentina
 SANU	San Julian	 Argentina
 SANW	Ceres	 Argentina
@@ -7067,6 +7070,7 @@ SAOM	Marcos Juarez	 Argentina
 SAOR	Villa Reynolds	 Argentina
 SAOU	San Juan	 Argentina
 SAOU	San Luis	 Argentina
+SAOV	Villa María	 Argentina
 SAPC	Chepes	 Argentina
 SARC	Corrientes	 Argentina
 SARE	Resistencia	 Argentina
