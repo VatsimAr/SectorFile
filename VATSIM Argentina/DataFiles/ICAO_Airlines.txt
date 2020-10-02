@@ -1885,6 +1885,7 @@ FBL	Food Brokers Ltd. - United Kingdom	FOOD
 FBN	Afrique Airlines - Benin	AFRIQUE-BENIN
 FBO	TAG Farnborough Airport - United Kingdom	UNKNOWN
 FBW	Aviation Data Systems - United States	UNKNOWN
+FBZ	FlyBondi	BONDI
 FCA	First Choice Airways - United Kingdom	JETSET
 FCC	First Cambodia Airlines - Cambodia	FIRST CAMBODIA
 FCE	Flycolumbia - Spain	FLYCOLUMBIA
