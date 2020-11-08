@@ -20,13 +20,5 @@ Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
 Settings	airportcoords	\DataFiles\ICAO.txt
 Settings	airways	\DataFiles\AIRWAY.txt
 Settings	sector	\VATSIM Argentina.sct
-RecentFiles	Recent2	\ASR\SABE.asr
-RecentFiles	Recent3	\ASR\BAIRES.asr
-RecentFiles	Recent4	\ASR\SAMF.asr
-RecentFiles	Recent5	\ASR\SACF.asr
-RecentFiles	Recent6	\ASR\SADP_GND.asr
-RecentFiles	Recent7	\ASR\SABE_GND.asr
-RecentFiles	Recent8	\ASR\SADF_GND.asr
-RecentFiles	Recent9	\ASR\SAEF.asr
-RecentFiles	Recent10	\ASR\SARR.asr
-RecentFiles	Recent11	\ASR\SAVF.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
