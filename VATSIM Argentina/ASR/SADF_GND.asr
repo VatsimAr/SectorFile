@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:VATSIM Argentina.sct
-SECTORTITLE:VATSIM Argentina.sct
 Free Text:SADF\1:freetext
 Free Text:SADF\1-A:freetext
 Free Text:SADF\2:freetext

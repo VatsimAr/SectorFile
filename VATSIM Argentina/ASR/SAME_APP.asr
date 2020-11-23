@@ -1,62 +1,33 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Users\esteban\Documents\GitHub\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
-SECTORTITLE:VATSIM Argentina.sct
 ARTCC high boundary:TMAMendoza:
-Fixes:DABAL:name
 Fixes:DABAL:symbol
-Fixes:DOSLO:name
 Fixes:DOSLO:symbol
-Fixes:ESITO:name
 Fixes:ESITO:symbol
-Fixes:GUVAD:name
 Fixes:GUVAD:symbol
-Fixes:ILTUH:name
 Fixes:ILTUH:symbol
-Fixes:KAMUV:name
 Fixes:KAMUV:symbol
-Fixes:KEXEV:name
 Fixes:KEXEV:symbol
-Fixes:KOTES:name
 Fixes:KOTES:symbol
-Fixes:LOMAD:name
 Fixes:LOMAD:symbol
-Fixes:MEBRA:name
 Fixes:MEBRA:symbol
-Fixes:MUBEN:name
 Fixes:MUBEN:symbol
-Fixes:MUMAT:name
 Fixes:MUMAT:symbol
-Fixes:NEBEG:name
 Fixes:NEBEG:symbol
-Fixes:NIRTA:name
 Fixes:NIRTA:symbol
-Fixes:PAPIR:name
 Fixes:PAPIR:symbol
-Fixes:ROGOD:name
 Fixes:ROGOD:symbol
-Fixes:ROREX:name
 Fixes:ROREX:symbol
-Fixes:SALBO:name
 Fixes:SALBO:symbol
-Fixes:SIREK:name
 Fixes:SIREK:symbol
-Fixes:SUCUA:name
 Fixes:SUCUA:symbol
-Fixes:TODAR:name
 Fixes:TODAR:symbol
-Fixes:UKLIK:name
 Fixes:UKLIK:symbol
-Fixes:UMKAL:name
 Fixes:UMKAL:symbol
-Fixes:URERI:name
 Fixes:URERI:symbol
-Fixes:VAROR:name
 Fixes:VAROR:symbol
-Fixes:VURSI:name
 Fixes:VURSI:symbol
-Fixes:XOGIV:name
 Fixes:XOGIV:symbol
 Free Text:DOZRADAR\FL060:freetext
 Free Text:DOZRADAR\FL070:freetext
@@ -124,11 +95,9 @@ Free Text:SAME\H:freetext
 Geo:DOZ_RADAR:
 Geo:SAME:
 NDBs:RYD:frequency
-NDBs:RYD:name
 NDBs:RYD:symbol
 Regions:SAME:polygon
 VORs:DOZ:frequency
-VORs:DOZ:name
 VORs:DOZ:symbol
 SHOWC:1
 SHOWSB:1

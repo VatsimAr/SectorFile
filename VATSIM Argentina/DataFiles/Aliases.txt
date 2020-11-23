@@ -3,21 +3,21 @@
 ;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ;
 ; VERSION HISTORY
-; v4.2
+; v5.0
 ;
 ;=================================================
-; ESPA�OL
+; ESPAÑOL
 ;=================================================
 ; TODAS LAS POSICIONES
 ;==============
 
-.invalido Su plan de vuelo est� incorrecto, le envi� por privado la correcci�n
-.bd Buen d�a, adelante
+.invalido Su plan de vuelo está incorrecto, le envio por privado la correccion
+.bd Buen dia, adelante
 .bt Buenas tardes, adelante
 .bn Buenas noches, adelante
 .modoc Transponder modo charlie
 .modos Transponder modo standby
-.999 Mayday recibido. Vientos $winds($arr) - todas las pistas est�n disponibles para su uso. Cuando est� en condiciones notifique intenciones y transponder 7700
+.999 Mayday recibido. Vientos $winds($arr) - todas las pistas estan disponibles para su uso. Cuando este en condiciones notifique intenciones y transponder 7700
 .uni Comunique UNICOM 122.800, buen vuelo!
 .atento Atento.
 
@@ -41,11 +41,11 @@
 ; SUPERFICIE
 ;==============
 
-.auth Autorizado $dep $arr via ruta plan, $ALT, salida $sid RWY$deprwy, ssr$squawk
-.cc Colaci�n correcta, notifique listo para retroceso y encendido
+.auth Autorizado $dep $arr via ruta plan, $ALT hasta $arr, salida $sid RWY$deprwy, ascenso inicial $alt, ssr$squawk
+.cc Colacion correcta, notifique listo para retroceso y encendido
 .re Retroceso y encendido aprobado, notifique listo a rodar
 .ruede Ruede a punto de espera RWY$deprwy via $2
-.ruedepuerta Ruede a posici�n $1 via $2
+.ruedepuerta Ruede a posicion $1 via $2
 .frec Frecuencia, buenas noches
 
 ;==============
@@ -54,18 +54,15 @@
 
 .cdi Se encuentra en condiciones de salida inmediata?
 .om Ocupa y mantenga RWY$deprwy
-.odt Detr�s del tr�nsito aterrizando ocupa y mantenga RWY$deprwy detr�s
+.odt Detras del transito aterrizando ocupa y mantenga RWY$deprwy detras
 .ad Vientos $wind, RWY$deprwy, autorizado a despegar
 .adi Vientos $wind, RWY$deprwy, autorizado a despegar de inmediato
 .aa Vientos $wind($arr), RWY$arrrwy, autorizado a aterrizar
 .esc REALICE ESCAPE, REALICE ESCAPE
-.ca Contin�e aproximaci�n, vientos $wind
-.dn Despeg� $time, notifique cruzando $1
-.al Su arribo $time, libere pr�ximo a su $1
+.ca Continue aproximacion, vientos $wind
+.dn Despego $time, notifique cruzando $1
+.al Su arribo $time, libere proximo a su $1
 .tp Hola! Esta dependencia es una torre procedimental acorde al GRP 4.6 que brinda servicio de control de aproximacion en un radio de 25nm. Por favor, contacteme. ¡Muchas gracias!
-.PSB .msg $aircraft POR FAVOR MANTENGA PARA RECIBIR SU PRE-DEPARTURE CLEARENCE POR MENSAJE PRIVADO.
-.PDC1 .msg $aircraft PRE-DEPARTURE CLEARANCE INICIO | CALL SIGN: $aircraft | TIPO: $type | DEP: $dep | ARR: $arr | TRANSPONDER: $squawk | ALTITUD: $cruise | RUTA APROBADA: $route | SID: $sid | ASCENSO INICIAL $alt | PREVEA PISTA $deprwy
-.PDC2 .msg $aircraft INFORMACION ADICIONAL: >>CONTACTE CON EL CONTROLADOR APROPIADO CON SU TRANSPONDER ASIGNADO Y E INFORMACION ATIS PARA PUSHBACK.<< ESTE MENSAJE SIRVE COMO SU PRE-DEPARTURE CLEARANCE. NO NECESITA RESPONDERLO A MENOS QUE TENGA PREGUNTAS -FIN-
 
 ;==============
 ; APROXIMACION/SALIDA
@@ -78,7 +75,7 @@
 .dir Autorizado DCT $1
 .d Descienda $alt
 .da Descienda $alt ft, Q$altim($arr)
-.esp Realice espera sobre $1 seg�n publicado
+.esp Realice espera sobre $1 segun publicado
 .nra Notifique rumbo actual
 .vi Vire izquierda rumbo $1
 .vd Vire derecha rumbo $1
@@ -88,7 +85,7 @@
 .ns No tiene restricciones de velocidad
 .vri Vectores radar para ILS app RWY$arrrwy
 .autc Autorizado carta $1 app RWY$arrrwy, Q$altim($arr), notifique iniciando procedimiento
-.autv Autorizado aproximaci�n visual RWY$arrrwy, notifique final
+.autv Autorizado aproximacion visual RWY$arrrwy, notifique final
 
 ;==============
 ; CENTRO
@@ -99,7 +96,7 @@
 .ada Descienda a $alt para alcanzar sobre $1
 .ar Posterior $1 autorizado $2 RWY$arrrwy
 .bye Servicio radar terminado, comunique UNICOM 122.800
-.di Despeg� $time, identificado radar cruzando $calt
+.di Despego $time, identificado radar cruzando $calt
 
 ;==============
 ; COORDINACION
@@ -149,9 +146,6 @@
 .eruede Taxi to h/p RWY$deprwy via twys $1
 .eruedepuerta Taxi to stand $1 via twys $2
 .efrec Shutdown approved, good night
-.PSBI .msg $aircraft STAND BY FOR PRE-DEPARTURE CLEARANCE VIA PM. IF UNABLE PM ADVISE.
-.ePDC1 .msg $aircraft PRE-DEPARTURE CLEARANCE START | CALL SIGN: $aircraft | TYPE: $type | DEP: $dep | ARR: $arr | TRANSPONDER: $squawk | ALTITUDE: $cruise | APPROVED ROUTE: $route | INITIAL CLIMB $cfl | EXPECT RWY $deprwy
-.ePDC2 .msg $aircraft ADDITIONAL INFO: >>CONTACT APPROPRIATE CONTROLLER WITH ASSIGNED TRANSPONDER CODE AND CURRENT ATIS FOR TAXI.<< THIS MESSAGE SERVES AS YOUR PRE-DEPARTURE CLEARANCE. NO NEED TO REPLY UNLESS YOU HAVE QUESTIONS -END-
 
 ;==============
 ; TOWER
@@ -202,3 +196,15 @@
 .ear After $1 cleared $2 arrival for RWY$arrrwy
 .ebye Radar service terminated, no further ATC available, frequency change approved, unicom 122.8
 .edi Airbone $time, radar identified passing $calt
+
+;==============
+; PDC
+;==============
+
+.PSB .msg $aircraft POR FAVOR MANTENGA PARA RECIBIR SU PRE-DEPARTURE CLEARENCE POR MENSAJE PRIVADO.
+.PDC1 .msg $aircraft PRE-DEPARTURE CLEARANCE INICIO | CALL SIGN: $aircraft | TIPO: $type | DEP: $dep | ARR: $arr | TRANSPONDER: $squawk | ALTITUD: $cruise | RUTA APROBADA: $route | SID: $sid | ASCENSO INICIAL $alt | PREVEA PISTA $deprwy
+.PDC2 .msg $aircraft INFORMACION ADICIONAL: >>CONTACTE CON EL CONTROLADOR APROPIADO CON SU TRANSPONDER ASIGNADO Y E INFORMACION ATIS PARA PUSHBACK.<< ESTE MENSAJE SIRVE COMO SU PRE-DEPARTURE CLEARANCE. NO NECESITA RESPONDERLO A MENOS QUE TENGA PREGUNTAS -FIN-
+
+.EPSB .msg $aircraft STAND BY FOR PRE-DEPARTURE CLEARANCE VIA PM. IF UNABLE PM ADVISE.
+.EPDC1 .msg $aircraft PRE-DEPARTURE CLEARANCE START | CALL SIGN: $aircraft | TYPE: $type | DEP: $dep | ARR: $arr | TRANSPONDER: $squawk | ALTITUDE: $cruise | APPROVED ROUTE: $route | SID: $sid | INITIAL CLIMB $cfl | EXPECT RWY $deprwy
+.EPDC2 .msg $aircraft ADDITIONAL INFO: >>CONTACT APPROPRIATE CONTROLLER WITH ASSIGNED TRANSPONDER CODE AND CURRENT ATIS FOR TAXI.<< THIS MESSAGE SERVES AS YOUR PRE-DEPARTURE CLEARANCE. NO NEED TO REPLY UNLESS YOU HAVE QUESTIONS -END-

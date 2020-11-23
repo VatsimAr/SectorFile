@@ -2,10 +2,18 @@
 
       	VATSIM Argentina - SECTOR FILE PARA EUROSCOPE
 
-          			VERSION ACTUAL 7
+          			VERSION ACTUAL 8.0
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
+V8 (23/11/2020)
+Actualizado por Mariano Lopez y Javier Escandarani
+	- Adaptación de la pantalla radar a la de la vida real
+	- Actualización de SID, STAR y RWYs y de todo el país
+	- Actualización de AIRAC a 
+	- Actualización de aerolíneas
+	- Actualización de aliases
+	- Arreglo de puntos y niveles de transferencia entre dependencias
 
 ==============================
 
@@ -39,10 +47,8 @@ Actualizado por Esteban Palacios
     - se corrio geo de samm, sanu, samr, saor, saos.
     - se corrigieron posiciones de estacionaminto, en toda la fir de mendoza
     - se modifico el asr de la fir de mendoza 
-==============================
-==============================
-==============================
 
+==============================
 
 V7.1 (14/08/2020)
 Actualizado por Esteban Palacios
@@ -58,8 +64,6 @@ Actualizado por Esteban Palacios
 	-se agrego asr sadp_gnd , sabe_gnd y sanfer_gnd
 
 ==============================
-==============================
-==============================
 
 V7 (27/07/2020)
 Actualizado por Javier Escandarani , Esteban Palacios & Mariano Lopez
@@ -72,7 +76,6 @@ Actualizado por Javier Escandarani , Esteban Palacios & Mariano Lopez
 	-se reacomodo el sistema de iluminacion de espacios aereos interiores y adyacemtes conectados
 	-se actualiza el sistema de armado de sectores.
 
-==============================
 ==============================
 
 V6.4 (03/06/2020)

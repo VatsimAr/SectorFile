@@ -1,112 +1,58 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:VATSIM Argentina.sct
-SECTORTITLE:VATSIM Argentina.sct
 ARTCC boundary:FIRResistencia:
-Fixes:AKPEL:name
 Fixes:AKPEL:symbol
-Fixes:ARPAS:name
 Fixes:ARPAS:symbol
-Fixes:ARULA:name
 Fixes:ARULA:symbol
-Fixes:ASELO:name
 Fixes:ASELO:symbol
-Fixes:ASGAS:name
 Fixes:ASGAS:symbol
-Fixes:BITUS:name
 Fixes:BITUS:symbol
-Fixes:BOBIK:name
 Fixes:BOBIK:symbol
-Fixes:BOKIL:name
 Fixes:BOKIL:symbol
-Fixes:BUPLA:name
 Fixes:BUPLA:symbol
-Fixes:BURSA:name
 Fixes:BURSA:symbol
-Fixes:COATI:name
 Fixes:COATI:symbol
-Fixes:DAGRA:name
 Fixes:DAGRA:symbol
-Fixes:DAMIS:name
 Fixes:DAMIS:symbol
-Fixes:DANRU:name
 Fixes:DANRU:symbol
-Fixes:DOKBA:name
 Fixes:DOKBA:symbol
-Fixes:ELAMO:name
 Fixes:ELAMO:symbol
-Fixes:ESMOS:name
 Fixes:ESMOS:symbol
-Fixes:GEBUN:name
 Fixes:GEBUN:symbol
-Fixes:GETRA:name
 Fixes:GETRA:symbol
-Fixes:GUKAS:name
 Fixes:GUKAS:symbol
-Fixes:ILSAS:name
 Fixes:ILSAS:symbol
-Fixes:IRATU:name
 Fixes:IRATU:symbol
-Fixes:IREKA:name
 Fixes:IREKA:symbol
-Fixes:ISLOB:name
 Fixes:ISLOB:symbol
-Fixes:ITADO:name
 Fixes:ITADO:symbol
-Fixes:KALOM:name
 Fixes:KALOM:symbol
-Fixes:KILIP:name
 Fixes:KILIP:symbol
-Fixes:KIMIK:name
 Fixes:KIMIK:symbol
-Fixes:KORSO:name
 Fixes:KORSO:symbol
-Fixes:KORTA:name
 Fixes:KORTA:symbol
-Fixes:KUBIR:name
 Fixes:KUBIR:symbol
-Fixes:KUGLO:name
 Fixes:KUGLO:symbol
-Fixes:LADER:name
 Fixes:LADER:symbol
-Fixes:LUTSO:name
 Fixes:LUTSO:symbol
-Fixes:MAMKA:name
 Fixes:MAMKA:symbol
-Fixes:MEXEM:name
 Fixes:MEXEM:symbol
-Fixes:OPKAN:name
 Fixes:OPKAN:symbol
-Fixes:OPNIN:name
 Fixes:OPNIN:symbol
-Fixes:PAMEX:name
 Fixes:PAMEX:symbol
-Fixes:PANOT:name
 Fixes:PANOT:symbol
-Fixes:PILCO:name
 Fixes:PILCO:symbol
-Fixes:PULEN:name
 Fixes:PULEN:symbol
-Fixes:REPAM:name
 Fixes:REPAM:symbol
-Fixes:SARNA:name
 Fixes:SARNA:symbol
-Fixes:SIKOB:name
 Fixes:SIKOB:symbol
-Fixes:SIMOR:name
 Fixes:SIMOR:symbol
-Fixes:SOVLI:name
 Fixes:SOVLI:symbol
-Fixes:TIKLA:name
 Fixes:TIKLA:symbol
-Fixes:TODES:name
 Fixes:TODES:symbol
-Fixes:UGAKO:name
 Fixes:UGAKO:symbol
-Fixes:USEPA:name
 Fixes:USEPA:symbol
-Fixes:VINOS:name
 Fixes:VINOS:symbol
 Free Text:SARC parkings\1:freetext
 Free Text:SARC parkings\2:freetext
@@ -159,480 +105,478 @@ Geo:SARF:
 Geo:SARI:
 Geo:SARP:
 High airways:UA306:line
-High airways:UA306:name
+High
 High airways:UA307:line
-High airways:UA307:name
+High
 High airways:UA570:line
-High airways:UA570:name
+High
 High airways:UB684:line
-High airways:UB684:name
+High
 High airways:UB687:line
-High airways:UB687:name
+High
 High airways:UB688:line
-High airways:UB688:name
+High
 High airways:UL211:line
-High airways:UL211:name
+High
 High airways:UL211F:line
-High airways:UL211F:name
+High
 High airways:UL216:line
-High airways:UL216:name
+High
 High airways:UL322:line
-High airways:UL322:name
+High
 High airways:UL324:line
-High airways:UL324:name
+High
 High airways:UL404:line
-High airways:UL404:name
+High
 High airways:UL405:line
-High airways:UL405:name
+High
 High airways:UL416:line
-High airways:UL416:name
+High
 High airways:UL417:line
-High airways:UL417:name
+High
 High airways:UL531:line
-High airways:UL531:name
+High
 High airways:UL550:line
-High airways:UL550:name
+High
 High airways:UL653:line
-High airways:UL653:name
+High
 High airways:UL670:line
-High airways:UL670:name
+High
 High airways:UL793:line
-High airways:UL793:name
+High
 High airways:UM400:line
-High airways:UM400:name
+High
 High airways:UM402:line
-High airways:UM402:name
+High
 High airways:UM418:line
-High airways:UM418:name
+High
 High airways:UM424:line
-High airways:UM424:name
+High
 High airways:UM534:line
-High airways:UM534:name
+High
 High airways:UM543:line
-High airways:UM543:name
+High
 High airways:UM654:line
-High airways:UM654:name
+High
 High airways:UM658:line
-High airways:UM658:name
+High
 High airways:UM776:line
-High airways:UM776:name
+High
 High airways:UM783:line
-High airways:UM783:name
+High
 High airways:UM784:line
-High airways:UM784:name
+High
 High airways:UM789:line
-High airways:UM789:name
+High
 High airways:UM792:line
-High airways:UM792:name
+High
 High airways:UM799:line
-High airways:UM799:name
+High
 High airways:UN525:line
-High airways:UN525:name
+High
 High airways:UN527:line
-High airways:UN527:name
+High
 High airways:UN674:line
-High airways:UN674:name
+High
 High airways:UN741:line
-High airways:UN741:name
+High
 High airways:UN775:line
-High airways:UN775:name
+High
 High airways:UN785:line
-High airways:UN785:name
+High
 High airways:UN857:line
-High airways:UN857:name
+High
 High airways:UP526:line
-High airways:UP526:name
+High
 High airways:UT105:line
-High airways:UT105:name
+High
 High airways:UT106:line
-High airways:UT106:name
+High
 High airways:UT108:line
-High airways:UT108:name
+High
 High airways:UT109:line
-High airways:UT109:name
+High
 High airways:UT110:line
-High airways:UT110:name
+High
 High airways:UT652:line
-High airways:UT652:name
+High
 High airways:UT653:line
-High airways:UT653:name
+High
 High airways:UT654:line
-High airways:UT654:name
+High
 High airways:UT655:line
-High airways:UT655:name
+High
 High airways:UT657:line
-High airways:UT657:name
+High
 High airways:UT658:line
-High airways:UT658:name
+High
 High airways:UT659:line
-High airways:UT659:name
+High
 High airways:UT662:line
-High airways:UT662:name
+High
 High airways:UT667:line
-High airways:UT667:name
+High
 High airways:UT669:line
-High airways:UT669:name
+High
 High airways:UT670:line
-High airways:UT670:name
+High
 High airways:UT671:line
-High airways:UT671:name
+High
 High airways:UT672:line
-High airways:UT672:name
+High
 High airways:UT675:line
-High airways:UT675:name
+High
 High airways:UT677:line
-High airways:UT677:name
+High
 High airways:UT680:line
-High airways:UT680:name
+High
 High airways:UT681:line
-High airways:UT681:name
+High
 High airways:UT682:line
-High airways:UT682:name
+High
 High airways:UT684:line
-High airways:UT684:name
+High
 High airways:UT685:line
-High airways:UT685:name
+High
 High airways:UT687:line
-High airways:UT687:name
+High
 High airways:UT688:line
-High airways:UT688:name
+High
 High airways:UT691:line
-High airways:UT691:name
+High
 High airways:UT693:line
-High airways:UT693:name
+High
 High airways:UT694:line
-High airways:UT694:name
+High
 High airways:UT700:line
-High airways:UT700:name
+High
 High airways:UT704:line
-High airways:UT704:name
+High
 High airways:UT705:line
-High airways:UT705:name
+High
 High airways:UW10:line
-High airways:UW10:name
+High
 High airways:UW14:line
-High airways:UW14:name
+High
 High airways:UW15:line
-High airways:UW15:name
+High
 High airways:UW18:line
-High airways:UW18:name
+High
 High airways:UW2:line
-High airways:UW2:name
+High
 High airways:UW20:line
-High airways:UW20:name
+High
 High airways:UW22:line
-High airways:UW22:name
+High
 High airways:UW23:line
-High airways:UW23:name
+High
 High airways:UW24:line
-High airways:UW24:name
+High
 High airways:UW26:line
-High airways:UW26:name
+High
 High airways:UW29:line
-High airways:UW29:name
+High
 High airways:UW3:line
-High airways:UW3:name
+High
 High airways:UW30:line
-High airways:UW30:name
+High
 High airways:UW31:line
-High airways:UW31:name
+High
 High airways:UW32:line
-High airways:UW32:name
+High
 High airways:UW33:line
-High airways:UW33:name
+High
 High airways:UW34:line
-High airways:UW34:name
+High
 High airways:UW38:line
-High airways:UW38:name
+High
 High airways:UW39:line
-High airways:UW39:name
+High
 High airways:UW40:line
-High airways:UW40:name
+High
 High airways:UW41:line
-High airways:UW41:name
+High
 High airways:UW42:line
-High airways:UW42:name
+High
 High airways:UW44:line
-High airways:UW44:name
+High
 High airways:UW45:line
-High airways:UW45:name
+High
 High airways:UW48:line
-High airways:UW48:name
+High
 High airways:UW5:line
-High airways:UW5:name
+High
 High airways:UW50:line
-High airways:UW50:name
+High
 High airways:UW52:line
-High airways:UW52:name
+High
 High airways:UW56:line
-High airways:UW56:name
+High
 High airways:UW57:line
-High airways:UW57:name
+High
 High airways:UW58:line
-High airways:UW58:name
+High
 High airways:UW6:line
-High airways:UW6:name
+High
 High airways:UW62:line
-High airways:UW62:name
+High
 High airways:UW63:line
-High airways:UW63:name
+High
 High airways:UW64:line
-High airways:UW64:name
+High
 High airways:UW65:line
-High airways:UW65:name
+High
 High airways:UW68:line
-High airways:UW68:name
+High
 High airways:UW7:line
-High airways:UW7:name
+High
 High airways:UW8:line
-High airways:UW8:name
+High
 High airways:UZ102:line
-High airways:UZ102:name
+High
 High airways:UZ103:line
-High airways:UZ103:name
+High
 High airways:UZ105:line
-High airways:UZ105:name
+High
 High airways:UZ107:line
-High airways:UZ107:name
+High
 High airways:UZ108:line
-High airways:UZ108:name
+High
 High airways:UZ109:line
-High airways:UZ109:name
+High
 High airways:UZ111:line
-High airways:UZ111:name
+High
 High airways:UZ112:line
-High airways:UZ112:name
+High
 High airways:UZ113:line
-High airways:UZ113:name
+High
 High airways:UZ114:line
-High airways:UZ114:name
+High
 High airways:UZ116:line
-High airways:UZ116:name
+High
 High airways:UZ117:line
-High airways:UZ117:name
+High
 Low airways:A305:line
-Low airways:A305:name
+Low
 Low airways:A306:line
-Low airways:A306:name
+Low
 Low airways:A307:line
-Low airways:A307:name
+Low
 Low airways:A310:line
-Low airways:A310:name
+Low
 Low airways:A314:line
-Low airways:A314:name
+Low
 Low airways:A428:line
-Low airways:A428:name
+Low
 Low airways:A430:line
-Low airways:A430:name
+Low
 Low airways:A556:line
-Low airways:A556:name
+Low
 Low airways:A570:line
-Low airways:A570:name
+Low
 Low airways:B432:line
-Low airways:B432:name
+Low
 Low airways:B555:line
-Low airways:B555:name
+Low
 Low airways:B556:line
-Low airways:B556:name
+Low
 Low airways:B560:line
-Low airways:B560:name
+Low
 Low airways:B561:line
-Low airways:B561:name
+Low
 Low airways:B682:line
-Low airways:B682:name
+Low
 Low airways:B684:line
-Low airways:B684:name
+Low
 Low airways:B687:line
-Low airways:B687:name
+Low
 Low airways:B688:line
-Low airways:B688:name
+Low
 Low airways:G550:line
-Low airways:G550:name
+Low
 Low airways:G680:line
-Low airways:G680:name
+Low
 Low airways:L405:line
-Low airways:L405:name
+Low
 Low airways:L775:line
-Low airways:L775:name
+Low
 Low airways:M424:line
-Low airways:M424:name
+Low
 Low airways:M789:line
-Low airways:M789:name
+Low
 Low airways:N650:line
-Low airways:N650:name
+Low
 Low airways:N674:line
-Low airways:N674:name
+Low
 Low airways:R563:line
-Low airways:R563:name
+Low
 Low airways:R683:line
-Low airways:R683:name
+Low
 Low airways:T105:line
-Low airways:T105:name
+Low
 Low airways:T108:line
-Low airways:T108:name
+Low
 Low airways:T654:line
-Low airways:T654:name
+Low
 Low airways:T655:line
-Low airways:T655:name
+Low
 Low airways:T657:line
-Low airways:T657:name
+Low
 Low airways:T658:line
-Low airways:T658:name
+Low
 Low airways:T659:line
-Low airways:T659:name
+Low
 Low airways:T661:line
-Low airways:T661:name
+Low
 Low airways:T662:line
-Low airways:T662:name
+Low
 Low airways:T669:line
-Low airways:T669:name
+Low
 Low airways:T672:line
-Low airways:T672:name
+Low
 Low airways:T693:line
-Low airways:T693:name
+Low
 Low airways:T704:line
-Low airways:T704:name
+Low
 Low airways:W10:line
-Low airways:W10:name
+Low
 Low airways:W100:line
-Low airways:W100:name
+Low
 Low airways:W11:line
-Low airways:W11:name
+Low
 Low airways:W12:line
-Low airways:W12:name
+Low
 Low airways:W13:line
-Low airways:W13:name
+Low
 Low airways:W14:line
-Low airways:W14:name
+Low
 Low airways:W15:line
-Low airways:W15:name
+Low
 Low airways:W16:line
-Low airways:W16:name
+Low
 Low airways:W18:line
-Low airways:W18:name
+Low
 Low airways:W19:line
-Low airways:W19:name
+Low
 Low airways:W20:line
-Low airways:W20:name
+Low
 Low airways:W21:line
-Low airways:W21:name
+Low
 Low airways:W22:line
-Low airways:W22:name
+Low
 Low airways:W23:line
-Low airways:W23:name
+Low
 Low airways:W24:line
-Low airways:W24:name
+Low
 Low airways:W25:line
-Low airways:W25:name
+Low
 Low airways:W26:line
-Low airways:W26:name
+Low
 Low airways:W27:line
-Low airways:W27:name
+Low
 Low airways:W28:line
-Low airways:W28:name
+Low
 Low airways:W29:line
-Low airways:W29:name
+Low
 Low airways:W3:line
-Low airways:W3:name
+Low
 Low airways:W30:line
-Low airways:W30:name
+Low
 Low airways:W31:line
-Low airways:W31:name
+Low
 Low airways:W32:line
-Low airways:W32:name
+Low
 Low airways:W33:line
-Low airways:W33:name
+Low
 Low airways:W34:line
-Low airways:W34:name
+Low
 Low airways:W37:line
-Low airways:W37:name
+Low
 Low airways:W38:line
-Low airways:W38:name
+Low
 Low airways:W39:line
-Low airways:W39:name
+Low
 Low airways:W4:line
-Low airways:W4:name
+Low
 Low airways:W40:line
-Low airways:W40:name
+Low
 Low airways:W41:line
-Low airways:W41:name
+Low
 Low airways:W42:line
-Low airways:W42:name
+Low
 Low airways:W44:line
-Low airways:W44:name
+Low
 Low airways:W45:line
-Low airways:W45:name
+Low
 Low airways:W48:line
-Low airways:W48:name
+Low
 Low airways:W49:line
-Low airways:W49:name
+Low
 Low airways:W5:line
-Low airways:W5:name
+Low
 Low airways:W50:line
-Low airways:W50:name
+Low
 Low airways:W52:line
-Low airways:W52:name
+Low
 Low airways:W55:line
-Low airways:W55:name
+Low
 Low airways:W56:line
-Low airways:W56:name
+Low
 Low airways:W58:line
-Low airways:W58:name
+Low
 Low airways:W59:line
-Low airways:W59:name
+Low
 Low airways:W6:line
-Low airways:W6:name
+Low
 Low airways:W60:line
-Low airways:W60:name
+Low
 Low airways:W61:line
-Low airways:W61:name
+Low
 Low airways:W62:line
-Low airways:W62:name
+Low
 Low airways:W63:line
-Low airways:W63:name
+Low
 Low airways:W64:line
-Low airways:W64:name
+Low
 Low airways:W65:line
-Low airways:W65:name
+Low
 Low airways:W66:line
-Low airways:W66:name
+Low
 Low airways:W67:line
-Low airways:W67:name
+Low
 Low airways:W68:line
-Low airways:W68:name
+Low
 Low airways:W69:line
-Low airways:W69:name
+Low
 Low airways:W7:line
-Low airways:W7:name
+Low
 Low airways:W70:line
-Low airways:W70:name
+Low
 Low airways:W71:line
-Low airways:W71:name
+Low
 Low airways:W72:line
-Low airways:W72:name
+Low
 Low airways:W73:line
-Low airways:W73:name
+Low
 Low airways:W8:line
-Low airways:W8:name
+Low
 Low airways:W9:line
-Low airways:W9:name
+Low
 Low airways:Z102:line
-Low airways:Z102:name
+Low
 Low airways:Z104:line
-Low airways:Z104:name
+Low
 Low airways:Z107:line
-Low airways:Z107:name
+Low
 Low airways:Z109:line
-Low airways:Z109:name
+Low
 Low airways:Z110:line
-Low airways:Z110:name
+Low
 Low airways:Z116:line
-Low airways:Z116:name
+Low
 NDBs:LIB:frequency
-NDBs:LIB:name
 NDBs:LIB:symbol
 NDBs:PSP:frequency
-NDBs:PSP:name
 NDBs:PSP:symbol
 Regions:SARE:polygon
 Regions:SARF:polygon
@@ -652,7 +596,7 @@ Runways:SARE RESISTENCIA 03-21:extended centerline 2 left vectoring
 Runways:SARE RESISTENCIA 03-21:extended centerline 2 right base
 Runways:SARE RESISTENCIA 03-21:extended centerline 2 right ticks
 Runways:SARE RESISTENCIA 03-21:extended centerline 2 right vectoring
-Runways:SARE RESISTENCIA 03-21:name
+Runways:SARE RESISTENCIA
 Runways:SARF FORMOSA 04-22:centerline
 Runways:SARF FORMOSA 04-22:extended centerline 1
 Runways:SARF FORMOSA 04-22:extended centerline 1 left base
@@ -668,7 +612,7 @@ Runways:SARF FORMOSA 04-22:extended centerline 2 left vectoring
 Runways:SARF FORMOSA 04-22:extended centerline 2 right base
 Runways:SARF FORMOSA 04-22:extended centerline 2 right ticks
 Runways:SARF FORMOSA 04-22:extended centerline 2 right vectoring
-Runways:SARF FORMOSA 04-22:name
+Runways:SARF FORMOSA
 Runways:SARL PASO DE LOS LIBRES 18-36:centerline
 Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 1
 Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 1 left base
@@ -684,27 +628,20 @@ Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 2 left vectoring
 Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 2 right base
 Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 2 right ticks
 Runways:SARL PASO DE LOS LIBRES 18-36:extended centerline 2 right vectoring
-Runways:SARL PASO DE LOS LIBRES 18-36:name
+Runways:SARL PASO DE LOS LIBRES
 VORs:FOZ:frequency
-VORs:FOZ:name
 VORs:FOZ:symbol
 VORs:FSA:frequency
-VORs:FSA:name
 VORs:FSA:symbol
 VORs:IGU:frequency
-VORs:IGU:name
 VORs:IGU:symbol
 VORs:MCS:frequency
-VORs:MCS:name
 VORs:MCS:symbol
 VORs:RTA:frequency
-VORs:RTA:name
 VORs:RTA:symbol
 VORs:SIS:frequency
-VORs:SIS:name
 VORs:SIS:symbol
 VORs:VAS:frequency
-VORs:VAS:name
 VORs:VAS:symbol
 SHOWC:1
 SHOWSB:1

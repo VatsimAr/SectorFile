@@ -1,99 +1,12 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:VATSIM Argentina.sct
-SECTORTITLE:VATSIM Argentina.sct
 Airports:SADL:symbol
-ARTCC boundary:CTA Ezeiza Radar:
-ARTCC boundary:CTR Aeroparque J. Newbery:
-ARTCC boundary:CTR Bahia Blanca:
-ARTCC boundary:CTR Bariloche:
-ARTCC boundary:CTR Catamarca:
-ARTCC boundary:CTR Chapelco:
-ARTCC boundary:CTR Comodoro Rivadavia:
-ARTCC boundary:CTR Concordia:
-ARTCC boundary:CTR Cordoba:
-ARTCC boundary:CTR Corrientes:
-ARTCC boundary:CTR El Calafate:
-ARTCC boundary:CTR Esquel:
-ARTCC boundary:CTR Ezeiza:
-ARTCC boundary:CTR Formosa:
-ARTCC boundary:CTR General Pico:
-ARTCC boundary:CTR Gessel:
-ARTCC boundary:CTR Gualeguaychu:
-ARTCC boundary:CTR Iguazu:
-ARTCC boundary:CTR Jujuy:
-ARTCC boundary:CTR La Rioja:
-ARTCC boundary:CTR Malargue:
-ARTCC boundary:CTR Mariano Moreno:
-ARTCC boundary:CTR Mendoza:
-ARTCC boundary:CTR Monte Agradable:
-ARTCC boundary:CTR Neuquen:
-ARTCC boundary:CTR Parana:
-ARTCC boundary:CTR Paso de los Libres:
-ARTCC boundary:CTR Puerto Madryn:
-ARTCC boundary:CTR Reconquista:
-ARTCC boundary:CTR Resistencia:
-ARTCC boundary:CTR Rio Cuarto:
-ARTCC boundary:CTR Rio Gallegos:
-ARTCC boundary:CTR Rio Grande:
-ARTCC boundary:CTR Rosario:
-ARTCC boundary:CTR Salta:
-ARTCC boundary:CTR San Juan:
-ARTCC boundary:CTR San Luis:
-ARTCC boundary:CTR San Rafael:
-ARTCC boundary:CTR Santa Rosa:
-ARTCC boundary:CTR Sauce Viejo:
-ARTCC boundary:CTR Tandil:
-ARTCC boundary:CTR Trelew:
-ARTCC boundary:CTR Tucuman:
-ARTCC boundary:CTR Ushuaia:
-ARTCC boundary:CTR Viedma:
-ARTCC boundary:CTR Villa Reynolds:
-ARTCC boundary:FIR COMODORO RIVADAVIA:
-ARTCC boundary:FIR CORDOBA:
-ARTCC boundary:FIR EZEIZA:
-ARTCC boundary:FIR MENDOZA:
-ARTCC boundary:FIR RESISTENCIA:
-ARTCC boundary:TMA Bahia Blanca:
-ARTCC boundary:TMA Baires:
-ARTCC boundary:TMA Bariloche:
-ARTCC boundary:TMA Catamarca:
-ARTCC boundary:TMA Comodoro Rivadavia:
-ARTCC boundary:TMA Concordia:
-ARTCC boundary:TMA Cordoba:
-ARTCC boundary:TMA El Calafate:
-ARTCC boundary:TMA Esquel:
-ARTCC boundary:TMA General Pico:
-ARTCC boundary:TMA Gualeguaychu:
-ARTCC boundary:TMA La Rioja:
-ARTCC boundary:TMA Malargue:
-ARTCC boundary:TMA Mar del Plata:
-ARTCC boundary:TMA Mendoza:
-ARTCC boundary:TMA Neuquen:
-ARTCC boundary:TMA Parana:
-ARTCC boundary:TMA Paso de los Libres:
-ARTCC boundary:TMA Posadas:
-ARTCC boundary:TMA Reconquista:
-ARTCC boundary:TMA Resistencia:
-ARTCC boundary:TMA Rio Cuarto:
-ARTCC boundary:TMA Rio Gallegos:
-ARTCC boundary:TMA Rio Grande:
-ARTCC boundary:TMA Rosario:
-ARTCC boundary:TMA Salta:
-ARTCC boundary:TMA San Juan:
-ARTCC boundary:TMA San Luis:
-ARTCC boundary:TMA San Martin de los Andes:
-ARTCC boundary:TMA San Rafael:
-ARTCC boundary:TMA Santa Rosa:
-ARTCC boundary:TMA Santa Rosa de Conlara:
-ARTCC boundary:TMA Santiago del Estero:
-ARTCC boundary:TMA Tandil:
-ARTCC boundary:TMA Trelew:
-ARTCC boundary:TMA Tucuman:
-ARTCC boundary:TMA Ushuaia:
-ARTCC boundary:TMA Viedma:
-ARTCC boundary:TMA Villa Reynolds:
+ARTCC boundary:FIRComodoro:
+ARTCC boundary:FIRCORDOBA:
+ARTCC boundary:FIREZEIZA:
+ARTCC boundary:FIRMendoza:
+ARTCC boundary:FIRResistencia:
 Fixes:AER60:name
 Fixes:AER60:symbol
 Fixes:AKNEL:name
@@ -136,8 +49,6 @@ Fixes:ALGEL:name
 Fixes:ALGEL:symbol
 Fixes:ALGIL:name
 Fixes:ALGIL:symbol
-Fixes:ALMIR:name
-Fixes:ALMIR:symbol
 Fixes:ALOTE:name
 Fixes:ALOTE:symbol
 Fixes:AMIAS:name
@@ -154,8 +65,6 @@ Fixes:ANDEX:name
 Fixes:ANDEX:symbol
 Fixes:ANDUD:name
 Fixes:ANDUD:symbol
-Fixes:ANDUS:name
-Fixes:ANDUS:symbol
 Fixes:ANGEM:name
 Fixes:ANGEM:symbol
 Fixes:ANGEN:name
@@ -166,12 +75,6 @@ Fixes:ANKON:name
 Fixes:ANKON:symbol
 Fixes:ANLIS:name
 Fixes:ANLIS:symbol
-Fixes:ANLIT:name
-Fixes:ANLIT:symbol
-Fixes:ANLUK:name
-Fixes:ANLUK:symbol
-Fixes:ANPON:name
-Fixes:ANPON:symbol
 Fixes:ANRAL:name
 Fixes:ANRAL:symbol
 Fixes:ANSIB:name
@@ -258,8 +161,6 @@ Fixes:ATOMO:name
 Fixes:ATOMO:symbol
 Fixes:ATOVO:name
 Fixes:ATOVO:symbol
-Fixes:BAR:name
-Fixes:BAR:symbol
 Fixes:BITAG:name
 Fixes:BITAG:symbol
 Fixes:BITIS:name
@@ -294,8 +195,6 @@ Fixes:BOGOR:name
 Fixes:BOGOR:symbol
 Fixes:BOKAS:name
 Fixes:BOKAS:symbol
-Fixes:BOKEN:name
-Fixes:BOKEN:symbol
 Fixes:BOKIL:name
 Fixes:BOKIL:symbol
 Fixes:BOKOL:name
@@ -306,8 +205,6 @@ Fixes:BONTA:name
 Fixes:BONTA:symbol
 Fixes:BRANC:name
 Fixes:BRANC:symbol
-Fixes:BUENO:name
-Fixes:BUENO:symbol
 Fixes:BUPLA:name
 Fixes:BUPLA:symbol
 Fixes:BURMI:name
@@ -334,12 +231,8 @@ Fixes:COATI:name
 Fixes:COATI:symbol
 Fixes:CONUS:name
 Fixes:CONUS:symbol
-Fixes:COSTA:name
-Fixes:COSTA:symbol
 Fixes:CRANE:name
 Fixes:CRANE:symbol
-Fixes:CUARA:name
-Fixes:CUARA:symbol
 Fixes:DABAL:name
 Fixes:DABAL:symbol
 Fixes:DABLI:name
@@ -362,8 +255,6 @@ Fixes:DAGOL:name
 Fixes:DAGOL:symbol
 Fixes:DAGRA:name
 Fixes:DAGRA:symbol
-Fixes:DAKAR:name
-Fixes:DAKAR:symbol
 Fixes:DAKAX:name
 Fixes:DAKAX:symbol
 Fixes:DAKSA:name
@@ -386,22 +277,12 @@ Fixes:DAPKI:name
 Fixes:DAPKI:symbol
 Fixes:DAPSU:name
 Fixes:DAPSU:symbol
-Fixes:DARIN:name
-Fixes:DARIN:symbol
 Fixes:DARKA:name
 Fixes:DARKA:symbol
-Fixes:DARWI:name
-Fixes:DARWI:symbol
-Fixes:DAYMA:name
-Fixes:DAYMA:symbol
-Fixes:DETIN:name
-Fixes:DETIN:symbol
 Fixes:DEVIS:name
 Fixes:DEVIS:symbol
 Fixes:DEXAL:name
 Fixes:DEXAL:symbol
-Fixes:DIDOM:name
-Fixes:DIDOM:symbol
 Fixes:DIGER:name
 Fixes:DIGER:symbol
 Fixes:DIGET:name
@@ -418,8 +299,6 @@ Fixes:DILIX:name
 Fixes:DILIX:symbol
 Fixes:DILOG:name
 Fixes:DILOG:symbol
-Fixes:DOBDO:name
-Fixes:DOBDO:symbol
 Fixes:DOGLA:name
 Fixes:DOGLA:symbol
 Fixes:DOKBA:name
@@ -452,8 +331,6 @@ Fixes:EDMEL:name
 Fixes:EDMEL:symbol
 Fixes:EDNAP:name
 Fixes:EDNAP:symbol
-Fixes:EDNOR:name
-Fixes:EDNOR:symbol
 Fixes:EDPAN:name
 Fixes:EDPAN:symbol
 Fixes:EDPIL:name
@@ -498,8 +375,6 @@ Fixes:EGUNO:name
 Fixes:EGUNO:symbol
 Fixes:EKATO:name
 Fixes:EKATO:symbol
-Fixes:EKEBA:name
-Fixes:EKEBA:symbol
 Fixes:EKEMO:name
 Fixes:EKEMO:symbol
 Fixes:EKERO:name
@@ -532,8 +407,6 @@ Fixes:ENRID:name
 Fixes:ENRID:symbol
 Fixes:ENRIL:name
 Fixes:ENRIL:symbol
-Fixes:ENSAS:name
-Fixes:ENSAS:symbol
 Fixes:ENTIB:name
 Fixes:ENTIB:symbol
 Fixes:ENTOS:name
@@ -548,8 +421,6 @@ Fixes:EROSU:name
 Fixes:EROSU:symbol
 Fixes:ERUMI:name
 Fixes:ERUMI:symbol
-Fixes:ERUPO:name
-Fixes:ERUPO:symbol
 Fixes:ERUTU:name
 Fixes:ERUTU:symbol
 Fixes:ESABI:name
@@ -584,8 +455,6 @@ Fixes:ESMOS:name
 Fixes:ESMOS:symbol
 Fixes:ESNAM:name
 Fixes:ESNAM:symbol
-Fixes:ESNAS:name
-Fixes:ESNAS:symbol
 Fixes:ESNIM:name
 Fixes:ESNIM:symbol
 Fixes:ESNUG:name
@@ -642,8 +511,6 @@ Fixes:GEBUN:name
 Fixes:GEBUN:symbol
 Fixes:GEDAB:name
 Fixes:GEDAB:symbol
-Fixes:GEDEK:name
-Fixes:GEDEK:symbol
 Fixes:GEDOL:name
 Fixes:GEDOL:symbol
 Fixes:GEDUK:name
@@ -716,8 +583,6 @@ Fixes:GUDUX:name
 Fixes:GUDUX:symbol
 Fixes:GUKAS:name
 Fixes:GUKAS:symbol
-Fixes:GUTIL:name
-Fixes:GUTIL:symbol
 Fixes:GUVAD:name
 Fixes:GUVAD:symbol
 Fixes:GUVOL:name
@@ -734,8 +599,6 @@ Fixes:ILMEN:name
 Fixes:ILMEN:symbol
 Fixes:ILMEV:name
 Fixes:ILMEV:symbol
-Fixes:ILMIS:name
-Fixes:ILMIS:symbol
 Fixes:ILMOS:name
 Fixes:ILMOS:symbol
 Fixes:ILNEL:name
@@ -744,14 +607,10 @@ Fixes:ILNOV:name
 Fixes:ILNOV:symbol
 Fixes:ILNOX:name
 Fixes:ILNOX:symbol
-Fixes:ILPAB:name
-Fixes:ILPAB:symbol
 Fixes:ILPAL:name
 Fixes:ILPAL:symbol
 Fixes:ILPAR:name
 Fixes:ILPAR:symbol
-Fixes:ILPEP:name
-Fixes:ILPEP:symbol
 Fixes:ILPES:name
 Fixes:ILPES:symbol
 Fixes:ILPOT:name
@@ -770,8 +629,6 @@ Fixes:ILSOK:name
 Fixes:ILSOK:symbol
 Fixes:ILSUR:name
 Fixes:ILSUR:symbol
-Fixes:ILTIM:name
-Fixes:ILTIM:symbol
 Fixes:ILTIP:name
 Fixes:ILTIP:symbol
 Fixes:ILTOS:name
@@ -782,14 +639,10 @@ Fixes:ILVUB:name
 Fixes:ILVUB:symbol
 Fixes:IMBAK:name
 Fixes:IMBAK:symbol
-Fixes:IMBAV:name
-Fixes:IMBAV:symbol
 Fixes:IMBER:name
 Fixes:IMBER:symbol
 Fixes:IMBOL:name
 Fixes:IMBOL:symbol
-Fixes:IMBUX:name
-Fixes:IMBUX:symbol
 Fixes:IMDAD:name
 Fixes:IMDAD:symbol
 Fixes:IRASU:name
@@ -798,14 +651,10 @@ Fixes:IRATI:name
 Fixes:IRATI:symbol
 Fixes:IRATU:name
 Fixes:IRATU:symbol
-Fixes:IRAVA:name
-Fixes:IRAVA:symbol
 Fixes:IRAVO:name
 Fixes:IRAVO:symbol
 Fixes:IRAVU:name
 Fixes:IRAVU:symbol
-Fixes:IRAXO:name
-Fixes:IRAXO:symbol
 Fixes:IREKA:name
 Fixes:IREKA:symbol
 Fixes:IREMO:name
@@ -814,8 +663,6 @@ Fixes:IRETI:name
 Fixes:IRETI:symbol
 Fixes:IREXA:name
 Fixes:IREXA:symbol
-Fixes:IRILI:name
-Fixes:IRILI:symbol
 Fixes:IRINU:name
 Fixes:IRINU:symbol
 Fixes:IRIXA:name
@@ -844,8 +691,6 @@ Fixes:ISMOS:name
 Fixes:ISMOS:symbol
 Fixes:ISODA:name
 Fixes:ISODA:symbol
-Fixes:ISONI:name
-Fixes:ISONI:symbol
 Fixes:ISOPO:name
 Fixes:ISOPO:symbol
 Fixes:ISORO:name
@@ -906,8 +751,6 @@ Fixes:KETIS:name
 Fixes:KETIS:symbol
 Fixes:KEVAS:name
 Fixes:KEVAS:symbol
-Fixes:KEVOR:name
-Fixes:KEVOR:symbol
 Fixes:KEXAK:name
 Fixes:KEXAK:symbol
 Fixes:KEXEV:name
@@ -982,8 +825,6 @@ Fixes:KOTOL:name
 Fixes:KOTOL:symbol
 Fixes:KOTON:name
 Fixes:KOTON:symbol
-Fixes:KOTUG:name
-Fixes:KOTUG:symbol
 Fixes:KOTUK:name
 Fixes:KOTUK:symbol
 Fixes:KOVAT:name
@@ -1036,8 +877,6 @@ Fixes:LANDA:name
 Fixes:LANDA:symbol
 Fixes:LIMAY:name
 Fixes:LIMAY:symbol
-Fixes:LITOK:name
-Fixes:LITOK:symbol
 Fixes:LITOR:name
 Fixes:LITOR:symbol
 Fixes:LIVAK:name
@@ -1050,14 +889,10 @@ Fixes:LIVUX:name
 Fixes:LIVUX:symbol
 Fixes:LIXIM:name
 Fixes:LIXIM:symbol
-Fixes:LIXOM:name
-Fixes:LIXOM:symbol
 Fixes:LIXOR:name
 Fixes:LIXOR:symbol
 Fixes:LOBID:name
 Fixes:LOBID:symbol
-Fixes:LOBOS:name
-Fixes:LOBOS:symbol
 Fixes:LOBUK:name
 Fixes:LOBUK:symbol
 Fixes:LOGAM:name
@@ -1102,12 +937,8 @@ Fixes:MAMPU:name
 Fixes:MAMPU:symbol
 Fixes:MANTI:name
 Fixes:MANTI:symbol
-Fixes:MARIA:name
-Fixes:MARIA:symbol
 Fixes:MASDO:name
 Fixes:MASDO:symbol
-Fixes:MASPI:name
-Fixes:MASPI:symbol
 Fixes:MASVI:name
 Fixes:MASVI:symbol
 Fixes:MATEL:name
@@ -1118,8 +949,6 @@ Fixes:MAVBI:name
 Fixes:MAVBI:symbol
 Fixes:MEBRA:name
 Fixes:MEBRA:symbol
-Fixes:MEVUR:name
-Fixes:MEVUR:symbol
 Fixes:MEXEM:name
 Fixes:MEXEM:symbol
 Fixes:MEXIL:name
@@ -1214,8 +1043,6 @@ Fixes:NAIDE:name
 Fixes:NAIDE:symbol
 Fixes:NAJAL:name
 Fixes:NAJAL:symbol
-Fixes:NANEX:name
-Fixes:NANEX:symbol
 Fixes:NAXET:name
 Fixes:NAXET:symbol
 Fixes:NEBEG:name
@@ -1270,8 +1097,6 @@ Fixes:OPKAN:name
 Fixes:OPKAN:symbol
 Fixes:OPKOT:name
 Fixes:OPKOT:symbol
-Fixes:OPLAN:name
-Fixes:OPLAN:symbol
 Fixes:OPLAS:name
 Fixes:OPLAS:symbol
 Fixes:OPLET:name
@@ -1316,8 +1141,6 @@ Fixes:ORAMU:name
 Fixes:ORAMU:symbol
 Fixes:ORAXO:name
 Fixes:ORAXO:symbol
-Fixes:ORBAK:name
-Fixes:ORBAK:symbol
 Fixes:ORBAL:name
 Fixes:ORBAL:symbol
 Fixes:ORERA:name
@@ -1334,8 +1157,6 @@ Fixes:ORUGA:name
 Fixes:ORUGA:symbol
 Fixes:ORUXO:name
 Fixes:ORUXO:symbol
-Fixes:OSEBO:name
-Fixes:OSEBO:symbol
 Fixes:OSEKO:name
 Fixes:OSEKO:symbol
 Fixes:OSEXI:name
@@ -1384,8 +1205,6 @@ Fixes:PAKAL:name
 Fixes:PAKAL:symbol
 Fixes:PALIX:name
 Fixes:PALIX:symbol
-Fixes:PALOL:name
-Fixes:PALOL:symbol
 Fixes:PAMAK:name
 Fixes:PAMAK:symbol
 Fixes:PAMAL:name
@@ -1520,8 +1339,6 @@ Fixes:RIXUD:name
 Fixes:RIXUD:symbol
 Fixes:ROCAR:name
 Fixes:ROCAR:symbol
-Fixes:RODOG:name
-Fixes:RODOG:symbol
 Fixes:RODOV:name
 Fixes:RODOV:symbol
 Fixes:ROGAS:name
@@ -1630,8 +1447,6 @@ Fixes:SIRAN:name
 Fixes:SIRAN:symbol
 Fixes:SIREK:name
 Fixes:SIREK:symbol
-Fixes:SIRIT:name
-Fixes:SIRIT:symbol
 Fixes:SIRUR:name
 Fixes:SIRUR:symbol
 Fixes:SISAP:name
@@ -1718,18 +1533,12 @@ Fixes:TIRGA:name
 Fixes:TIRGA:symbol
 Fixes:TISLA:name
 Fixes:TISLA:symbol
-Fixes:TITMA:name
-Fixes:TITMA:symbol
 Fixes:TODAR:name
 Fixes:TODAR:symbol
-Fixes:TODEM:name
-Fixes:TODEM:symbol
 Fixes:TODEP:name
 Fixes:TODEP:symbol
 Fixes:TODES:name
 Fixes:TODES:symbol
-Fixes:TOGAL:name
-Fixes:TOGAL:symbol
 Fixes:TOGNO:name
 Fixes:TOGNO:symbol
 Fixes:TOGOR:name
@@ -1746,8 +1555,6 @@ Fixes:TOLUK:name
 Fixes:TOLUK:symbol
 Fixes:TONAR:name
 Fixes:TONAR:symbol
-Fixes:TONUP:name
-Fixes:TONUP:symbol
 Fixes:TOPIL:name
 Fixes:TOPIL:symbol
 Fixes:TOPOG:name
@@ -1756,8 +1563,6 @@ Fixes:TORAP:name
 Fixes:TORAP:symbol
 Fixes:TORES:name
 Fixes:TORES:symbol
-Fixes:TORON:name
-Fixes:TORON:symbol
 Fixes:TORUK:name
 Fixes:TORUK:symbol
 Fixes:TORUL:name
@@ -1770,8 +1575,6 @@ Fixes:TREJO:name
 Fixes:TREJO:symbol
 Fixes:TRINI:name
 Fixes:TRINI:symbol
-Fixes:UBIGO:name
-Fixes:UBIGO:symbol
 Fixes:UBLID:name
 Fixes:UBLID:symbol
 Fixes:UBLUM:name
@@ -1798,8 +1601,6 @@ Fixes:UDULI:name
 Fixes:UDULI:symbol
 Fixes:UDUPA:name
 Fixes:UDUPA:symbol
-Fixes:UGADA:name
-Fixes:UGADA:symbol
 Fixes:UGAGI:name
 Fixes:UGAGI:symbol
 Fixes:UGAKO:name
@@ -1916,8 +1717,6 @@ Fixes:VANAR:name
 Fixes:VANAR:symbol
 Fixes:VAPES:name
 Fixes:VAPES:symbol
-Fixes:VARES:name
-Fixes:VARES:symbol
 Fixes:VAROR:name
 Fixes:VAROR:symbol
 Fixes:VARUL:name
@@ -1934,8 +1733,6 @@ Fixes:VUBLI:name
 Fixes:VUBLI:symbol
 Fixes:VUDUB:name
 Fixes:VUDUB:symbol
-Fixes:VUGLA:name
-Fixes:VUGLA:symbol
 Fixes:VUGMA:name
 Fixes:VUGMA:symbol
 Fixes:VUKEL:name
@@ -1944,20 +1741,14 @@ Fixes:VUKNA:name
 Fixes:VUKNA:symbol
 Fixes:VUKSO:name
 Fixes:VUKSO:symbol
-Fixes:VUKTA:name
-Fixes:VUKTA:symbol
 Fixes:VULEB:name
 Fixes:VULEB:symbol
 Fixes:VULEK:name
 Fixes:VULEK:symbol
 Fixes:VULIG:name
 Fixes:VULIG:symbol
-Fixes:VULON:name
-Fixes:VULON:symbol
 Fixes:VULRA:name
 Fixes:VULRA:symbol
-Fixes:VUMDA:name
-Fixes:VUMDA:symbol
 Fixes:VUMER:name
 Fixes:VUMER:symbol
 Fixes:VUMKI:name
@@ -1984,8 +1775,6 @@ Fixes:VURAK:name
 Fixes:VURAK:symbol
 Fixes:VURGI:name
 Fixes:VURGI:symbol
-Fixes:VUROM:name
-Fixes:VUROM:symbol
 Fixes:VUROT:name
 Fixes:VUROT:symbol
 Fixes:VURPI:name
@@ -2000,8 +1789,6 @@ Fixes:VUSAP:name
 Fixes:VUSAP:symbol
 Fixes:VUSDI:name
 Fixes:VUSDI:symbol
-Fixes:VUSGA:name
-Fixes:VUSGA:symbol
 Fixes:VUSPO:name
 Fixes:VUSPO:symbol
 Fixes:VUTRO:name
@@ -2020,202 +1807,24 @@ Fixes:XOPIS:name
 Fixes:XOPIS:symbol
 Fixes:ZARZA:name
 Fixes:ZARZA:symbol
-Free Text:ADs no controlados\ESP:freetext
-Free Text:ADs no controlados\GEZ:freetext
-Free Text:ADs no controlados\LJN:freetext
-Free Text:ADs no controlados\MBL:freetext
-Free Text:ADs no controlados\MUS:freetext
-Free Text:ADs no controlados\PTL:freetext
-Free Text:SAAP taxiways\A:freetext
-Free Text:SAAP taxiways\A:freetext
-Free Text:SAAP taxiways\B:freetext
-Free Text:SAAP taxiways\C:freetext
 Free Text:SAAR\1:freetext
 Free Text:SAAR\2:freetext
 Free Text:SAAR\3:freetext
 Free Text:SAAR\4:freetext
 Free Text:SAAR\5:freetext
 Free Text:SAAR\A:freetext
+Free Text:SAAR\A:freetext
 Free Text:SAAR\B:freetext
-Free Text:SABE parkings\1:freetext
-Free Text:SABE parkings\10:freetext
-Free Text:SABE parkings\11:freetext
-Free Text:SABE parkings\12:freetext
-Free Text:SABE parkings\13:freetext
-Free Text:SABE parkings\14:freetext
-Free Text:SABE parkings\15:freetext
-Free Text:SABE parkings\16:freetext
-Free Text:SABE parkings\17:freetext
-Free Text:SABE parkings\18:freetext
-Free Text:SABE parkings\18A:freetext
-Free Text:SABE parkings\19:freetext
-Free Text:SABE parkings\2:freetext
-Free Text:SABE parkings\20:freetext
-Free Text:SABE parkings\21:freetext
-Free Text:SABE parkings\22:freetext
-Free Text:SABE parkings\23:freetext
-Free Text:SABE parkings\24:freetext
-Free Text:SABE parkings\25:freetext
-Free Text:SABE parkings\26:freetext
-Free Text:SABE parkings\27:freetext
-Free Text:SABE parkings\28:freetext
-Free Text:SABE parkings\29:freetext
-Free Text:SABE parkings\3:freetext
-Free Text:SABE parkings\30:freetext
-Free Text:SABE parkings\31:freetext
-Free Text:SABE parkings\32:freetext
-Free Text:SABE parkings\33:freetext
-Free Text:SABE parkings\34:freetext
-Free Text:SABE parkings\35:freetext
-Free Text:SABE parkings\36:freetext
-Free Text:SABE parkings\37:freetext
-Free Text:SABE parkings\38:freetext
-Free Text:SABE parkings\39:freetext
-Free Text:SABE parkings\4:freetext
-Free Text:SABE parkings\40:freetext
-Free Text:SABE parkings\41:freetext
-Free Text:SABE parkings\42:freetext
-Free Text:SABE parkings\43:freetext
-Free Text:SABE parkings\44:freetext
-Free Text:SABE parkings\45:freetext
-Free Text:SABE parkings\46:freetext
-Free Text:SABE parkings\47:freetext
-Free Text:SABE parkings\48:freetext
-Free Text:SABE parkings\49:freetext
-Free Text:SABE parkings\5:freetext
-Free Text:SABE parkings\50:freetext
-Free Text:SABE parkings\51:freetext
-Free Text:SABE parkings\52:freetext
-Free Text:SABE parkings\53:freetext
-Free Text:SABE parkings\54:freetext
-Free Text:SABE parkings\55:freetext
-Free Text:SABE parkings\56:freetext
-Free Text:SABE parkings\57:freetext
-Free Text:SABE parkings\58:freetext
-Free Text:SABE parkings\59:freetext
-Free Text:SABE parkings\6:freetext
-Free Text:SABE parkings\60:freetext
-Free Text:SABE parkings\7:freetext
-Free Text:SABE parkings\8:freetext
-Free Text:SABE parkings\9:freetext
-Free Text:SABE taxiways\1:freetext
-Free Text:SABE taxiways\1W:freetext
-Free Text:SABE taxiways\2:freetext
-Free Text:SABE taxiways\2W:freetext
-Free Text:SABE taxiways\3:freetext
-Free Text:SABE taxiways\3W:freetext
-Free Text:SABE taxiways\4:freetext
-Free Text:SABE taxiways\5:freetext
-Free Text:SABE taxiways\A:freetext
-Free Text:SABE taxiways\B:freetext
-Free Text:SABE taxiways\C:freetext
-Free Text:SABE taxiways\D:freetext
-Free Text:SABE taxiways\E:freetext
-Free Text:SABE taxiways\PPAL:freetext
-Free Text:SACO parkings\1:freetext
-Free Text:SACO parkings\10:freetext
-Free Text:SACO parkings\11:freetext
-Free Text:SACO parkings\12:freetext
-Free Text:SACO parkings\13:freetext
-Free Text:SACO parkings\14:freetext
-Free Text:SACO parkings\15:freetext
-Free Text:SACO parkings\16:freetext
-Free Text:SACO parkings\17:freetext
-Free Text:SACO parkings\18:freetext
-Free Text:SACO parkings\19:freetext
-Free Text:SACO parkings\19A:freetext
-Free Text:SACO parkings\2:freetext
-Free Text:SACO parkings\20:freetext
-Free Text:SACO parkings\21:freetext
-Free Text:SACO parkings\22:freetext
-Free Text:SACO parkings\23:freetext
-Free Text:SACO parkings\23A:freetext
-Free Text:SACO parkings\24:freetext
-Free Text:SACO parkings\25:freetext
-Free Text:SACO parkings\26:freetext
-Free Text:SACO parkings\27:freetext
-Free Text:SACO parkings\28:freetext
-Free Text:SACO parkings\3:freetext
-Free Text:SACO parkings\4:freetext
-Free Text:SACO parkings\5:freetext
-Free Text:SACO parkings\6:freetext
-Free Text:SACO parkings\7:freetext
-Free Text:SACO parkings\8:freetext
-Free Text:SACO parkings\9:freetext
-Free Text:SACO taxiways\A:freetext
-Free Text:SACO taxiways\B:freetext
-Free Text:SACO taxiways\C:freetext
+Free Text:SAAR\B:freetext
 Free Text:SADF\1:freetext
 Free Text:SADF\2:freetext
 Free Text:SADF\3:freetext
 Free Text:SADF\4:freetext
 Free Text:SADF\A:freetext
+Free Text:SADF\A:freetext
+Free Text:SADF\A:freetext
 Free Text:SADF\B:freetext
 Free Text:SADF\C:freetext
-Free Text:SADM taxiways\ A:freetext
-Free Text:SADM taxiways\ A:freetext
-Free Text:SADM taxiways\ A:freetext
-Free Text:SADM taxiways\ B:freetext
-Free Text:SADM taxiways\ C:freetext
-Free Text:SADM taxiways\ D:freetext
-Free Text:SADM taxiways\ E:freetext
-Free Text:SADM taxiways\ F:freetext
-Free Text:SAEZ parkings\10:freetext
-Free Text:SAEZ parkings\11:freetext
-Free Text:SAEZ parkings\12:freetext
-Free Text:SAEZ parkings\13:freetext
-Free Text:SAEZ parkings\14:freetext
-Free Text:SAEZ parkings\15:freetext
-Free Text:SAEZ parkings\16:freetext
-Free Text:SAEZ parkings\17:freetext
-Free Text:SAEZ parkings\18:freetext
-Free Text:SAEZ parkings\2:freetext
-Free Text:SAEZ parkings\22:freetext
-Free Text:SAEZ parkings\23:freetext
-Free Text:SAEZ parkings\24:freetext
-Free Text:SAEZ parkings\25:freetext
-Free Text:SAEZ parkings\3:freetext
-Free Text:SAEZ parkings\33:freetext
-Free Text:SAEZ parkings\33A:freetext
-Free Text:SAEZ parkings\33B:freetext
-Free Text:SAEZ parkings\34:freetext
-Free Text:SAEZ parkings\34A:freetext
-Free Text:SAEZ parkings\34B:freetext
-Free Text:SAEZ parkings\34C:freetext
-Free Text:SAEZ parkings\35:freetext
-Free Text:SAEZ parkings\35A:freetext
-Free Text:SAEZ parkings\35B:freetext
-Free Text:SAEZ parkings\36:freetext
-Free Text:SAEZ parkings\37:freetext
-Free Text:SAEZ parkings\4:freetext
-Free Text:SAEZ parkings\40:freetext
-Free Text:SAEZ parkings\41:freetext
-Free Text:SAEZ parkings\42:freetext
-Free Text:SAEZ parkings\43:freetext
-Free Text:SAEZ parkings\44:freetext
-Free Text:SAEZ parkings\45:freetext
-Free Text:SAEZ parkings\46:freetext
-Free Text:SAEZ parkings\47:freetext
-Free Text:SAEZ parkings\5:freetext
-Free Text:SAEZ parkings\50:freetext
-Free Text:SAEZ parkings\51:freetext
-Free Text:SAEZ parkings\52:freetext
-Free Text:SAEZ parkings\53:freetext
-Free Text:SAEZ parkings\54:freetext
-Free Text:SAEZ parkings\55:freetext
-Free Text:SAEZ parkings\6:freetext
-Free Text:SAEZ parkings\7:freetext
-Free Text:SAEZ parkings\8:freetext
-Free Text:SAEZ parkings\9:freetext
-Free Text:SAEZ taxiways\A:freetext
-Free Text:SAEZ taxiways\B:freetext
-Free Text:SAEZ taxiways\C:freetext
-Free Text:SAEZ taxiways\D:freetext
-Free Text:SAEZ taxiways\E:freetext
-Free Text:SAEZ taxiways\F:freetext
-Free Text:SAEZ taxiways\G:freetext
-Free Text:SAEZ taxiways\H:freetext
-Free Text:SAEZ taxiways\J:freetext
 Free Text:SAME\1:freetext
 Free Text:SAME\10:freetext
 Free Text:SAME\2:freetext
@@ -2229,8 +1838,14 @@ Free Text:SAME\8:freetext
 Free Text:SAME\9:freetext
 Free Text:SAME\A:freetext
 Free Text:SAME\A:freetext
+Free Text:SAME\A:freetext
+Free Text:SAME\A:freetext
+Free Text:SAME\A:freetext
+Free Text:SAME\A:freetext
+Free Text:SAME\B:freetext
 Free Text:SAME\B:freetext
 Free Text:SAME\C:freetext
+Free Text:SAME\D:freetext
 Free Text:SAME\D:freetext
 Free Text:SAME\E:freetext
 Free Text:SAME\F:freetext
@@ -2256,52 +1871,11 @@ Free Text:SANT\4:freetext
 Free Text:SANT\5:freetext
 Free Text:SANT\6:freetext
 Free Text:SANT\A:freetext
+Free Text:SANT\A:freetext
 Free Text:SANT\B:freetext
 Free Text:SANT\C:freetext
 Free Text:SANT\D:freetext
-Free Text:SANU parkings\1:freetext
-Free Text:SANU parkings\10:freetext
-Free Text:SANU parkings\11:freetext
-Free Text:SANU parkings\12:freetext
-Free Text:SANU parkings\13:freetext
-Free Text:SANU parkings\14:freetext
-Free Text:SANU parkings\15:freetext
-Free Text:SANU parkings\16:freetext
-Free Text:SANU parkings\17:freetext
-Free Text:SANU parkings\1A:freetext
-Free Text:SANU parkings\2:freetext
-Free Text:SANU parkings\3:freetext
-Free Text:SANU parkings\4:freetext
-Free Text:SANU parkings\5:freetext
-Free Text:SANU parkings\6:freetext
-Free Text:SANU parkings\6A:freetext
-Free Text:SANU parkings\7:freetext
-Free Text:SANU parkings\8:freetext
-Free Text:SANU parkings\9:freetext
-Free Text:SANU taxiways\A:freetext
-Free Text:SANU taxiways\B:freetext
-Free Text:SAOC taxiways\A:freetext
-Free Text:SAOC taxiways\B:freetext
-Free Text:SAOU parkings\1:freetext
-Free Text:SAOU parkings\2:freetext
-Free Text:SAOU parkings\3:freetext
-Free Text:SAOU parkings\4:freetext
-Free Text:SAOU parkings\5:freetext
-Free Text:SAOU parkings\6:freetext
-Free Text:SAOU taxiways\A:freetext
-Free Text:SAOU taxiways\B:freetext
-Free Text:SAOU taxiways\C:freetext
-Free Text:SARC parkings\1:freetext
-Free Text:SARC parkings\2:freetext
-Free Text:SARC parkings\3:freetext
-Free Text:SARC parkings\4:freetext
-Free Text:SARC parkings\5:freetext
-Free Text:SARC parkings\6:freetext
-Free Text:SARC parkings\7:freetext
-Free Text:SARC parkings\8:freetext
-Free Text:SARC taxiways\A:freetext
-Free Text:SARC taxiways\B:freetext
-Free Text:SARC taxiways\C:freetext
+Free Text:SANT\D:freetext
 Free Text:SARE\1:freetext
 Free Text:SARE\2:freetext
 Free Text:SARE\3:freetext
@@ -2313,8 +1887,6 @@ Free Text:SARE\7:freetext
 Free Text:SARE\8:freetext
 Free Text:SARE\A:freetext
 Free Text:SARF\1:freetext
-Free Text:SARF\1:freetext
-Free Text:SARF\2:freetext
 Free Text:SARF\2:freetext
 Free Text:SARF\3:freetext
 Free Text:SARF\4:freetext
@@ -2327,77 +1899,46 @@ Free Text:SARI\5:freetext
 Free Text:SARI\A:freetext
 Free Text:SARI\B:freetext
 Free Text:SARI\C:freetext
-Free Text:SARP parkings\1:freetext
-Free Text:SARP parkings\2:freetext
-Free Text:SARP parkings\3:freetext
-Free Text:SARP parkings\4:freetext
-Free Text:SARP parkings\5:freetext
-Free Text:SARP taxiways\1:freetext
-Free Text:SARP taxiways\2:freetext
+Free Text:SARI\C:freetext
 Free Text:SASA\1:freetext
 Free Text:SASA\2:freetext
 Free Text:SASA\3:freetext
 Free Text:SASA\4:freetext
-Free Text:SASA\5:freetext
 Free Text:SASA\6:freetext
 Free Text:SASA\A:freetext
+Free Text:SASA\A:freetext
 Free Text:SASA\B:freetext
-Free Text:SASJ parkings\1:freetext
-Free Text:SASJ parkings\1A:freetext
-Free Text:SASJ parkings\2:freetext
-Free Text:SASJ parkings\3:freetext
-Free Text:SASJ parkings\4:freetext
-Free Text:SASJ parkings\5:freetext
-Free Text:SASJ parkings\6:freetext
-Free Text:SASJ taxiways\A:freetext
-Free Text:SASJ taxiways\B:freetext
-Free Text:SASJ taxiways\C:freetext
-Free Text:SAVC parkings\1:freetext
-Free Text:SAVC parkings\2:freetext
-Free Text:SAVC parkings\3:freetext
-Free Text:SAVC parkings\4:freetext
-Free Text:SAVC taxiways\1:freetext
-Free Text:SAVC taxiways\2:freetext
-Free Text:SAVC taxiways\3:freetext
-Free Text:SAVC taxiways\3:freetext
-Free Text:SAVC taxiways\3:freetext
+Free Text:SASA\B:freetext
 Free Text:SAVE\A:freetext
 Free Text:SAVE\B:freetext
-Free Text:SAVT\1:freetext
 Free Text:SAVT\2:freetext
 Free Text:SAVT\3:freetext
 Free Text:SAVT\4:freetext
 Free Text:SAVT\6:freetext
-Free Text:SAVT\7:freetext
-Free Text:SAVT\8:freetext
-Free Text:SAVT\9:freetext
+Free Text:SAVT\A:freetext
 Free Text:SAVT\A:freetext
 Free Text:SAVT\B:freetext
 Free Text:SAVT\C:freetext
 Free Text:SAVT\D:freetext
 Free Text:SAVT\E:freetext
 Free Text:SAVT\F:freetext
-Free Text:SAVY taxiways\A:freetext
 Free Text:SAWC\1:freetext
 Free Text:SAWC\2:freetext
 Free Text:SAWC\3:freetext
 Free Text:SAWC\A:freetext
 Free Text:SAWC\B:freetext
+Free Text:SAWC\B:freetext
 Free Text:SAWC\C:freetext
-Free Text:SAWE parkings\1:freetext
-Free Text:SAWE parkings\2:freetext
-Free Text:SAWE parkings\3:freetext
-Free Text:SAWE parkings\4:freetext
-Free Text:SAWE parkings\5:freetext
-Free Text:SAWE taxiways\A:freetext
-Free Text:SAWE taxiways\B:freetext
-Free Text:SAWE taxiways\C:freetext
 Free Text:SAWG\1:freetext
 Free Text:SAWG\2:freetext
 Free Text:SAWG\3:freetext
 Free Text:SAWG\A:freetext
+Free Text:SAWG\A:freetext
+Free Text:SAWG\B:freetext
 Free Text:SAWG\B:freetext
 Free Text:SAWG\C:freetext
+Free Text:SAWG\C:freetext
+Free Text:SAWG\D:freetext
 Free Text:SAWG\D:freetext
 Free Text:SAWH\1:freetext
 Free Text:SAWH\3:freetext
@@ -2409,10 +1950,15 @@ Free Text:SAZB\2:freetext
 Free Text:SAZB\3:freetext
 Free Text:SAZB\4:freetext
 Free Text:SAZB\A:freetext
+Free Text:SAZB\A:freetext
+Free Text:SAZB\B:freetext
+Free Text:SAZB\B:freetext
 Free Text:SAZB\B:freetext
 Free Text:SAZB\C:freetext
 Free Text:SAZB\D:freetext
 Free Text:SAZB\E:freetext
+Free Text:SAZB\E:freetext
+Free Text:SAZB\F:freetext
 Free Text:SAZB\F:freetext
 Free Text:SAZB\G:freetext
 Free Text:SAZB\H:freetext
@@ -2430,6 +1976,7 @@ Free Text:SAZM\8:freetext
 Free Text:SAZM\9:freetext
 Free Text:SAZM\A:freetext
 Free Text:SAZM\B:freetext
+Free Text:SAZM\B:freetext
 Free Text:SAZN\1:freetext
 Free Text:SAZN\2:freetext
 Free Text:SAZN\3:freetext
@@ -2438,9 +1985,9 @@ Free Text:SAZN\5:freetext
 Free Text:SAZN\6:freetext
 Free Text:SAZN\7:freetext
 Free Text:SAZN\8:freetext
-Free Text:SAZN\9:freetext
 Free Text:SAZN\A:freetext
 Free Text:SAZN\B:freetext
+Free Text:SAZN\C:freetext
 Free Text:SAZN\C:freetext
 Free Text:SAZS\1:freetext
 Free Text:SAZS\10:freetext
@@ -2452,27 +1999,20 @@ Free Text:SAZS\5B:freetext
 Free Text:SAZS\6:freetext
 Free Text:SAZS\7:freetext
 Free Text:SAZS\8:freetext
-Free Text:SAZS\9:freetext
+Free Text:SAZS\A:freetext
 Free Text:SAZS\A:freetext
 Free Text:SAZS\B:freetext
 Free Text:SAZS\C:freetext
 Geo:Antartida:
 Geo:EGYP:
 Geo:GEO:
-Geo:Islas Malvinas Argentinas:
-Geo:Linea Costera:
-Geo:Lineas limitrofes CHI-PAR-URU:
 Geo:SAAC:
 Geo:SAAG:
 Geo:SAAI:
 Geo:SAAJ:
 Geo:SAAN Airport:
-Geo:SAAP Airport:
 Geo:SAAR:
-Geo:SAAV Airport:
 Geo:SABE:
-Geo:SACA:
-Geo:SACE:
 Geo:SACO:
 Geo:SACT:
 Geo:SADF:
@@ -2481,7 +2021,6 @@ Geo:SADL:
 Geo:SADM:
 Geo:SADO:
 Geo:SADP:
-Geo:SAEZ:
 Geo:SAHC:
 Geo:SAHR:
 Geo:SAHS:
@@ -2535,8 +2074,6 @@ High airways:UA307:line
 High airways:UA307:name
 High airways:UA570:line
 High airways:UA570:name
-High airways:UB555:line
-High airways:UB555:name
 High airways:UB684:line
 High airways:UB684:name
 High airways:UB687:line
@@ -2567,8 +2104,6 @@ High airways:UL550:line
 High airways:UL550:name
 High airways:UL653:line
 High airways:UL653:name
-High airways:UL660:line
-High airways:UL660:name
 High airways:UL670:line
 High airways:UL670:name
 High airways:UL793:line
@@ -2581,8 +2116,6 @@ High airways:UM418:line
 High airways:UM418:name
 High airways:UM424:line
 High airways:UM424:name
-High airways:UM429:line
-High airways:UM429:name
 High airways:UM534:line
 High airways:UM534:name
 High airways:UM543:line
@@ -2619,8 +2152,6 @@ High airways:UN857:line
 High airways:UN857:name
 High airways:UP526:line
 High airways:UP526:name
-High airways:UT103:line
-High airways:UT103:name
 High airways:UT105:line
 High airways:UT105:name
 High airways:UT106:line
@@ -2721,8 +2252,6 @@ High airways:UW33:line
 High airways:UW33:name
 High airways:UW34:line
 High airways:UW34:name
-High airways:UW35:line
-High airways:UW35:name
 High airways:UW38:line
 High airways:UW38:name
 High airways:UW39:line
@@ -2737,8 +2266,6 @@ High airways:UW44:line
 High airways:UW44:name
 High airways:UW45:line
 High airways:UW45:name
-High airways:UW46:line
-High airways:UW46:name
 High airways:UW48:line
 High airways:UW48:name
 High airways:UW5:line
@@ -2747,8 +2274,6 @@ High airways:UW50:line
 High airways:UW50:name
 High airways:UW52:line
 High airways:UW52:name
-High airways:UW54:line
-High airways:UW54:name
 High airways:UW56:line
 High airways:UW56:name
 High airways:UW57:line
@@ -2769,8 +2294,6 @@ High airways:UW68:line
 High airways:UW68:name
 High airways:UW7:line
 High airways:UW7:name
-High airways:UW70:line
-High airways:UW70:name
 High airways:UW8:line
 High airways:UW8:name
 High airways:UZ102:line
@@ -2793,8 +2316,6 @@ High airways:UZ113:line
 High airways:UZ113:name
 High airways:UZ114:line
 High airways:UZ114:name
-High airways:UZ115:line
-High airways:UZ115:name
 High airways:UZ116:line
 High airways:UZ116:name
 High airways:UZ117:line
@@ -2961,8 +2482,6 @@ Low airways:W50:line
 Low airways:W50:name
 Low airways:W52:line
 Low airways:W52:name
-Low airways:W54:line
-Low airways:W54:name
 Low airways:W55:line
 Low airways:W55:name
 Low airways:W56:line
@@ -3030,19 +2549,28 @@ NDBs:BIO:name
 NDBs:BIO:symbol
 NDBs:C:frequency
 NDBs:C:frequency
+NDBs:C:frequency
 NDBs:C:name
 NDBs:C:name
+NDBs:C:name
+NDBs:C:symbol
 NDBs:C:symbol
 NDBs:C:symbol
 NDBs:CHP:frequency
 NDBs:CHP:name
 NDBs:CHP:symbol
 NDBs:D:frequency
+NDBs:D:frequency
+NDBs:D:frequency
+NDBs:D:frequency
+NDBs:D:name
+NDBs:D:name
+NDBs:D:name
 NDBs:D:name
 NDBs:D:symbol
-NDBs:ECA:frequency
-NDBs:ECA:name
-NDBs:ECA:symbol
+NDBs:D:symbol
+NDBs:D:symbol
+NDBs:D:symbol
 NDBs:F:frequency
 NDBs:F:name
 NDBs:F:symbol
@@ -3055,9 +2583,6 @@ NDBs:GNR:symbol
 NDBs:GPI:frequency
 NDBs:GPI:name
 NDBs:GPI:symbol
-NDBs:GRA:frequency
-NDBs:GRA:name
-NDBs:GRA:symbol
 NDBs:GRE:frequency
 NDBs:GRE:name
 NDBs:GRE:symbol
@@ -3068,15 +2593,24 @@ NDBs:ILM:frequency
 NDBs:ILM:name
 NDBs:ILM:symbol
 NDBs:J:frequency
+NDBs:J:frequency
 NDBs:J:name
+NDBs:J:name
+NDBs:J:symbol
 NDBs:J:symbol
 NDBs:JSM:frequency
 NDBs:JSM:name
 NDBs:JSM:symbol
 NDBs:L:frequency
 NDBs:L:frequency
+NDBs:L:frequency
+NDBs:L:frequency
 NDBs:L:name
 NDBs:L:name
+NDBs:L:name
+NDBs:L:name
+NDBs:L:symbol
+NDBs:L:symbol
 NDBs:L:symbol
 NDBs:L:symbol
 NDBs:LAR:frequency
@@ -3085,20 +2619,14 @@ NDBs:LAR:symbol
 NDBs:LIB:frequency
 NDBs:LIB:name
 NDBs:LIB:symbol
-NDBs:M:frequency
-NDBs:M:frequency
-NDBs:M:name
-NDBs:M:name
-NDBs:M:symbol
-NDBs:M:symbol
 NDBs:MBI:frequency
 NDBs:MBI:name
 NDBs:MBI:symbol
-NDBs:MDP:frequency
-NDBs:MDP:name
-NDBs:MDP:symbol
+NDBs:N:frequency
 NDBs:N:frequency
 NDBs:N:name
+NDBs:N:name
+NDBs:N:symbol
 NDBs:N:symbol
 NDBs:NIN:frequency
 NDBs:NIN:name
@@ -3107,14 +2635,17 @@ NDBs:OA:frequency
 NDBs:OA:name
 NDBs:OA:symbol
 NDBs:OC:frequency
+NDBs:OC:frequency
+NDBs:OC:frequency
 NDBs:OC:name
+NDBs:OC:name
+NDBs:OC:name
+NDBs:OC:symbol
+NDBs:OC:symbol
 NDBs:OC:symbol
 NDBs:OL:frequency
 NDBs:OL:name
 NDBs:OL:symbol
-NDBs:OM:frequency
-NDBs:OM:name
-NDBs:OM:symbol
 NDBs:OP:frequency
 NDBs:OP:frequency
 NDBs:OP:name
@@ -3129,8 +2660,14 @@ NDBs:OV:name
 NDBs:OV:symbol
 NDBs:P:frequency
 NDBs:P:frequency
+NDBs:P:frequency
+NDBs:P:frequency
 NDBs:P:name
 NDBs:P:name
+NDBs:P:name
+NDBs:P:name
+NDBs:P:symbol
+NDBs:P:symbol
 NDBs:P:symbol
 NDBs:P:symbol
 NDBs:PDI:frequency
@@ -3160,46 +2697,28 @@ NDBs:SAN:symbol
 NDBs:SCZ:frequency
 NDBs:SCZ:name
 NDBs:SCZ:symbol
-NDBs:SIS:frequency
-NDBs:SIS:name
-NDBs:SIS:symbol
-NDBs:STR:frequency
-NDBs:STR:name
-NDBs:STR:symbol
 NDBs:SVO:frequency
 NDBs:SVO:name
 NDBs:SVO:symbol
 NDBs:V:frequency
+NDBs:V:frequency
 NDBs:V:name
+NDBs:V:name
+NDBs:V:symbol
 NDBs:V:symbol
 NDBs:Z:frequency
 NDBs:Z:name
 NDBs:Z:symbol
-Regions:SAAR:polygon
 Regions:SABE:polygon
 Regions:SACO:polygon
 Regions:SADF:polygon
 Regions:SAEZ:polygon
 Regions:SAME:polygon
-Regions:SANR:polygon
 Regions:SANT:polygon
-Regions:SARE:polygon
-Regions:SARF:polygon
-Regions:SARI:polygon
 Regions:SASA:polygon
-Regions:SAWC:polygon
-Regions:SAZB:polygon
-Regions:SAZN:polygon
-Regions:SAZS:polygon
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1 left ticks
-Runways:SABE Jorge Newbery Aeroparque 13-31:extended centerline 1 right ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1 left ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 1 right ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 2
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 2 left ticks
-Runways:SAEZ Ezeiza Ministro Pistarini 11-29:extended centerline 2 right ticks
+Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 1
+Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 1 left ticks
+Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 1 right ticks
 VORs:BAL:frequency
 VORs:BAL:name
 VORs:BAL:symbol
@@ -3215,18 +2734,9 @@ VORs:CAT:symbol
 VORs:CBA:frequency
 VORs:CBA:name
 VORs:CBA:symbol
-VORs:CHI:frequency
-VORs:CHI:name
-VORs:CHI:symbol
 VORs:CHP:frequency
 VORs:CHP:name
 VORs:CHP:symbol
-VORs:CRR:frequency
-VORs:CRR:frequency
-VORs:CRR:name
-VORs:CRR:name
-VORs:CRR:symbol
-VORs:CRR:symbol
 VORs:CRV:frequency
 VORs:CRV:name
 VORs:CRV:symbol
@@ -3239,9 +2749,6 @@ VORs:DOZ:symbol
 VORs:DRY:frequency
 VORs:DRY:name
 VORs:DRY:symbol
-VORs:DUR:frequency
-VORs:DUR:name
-VORs:DUR:symbol
 VORs:ECA:frequency
 VORs:ECA:name
 VORs:ECA:symbol
@@ -3281,9 +2788,6 @@ VORs:GRA:symbol
 VORs:GUA:frequency
 VORs:GUA:name
 VORs:GUA:symbol
-VORs:ICO:frequency
-VORs:ICO:name
-VORs:ICO:symbol
 VORs:IGU:frequency
 VORs:IGU:name
 VORs:IGU:symbol
@@ -3305,9 +2809,6 @@ VORs:JUJ:symbol
 VORs:LAR:frequency
 VORs:LAR:name
 VORs:LAR:symbol
-VORs:LOA:frequency
-VORs:LOA:name
-VORs:LOA:symbol
 VORs:LYE:frequency
 VORs:LYE:name
 VORs:LYE:symbol
@@ -3326,24 +2827,12 @@ VORs:MJZ:symbol
 VORs:MLG:frequency
 VORs:MLG:name
 VORs:MLG:symbol
-VORs:MLO:frequency
-VORs:MLO:name
-VORs:MLO:symbol
-VORs:MON:frequency
-VORs:MON:name
-VORs:MON:symbol
 VORs:MTP:frequency
 VORs:MTP:name
 VORs:MTP:symbol
-VORs:NAS:frequency
-VORs:NAS:name
-VORs:NAS:symbol
 VORs:NEU:frequency
 VORs:NEU:name
 VORs:NEU:symbol
-VORs:NIA:frequency
-VORs:NIA:name
-VORs:NIA:symbol
 VORs:NIN:frequency
 VORs:NIN:name
 VORs:NIN:symbol
@@ -3404,12 +2893,6 @@ VORs:SRC:symbol
 VORs:STO:frequency
 VORs:STO:name
 VORs:STO:symbol
-VORs:TBN:frequency
-VORs:TBN:name
-VORs:TBN:symbol
-VORs:TOY:frequency
-VORs:TOY:name
-VORs:TOY:symbol
 VORs:TRC:frequency
 VORs:TRC:name
 VORs:TRC:symbol
@@ -3446,4 +2929,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-36.128904:-61.461136:-33.665011:-55.764301
+WINDOWAREA:-61.977218:-106.937307:-15.537010:0.534976

@@ -10,13 +10,13 @@ Fixes:symbol:14342874:0.5:0:1:13
 Fixes:name:14835237:3.5:0:1:2
 Sids:line:6016631:1.4:2:1:7
 Stars:line:6579300:3.0:3:0:7
-ARTCC high boundary:line:6579300:3.0:0:1:7
-ARTCC boundary:line:5263535:3.0:0:1:7
-ARTCC low boundary:line:5263535:3.0:0:1:7
+ARTCC high boundary:line:4473924:3.0:0:1:7
+ARTCC boundary:line:4473924:3.0:0:1:7
+ARTCC low boundary:line:4473924:3.0:0:1:7
 Geo:line:13818335:1.0:0:1:7
-VORs:symbol:16777215:0.5:0:1:6
-VORs:name:14835237:3.5:1:3:2
-VORs:frequency:4539717:0.1:0:0:6
+VORs:symbol:12773886:0.5:0:1:6
+VORs:name:12773886:3.5:1:3:2
+VORs:frequency:12773886:0.1:0:0:6
 NDBs:symbol:12039936:1.0:0:1:7
 NDBs:name:4044839:3.5:0:0:2
 NDBs:frequency:5395026:0.1:0:0:6
@@ -33,7 +33,7 @@ Datablock:even flight level:16777215:3.5:0:0:7
 Datablock:odd flight level:16777215:3.5:0:0:7
 Datablock:arrivals:16777215:3.5:0:0:7
 Datablock:departures:16777215:3.5:0:0:7
-Datablock:user 1:16777215:3.5:0:0:7
+Datablock:user 1:16758122:3.5:0:0:7
 Datablock:user 2:16777215:3.5:0:0:7
 Datablock:user 3:16777215:3.5:0:0:7
 Datablock:user 4:16777215:3.5:0:0:7
@@ -90,7 +90,7 @@ Chat:text:16777215:3.5:0:0:7
 Chat:background:3289650:3.5:0:0:7
 Chat:name normal:16777215:3.5:0:0:7
 Chat:name unread:16776960:3.5:0:0:7
-Sector:line:21760:1.0:0:2:7
+Sector:line:6291647:1.0:0:1:7
 Sector:msaw:32768:2.0:0:2:7
 Sector:active sector background:0:3.5:0:0:7
 Sector:inactive sector background:1381653:3.5:2:4:7
@@ -108,7 +108,10 @@ SYMBOLITEM:LINETO 2 2
 SYMBOLITEM:LINETO -2 2
 SYMBOLITEM:LINETO -2 -2
 SYMBOL:3
-SYMBOLITEM:POLYGON -4 3 0 -4 4 3
+SYMBOLITEM:MOVETO -3 2
+SYMBOLITEM:LINETO 0 -3
+SYMBOLITEM:LINETO 3 2
+SYMBOLITEM:LINETO -3 2
 SYMBOL:4
 SYMBOLITEM:MOVETO -4 0
 SYMBOLITEM:LINETO 0 4

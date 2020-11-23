@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:VATSIM Argentina.sct
-SECTORTITLE:VATSIM Argentina.sct
 Free Text:SABE taxiways\1:freetext
 Free Text:SABE taxiways\1W:freetext
 Free Text:SABE taxiways\2:freetext

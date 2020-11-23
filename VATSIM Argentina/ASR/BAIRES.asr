@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:VATSIM Argentina.sct
 ARTCC high boundary:TMABaires:
 ARTCC low boundary:ATZMayo:
 ARTCC low boundary:ATZMoreno:
@@ -10,71 +9,38 @@ ARTCC low boundary:ATZPalomar:
 ARTCC low boundary:ATZSanFer:
 ARTCC low boundary:CTRAeroparque:
 ARTCC low boundary:CTREzeiza:
-Fixes:ARSOT:name
 Fixes:ARSOT:symbol
-Fixes:ASADA:name
 Fixes:ASADA:symbol
-Fixes:ATOVO:name
 Fixes:ATOVO:symbol
-Fixes:BIVAM:name
 Fixes:BIVAM:symbol
-Fixes:DORVO:name
 Fixes:DORVO:symbol
-Fixes:EGEPA:name
 Fixes:EGEPA:symbol
-Fixes:ENPID:name
 Fixes:ENPID:symbol
-Fixes:ESLAN:name
 Fixes:ESLAN:symbol
-Fixes:EZE19:name
 Fixes:EZE19:symbol
-Fixes:FUSCA:name
 Fixes:FUSCA:symbol
-Fixes:GESTA:name
 Fixes:GESTA:symbol
-Fixes:IMBOD:name
 Fixes:IMBOD:symbol
-Fixes:KABIS:name
 Fixes:KABIS:symbol
-Fixes:KOPRO:name
 Fixes:KOPRO:symbol
-Fixes:KOVUK:name
 Fixes:KOVUK:symbol
-Fixes:KUKEN:name
 Fixes:KUKEN:symbol
-Fixes:LANDA:name
 Fixes:LANDA:symbol
-Fixes:NEPIS:name
 Fixes:NEPIS:symbol
-Fixes:NEVLO:name
 Fixes:NEVLO:symbol
-Fixes:OPLOM:name
 Fixes:OPLOM:symbol
-Fixes:PAGON:name
 Fixes:PAGON:symbol
-Fixes:PAPIX:name
 Fixes:PAPIX:symbol
-Fixes:POSRA:name
 Fixes:POSRA:symbol
-Fixes:SURBO:name
 Fixes:SURBO:symbol
-Fixes:SURLI:name
 Fixes:SURLI:symbol
-Fixes:TENIL:name
 Fixes:TENIL:symbol
-Fixes:TORUL:name
 Fixes:TORUL:symbol
-Fixes:TRINI:name
 Fixes:TRINI:symbol
-Fixes:UPOMA:name
 Fixes:UPOMA:symbol
-Fixes:URINO:name
 Fixes:URINO:symbol
-Fixes:VALOS:name
 Fixes:VALOS:symbol
-Fixes:VANAR:name
 Fixes:VANAR:symbol
-Fixes:VUPAN:name
 Fixes:VUPAN:symbol
 Free Text:SABE\1:freetext
 Free Text:SABE\1:freetext
@@ -351,25 +317,19 @@ Regions:SAEZ:polygon
 Regions:SAEZ_ILS11:polygon
 Regions:SAEZ_ILS35:polygon
 VORs:EZE:frequency
-VORs:EZE:name
 VORs:EZE:symbol
 VORs:FDO:frequency
-VORs:FDO:name
 VORs:FDO:symbol
 VORs:GBE:frequency
-VORs:GBE:name
 VORs:GBE:symbol
 VORs:PAL:frequency
-VORs:PAL:name
 VORs:PAL:symbol
 VORs:PTA:frequency
-VORs:PTA:name
 VORs:PTA:symbol
 VORs:SNT:frequency
-VORs:SNT:name
 VORs:SNT:symbol
 SHOWC:1
-SHOWSB:0
+SHOWSB:1
 BELOW:0
 ABOVE:0
 LEADER:10
@@ -380,4 +340,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-36.001409:-61.249150:-33.636581:-55.818746
+WINDOWAREA:-35.993836:-60.823834:-33.541205:-55.147937

@@ -1,42 +1,23 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Users\esteban\Documents\GitHub\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
-SECTORTITLE:VATSIM Argentina.sct
 ARTCC low boundary:CTRCordoba:
-Fixes:AGUAD:name
 Fixes:AGUAD:symbol
-Fixes:ASEMI:name
 Fixes:ASEMI:symbol
-Fixes:ESUBO:name
 Fixes:ESUBO:symbol
-Fixes:GUVUX:name
 Fixes:GUVUX:symbol
-Fixes:IRAVO:name
 Fixes:IRAVO:symbol
-Fixes:IRETI:name
 Fixes:IRETI:symbol
-Fixes:KOVEV:name
 Fixes:KOVEV:symbol
-Fixes:LOKOT:name
 Fixes:LOKOT:symbol
-Fixes:NUXAB:name
 Fixes:NUXAB:symbol
-Fixes:PUPAT:name
 Fixes:PUPAT:symbol
-Fixes:RAXOB:name
 Fixes:RAXOB:symbol
-Fixes:RENUK:name
 Fixes:RENUK:symbol
-Fixes:SIGAT:name
 Fixes:SIGAT:symbol
-Fixes:SILAV:name
 Fixes:SILAV:symbol
-Fixes:TIRVI:name
 Fixes:TIRVI:symbol
-Fixes:VULIG:name
 Fixes:VULIG:symbol
-Fixes:XONEN:name
 Fixes:XONEN:symbol
 Free Text:SACO\1:freetext
 Free Text:SACO\10:freetext
@@ -78,12 +59,10 @@ Free Text:SACO\C:freetext
 Geo:SACE_SACA:
 Geo:SACO:
 NDBs:H:frequency
-NDBs:H:name
 NDBs:H:symbol
 Regions:SACO:polygon
 Regions:SACO_ILS19:polygon
 VORs:CBA:frequency
-VORs:CBA:name
 VORs:CBA:symbol
 SHOWC:1
 SHOWSB:1

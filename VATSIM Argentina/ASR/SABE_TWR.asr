@@ -1,22 +1,10 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Users\esteban\Documents\GitHub\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
-SECTORTITLE:VATSIM Argentina.sct
 ARTCC low boundary:ATZMayo:
 ARTCC low boundary:ATZPalomar:
 ARTCC low boundary:ATZSanFer:
 ARTCC low boundary:CTRAeroparque:
-Fixes:ENPID:name
-Fixes:FUSCA:name
-Fixes:KABIS:name
-Fixes:MUPER:name
-Fixes:PAPIX:name
-Fixes:SIKED:name
-Fixes:SURBO:name
-Fixes:TRINI:name
-Fixes:VANAR:name
-Fixes:VERAS:name
 Free Text:SABE\1:freetext
 Free Text:SABE\1:freetext
 Free Text:SABE\10:freetext

@@ -400,7 +400,7 @@ ARH	Arrowhead Airways - United States	ARROWHEAD
 ARI	Aero Vics - Mexico	AEROVICS
 ARJ	Aerojet de Costa Rica, S.A. - Costa Rica	UNKNOWN
 ARK	Aero Link Air Services S.L. - Spain	LINK SERVICE
-ARL	Arabian Airlines - Jordan	ARABIAN
+ARL	Arlat Virtual - Argentina 	ARLAT
 ARM	Aeromarket Express - Spain	AMEX
 ARN	Astra Airlines SA - Switzerland	SWISSLEASE
 ARO	Arrow Aviation Ltd. - Canada	ARROW
@@ -490,7 +490,7 @@ AVA	Avianca - Aerovias Nacionales de Colombia, S.A. - Colombia	AVIANCA
 AVB	Aviation Beaufort - United Kingdom	BEAUPAIR
 AVC	Aeronautica Venezolana, C.A. (Aierovenca) - Venezuela	AEROVENCA
 AVD	Alamo Aviacion, S.L. - Spain	ALAMO
-AVE	Avensa - Venezuela	Avensa
+AVE	Aerovirtual - Argentina 	AEROVIRTUAL
 AVF	Aviair Aviation Ltd. - Canada	CARIBOO
 AVG	Air Falcon - Djibouti	DJIBOUTI FALCON
 AVH	AV8 Helicopters - United Kingdom	KENT HELI
@@ -5322,7 +5322,7 @@ SUM	State Unitary Air Enterprise - Russia	SUMES
 SUN	Antillana De Navegacion Aerea - Dominican Republic	UNKNOWN
 SUO	Aeroservicios De San Luis - Mexico	SERVICIO SANLUIS
 SUP	Aerosuper - Mexico	AEROSUPER
-SUR	SURAIR	SURAIR
+SUR	SURAIR - Argentina	SURAIR
 SUS	Sun Air of Scandinavia - Denmark	SUNSCAN
 SUT	Sistemas Aeronauuticos 2000 - Mexico	SISTEMAS AERONAUTICOS
 SUU	Star West Aviation - United States	SUNSTAR
