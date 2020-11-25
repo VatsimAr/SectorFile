@@ -2,6 +2,13 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 ARTCC boundary:FIRMendoza:
+ARTCC high boundary:TMAMalargue:
+ARTCC high boundary:TMAMendoza:
+ARTCC high boundary:TMAReynolds:
+ARTCC high boundary:TMASAnJuan:
+ARTCC high boundary:TMASanLuis:
+ARTCC high boundary:TMASanRafael:
+ARTCC low boundary:CTRMendoza:
 Fixes:ALBAL:symbol
 Fixes:ANKON:symbol
 Fixes:ARVET:symbol
@@ -184,4 +191,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-38.815225:-80.169482:-27.584355:-54.379807
+WINDOWAREA:-40.353114:-83.285461:-26.314527:-50.797256

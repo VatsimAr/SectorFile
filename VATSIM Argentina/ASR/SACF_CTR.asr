@@ -2,6 +2,17 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 ARTCC boundary:FIRCORDOBA:
+ARTCC high boundary:TMACatamarca:
+ARTCC high boundary:TMAConlara:
+ARTCC high boundary:TMACordoba:
+ARTCC high boundary:TMALaRioja:
+ARTCC high boundary:TMARioCuarto:
+ARTCC high boundary:TMASalta:
+ARTCC high boundary:TMATucuman:
+ARTCC low boundary:CTRCordoba:
+ARTCC low boundary:CTRJuJuy:
+ARTCC low boundary:CTRSalta:
+ARTCC low boundary:CTRTucuman:
 Fixes:AKRAS:symbol
 Fixes:ALDEX:symbol
 Fixes:ALDOR:symbol
@@ -267,475 +278,240 @@ Geo:SAOU:
 Geo:SASA:
 Geo:SASJ:
 High airways:UA306:line
-High
 High airways:UA307:line
-High
 High airways:UA570:line
-High
 High airways:UB684:line
-High
 High airways:UB687:line
-High
 High airways:UB688:line
-High
 High airways:UL211:line
-High
 High airways:UL211F:line
-High
 High airways:UL216:line
-High
 High airways:UL322:line
-High
 High airways:UL324:line
-High
 High airways:UL404:line
-High
 High airways:UL405:line
-High
 High airways:UL416:line
-High
 High airways:UL417:line
-High
 High airways:UL531:line
-High
 High airways:UL550:line
-High
 High airways:UL653:line
-High
 High airways:UL670:line
-High
 High airways:UL793:line
-High
 High airways:UM400:line
-High
 High airways:UM402:line
-High
 High airways:UM418:line
-High
 High airways:UM424:line
-High
 High airways:UM534:line
-High
 High airways:UM543:line
-High
 High airways:UM654:line
-High
 High airways:UM658:line
-High
 High airways:UM776:line
-High
 High airways:UM783:line
-High
 High airways:UM784:line
-High
 High airways:UM789:line
-High
 High airways:UM792:line
-High
 High airways:UM799:line
-High
 High airways:UN525:line
-High
 High airways:UN527:line
-High
 High airways:UN674:line
-High
 High airways:UN741:line
-High
 High airways:UN775:line
-High
 High airways:UN785:line
-High
 High airways:UN857:line
-High
 High airways:UP526:line
-High
 High airways:UT105:line
-High
 High airways:UT106:line
-High
 High airways:UT108:line
-High
 High airways:UT109:line
-High
 High airways:UT110:line
-High
 High airways:UT652:line
-High
 High airways:UT653:line
-High
 High airways:UT654:line
-High
 High airways:UT655:line
-High
 High airways:UT657:line
-High
 High airways:UT658:line
-High
 High airways:UT659:line
-High
 High airways:UT662:line
-High
 High airways:UT667:line
-High
 High airways:UT669:line
-High
 High airways:UT670:line
-High
 High airways:UT671:line
-High
 High airways:UT672:line
-High
 High airways:UT675:line
-High
 High airways:UT677:line
-High
 High airways:UT680:line
-High
 High airways:UT681:line
-High
 High airways:UT682:line
-High
 High airways:UT684:line
-High
 High airways:UT685:line
-High
 High airways:UT687:line
-High
 High airways:UT688:line
-High
 High airways:UT691:line
-High
 High airways:UT693:line
-High
 High airways:UT694:line
-High
 High airways:UT700:line
-High
 High airways:UT704:line
-High
 High airways:UT705:line
-High
 High airways:UW10:line
-High
 High airways:UW14:line
-High
 High airways:UW15:line
-High
 High airways:UW18:line
-High
 High airways:UW2:line
-High
 High airways:UW20:line
-High
 High airways:UW22:line
-High
 High airways:UW23:line
-High
 High airways:UW24:line
-High
 High airways:UW26:line
-High
 High airways:UW29:line
-High
 High airways:UW3:line
-High
 High airways:UW30:line
-High
 High airways:UW31:line
-High
 High airways:UW32:line
-High
 High airways:UW33:line
-High
 High airways:UW34:line
-High
 High airways:UW38:line
-High
 High airways:UW39:line
-High
 High airways:UW40:line
-High
 High airways:UW41:line
-High
 High airways:UW42:line
-High
 High airways:UW44:line
-High
 High airways:UW45:line
-High
 High airways:UW48:line
-High
 High airways:UW5:line
-High
 High airways:UW50:line
-High
 High airways:UW52:line
-High
 High airways:UW56:line
-High
 High airways:UW57:line
-High
 High airways:UW58:line
-High
 High airways:UW6:line
-High
 High airways:UW62:line
-High
 High airways:UW63:line
-High
 High airways:UW64:line
-High
 High airways:UW65:line
-High
 High airways:UW68:line
-High
 High airways:UW7:line
-High
 High airways:UW8:line
-High
 High airways:UZ102:line
-High
 High airways:UZ103:line
-High
 High airways:UZ105:line
-High
 High airways:UZ107:line
-High
 High airways:UZ108:line
-High
 High airways:UZ109:line
-High
 High airways:UZ111:line
-High
 High airways:UZ112:line
-High
 High airways:UZ113:line
-High
 High airways:UZ114:line
-High
 High airways:UZ116:line
-High
 High airways:UZ117:line
-High
 Low airways:A305:line
-Low
 Low airways:A306:line
-Low
 Low airways:A307:line
-Low
 Low airways:A310:line
-Low
 Low airways:A314:line
-Low
 Low airways:A428:line
-Low
 Low airways:A430:line
-Low
 Low airways:A556:line
-Low
 Low airways:A570:line
-Low
 Low airways:B432:line
-Low
 Low airways:B555:line
-Low
 Low airways:B556:line
-Low
 Low airways:B560:line
-Low
 Low airways:B561:line
-Low
 Low airways:B682:line
-Low
 Low airways:B684:line
-Low
 Low airways:B687:line
-Low
 Low airways:B688:line
-Low
 Low airways:G550:line
-Low
 Low airways:G680:line
-Low
 Low airways:L405:line
-Low
 Low airways:L775:line
-Low
 Low airways:M424:line
-Low
 Low airways:M789:line
-Low
 Low airways:N650:line
-Low
 Low airways:N674:line
-Low
 Low airways:R563:line
-Low
 Low airways:R683:line
-Low
 Low airways:T105:line
-Low
 Low airways:T108:line
-Low
 Low airways:T654:line
-Low
 Low airways:T655:line
-Low
 Low airways:T657:line
-Low
 Low airways:T658:line
-Low
 Low airways:T659:line
-Low
 Low airways:T661:line
-Low
 Low airways:T662:line
-Low
 Low airways:T669:line
-Low
 Low airways:T672:line
-Low
 Low airways:T693:line
-Low
 Low airways:T704:line
-Low
 Low airways:W10:line
-Low
 Low airways:W100:line
-Low
 Low airways:W11:line
-Low
 Low airways:W12:line
-Low
 Low airways:W13:line
-Low
 Low airways:W14:line
-Low
 Low airways:W15:line
-Low
 Low airways:W16:line
-Low
 Low airways:W18:line
-Low
 Low airways:W19:line
-Low
 Low airways:W20:line
-Low
 Low airways:W21:line
-Low
 Low airways:W22:line
-Low
 Low airways:W23:line
-Low
 Low airways:W24:line
-Low
 Low airways:W25:line
-Low
 Low airways:W26:line
-Low
 Low airways:W27:line
-Low
 Low airways:W28:line
-Low
 Low airways:W29:line
-Low
 Low airways:W3:line
-Low
 Low airways:W30:line
-Low
 Low airways:W31:line
-Low
 Low airways:W32:line
-Low
 Low airways:W33:line
-Low
 Low airways:W34:line
-Low
 Low airways:W37:line
-Low
 Low airways:W38:line
-Low
 Low airways:W39:line
-Low
 Low airways:W4:line
-Low
 Low airways:W40:line
-Low
 Low airways:W41:line
-Low
 Low airways:W42:line
-Low
 Low airways:W44:line
-Low
 Low airways:W45:line
-Low
 Low airways:W48:line
-Low
 Low airways:W49:line
-Low
 Low airways:W5:line
-Low
 Low airways:W50:line
-Low
 Low airways:W52:line
-Low
 Low airways:W55:line
-Low
 Low airways:W56:line
-Low
 Low airways:W58:line
-Low
 Low airways:W59:line
-Low
 Low airways:W6:line
-Low
 Low airways:W60:line
-Low
 Low airways:W61:line
-Low
 Low airways:W62:line
-Low
 Low airways:W63:line
-Low
 Low airways:W64:line
-Low
 Low airways:W65:line
-Low
 Low airways:W66:line
-Low
 Low airways:W67:line
-Low
 Low airways:W68:line
-Low
 Low airways:W69:line
-Low
 Low airways:W7:line
-Low
 Low airways:W70:line
-Low
 Low airways:W71:line
-Low
 Low airways:W72:line
-Low
 Low airways:W73:line
-Low
 Low airways:W8:line
-Low
 Low airways:W9:line
-Low
 Low airways:Z102:line
-Low
 Low airways:Z104:line
-Low
 Low airways:Z107:line
-Low
 Low airways:Z109:line
-Low
 Low airways:Z110:line
-Low
 Low airways:Z116:line
-Low
 NDBs:LAR:frequency
 NDBs:LAR:symbol
 Regions:SACO:polygon
@@ -756,7 +532,6 @@ Runways:SANI TINOGASTA 14-32:extended centerline 2 left vectoring
 Runways:SANI TINOGASTA 14-32:extended centerline 2 right base
 Runways:SANI TINOGASTA 14-32:extended centerline 2 right ticks
 Runways:SANI TINOGASTA 14-32:extended centerline 2 right vectoring
-Runways:SANI TINOGASTA
 Runways:SANR TERMAS DE RIO HONDO 01-19:centerline
 Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1
 Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1 left base
@@ -772,7 +547,6 @@ Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 left vectoring
 Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 right base
 Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 right ticks
 Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 right vectoring
-Runways:SANR TERMAS DE RIO HONDO
 Runways:SAOD VILLA DOLORES 17-35:centerline
 Runways:SAOD VILLA DOLORES 17-35:extended centerline 1
 Runways:SAOD VILLA DOLORES 17-35:extended centerline 1 left base
@@ -788,7 +562,6 @@ Runways:SAOD VILLA DOLORES 17-35:extended centerline 2 left vectoring
 Runways:SAOD VILLA DOLORES 17-35:extended centerline 2 right base
 Runways:SAOD VILLA DOLORES 17-35:extended centerline 2 right ticks
 Runways:SAOD VILLA DOLORES 17-35:extended centerline 2 right vectoring
-Runways:SAOD VILLA DOLORES
 VORs:CAT:frequency
 VORs:CAT:symbol
 VORs:CBA:frequency
@@ -829,4 +602,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-34.830662:-78.499066:-20.735243:-46.131470
+WINDOWAREA:-34.830662:-78.625131:-20.735243:-46.005405
