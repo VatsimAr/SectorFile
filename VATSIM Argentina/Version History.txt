@@ -6,11 +6,11 @@
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-V8 (23/11/2020)
+V8 (25/11/2020)
 Actualizado por Mariano Lopez y Javier Escandarani
 	- Adaptación de la pantalla radar a la de la vida real
 	- Actualización de SID, STAR y RWYs y de todo el país
-	- Actualización de AIRAC a 
+	- Actualización de AIRAC a v2012
 	- Actualización de aerolíneas
 	- Actualización de aliases
 	- Arreglo de puntos y niveles de transferencia entre dependencias
