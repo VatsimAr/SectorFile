@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\javoe\Documents\EuroScope\GIT - VATSIM Argentina\VATSIM Argentina\VATSIM Argentina.sct
-SECTORTITLE:VATSIM Argentina.sct
 ARTCC boundary:FIREZEIZA:
 ARTCC high boundary:TMABahia:
 ARTCC high boundary:TMABaires:
