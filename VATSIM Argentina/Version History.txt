@@ -14,6 +14,7 @@ Actualizado por Mariano Lopez y Javier Escandarani
 	- Actualización de aerolíneas
 	- Actualización de aliases
 	- Arreglo de puntos y niveles de transferencia entre dependencias
+	- Incorporación de sonidos Gander
 
 ==============================
 
