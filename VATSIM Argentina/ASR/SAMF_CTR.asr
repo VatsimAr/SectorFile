@@ -8,13 +8,14 @@ ARTCC high boundary:TMAReynolds:
 ARTCC high boundary:TMASAnJuan:
 ARTCC high boundary:TMASanLuis:
 ARTCC high boundary:TMASanRafael:
-ARTCC low boundary:CTRMendoza:
 Fixes:ALBAL:symbol
 Fixes:ANKON:symbol
 Fixes:ARVET:symbol
 Fixes:ASIMO:symbol
 Fixes:ASOTA:symbol
+Fixes:BOBAP:symbol
 Fixes:BURMI:symbol
+Fixes:DABAL:symbol
 Fixes:DIGER:symbol
 Fixes:DIKIS:symbol
 Fixes:EDRAL:symbol
@@ -24,11 +25,15 @@ Fixes:EKERO:symbol
 Fixes:ENTOS:symbol
 Fixes:EPGOL:symbol
 Fixes:ESITO:symbol
+Fixes:ETALU:symbol
 Fixes:FRAGA:symbol
+Fixes:GEDUN:symbol
+Fixes:GEGAT:symbol
 Fixes:GILSA:symbol
 Fixes:GUVOL:symbol
 Fixes:ILSUR:symbol
 Fixes:ISEGA:symbol
+Fixes:ISELU:symbol
 Fixes:ISIPO:symbol
 Fixes:ISORO:symbol
 Fixes:ISUSA:symbol
@@ -37,14 +42,20 @@ Fixes:KAMUR:symbol
 Fixes:KAMUV:symbol
 Fixes:KIBUN:symbol
 Fixes:KIMIS:symbol
+Fixes:KOTNI:symbol
 Fixes:KOVUN:symbol
+Fixes:KUGRI:symbol
 Fixes:LAJAS:symbol
 Fixes:LOLAS:symbol
+Fixes:LOLIV:symbol
 Fixes:MAGDO:symbol
 Fixes:MEBRA:symbol
 Fixes:MIBAS:symbol
 Fixes:MOCHO:symbol
 Fixes:MORRO:symbol
+Fixes:MUBLU:symbol
+Fixes:MULBO:symbol
+Fixes:MUMAT:symbol
 Fixes:NEBEG:symbol
 Fixes:NIRTA:symbol
 Fixes:OPRIL:symbol
@@ -57,14 +68,20 @@ Fixes:REPEV:symbol
 Fixes:SALBO:symbol
 Fixes:SATRA:symbol
 Fixes:SIBOX:symbol
+Fixes:SIGEM:symbol
+Fixes:SILOP:symbol
+Fixes:SINAL:symbol
+Fixes:SIPOM:symbol
 Fixes:SOLER:symbol
 Fixes:SOTLA:symbol
 Fixes:TERON:symbol
 Fixes:TOSOR:symbol
 Fixes:UKESO:symbol
 Fixes:UMKAL:symbol
+Fixes:USVET:symbol
 Fixes:UTRET:symbol
 Fixes:VADON:symbol
+Fixes:VUGMA:symbol
 Fixes:VURTA:symbol
 Free Text:SAME\1:freetext
 Free Text:SAME\10:freetext
@@ -164,6 +181,32 @@ Geo:SAMR:
 Geo:SANU:
 Geo:SAOR:
 Geo:SAOU:
+High airways:UA306:line
+High airways:UA307:line
+High airways:UB684:line
+High airways:UL322:line
+High airways:UL405:line
+High airways:UL416:line
+High airways:UL531:line
+High airways:UM424:line
+High airways:UM529:line
+High airways:UM783:line
+High airways:UN527:line
+High airways:UT652:line
+High airways:UT653:line
+High airways:UT670:line
+High airways:UT671:line
+High airways:UT685:line
+High airways:UT688:line
+High airways:UW23:line
+High airways:UW24:line
+High airways:UW3:line
+High airways:UW37:line
+High airways:UW44:line
+High airways:UZ105:line
+High airways:UZ107:line
+High airways:UZ108:line
+High airways:UZ114:line
 NDBs:RYD:frequency
 NDBs:RYD:symbol
 Regions:SAME:polygon
@@ -190,5 +233,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-TAGFAMILY:Matias (built in)
-WINDOWAREA:-40.353114:-83.285461:-26.314527:-50.797256
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-38.313556:-78.268075:-29.328860:-57.636334

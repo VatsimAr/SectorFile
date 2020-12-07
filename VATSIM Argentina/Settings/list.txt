@@ -26,7 +26,7 @@ m_LineNumber:10
 m_Resizable:1
 m_OrderingColumn:4
 m_HeaderOnly:0
-m_Column:C/S:7:1:9:0:0:1::::1
+m_Column:C/S:7:1:9:8:0:1::::1
 m_Column:CT:3:1:11:32:0:1::::1954430019
 m_Column:FR:2:1:63:0:0:1::::1
 m_Column:ATYP:4:1:16:0:0:1::::1954430019

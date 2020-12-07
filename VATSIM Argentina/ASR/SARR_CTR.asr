@@ -6,8 +6,8 @@ ARTCC high boundary:TMAPosadas:
 ARTCC high boundary:TMAReconquista:
 ARTCC high boundary:TMAResistencia:
 ARTCC low boundary:CTRCorrientes:
+ARTCC low boundary:CTRFormosa:
 ARTCC low boundary:CTRIguazu:
-ARTCC low boundary:CTRResistencia:
 Fixes:AKPEL:symbol
 Fixes:ARPAS:symbol
 Fixes:ARULA:symbol
@@ -399,5 +399,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-TAGFAMILY:Matias (built in)
-WINDOWAREA:-32.324779:-71.644104:-21.180717:-45.854430
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-30.974143:-66.657921:-23.786386:-50.152530
