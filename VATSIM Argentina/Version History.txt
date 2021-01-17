@@ -2,9 +2,17 @@
 
       	VATSIM Argentina - SECTOR FILE PARA EUROSCOPE
 
-          			VERSION ACTUAL 8.0
+          			VERSION ACTUAL 8.1
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+V8.1 (16/01/2020)
+Actualizado por Javier Escandarani
+	- Fixes varios
+	- Modificación de listas para adaptar a nueva fraseología
+	- Arreglo de todos los puntos límites entre FIRs
+
+==============================
 
 V8.0 (28/11/2020)
 Actualizado por Mariano Lopez y Javier Escandarani
