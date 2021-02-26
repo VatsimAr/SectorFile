@@ -2,11 +2,23 @@
 
       	VATSIM Argentina - SECTOR FILE PARA EUROSCOPE
 
-          			VERSION ACTUAL 8.1
+          			VERSION ACTUAL 8.2
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-V8.1 (16/01/2020)
+V8.2 (01/03/2021)
+Actualizado por Javier Escandarani
+	- Modificación de frecuencias de SAEF_CTR, SAVF_CTR, SABE_TWR y SAEZ_TWR
+	- Incorporación de SAWH_ATIS
+	- Incorporación de SAM_F_FSS
+	- Rediseño Aeroparque (Agradecimientos a Alejandro Sosa)
+	- Dibujo del sector límite con Chile
+	- Actualización de AIRAC v2102
+	- Mejora del changelog
+
+==============================
+
+V8.1 (16/01/2021)
 Actualizado por Javier Escandarani
 	- Fixes varios
 	- Modificación de listas para adaptar a nueva fraseología
