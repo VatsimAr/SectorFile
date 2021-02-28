@@ -9,6 +9,7 @@
 - Dibujo del sector límite con Chile
 - Actualización de AIRAC v2102
 - Mejora del changelog
+- Arreglo de SAWH SIDs
 
 ---
 
