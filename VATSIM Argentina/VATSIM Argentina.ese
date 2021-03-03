@@ -1884,11 +1884,12 @@ SCEZ_N_CTR:Santiago Radar:129.100:CH1:C:SCEZ:CTR:-:-:-:-
 SCEZ_S_CTR:Santiago Radar:126.300:CH2:C:SCEZ:CTR:-:-:-:-
 SCFZ_N_CTR:Iquique Radar:128.700:IQN:C:SCFZ:CTR:-:-:-:-
 SCFZ_S_CTR:Iquique Radar:128.300:IQS:C:SCFZ:CTR:-:-:-:-
-SCTZ_CTR:Puerto Montt Radar:128.300:PMR:C:SCEZ:CTR:-:-:-:-
+SCTZ_N_CTR:Puerto Montt Radar:128.500:PMN:C:SCEZ:CTR:-:-:-:-
+SCTZ_S_CTR:Puerto Montt Radar:128.300:PMS:C:SCEZ:CTR:-:-:-:-
+SCCZ_CTR:Punta Arenas Radar:128.100:PAR:C:SCCZ:CTR:-:-:-:-
 SCTE_APP:Puerto Montt Radar:121.300:PMA:A:SCTE:APP:-:-:-:-
-SCCZ_CTR:Punta Arenas Radar:123.900:PAR:C:SCCZ:CTR:-:-:-:-
-SCEL_APP:Santiago Radar:129.700:SCA:C:SCEL:APP:-:-:-:-
-SCEL_APP:Santiago Radar:119.700:SCR:C:SCEL:APP:-:-:-:-
+SCEL_N_APP:Santiago Radar:129.700:SCA:C:SCEL:APP:-:-:-:-
+SCEL_S_APP:Santiago Radar:123.800:SCR:C:SCEL:APP:-:-:-:-
 SGFA_CTR:Asuncion Centro:123.500:ASC:C:SGFA:CTR:-:-:-:-
 SGFA_CTR:Asuncion Centro:128.400:ASC:C:SGFA:CTR:-:-:-:-
 SLLF_CTR:La Paz Centro:128.200:LPC:C:SLLF:CTR:-:-:-:-

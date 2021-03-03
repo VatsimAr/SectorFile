@@ -1,12 +1,12 @@
 # Changelog - VATSIM Argentina SectorFile
 
-## v8.2 - 01/03/2021
+## v8.2 - 06/03/2021
 *Actualizado por Javier Escandarani*
 - Modificación de frecuencias de SAEF_CTR, SAVF_CTR, SABE_TWR y SAEZ_TWR
 - Incorporación de SAWH_ATIS
 - Incorporación de SAM_F_FSS
 - Rediseño Aeroparque (Agradecimientos a Alejandro Sosa)
-- Dibujo del sector límite con Chile
+- Arreglo del sector límite con Chile
 - Actualización de AIRAC v2102
 - Mejora del changelog
 - Arreglo de SAWH SIDs
