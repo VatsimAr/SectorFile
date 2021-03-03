@@ -1,20 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Free Text:SABE taxiways\1:freetext
-Free Text:SABE taxiways\1W:freetext
-Free Text:SABE taxiways\2:freetext
-Free Text:SABE taxiways\2W:freetext
-Free Text:SABE taxiways\3:freetext
-Free Text:SABE taxiways\3W:freetext
-Free Text:SABE taxiways\4:freetext
-Free Text:SABE taxiways\5:freetext
-Free Text:SABE taxiways\A:freetext
-Free Text:SABE taxiways\B:freetext
-Free Text:SABE taxiways\C:freetext
-Free Text:SABE taxiways\D:freetext
-Free Text:SABE taxiways\E:freetext
-Free Text:SABE taxiways\PPAL:freetext
 Free Text:SABE\1:freetext
 Free Text:SABE\10:freetext
 Free Text:SABE\11:freetext
@@ -71,6 +57,19 @@ Free Text:SABE\69:freetext
 Free Text:SABE\7:freetext
 Free Text:SABE\8:freetext
 Free Text:SABE\9:freetext
+Free Text:SABE\A:freetext
+Free Text:SABE\A:freetext
+Free Text:SABE\B:freetext
+Free Text:SABE\C:freetext
+Free Text:SABE\D:freetext
+Free Text:SABE\E:freetext
+Free Text:SABE\F:freetext
+Free Text:SABE\H:freetext
+Free Text:SABE\I:freetext
+Free Text:SABE\J:freetext
+Free Text:SABE\K:freetext
+Free Text:SABE\L:freetext
+Free Text:SABE\M:freetext
 Geo:LineaCostera:
 Geo:SABE:
 Regions:SABE:polygon
@@ -85,5 +84,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:4
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-34.569474:-58.448899:-34.542774:-58.386291
+WINDOWAREA:-34.571084:-58.437434:-34.549441:-58.387347
