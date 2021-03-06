@@ -5,8 +5,8 @@
 - Modificación de frecuencias de SAEF_CTR, SAVF_CTR, SABE_TWR y SAEZ_TWR
 - Incorporación de SAWH_ATIS
 - Incorporación de SAM_F_FSS
-- Rediseño Aeroparque (Agradecimientos a Alejandro Sosa)
-- Arreglo del sector límite con Chile
+- Rediseño Aeroparque (Agradecimientos a Alejandro Sosa y Esteban Palacios)
+- Arreglo del sector límite con Chile (Agradecimientos a Mariano Lopez)
 - Actualización de AIRAC v2102
 - Mejora del changelog
 - Arreglo de SAWH SIDs
