@@ -22,7 +22,7 @@ Settings	airways	\DataFiles\AIRWAY.txt
 Settings	sector	\VATSIM Argentina.sct
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-RecentFiles	Recent1	\ASR\ARGENTINA.asr
+RecentFiles	Recent1	\ASR\BAIRES.asr
 Sounds	Sound0	\Sounds\handoff_request.wav
 Sounds	Sound1	\Sounds\handoff_accept.wav
 Sounds	Sound2	\Sounds\conflict_alert.wav
@@ -42,3 +42,7 @@ Sounds	Sound15	\Sounds\new_atis.wav
 Sounds	Sound16	\Sounds\handoff_refused.wav
 Sounds	Sound17	\Sounds\pointout.wav
 Sounds	Sound18	\Sounds\startup.wav
+RecentFiles	Recent2	\ASR\SABE_TWR.asr
+RecentFiles	Recent3	C:\Users\esteban\Documents\EuroScope\VATSIM Argentina 8.1\VATSIM Argentina\ASR\SABE_GND.asr
+RecentFiles	Recent4	\ASR\ARGENTINA.asr
+RecentFiles	Recent5	\ASR\ARGENTINA.asr
