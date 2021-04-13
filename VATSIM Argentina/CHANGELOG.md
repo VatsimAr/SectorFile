@@ -1,5 +1,11 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v8.3 - 17/04/2021
+*Actualizado por Javier Escandarani*
+- Incorporación de plugin TopSky para generación de SSRs
+
+---
+
 ## v8.2 - 06/03/2021
 *Actualizado por Javier Escandarani*
 - Modificación de frecuencias de SAEF_CTR, SAVF_CTR, SABE_TWR y SAEZ_TWR
