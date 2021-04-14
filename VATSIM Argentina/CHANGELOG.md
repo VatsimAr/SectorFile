@@ -3,6 +3,7 @@
 ## v8.3 - 17/04/2021
 *Actualizado por Javier Escandarani*
 - Incorporación de plugin TopSky para generación de SSRs
+- Reorganización de ASRs
 
 ---
 
