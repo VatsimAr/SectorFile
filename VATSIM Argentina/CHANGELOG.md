@@ -4,6 +4,7 @@
 *Actualizado por Javier Escandarani*
 - Incorporación de plugin TopSky para generación de SSRs
 - Reorganización de ASRs
+- Actualización de AIRAC v2103
 
 ---
 
