@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Free Text:SAAR\1:freetext
+Free Text:SAAR\1A:freetext
+Free Text:SAAR\1B:freetext
+Free Text:SAAR\2:freetext
+Free Text:SAAR\2A:freetext
+Free Text:SAAR\2B:freetext
+Free Text:SAAR\3:freetext
+Free Text:SAAR\3A:freetext
+Free Text:SAAR\3B:freetext
+Free Text:SAAR\4:freetext
+Free Text:SAAR\4A:freetext
+Free Text:SAAR\4B:freetext
+Free Text:SAAR\5:freetext
+Free Text:SAAR\6:freetext
+Free Text:SAAR\7:freetext
+Free Text:SAAR\A:freetext
+Free Text:SAAR\A:freetext
+Free Text:SAAR\B:freetext
+Free Text:SAAR\B:freetext
+Free Text:SAAR\D:freetext
+Free Text:SAAR\E:freetext
+Geo:SAAR:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:25000
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-33.741063:-62.703741:-32.073690:-58.864101
