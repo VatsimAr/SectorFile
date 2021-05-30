@@ -94,6 +94,7 @@ Fixes:KIKIN:symbol
 Fixes:KIKIP:symbol
 Fixes:KIMID:symbol
 Fixes:KIMIS:symbol
+Fixes:KOMVI:symbol
 Fixes:KORGA:symbol
 Fixes:KORTA:symbol
 Fixes:KOTOG:symbol
@@ -109,6 +110,7 @@ Fixes:MOCHO:symbol
 Fixes:MOXAN:symbol
 Fixes:MUDNO:symbol
 Fixes:MULTA:symbol
+Fixes:MUMSA:symbol
 Fixes:MUPER:symbol
 Fixes:MUPIS:symbol
 Fixes:NIBGO:symbol
@@ -140,6 +142,7 @@ Fixes:PULPA:symbol
 Fixes:PUNOL:symbol
 Fixes:RAXUR:symbol
 Fixes:REKUL:symbol
+Fixes:RIOKA:symbol
 Fixes:RODOV:symbol
 Fixes:ROGAS:symbol
 Fixes:ROKER:symbol
@@ -280,6 +283,8 @@ Free Text:SABE\69:freetext
 Free Text:SABE\7:freetext
 Free Text:SABE\8:freetext
 Free Text:SABE\9:freetext
+Free Text:SABE\A:freetext
+Free Text:SABE\A:freetext
 Free Text:SABE\A:freetext
 Free Text:SABE\A:freetext
 Free Text:SABE\B:freetext
