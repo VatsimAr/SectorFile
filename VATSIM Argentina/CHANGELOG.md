@@ -1,6 +1,6 @@
 # Changelog - VATSIM Argentina SectorFile
 
-## v8.4 - 30/05/2021
+## v8.4 - 06/06/2021
 *Actualizado por Javier Escandarani*
 - Generación de ASRs para todas las dependencias
 - Actualización de dependencias
