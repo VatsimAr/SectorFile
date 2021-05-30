@@ -9,37 +9,63 @@ ARTCC low boundary:ATZPalomar:
 ARTCC low boundary:ATZSanFer:
 ARTCC low boundary:CTRAeroparque:
 ARTCC low boundary:CTREzeiza:
+Fixes:ARSOT:name
 Fixes:ARSOT:symbol
+Fixes:ASADA:name
 Fixes:ASADA:symbol
+Fixes:ATOVO:name
 Fixes:ATOVO:symbol
+Fixes:BIVAM:name
 Fixes:BIVAM:symbol
+Fixes:DORVO:name
 Fixes:DORVO:symbol
 Fixes:EGEPA:symbol
+Fixes:ENPID:name
 Fixes:ENPID:symbol
+Fixes:ESLAN:name
 Fixes:ESLAN:symbol
 Fixes:EZE19:symbol
 Fixes:FUSCA:symbol
+Fixes:GESTA:name
 Fixes:GESTA:symbol
 Fixes:IMBOD:symbol
 Fixes:KABIS:symbol
 Fixes:KOPRO:symbol
 Fixes:KOVUK:symbol
+Fixes:KUKEN:name
 Fixes:KUKEN:symbol
 Fixes:LANDA:symbol
+Fixes:MUPER:name
+Fixes:MUPER:symbol
+Fixes:NEPIS:name
 Fixes:NEPIS:symbol
+Fixes:NEVLO:name
 Fixes:NEVLO:symbol
+Fixes:OPLOM:name
 Fixes:OPLOM:symbol
+Fixes:PAGON:name
 Fixes:PAGON:symbol
+Fixes:PAPIX:name
 Fixes:PAPIX:symbol
+Fixes:POSRA:name
 Fixes:POSRA:symbol
 Fixes:SURBO:symbol
 Fixes:SURLI:symbol
+Fixes:TENIL:name
 Fixes:TENIL:symbol
+Fixes:TORUL:name
 Fixes:TORUL:symbol
+Fixes:TRINI:name
 Fixes:TRINI:symbol
+Fixes:UGIMI:name
+Fixes:UGIMI:symbol
+Fixes:UPOMA:name
 Fixes:UPOMA:symbol
+Fixes:URINO:name
 Fixes:URINO:symbol
+Fixes:VALOS:name
 Fixes:VALOS:symbol
+Fixes:VANAR:name
 Fixes:VANAR:symbol
 Fixes:VUPAN:symbol
 Free Text:SABE\1:freetext
@@ -98,6 +124,8 @@ Free Text:SABE\69:freetext
 Free Text:SABE\7:freetext
 Free Text:SABE\8:freetext
 Free Text:SABE\9:freetext
+Free Text:SABE\A:freetext
+Free Text:SABE\A:freetext
 Free Text:SABE\A:freetext
 Free Text:SABE\A:freetext
 Free Text:SABE\B:freetext
@@ -310,6 +338,9 @@ Geo:SADM:
 Geo:SADO:
 Geo:SADP:
 Geo:SAEF:
+NDBs:ILM:frequency
+NDBs:ILM:name
+NDBs:ILM:symbol
 Regions:SABE:polygon
 Regions:SABE_ILS13:polygon
 Regions:SADF:polygon
@@ -319,21 +350,27 @@ Regions:SAEZ:polygon
 Regions:SAEZ_ILS11:polygon
 Regions:SAEZ_ILS35:polygon
 VORs:EZE:frequency
+VORs:EZE:name
 VORs:EZE:symbol
 VORs:FDO:frequency
+VORs:FDO:name
 VORs:FDO:symbol
 VORs:GBE:frequency
+VORs:GBE:name
 VORs:GBE:symbol
 VORs:PAL:frequency
+VORs:PAL:name
 VORs:PAL:symbol
 VORs:PTA:frequency
+VORs:PTA:name
 VORs:PTA:symbol
 VORs:SNT:frequency
+VORs:SNT:name
 VORs:SNT:symbol
 SHOWC:1
-SHOWSB:0
-BELOW:0
-ABOVE:0
+SHOWSB:1
+BELOW:2000
+ABOVE:25000
 LEADER:10
 SHOWLEADER:1
 TURNLEADER:0
@@ -343,4 +380,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-36.085327:-61.135477:-33.613589:-55.459576
+WINDOWAREA:-36.094186:-61.074923:-33.584559:-55.223674
