@@ -1,5 +1,16 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v8.4 - 30/05/2021
+*Actualizado por Javier Escandarani*
+- Generación de ASRs para todas las dependencias
+- Actualización de dependencias
+- Incorporación de dependencias en el listado inicial
+- Incorporación de identificadores de puntos en los ASRs
+- Actualización de AIRAC v2103
+- Arreglos varios
+
+---
+
 ## v8.3 - 17/04/2021
 *Actualizado por Javier Escandarani*
 - Incorporación de plugin TopSky para generación de SSRs
