@@ -198,8 +198,8 @@ TAKEOFF
 m_Visible:1
 m_X:1503
 m_Y:795
-m_LineNumber:6
-m_Resizable:0
+m_LineNumber:10
+m_Resizable:1
 m_OrderingColumn:8
 m_HeaderOnly:0
 m_Column:DSQ:3:1:57:0:0:1::::1:0.0

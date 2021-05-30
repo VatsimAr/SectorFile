@@ -3,14 +3,23 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 ARTCC low boundary:ATZMoron:
 ARTCC low boundary:CTREzeiza:
+Fixes:ARSOT:name
 Fixes:ARSOT:symbol
+Fixes:EZ176:symbol
+Fixes:EZ177:symbol
+Fixes:EZ179:symbol
+Fixes:GESTA:name
 Fixes:GESTA:symbol
 Fixes:IMBOD:symbol
 Fixes:KOPRO:symbol
+Fixes:MOSGI:symbol
+Fixes:NEVLO:name
 Fixes:NEVLO:symbol
 Fixes:OPLOM:symbol
+Fixes:PAPAP:symbol
 Fixes:POSRA:symbol
 Fixes:SURLI:symbol
+Fixes:UPOMA:name
 Fixes:UPOMA:symbol
 Fixes:VUPAN:symbol
 Free Text:SADM\A(1):freetext
@@ -163,18 +172,25 @@ Geo:SADM:
 Geo:SAEF:
 NDBs:C:frequency
 NDBs:C:frequency
+NDBs:C:frequency
+NDBs:C:name
+NDBs:C:symbol
 NDBs:C:symbol
 NDBs:C:symbol
 NDBs:OA:frequency
 NDBs:OA:symbol
 NDBs:OC:frequency
 NDBs:OC:frequency
+NDBs:OC:frequency
+NDBs:OC:name
+NDBs:OC:symbol
 NDBs:OC:symbol
 NDBs:OC:symbol
 Regions:SAEZ:polygon
 Regions:SAEZ_ILS11:polygon
 Regions:SAEZ_ILS35:polygon
 VORs:EZE:frequency
+VORs:EZE:name
 VORs:EZE:symbol
 SHOWC:1
 SHOWSB:1
@@ -187,5 +203,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:4
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-35.221339:-59.325274:-34.446433:-57.545841
+WINDOWAREA:-35.204745:-59.181640:-34.584820:-57.758093

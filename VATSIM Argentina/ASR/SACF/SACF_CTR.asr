@@ -132,6 +132,43 @@ Free Text:CordobaControl\FL080:freetext
 Free Text:CordobaControl\FL080:freetext
 Free Text:CordobaControl\FL090:freetext
 Free Text:CordobaControl\FL110:freetext
+Free Text:SACO\1:freetext
+Free Text:SACO\10:freetext
+Free Text:SACO\11:freetext
+Free Text:SACO\12:freetext
+Free Text:SACO\13:freetext
+Free Text:SACO\14:freetext
+Free Text:SACO\15:freetext
+Free Text:SACO\16:freetext
+Free Text:SACO\16A:freetext
+Free Text:SACO\17:freetext
+Free Text:SACO\18:freetext
+Free Text:SACO\19:freetext
+Free Text:SACO\1A:freetext
+Free Text:SACO\2:freetext
+Free Text:SACO\20:freetext
+Free Text:SACO\21:freetext
+Free Text:SACO\22:freetext
+Free Text:SACO\23:freetext
+Free Text:SACO\23A:freetext
+Free Text:SACO\24:freetext
+Free Text:SACO\24A:freetext
+Free Text:SACO\25:freetext
+Free Text:SACO\26:freetext
+Free Text:SACO\26A:freetext
+Free Text:SACO\3:freetext
+Free Text:SACO\4:freetext
+Free Text:SACO\4A:freetext
+Free Text:SACO\5:freetext
+Free Text:SACO\6:freetext
+Free Text:SACO\7:freetext
+Free Text:SACO\7A:freetext
+Free Text:SACO\8:freetext
+Free Text:SACO\9:freetext
+Free Text:SACO\A:freetext
+Free Text:SACO\A:freetext
+Free Text:SACO\B:freetext
+Free Text:SACO\C:freetext
 Geo:CordobaControl:
 Geo:GEO:
 Geo:SACE_SACA:
@@ -492,4 +529,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-34.199964:-70.832579:-28.426480:-57.574809
+WINDOWAREA:-35.099510:-80.468603:-21.004089:-48.101001
