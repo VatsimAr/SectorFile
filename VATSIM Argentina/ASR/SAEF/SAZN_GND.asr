@@ -1,0 +1,30 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Free Text:SAZN\1:freetext
+Free Text:SAZN\2:freetext
+Free Text:SAZN\3:freetext
+Free Text:SAZN\4:freetext
+Free Text:SAZN\5:freetext
+Free Text:SAZN\6:freetext
+Free Text:SAZN\7:freetext
+Free Text:SAZN\8:freetext
+Free Text:SAZN\A:freetext
+Free Text:SAZN\B:freetext
+Free Text:SAZN\C:freetext
+Free Text:SAZN\C:freetext
+Geo:SAZN:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-38.963451:-68.181241:-38.937701:-68.122110
