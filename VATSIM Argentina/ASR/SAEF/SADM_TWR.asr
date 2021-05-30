@@ -1,0 +1,29 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC low boundary:ATZMoron:
+Free Text:SADM\A(1):freetext
+Free Text:SADM\A(1):freetext
+Free Text:SADM\A(2):freetext
+Free Text:SADM\B:freetext
+Free Text:SADM\C:freetext
+Free Text:SADM\D:freetext
+Free Text:SADM\E:freetext
+Free Text:SADM\F:freetext
+Free Text:SADM\G:freetext
+Free Text:SADM\H:freetext
+Geo:SADM:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-34.726404:-58.791361:-34.622398:-58.552530

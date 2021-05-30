@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+ARTCC low boundary:ATZPalomar:
 Free Text:SADP\1:freetext
 Free Text:SADP\10:freetext
 Free Text:SADP\11:freetext
@@ -26,8 +27,11 @@ Free Text:SADP\B:freetext
 Free Text:SADP\C:freetext
 Free Text:SADP\D:freetext
 Geo:SADP:
-Regions:noname:polygon
 Regions:SADP:polygon
+Regions:SADP_ILS17:polygon
+VORs:PAL:frequency
+VORs:PAL:name
+VORs:PAL:symbol
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -36,9 +40,9 @@ LEADER:10
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
-SIMULATION_MODE:4
+SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-34.622565:-58.638847:-34.595301:-58.576239
+WINDOWAREA:-34.650725:-58.817379:-34.488215:-58.444205
