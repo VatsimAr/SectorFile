@@ -1,0 +1,68 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMATandil:
+Fixes:104AT:name
+Fixes:104AT:symbol
+Fixes:ASAPO:name
+Fixes:ASAPO:symbol
+Fixes:ATITO:name
+Fixes:ATITO:symbol
+Fixes:BOKAS:name
+Fixes:BOKAS:symbol
+Fixes:DADOB:name
+Fixes:DADOB:symbol
+Fixes:ESURO:name
+Fixes:ESURO:symbol
+Fixes:GEMAL:symbol
+Fixes:ILMOS:name
+Fixes:ILMOS:symbol
+Fixes:ISODA:name
+Fixes:ISODA:symbol
+Fixes:KALIM:name
+Fixes:KALIM:symbol
+Fixes:LIVUP:symbol
+Fixes:SORSI:name
+Fixes:SORSI:symbol
+Fixes:UGERA:name
+Fixes:UGERA:symbol
+Fixes:ZT017:name
+Fixes:ZT017:symbol
+Fixes:ZT025:symbol
+Fixes:ZT026:symbol
+Free Text:SAZT\1:freetext
+Free Text:SAZT\A:freetext
+Geo:SAZT:
+Runways:SAZT HEROES DE MALVINAS 01-19:centerline
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 1
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 1 left base
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 1 left ticks
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 1 left vectoring
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 1 right base
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 1 right ticks
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 1 right vectoring
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 2
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 2 left base
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 2 left ticks
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 2 left vectoring
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 2 right base
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 2 right ticks
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 2 right vectoring
+Runways:SAZT HEROES DE MALVINAS 01-19:name
+VORs:DIL:frequency
+VORs:DIL:name
+VORs:DIL:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-38.646631:-62.249957:-35.854750:-55.838903
