@@ -48,6 +48,22 @@ Free Text:SANU\9:freetext
 Free Text:SANU\A:freetext
 Free Text:SANU\B:freetext
 Geo:SANU:
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:centerline
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:extended centerline 1
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:extended centerline 1 left base
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:extended centerline 1 left ticks
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:extended centerline 1 left vectoring
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:extended centerline 1 right base
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:extended centerline 1 right ticks
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:extended centerline 1 right vectoring
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:extended centerline 2
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:extended centerline 2 left base
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:extended centerline 2 left ticks
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:extended centerline 2 left vectoring
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:extended centerline 2 right base
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:extended centerline 2 right ticks
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:extended centerline 2 right vectoring
+Runways:SANU DOMINGO FAUSTINO SARMIEN 18-36:name
 VORs:JUA:frequency
 VORs:JUA:name
 VORs:JUA:symbol
