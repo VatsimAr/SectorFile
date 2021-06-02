@@ -1,0 +1,65 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMASanLuis:
+Fixes:EDRAL:name
+Fixes:EDRAL:symbol
+Fixes:FRAGA:name
+Fixes:FRAGA:symbol
+Fixes:ILSEN:name
+Fixes:ILSEN:symbol
+Fixes:ISIPO:name
+Fixes:ISIPO:symbol
+Fixes:KABAK:name
+Fixes:KABAK:symbol
+Fixes:KOSDU:symbol
+Fixes:MEXIL:symbol
+Fixes:OSARI:name
+Fixes:OSARI:symbol
+Fixes:ROGUB:name
+Fixes:ROGUB:symbol
+Free Text:SAOU\1:freetext
+Free Text:SAOU\2:freetext
+Free Text:SAOU\3:freetext
+Free Text:SAOU\4:freetext
+Free Text:SAOU\5:freetext
+Free Text:SAOU\6:freetext
+Free Text:SAOU\A:freetext
+Free Text:SAOU\A:freetext
+Free Text:SAOU\B:freetext
+Free Text:SAOU\C:freetext
+Free Text:SAOU\C:freetext
+Geo:SAOU:
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:centerline
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:extended centerline 1
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:extended centerline 1 left base
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:extended centerline 1 left ticks
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:extended centerline 1 left vectoring
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:extended centerline 1 right base
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:extended centerline 1 right ticks
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:extended centerline 1 right vectoring
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:extended centerline 2
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:extended centerline 2 left base
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:extended centerline 2 left ticks
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:extended centerline 2 left vectoring
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:extended centerline 2 right base
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:extended centerline 2 right ticks
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:extended centerline 2 right vectoring
+Runways:SAOU BRIG. MAYOR D. CESAR RAU 01-19:name
+VORs:UIS:frequency
+VORs:UIS:name
+VORs:UIS:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-39.298739:-81.535798:-28.067869:-55.746120
