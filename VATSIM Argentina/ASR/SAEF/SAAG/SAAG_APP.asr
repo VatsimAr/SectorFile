@@ -1,0 +1,23 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:FIREZEIZA:
+ARTCC high boundary:TMAGualeguaychu:
+Geo:SAAG:
+VORs:GUA:frequency
+VORs:GUA:name
+VORs:GUA:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-33.599359:-59.942551:-32.455804:-57.316584
