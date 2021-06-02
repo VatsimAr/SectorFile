@@ -1,0 +1,56 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMAMalargue:
+Fixes:DIKIS:name
+Fixes:DIKIS:symbol
+Fixes:EKERO:name
+Fixes:EKERO:symbol
+Fixes:ISORO:name
+Fixes:ISORO:symbol
+Fixes:MAGDO:name
+Fixes:MAGDO:symbol
+Fixes:OPSUL:name
+Fixes:OPSUL:symbol
+Free Text:SAMM\1:freetext
+Free Text:SAMM\1A:freetext
+Free Text:SAMM\1B:freetext
+Free Text:SAMM\2:freetext
+Free Text:SAMM\2B:freetext
+Free Text:SAMM\3:freetext
+Free Text:SAMM\4:freetext
+Free Text:SAMM\5:freetext
+Geo:SAMM:
+Runways:SAMM COM RICARDO SALOMON 14-32:centerline
+Runways:SAMM COM RICARDO SALOMON 14-32:extended centerline 1
+Runways:SAMM COM RICARDO SALOMON 14-32:extended centerline 1 left base
+Runways:SAMM COM RICARDO SALOMON 14-32:extended centerline 1 left ticks
+Runways:SAMM COM RICARDO SALOMON 14-32:extended centerline 1 left vectoring
+Runways:SAMM COM RICARDO SALOMON 14-32:extended centerline 1 right base
+Runways:SAMM COM RICARDO SALOMON 14-32:extended centerline 1 right ticks
+Runways:SAMM COM RICARDO SALOMON 14-32:extended centerline 1 right vectoring
+Runways:SAMM COM RICARDO SALOMON 14-32:extended centerline 2
+Runways:SAMM COM RICARDO SALOMON 14-32:extended centerline 2 left base
+Runways:SAMM COM RICARDO SALOMON 14-32:extended centerline 2 left ticks
+Runways:SAMM COM RICARDO SALOMON 14-32:extended centerline 2 left vectoring
+Runways:SAMM COM RICARDO SALOMON 14-32:extended centerline 2 right base
+Runways:SAMM COM RICARDO SALOMON 14-32:extended centerline 2 right ticks
+Runways:SAMM COM RICARDO SALOMON 14-32:extended centerline 2 right vectoring
+Runways:SAMM COM RICARDO SALOMON 14-32:name
+VORs:MLG:frequency
+VORs:MLG:name
+VORs:MLG:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-36.102713:-70.920402:-34.896808:-68.151256
