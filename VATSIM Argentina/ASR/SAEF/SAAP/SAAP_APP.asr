@@ -1,0 +1,99 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMAParana:
+ARTCC low boundary:CTRSauceViejo:
+Fixes:CABAL:name
+Fixes:CABAL:symbol
+Fixes:DABOT:name
+Fixes:DABOT:symbol
+Fixes:ESKAD:name
+Fixes:ESKAD:symbol
+Fixes:GAVAM:name
+Fixes:GAVAM:symbol
+Fixes:ISOPO:name
+Fixes:ISOPO:symbol
+Fixes:OPUPO:name
+Fixes:OPUPO:symbol
+Fixes:UGALA:name
+Fixes:UGALA:symbol
+Fixes:VAPES:name
+Fixes:VAPES:symbol
+Fixes:VUKSO:name
+Fixes:VUKSO:symbol
+Free Text:SAAP\1:freetext
+Free Text:SAAP\2:freetext
+Free Text:SAAP\3:freetext
+Free Text:SAAP\4:freetext
+Free Text:SAAP\5:freetext
+Free Text:SAAP\A:freetext
+Free Text:SAAP\A:freetext
+Free Text:SAAP\A:freetext
+Free Text:SAAP\A:freetext
+Free Text:SAAP\A:freetext
+Free Text:SAAP\B:freetext
+Free Text:SAAP\B:freetext
+Free Text:SAAP\C:freetext
+Free Text:SAAP\D:freetext
+Free Text:SAAP\E:freetext
+Free Text:SAAV\1:freetext
+Free Text:SAAV\2:freetext
+Free Text:SAAV\3:freetext
+Free Text:SAAV\4:freetext
+Free Text:SAAV\A:freetext
+Free Text:SAAV\B:freetext
+Free Text:SAAV\C:freetext
+Geo:SAAP:
+Geo:SAAV:
+NDBs:SVO:frequency
+NDBs:SVO:name
+NDBs:SVO:symbol
+Runways:SAAP GEN URQUIZA 02-20:centerline
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 1
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 1 left base
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 1 left ticks
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 1 left vectoring
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 1 right base
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 1 right ticks
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 1 right vectoring
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 2
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 2 left base
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 2 left ticks
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 2 left vectoring
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 2 right base
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 2 right ticks
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 2 right vectoring
+Runways:SAAP GEN URQUIZA 02-20:name
+Runways:SAAV SAUCE VIEJO 03-21:centerline
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 1
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 1 left base
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 1 left ticks
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 1 left vectoring
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 1 right base
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 1 right ticks
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 1 right vectoring
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 2
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 2 left base
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 2 left ticks
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 2 left vectoring
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 2 right base
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 2 right ticks
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 2 right vectoring
+Runways:SAAV SAUCE VIEJO 03-21:name
+VORs:PAR:frequency
+VORs:PAR:name
+VORs:PAR:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-32.930483:-62.987691:-30.696979:-57.858848
