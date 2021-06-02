@@ -1,65 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-ARTCC high boundary:TMAMendoza:
 ARTCC low boundary:CTRMendoza:
-Fixes:DABAL:symbol
-Fixes:DOSLO:name
-Fixes:DOSLO:symbol
-Fixes:ESITO:name
-Fixes:ESITO:symbol
-Fixes:GUVAD:symbol
-Fixes:ILTUH:symbol
-Fixes:KAMUV:name
-Fixes:KAMUV:symbol
-Fixes:KEXEV:name
-Fixes:KEXEV:symbol
-Fixes:KOTES:symbol
-Fixes:LOMAD:symbol
-Fixes:MEBRA:name
-Fixes:MEBRA:symbol
-Fixes:MUBEN:name
-Fixes:MUBEN:symbol
-Fixes:MUMAT:symbol
-Fixes:NEBEG:name
-Fixes:NEBEG:symbol
-Fixes:NIRTA:symbol
-Fixes:PAPIR:name
-Fixes:PAPIR:symbol
-Fixes:ROGOD:symbol
-Fixes:ROREX:symbol
-Fixes:SALBO:name
-Fixes:SALBO:symbol
-Fixes:SIREK:name
-Fixes:SIREK:symbol
-Fixes:SUCUA:symbol
-Fixes:TODAR:symbol
-Fixes:UKLIK:symbol
-Fixes:UMKAL:name
-Fixes:UMKAL:symbol
-Fixes:URERI:symbol
-Fixes:VAROR:symbol
-Fixes:VURSI:symbol
-Fixes:XOGIV:symbol
-Free Text:DOZRADAR\FL060:freetext
-Free Text:DOZRADAR\FL070:freetext
-Free Text:DOZRADAR\FL080:freetext
-Free Text:DOZRADAR\FL090:freetext
-Free Text:DOZRADAR\FL100:freetext
-Free Text:DOZRADAR\FL120:freetext
-Free Text:DOZRADAR\FL140:freetext
-Free Text:DOZRADAR\FL140:freetext
-Free Text:DOZRADAR\FL150:freetext
-Free Text:DOZRADAR\FL160:freetext
-Free Text:DOZRADAR\FL160:freetext
-Free Text:DOZRADAR\FL180:freetext
-Free Text:DOZRADAR\FL190:freetext
-Free Text:DOZRADAR\FL200:freetext
-Free Text:DOZRADAR\FL210:freetext
-Free Text:DOZRADAR\FL220:freetext
-Free Text:DOZRADAR\FL230:freetext
-Free Text:DOZRADAR\FL230:freetext
-Free Text:DOZRADAR\FL260:freetext
 Free Text:SAME\1:freetext
 Free Text:SAME\10:freetext
 Free Text:SAME\10A:freetext
@@ -104,9 +46,7 @@ Free Text:SAME\E:freetext
 Free Text:SAME\F:freetext
 Free Text:SAME\G:freetext
 Free Text:SAME\H:freetext
-Geo:DOZ_RADAR:
 Geo:SAME:
-Regions:SAME:polygon
 VORs:DOZ:frequency
 VORs:DOZ:name
 VORs:DOZ:symbol
@@ -123,4 +63,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-34.478843:-72.404681:-31.489607:-65.540438
+WINDOWAREA:-33.156535:-69.487912:-32.529646:-68.048376
