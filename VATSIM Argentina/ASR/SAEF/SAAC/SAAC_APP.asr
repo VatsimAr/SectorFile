@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:FIREZEIZA:
+ARTCC high boundary:TMAConcordia:
+Geo:SAAC:
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:centerline
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:extended centerline 1
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:extended centerline 1 left base
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:extended centerline 1 left ticks
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:extended centerline 1 left vectoring
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:extended centerline 1 right base
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:extended centerline 1 right ticks
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:extended centerline 1 right vectoring
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:extended centerline 2
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:extended centerline 2 left base
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:extended centerline 2 left ticks
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:extended centerline 2 left vectoring
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:extended centerline 2 right base
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:extended centerline 2 right ticks
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:extended centerline 2 right vectoring
+Runways:SAAC COMODORO PIERRESTEGUI 04-22:name
+VORs:STO:frequency
+VORs:STO:name
+VORs:STO:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-31.880933:-59.379727:-30.737378:-56.753759
