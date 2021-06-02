@@ -1,0 +1,70 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMASanRafael:
+Fixes:BOBAP:name
+Fixes:BOBAP:symbol
+Fixes:DIGER:name
+Fixes:DIGER:symbol
+Fixes:ISEGA:name
+Fixes:ISEGA:symbol
+Fixes:IVREG:name
+Fixes:IVREG:symbol
+Fixes:OPRIL:name
+Fixes:OPRIL:symbol
+Fixes:OPTUL:name
+Fixes:OPTUL:symbol
+Fixes:SATRA:name
+Fixes:SATRA:symbol
+Fixes:VULDA:name
+Fixes:VULDA:symbol
+Free Text:SAMR parkings\1:freetext
+Free Text:SAMR parkings\1A:freetext
+Free Text:SAMR parkings\1B:freetext
+Free Text:SAMR parkings\2:freetext
+Free Text:SAMR parkings\3:freetext
+Free Text:SAMR parkings\4:freetext
+Free Text:SAMR parkings\5:freetext
+Free Text:SAMR taxiways\A:freetext
+Free Text:SAMR\1:freetext
+Free Text:SAMR\1A:freetext
+Free Text:SAMR\1B:freetext
+Free Text:SAMR\2:freetext
+Free Text:SAMR\3:freetext
+Free Text:SAMR\4:freetext
+Free Text:SAMR\5:freetext
+Free Text:SAMR\A:freetext
+Geo:SAMR:
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:centerline
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:extended centerline 1
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:extended centerline 1 left base
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:extended centerline 1 left ticks
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:extended centerline 1 left vectoring
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:extended centerline 1 right base
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:extended centerline 1 right ticks
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:extended centerline 1 right vectoring
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:extended centerline 2
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:extended centerline 2 left base
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:extended centerline 2 left ticks
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:extended centerline 2 left vectoring
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:extended centerline 2 right base
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:extended centerline 2 right ticks
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:extended centerline 2 right vectoring
+Runways:SAMR S.A. SANTIAGO GERMANO 11-29:name
+VORs:SRA:frequency
+VORs:SRA:name
+VORs:SRA:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-35.438494:-70.578481:-33.554267:-66.251691
