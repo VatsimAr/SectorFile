@@ -1,0 +1,33 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Runways:SATG GOYA 04-22:centerline
+Runways:SATG GOYA 04-22:extended centerline 1
+Runways:SATG GOYA 04-22:extended centerline 1 left base
+Runways:SATG GOYA 04-22:extended centerline 1 left ticks
+Runways:SATG GOYA 04-22:extended centerline 1 left vectoring
+Runways:SATG GOYA 04-22:extended centerline 1 right base
+Runways:SATG GOYA 04-22:extended centerline 1 right ticks
+Runways:SATG GOYA 04-22:extended centerline 1 right vectoring
+Runways:SATG GOYA 04-22:extended centerline 2
+Runways:SATG GOYA 04-22:extended centerline 2 left base
+Runways:SATG GOYA 04-22:extended centerline 2 left ticks
+Runways:SATG GOYA 04-22:extended centerline 2 left vectoring
+Runways:SATG GOYA 04-22:extended centerline 2 right base
+Runways:SATG GOYA 04-22:extended centerline 2 right ticks
+Runways:SATG GOYA 04-22:extended centerline 2 right vectoring
+Runways:SATG GOYA 04-22:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-29.114705:-59.238093:-29.097326:-59.198186
