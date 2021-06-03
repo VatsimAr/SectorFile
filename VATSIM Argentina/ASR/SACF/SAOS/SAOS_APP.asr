@@ -1,0 +1,46 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMAConlara:
+Fixes:ARUSO:name
+Fixes:ARUSO:symbol
+Fixes:EGAKU:name
+Fixes:EGAKU:symbol
+Fixes:IRATI:name
+Fixes:IRATI:symbol
+Fixes:UDEXA:name
+Fixes:UDEXA:symbol
+Geo:SAOS:
+Runways:SAOS STA. ROSA DE CONLARA 02-20:centerline
+Runways:SAOS STA. ROSA DE CONLARA 02-20:extended centerline 1
+Runways:SAOS STA. ROSA DE CONLARA 02-20:extended centerline 1 left base
+Runways:SAOS STA. ROSA DE CONLARA 02-20:extended centerline 1 left ticks
+Runways:SAOS STA. ROSA DE CONLARA 02-20:extended centerline 1 left vectoring
+Runways:SAOS STA. ROSA DE CONLARA 02-20:extended centerline 1 right base
+Runways:SAOS STA. ROSA DE CONLARA 02-20:extended centerline 1 right ticks
+Runways:SAOS STA. ROSA DE CONLARA 02-20:extended centerline 1 right vectoring
+Runways:SAOS STA. ROSA DE CONLARA 02-20:extended centerline 2
+Runways:SAOS STA. ROSA DE CONLARA 02-20:extended centerline 2 left base
+Runways:SAOS STA. ROSA DE CONLARA 02-20:extended centerline 2 left ticks
+Runways:SAOS STA. ROSA DE CONLARA 02-20:extended centerline 2 left vectoring
+Runways:SAOS STA. ROSA DE CONLARA 02-20:extended centerline 2 right base
+Runways:SAOS STA. ROSA DE CONLARA 02-20:extended centerline 2 right ticks
+Runways:SAOS STA. ROSA DE CONLARA 02-20:extended centerline 2 right vectoring
+Runways:SAOS STA. ROSA DE CONLARA 02-20:name
+VORs:SRC:frequency
+VORs:SRC:name
+VORs:SRC:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-32.689934:-65.898519:-32.070011:-64.474977
