@@ -1,0 +1,48 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC low boundary:CTRResistencia:
+Free Text:SARE\1:freetext
+Free Text:SARE\2:freetext
+Free Text:SARE\3:freetext
+Free Text:SARE\3A:freetext
+Free Text:SARE\4:freetext
+Free Text:SARE\5:freetext
+Free Text:SARE\6:freetext
+Free Text:SARE\7:freetext
+Free Text:SARE\8:freetext
+Free Text:SARE\A:freetext
+Geo:SARE:
+Runways:SARE RESISTENCIA 03-21:centerline
+Runways:SARE RESISTENCIA 03-21:extended centerline 1
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 left base
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 left ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 left vectoring
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 right base
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 right ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 right vectoring
+Runways:SARE RESISTENCIA 03-21:extended centerline 2
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 left base
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 left ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 left vectoring
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 right base
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 right ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 right vectoring
+Runways:SARE RESISTENCIA 03-21:name
+VORs:SIS:frequency
+VORs:SIS:name
+VORs:SIS:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-27.758206:-59.797728:-27.140782:-58.379926
