@@ -2,6 +2,7 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 ARTCC boundary:FIRResistencia:
+ARTCC high boundary:TMALibres:
 ARTCC high boundary:TMAPosadas:
 ARTCC high boundary:TMAReconquista:
 ARTCC high boundary:TMAResistencia:
