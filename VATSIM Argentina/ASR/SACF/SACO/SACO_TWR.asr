@@ -1,6 +1,24 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+ARTCC low boundary:CTRCordoba:
+Fixes:AGUAD:symbol
+Fixes:ASEMI:symbol
+Fixes:ESUBO:symbol
+Fixes:GUVUX:symbol
+Fixes:IRAVO:symbol
+Fixes:IRETI:symbol
+Fixes:KOVEV:symbol
+Fixes:LOKOT:symbol
+Fixes:NUXAB:symbol
+Fixes:PUPAT:symbol
+Fixes:RAXOB:symbol
+Fixes:RENUK:symbol
+Fixes:SIGAT:symbol
+Fixes:SILAV:symbol
+Fixes:TIRVI:symbol
+Fixes:VULIG:symbol
+Fixes:XONEN:symbol
 Free Text:SACO\1:freetext
 Free Text:SACO\10:freetext
 Free Text:SACO\11:freetext
@@ -38,8 +56,14 @@ Free Text:SACO\A:freetext
 Free Text:SACO\A:freetext
 Free Text:SACO\B:freetext
 Free Text:SACO\C:freetext
+Geo:SACE_SACA:
 Geo:SACO:
+NDBs:H:frequency
+NDBs:H:symbol
 Regions:SACO:polygon
+Regions:SACO_ILS19:polygon
+VORs:CBA:frequency
+VORs:CBA:symbol
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -51,5 +75,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-31.331405:-64.250916:-31.288804:-64.153091
+WINDOWAREA:-31.789956:-65.298512:-30.821327:-63.074228
