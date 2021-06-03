@@ -1,0 +1,54 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMALaRioja:
+Fixes:AKRAS:name
+Fixes:AKRAS:symbol
+Fixes:DAMAP:name
+Fixes:DAMAP:symbol
+Fixes:KAKAN:name
+Fixes:KAKAN:symbol
+Free Text:SANL\1:freetext
+Free Text:SANL\2:freetext
+Free Text:SANL\2A:freetext
+Free Text:SANL\3:freetext
+Free Text:SANL\4:freetext
+Free Text:SANL\5:freetext
+Free Text:SANL\A:freetext
+Free Text:SANL\A:freetext
+Free Text:SANL\B:freetext
+Free Text:SANL\B:freetext
+Geo:SANL:
+Runways:SANL CAP VICENTE A ALMONACID 03-21:centerline
+Runways:SANL CAP VICENTE A ALMONACID 03-21:extended centerline 1
+Runways:SANL CAP VICENTE A ALMONACID 03-21:extended centerline 1 left base
+Runways:SANL CAP VICENTE A ALMONACID 03-21:extended centerline 1 left ticks
+Runways:SANL CAP VICENTE A ALMONACID 03-21:extended centerline 1 left vectoring
+Runways:SANL CAP VICENTE A ALMONACID 03-21:extended centerline 1 right base
+Runways:SANL CAP VICENTE A ALMONACID 03-21:extended centerline 1 right ticks
+Runways:SANL CAP VICENTE A ALMONACID 03-21:extended centerline 1 right vectoring
+Runways:SANL CAP VICENTE A ALMONACID 03-21:extended centerline 2
+Runways:SANL CAP VICENTE A ALMONACID 03-21:extended centerline 2 left base
+Runways:SANL CAP VICENTE A ALMONACID 03-21:extended centerline 2 left ticks
+Runways:SANL CAP VICENTE A ALMONACID 03-21:extended centerline 2 left vectoring
+Runways:SANL CAP VICENTE A ALMONACID 03-21:extended centerline 2 right base
+Runways:SANL CAP VICENTE A ALMONACID 03-21:extended centerline 2 right ticks
+Runways:SANL CAP VICENTE A ALMONACID 03-21:extended centerline 2 right vectoring
+Runways:SANL CAP VICENTE A ALMONACID 03-21:name
+VORs:LAR:frequency
+VORs:LAR:name
+VORs:LAR:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-35.099510:-80.468603:-21.004089:-48.101001
