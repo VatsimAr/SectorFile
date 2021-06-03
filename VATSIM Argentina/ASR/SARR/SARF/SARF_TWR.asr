@@ -1,0 +1,47 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC low boundary:CTRFormosa:
+Free Text:SARF\1:freetext
+Free Text:SARF\2:freetext
+Free Text:SARF\2A:freetext
+Free Text:SARF\3:freetext
+Free Text:SARF\4:freetext
+Free Text:SARF\5:freetext
+Free Text:SARF\A:freetext
+Free Text:SARF\B:freetext
+Free Text:SARF\B:freetext
+Geo:SARF:
+Runways:SARF FORMOSA 04-22:centerline
+Runways:SARF FORMOSA 04-22:extended centerline 1
+Runways:SARF FORMOSA 04-22:extended centerline 1 left base
+Runways:SARF FORMOSA 04-22:extended centerline 1 left ticks
+Runways:SARF FORMOSA 04-22:extended centerline 1 left vectoring
+Runways:SARF FORMOSA 04-22:extended centerline 1 right base
+Runways:SARF FORMOSA 04-22:extended centerline 1 right ticks
+Runways:SARF FORMOSA 04-22:extended centerline 1 right vectoring
+Runways:SARF FORMOSA 04-22:extended centerline 2
+Runways:SARF FORMOSA 04-22:extended centerline 2 left base
+Runways:SARF FORMOSA 04-22:extended centerline 2 left ticks
+Runways:SARF FORMOSA 04-22:extended centerline 2 left vectoring
+Runways:SARF FORMOSA 04-22:extended centerline 2 right base
+Runways:SARF FORMOSA 04-22:extended centerline 2 right ticks
+Runways:SARF FORMOSA 04-22:extended centerline 2 right vectoring
+Runways:SARF FORMOSA 04-22:name
+VORs:FSA:frequency
+VORs:FSA:name
+VORs:FSA:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-26.411900:-58.662985:-26.016749:-57.755591
