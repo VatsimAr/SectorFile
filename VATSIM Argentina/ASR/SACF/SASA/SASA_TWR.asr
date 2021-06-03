@@ -1,0 +1,71 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC low boundary:CTRSalta:
+Free Text:SASA\1:freetext
+Free Text:SASA\2:freetext
+Free Text:SASA\3:freetext
+Free Text:SASA\3A:freetext
+Free Text:SASA\3B:freetext
+Free Text:SASA\4:freetext
+Free Text:SASA\4A:freetext
+Free Text:SASA\6:freetext
+Free Text:SASA\6A:freetext
+Free Text:SASA\7:freetext
+Free Text:SASA\7A:freetext
+Free Text:SASA\A:freetext
+Free Text:SASA\A:freetext
+Free Text:SASA\B:freetext
+Free Text:SASA\B:freetext
+Free Text:SASA\D:freetext
+Geo:SASA:
+Regions:SASA:polygon
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:centerline
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 1
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 1 left base
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 1 left ticks
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 1 left vectoring
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 1 right base
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 1 right ticks
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 1 right vectoring
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 2
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 2 left base
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 2 left ticks
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 2 left vectoring
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 2 right base
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 2 right ticks
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 2 right vectoring
+Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:name
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:centerline
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 1
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 1 left base
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 1 left ticks
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 1 left vectoring
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 1 right base
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 1 right ticks
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 1 right vectoring
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 2
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 2 left base
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 2 left ticks
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 2 left vectoring
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 2 right base
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 2 right ticks
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 2 right vectoring
+Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:name
+VORs:SAL:frequency
+VORs:SAL:name
+VORs:SAL:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-25.055559:-65.925130:-24.658808:-65.014063
