@@ -1,0 +1,59 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMAPosadas:
+Fixes:COATI:name
+Fixes:COATI:symbol
+Fixes:DAGRA:name
+Fixes:DAGRA:symbol
+Fixes:IRATU:name
+Fixes:IRATU:symbol
+Fixes:ORUGA:name
+Fixes:ORUGA:symbol
+Fixes:UGAKO:name
+Fixes:UGAKO:symbol
+Free Text:SARP\1:freetext
+Free Text:SARP\2:freetext
+Free Text:SARP\3:freetext
+Free Text:SARP\4:freetext
+Free Text:SARP\5:freetext
+Free Text:SARP\A:freetext
+Free Text:SARP\B:freetext
+Free Text:SARP\B:freetext
+Free Text:SARP\C:freetext
+Free Text:SARP\D:freetext
+Free Text:SARP\E:freetext
+Geo:SARP:
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:centerline
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:extended centerline 1
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:extended centerline 1 left base
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:extended centerline 1 left ticks
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:extended centerline 1 left vectoring
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:extended centerline 1 right base
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:extended centerline 1 right ticks
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:extended centerline 1 right vectoring
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:extended centerline 2
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:extended centerline 2 left base
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:extended centerline 2 left ticks
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:extended centerline 2 left vectoring
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:extended centerline 2 right base
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:extended centerline 2 right ticks
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:extended centerline 2 right vectoring
+Runways:SARP LIBERADOR GRAL D JOSE DE 01-19:name
+VORs:POS:frequency
+VORs:POS:name
+VORs:POS:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-27.975038:-57.025411:-27.010313:-54.810095
