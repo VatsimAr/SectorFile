@@ -1,0 +1,59 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMAEsquel:
+Fixes:ASUTO:name
+Fixes:ASUTO:symbol
+Fixes:BIVIK:name
+Fixes:BIVIK:symbol
+Fixes:DORSI:name
+Fixes:DORSI:symbol
+Fixes:OPLAS:name
+Fixes:OPLAS:symbol
+Fixes:OPROS:name
+Fixes:OPROS:symbol
+Fixes:TORES:name
+Fixes:TORES:symbol
+Fixes:UKEKA:name
+Fixes:UKEKA:symbol
+Free Text:SAVE\1:freetext
+Free Text:SAVE\1B:freetext
+Free Text:SAVE\2:freetext
+Free Text:SAVE\3:freetext
+Free Text:SAVE\A:freetext
+Free Text:SAVE\B:freetext
+Free Text:SAVE\C:freetext
+Geo:SAVE:
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:centerline
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:extended centerline 1
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:extended centerline 1 left base
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:extended centerline 1 left ticks
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:extended centerline 1 left vectoring
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:extended centerline 1 right base
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:extended centerline 1 right ticks
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:extended centerline 1 right vectoring
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:extended centerline 2
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:extended centerline 2 left base
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:extended centerline 2 left ticks
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:extended centerline 2 left vectoring
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:extended centerline 2 right base
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:extended centerline 2 right ticks
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:extended centerline 2 right vectoring
+Runways:SAVE BRIG. GRAL. ANTONIO PARO 05-23:name
+VORs:ESQ:frequency
+VORs:ESQ:name
+VORs:ESQ:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-43.774992:-73.692496:-41.419708:-68.284009
