@@ -1,6 +1,6 @@
 ;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ;        VATSIM Argentina - SECTOR FILE PARA EUROSCOPE
-;                      VERSION 8.3
+;                      VERSION 8.4
 ;
 ;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ; Si tiene alguna consulta o sugerencia, escriba a vatsur10@vatsur.org
@@ -50,7 +50,7 @@
 #define radar 1973790
 
 [INFO]
-VATSIM Argentina v8.3
+VATSIM Argentina v8.4
 ARG
 SAEZ
 S034.49.27.000
