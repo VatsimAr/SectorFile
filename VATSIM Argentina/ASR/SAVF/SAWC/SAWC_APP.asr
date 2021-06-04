@@ -1,0 +1,88 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMACalafate:
+Fixes:ASOPA:name
+Fixes:ASOPA:symbol
+Fixes:ATEXI:name
+Fixes:ATEXI:symbol
+Fixes:ATIPO:name
+Fixes:ATIPO:symbol
+Fixes:DEVIS:name
+Fixes:DEVIS:symbol
+Fixes:EGBOR:name
+Fixes:EGBOR:symbol
+Fixes:ESNAM:name
+Fixes:ESNAM:symbol
+Fixes:GIGLU:name
+Fixes:GIGLU:symbol
+Fixes:ISAXO:symbol
+Fixes:MANTI:name
+Fixes:MANTI:symbol
+Fixes:MIGUT:name
+Fixes:MIGUT:symbol
+Fixes:MUNER:name
+Fixes:MUNER:symbol
+Fixes:PONRO:name
+Fixes:PONRO:symbol
+Fixes:SIKAV:name
+Fixes:SIKAV:symbol
+Fixes:TORUK:name
+Fixes:TORUK:symbol
+Fixes:UGOXU:name
+Fixes:UGOXU:symbol
+Fixes:UGRIS:name
+Fixes:UGRIS:symbol
+Fixes:UKLOV:symbol
+Fixes:WC016:name
+Fixes:WC016:symbol
+Fixes:WC018:name
+Fixes:WC018:symbol
+Free Text:SAWC\1:freetext
+Free Text:SAWC\2:freetext
+Free Text:SAWC\3:freetext
+Free Text:SAWC\4:freetext
+Free Text:SAWC\4A:freetext
+Free Text:SAWC\5:freetext
+Free Text:SAWC\6:freetext
+Free Text:SAWC\7:freetext
+Free Text:SAWC\8:freetext
+Free Text:SAWC\8A:freetext
+Free Text:SAWC\A:freetext
+Free Text:SAWC\B:freetext
+Free Text:SAWC\B:freetext
+Free Text:SAWC\C:freetext
+Geo:SAWC:
+Runways:SAWC EL CALAFATE 07-25:centerline
+Runways:SAWC EL CALAFATE 07-25:extended centerline 1
+Runways:SAWC EL CALAFATE 07-25:extended centerline 1 left base
+Runways:SAWC EL CALAFATE 07-25:extended centerline 1 left ticks
+Runways:SAWC EL CALAFATE 07-25:extended centerline 1 left vectoring
+Runways:SAWC EL CALAFATE 07-25:extended centerline 1 right base
+Runways:SAWC EL CALAFATE 07-25:extended centerline 1 right ticks
+Runways:SAWC EL CALAFATE 07-25:extended centerline 1 right vectoring
+Runways:SAWC EL CALAFATE 07-25:extended centerline 2
+Runways:SAWC EL CALAFATE 07-25:extended centerline 2 left base
+Runways:SAWC EL CALAFATE 07-25:extended centerline 2 left ticks
+Runways:SAWC EL CALAFATE 07-25:extended centerline 2 left vectoring
+Runways:SAWC EL CALAFATE 07-25:extended centerline 2 right base
+Runways:SAWC EL CALAFATE 07-25:extended centerline 2 right ticks
+Runways:SAWC EL CALAFATE 07-25:extended centerline 2 right vectoring
+Runways:SAWC EL CALAFATE 07-25:name
+VORs:ECA:frequency
+VORs:ECA:name
+VORs:ECA:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-51.943115:-74.973228:-49.587831:-69.564741
