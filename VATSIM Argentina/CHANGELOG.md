@@ -6,7 +6,7 @@
 - Actualización de dependencias
 - Incorporación de dependencias en el listado inicial
 - Incorporación de identificadores de puntos en los ASRs
-- Actualización de AIRAC v2103
+- Actualización de AIRAC v2105
 - Arreglos varios
 
 ---
