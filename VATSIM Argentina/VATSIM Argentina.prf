@@ -22,6 +22,7 @@ Settings	airways	\DataFiles\AIRWAY.txt
 Settings	sector	\VATSIM Argentina.sct
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
+RecentFiles	Recent1	\ASR\ARGENTINA.asr
 Sounds	Sound0	\Sounds\handoff_request.wav
 Sounds	Sound1	\Sounds\handoff_accept.wav
 Sounds	Sound2	\Sounds\conflict_alert.wav
