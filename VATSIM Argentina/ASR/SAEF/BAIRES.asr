@@ -31,9 +31,11 @@ Fixes:GESTA:symbol
 Fixes:IMBOD:symbol
 Fixes:KABIS:symbol
 Fixes:KOPRO:symbol
+Fixes:KOVUK:name
 Fixes:KOVUK:symbol
 Fixes:KUKEN:name
 Fixes:KUKEN:symbol
+Fixes:LANDA:name
 Fixes:LANDA:symbol
 Fixes:MUPER:name
 Fixes:MUPER:symbol
@@ -51,6 +53,8 @@ Fixes:POSRA:name
 Fixes:POSRA:symbol
 Fixes:SURBO:symbol
 Fixes:SURLI:symbol
+Fixes:TEDAR:name
+Fixes:TEDAR:symbol
 Fixes:TENIL:name
 Fixes:TENIL:symbol
 Fixes:TORUL:name
@@ -329,6 +333,7 @@ Free Text:SAEZ\I:freetext
 Free Text:SAEZ\J:freetext
 Free Text:SAEZ\J:freetext
 Free Text:SAEZ\K:freetext
+Geo:BAIRES1:
 Geo:LineaCostera:
 Geo:SABE:
 Geo:SADF:
@@ -380,4 +385,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-36.113421:-61.074923:-33.565324:-55.223674
+WINDOWAREA:-36.139544:-60.927612:-33.591447:-55.076363

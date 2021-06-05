@@ -8,6 +8,7 @@
 - Incorporación de identificadores de puntos en los ASRs
 - Actualización de AIRAC v2105
 - Mejora de sistema de etiquetas
+- Incorporación del Sector 1 de BAIRES
 - Arreglos varios
 
 ---
