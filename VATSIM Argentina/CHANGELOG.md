@@ -1,5 +1,11 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v8.5 - XX/XX/2021
+*Actualizado por Javier Escandarani y Mariano Lopez*
+- Incorporación de puntos de coordinación entre SAEF y SAZT
+
+---
+
 ## v8.4 - 05/06/2021
 *Actualizado por Javier Escandarani*
 - Generación de ASRs para todas las dependencias
