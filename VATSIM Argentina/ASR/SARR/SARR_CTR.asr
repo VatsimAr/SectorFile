@@ -9,7 +9,9 @@ ARTCC high boundary:TMAResistencia:
 ARTCC low boundary:CTRCorrientes:
 ARTCC low boundary:CTRFormosa:
 ARTCC low boundary:CTRIguazu:
+ARTCC low boundary:CTRResistencia:
 Fixes:AKPEL:symbol
+Fixes:AKSAS:symbol
 Fixes:ARPAS:symbol
 Fixes:ARULA:symbol
 Fixes:ASELO:symbol
@@ -18,6 +20,7 @@ Fixes:BITUS:symbol
 Fixes:BOBIK:symbol
 Fixes:BOKIL:symbol
 Fixes:BUPLA:symbol
+Fixes:BURSA:name
 Fixes:BURSA:symbol
 Fixes:COATI:symbol
 Fixes:DAGRA:symbol
@@ -35,6 +38,7 @@ Fixes:IREKA:symbol
 Fixes:ISLOB:symbol
 Fixes:ITADO:symbol
 Fixes:KALOM:symbol
+Fixes:KILIP:name
 Fixes:KILIP:symbol
 Fixes:KIMIK:symbol
 Fixes:KORSO:symbol
@@ -44,14 +48,20 @@ Fixes:KUGLO:symbol
 Fixes:LADER:symbol
 Fixes:LUTSO:symbol
 Fixes:MAMKA:symbol
+Fixes:MASDO:symbol
 Fixes:MEXEM:symbol
+Fixes:MORPU:name
+Fixes:MORPU:symbol
 Fixes:OPKAN:symbol
 Fixes:OPNIN:symbol
 Fixes:PAMEX:symbol
 Fixes:PANOT:symbol
 Fixes:PILCO:symbol
 Fixes:PULEN:symbol
+Fixes:PULUX:name
+Fixes:PULUX:symbol
 Fixes:REPAM:symbol
+Fixes:RIOKA:symbol
 Fixes:SARNA:symbol
 Fixes:SIKOB:symbol
 Fixes:SIMOR:symbol
@@ -402,4 +412,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-31.418082:-68.506070:-22.433386:-47.874329
+WINDOWAREA:-31.379133:-68.373264:-22.394437:-47.741523
