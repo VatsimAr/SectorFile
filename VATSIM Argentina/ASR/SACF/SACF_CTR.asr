@@ -58,6 +58,7 @@ Fixes:ISOPO:symbol
 Fixes:ITELA:symbol
 Fixes:KADAT:symbol
 Fixes:KAKAN:symbol
+Fixes:KOGSA:symbol
 Fixes:KONRI:symbol
 Fixes:KOPSI:symbol
 Fixes:KOSNO:symbol
@@ -84,11 +85,15 @@ Fixes:PAMAL:symbol
 Fixes:PILCO:symbol
 Fixes:PONPI:symbol
 Fixes:PORKA:symbol
+Fixes:POSMO:name
+Fixes:POSMO:symbol
 Fixes:PUBER:symbol
 Fixes:PUBUM:symbol
 Fixes:PULOV:symbol
 Fixes:PUPSI:symbol
 Fixes:RAXUR:symbol
+Fixes:ROKAT:name
+Fixes:ROKAT:symbol
 Fixes:ROKER:symbol
 Fixes:ROMUR:symbol
 Fixes:SARNA:symbol
@@ -169,6 +174,53 @@ Free Text:SACO\A:freetext
 Free Text:SACO\A:freetext
 Free Text:SACO\B:freetext
 Free Text:SACO\C:freetext
+Free Text:SANT\1:freetext
+Free Text:SANT\1A:freetext
+Free Text:SANT\1B:freetext
+Free Text:SANT\1C:freetext
+Free Text:SANT\1C:freetext
+Free Text:SANT\2:freetext
+Free Text:SANT\2A:freetext
+Free Text:SANT\3:freetext
+Free Text:SANT\4:freetext
+Free Text:SANT\5:freetext
+Free Text:SANT\5A:freetext
+Free Text:SANT\6:freetext
+Free Text:SANT\6A:freetext
+Free Text:SANT\6B:freetext
+Free Text:SANT\A:freetext
+Free Text:SANT\A:freetext
+Free Text:SANT\B:freetext
+Free Text:SANT\C:freetext
+Free Text:SANT\D:freetext
+Free Text:SANT\D:freetext
+Free Text:SASA\1:freetext
+Free Text:SASA\2:freetext
+Free Text:SASA\3:freetext
+Free Text:SASA\3A:freetext
+Free Text:SASA\3B:freetext
+Free Text:SASA\4:freetext
+Free Text:SASA\4A:freetext
+Free Text:SASA\6:freetext
+Free Text:SASA\6A:freetext
+Free Text:SASA\7:freetext
+Free Text:SASA\7A:freetext
+Free Text:SASA\A:freetext
+Free Text:SASA\A:freetext
+Free Text:SASA\B:freetext
+Free Text:SASA\B:freetext
+Free Text:SASA\D:freetext
+Free Text:SASJ\1:freetext
+Free Text:SASJ\1A:freetext
+Free Text:SASJ\2:freetext
+Free Text:SASJ\3:freetext
+Free Text:SASJ\4:freetext
+Free Text:SASJ\5:freetext
+Free Text:SASJ\A:freetext
+Free Text:SASJ\A:freetext
+Free Text:SASJ\B:freetext
+Free Text:SASJ\C:freetext
+Free Text:SASJ\C:freetext
 Geo:CordobaControl:
 Geo:GEO:
 Geo:SACE_SACA:
@@ -529,4 +581,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-35.099510:-80.468603:-21.004089:-48.101001
+WINDOWAREA:-35.092963:-80.262752:-20.997542:-47.895148

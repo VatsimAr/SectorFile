@@ -12,6 +12,7 @@ ARTCC high boundary:TMARioGrande:
 ARTCC high boundary:TMATrelew:
 ARTCC high boundary:TMAUShuaia:
 ARTCC high boundary:TMAViedma:
+Fixes:AKVAD:symbol
 Fixes:ANDEX:symbol
 Fixes:ANDUS:symbol
 Fixes:AROPO:symbol
@@ -31,6 +32,7 @@ Fixes:BOKOL:symbol
 Fixes:BOKUK:symbol
 Fixes:BONTA:symbol
 Fixes:DABLI:symbol
+Fixes:DAGOK:symbol
 Fixes:DAKAX:symbol
 Fixes:DAKSA:symbol
 Fixes:DEVIS:symbol
@@ -70,6 +72,7 @@ Fixes:LOMUR:symbol
 Fixes:LOMUS:symbol
 Fixes:MANTI:symbol
 Fixes:MIDAL:symbol
+Fixes:MIGUS:symbol
 Fixes:MIKIM:symbol
 Fixes:MOSKA:symbol
 Fixes:MUBES:symbol
@@ -85,6 +88,7 @@ Fixes:PABAL:symbol
 Fixes:PADIM:symbol
 Fixes:PAKAL:symbol
 Fixes:PALIX:symbol
+Fixes:PUBLO:symbol
 Fixes:PUGLI:symbol
 Fixes:RAXOS:symbol
 Fixes:ROMAX:symbol
@@ -99,6 +103,7 @@ Fixes:UDENA:symbol
 Fixes:UGIRA:symbol
 Fixes:UGRIS:symbol
 Fixes:UKEKA:symbol
+Fixes:UTRUN:symbol
 Fixes:VUKNA:symbol
 Fixes:VURGI:symbol
 Free Text:EGYP\A:freetext
@@ -522,4 +527,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-56.506462:-86.025502:-38.958228:-45.729134
+WINDOWAREA:-58.765205:-88.666821:-36.829912:-37.524229
