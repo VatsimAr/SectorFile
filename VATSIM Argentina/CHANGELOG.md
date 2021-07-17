@@ -3,6 +3,8 @@
 ## v8.5 - XX/XX/2021
 *Actualizado por Javier Escandarani y Mariano Lopez*
 - Incorporación de puntos de coordinación entre SAEF y SAZT
+- Fixes varios en ASRs
+- Fixes en login profiles
 
 ---
 
