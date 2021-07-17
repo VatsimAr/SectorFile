@@ -5,6 +5,7 @@
 - Incorporación de puntos de coordinación entre SAEF y SAZT
 - Fixes varios en ASRs
 - Fixes en login profiles
+- Fixes en aliases
 
 ---
 

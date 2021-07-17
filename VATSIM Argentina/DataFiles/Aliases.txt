@@ -3,7 +3,7 @@
 ;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ;
 ; VERSION HISTORY
-; v5.0
+; v5.1
 ;
 ;=================================================
 ; ESPAÑOL
@@ -18,7 +18,7 @@
 .modoc Transponder modo charlie
 .modos Transponder modo standby
 .999 Mayday recibido. Vientos $winds($arr) - todas las pistas estan disponibles para su uso. Cuando este en condiciones notifique intenciones y transponder 7700
-.uni Comunique UNICOM 122.800, buen vuelo!
+.uni Contacte UNICOM 122.800, buen vuelo!
 .atento Atento.
 
 ;==============
@@ -27,7 +27,7 @@
 
 .ir Identificado radar cruzando $calt
 .cr Contacto radar
-.com Comunique $1 frecuencia $2
+.com Contacte $1 frecuencia $2
 .ppd Posterior $1, autorizado directo $2
 .nc Notifique vertical $1
 .md Metar $metar($arr)
@@ -84,7 +84,7 @@
 .rvn Resuma velocidad normal
 .ns No tiene restricciones de velocidad
 .vri Vectores radar para ILS app RWY$arrrwy
-.autc Autorizado carta $1 app RWY$arrrwy, Q$altim($arr), notifique iniciando procedimiento
+.autc Autorizado $1 app RWY$arrrwy, Q$altim($arr), notifique iniciando procedimiento
 .autv Autorizado aproximacion visual RWY$arrrwy, notifique final
 
 ;==============
@@ -95,7 +95,7 @@
 .apa Ascienda a $alt para alcanzar sobre $1
 .ada Descienda a $alt para alcanzar sobre $1
 .ar Posterior $1 autorizado $2 RWY$arrrwy
-.bye Servicio radar terminado, comunique UNICOM 122.800
+.bye Servicio radar terminado, contacte UNICOM 122.800
 .di Despego $time, identificado radar cruzando $calt
 
 ;==============
@@ -183,7 +183,7 @@
 .ervn Resume normal speed
 .ens No speed restrictions
 .evri Radar vectoring for ILS app RWY$arrrwy
-.eautc Cleared chart number $1 app RWY$arrrwy, Q$altim($arr), report commencing procedure
+.eautc Cleared $1 app RWY$arrrwy, Q$altim($arr), report commencing procedure
 .eautv Cleared for visual app RWY$arrrwy, report on final
 
 ;==============
@@ -208,5 +208,5 @@
 
 .EPSB .msg $aircraft STAND BY FOR PRE-DEPARTURE CLEARANCE VIA PM. IF UNABLE PM ADVISE.
 .EPDCR .msg $aircraft ROUTE CHANGE: $route | NO NEED TO REFILE FLIGHT PLAN
-.EPDC1 .msg $aircraft PRE-DEPARTURE CLEARANCE START | CALL SIGN: $aircraft | DEP: $dep | ARR: $arr | TRANSPONDER: $squawk | ALTITUDE: $cruise | APPROVED ROUTE: Flight Plan Route | INITIAL CLIMB $alt | EXPECT RWY $deprwy
+.EPDC1 .msg $aircraft PRE-DEPARTURE CLEARANCE START | CALL SIGN: $aircraft | DEP: $dep | ARR: $arr | TRANSPONDER: $squawk | ALTITUDE: $cruise | APPROVED ROUTE: Flight Plan Route | SID: $sid | INITIAL CLIMB $alt | EXPECT RWY $deprwy
 .EPDC2 .msg $aircraft ADDITIONAL INFO: >>CONTACT APPROPRIATE CONTROLLER WITH ASSIGNED TRANSPONDER CODE AND CURRENT ATIS FOR PUSHBACK.<< THIS MESSAGE SERVES AS YOUR PRE-DEPARTURE CLEARANCE. NO NEED TO REPLY UNLESS YOU HAVE QUESTIONS -END-
