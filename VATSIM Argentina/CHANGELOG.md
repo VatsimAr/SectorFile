@@ -1,11 +1,19 @@
 # Changelog - VATSIM Argentina SectorFile
 
-## v8.5 - XX/XX/2021
+## v8.5 - 31/07/2021
 *Actualizado por Javier Escandarani y Mariano Lopez*
 - Incorporación de puntos de coordinación entre SAEF y SAZT
-- Fixes varios en ASRs
-- Fixes en login profiles
-- Fixes en aliases
+- Incorporación de puntos de coordinación entre SAEF y SACF N/S
+- Arreglos varios en ASRs
+- Arreglos en login profiles
+- Arreglos en aliases
+- Arreglos en SSRs para SAVF
+- Arreglos en SID y STAR de SAWH
+- Incorporación de STAR ficticias para el dibujo de las llegadas estandarizadas
+- Incorporación de STAR en SARC
+- Incorporación de nuevas dependencias en EGYP según nuevo LOA
+- Incorporación de pista de MGI
+- Incorporación de archivos para configuración de vATIS
 
 ---
 

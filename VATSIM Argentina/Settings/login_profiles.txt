@@ -315,9 +315,25 @@ ATIS2:Ushuaia Control
 ATIS3:argentina.vatsur.org
 ATIS4:
 PROFILE:EGYP_APP:100:5
-ATIS2:Mount Pleasant Approach
+ATIS2:Monte Agradable Aproximación
 ATIS3:argentina.vatsur.org
-ATIS4:
+ATIS4:LOA in effect
+PROFILE:EGYP_TWR:50:4
+ATIS2:Monte Agradable Torre
+ATIS3:argentina.vatsur.org
+ATIS4:LOA in effect
+PROFILE:EGYP_GND:10:3
+ATIS2:Monte Agradable Superficie
+ATIS3:argentina.vatsur.org
+ATIS4:LOA in effect
+PROFILE:SFAL_I_TWR:10:3
+ATIS2:Stanley Informacion
+ATIS3:argentina.vatsur.org
+ATIS4:LOA in effect
+PROFILE:ISLAND_CTR:400:6
+ATIS2:Islas Radar
+ATIS3:argentina.vatsur.org
+ATIS4:LOA in effect
 PROFILE:SANC_APP:100:5
 ATIS2:Catamarca Control
 ATIS3:argentina.vatsur.org
