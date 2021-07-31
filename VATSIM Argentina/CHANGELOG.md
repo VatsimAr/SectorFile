@@ -10,7 +10,7 @@
 - Arreglos en SSRs para SAVF
 - Arreglos en SID y STAR de SAWH
 - Incorporación de STAR ficticias para el dibujo de las llegadas estandarizadas
-- Incorporación de STAR en SARC
+- Incorporación de SID y STAR en SARC
 - Incorporación de nuevas dependencias en EGYP según nuevo LOA
 - Incorporación de pista de MGI
 - Incorporación de archivos para configuración de vATIS
