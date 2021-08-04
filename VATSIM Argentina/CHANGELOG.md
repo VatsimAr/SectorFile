@@ -1,5 +1,12 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v8.6 - 03/08/2021
+*Actualizado por Javier Escandarani y Mariano Lopez*
+- Actualización de AIRAC v2107
+- Mejoras en perfiles vATIS
+
+---
+
 ## v8.5 - 31/07/2021
 *Actualizado por Javier Escandarani y Mariano Lopez*
 - Incorporación de puntos de coordinación entre SAEF y SAZT
