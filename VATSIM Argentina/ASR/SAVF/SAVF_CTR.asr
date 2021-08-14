@@ -12,9 +12,7 @@ ARTCC high boundary:TMARioGrande:
 ARTCC high boundary:TMATrelew:
 ARTCC high boundary:TMAUShuaia:
 ARTCC high boundary:TMAViedma:
-Fixes:AKVAD:symbol
 Fixes:ANDEX:symbol
-Fixes:ANDUS:symbol
 Fixes:AROPO:symbol
 Fixes:ASADO:symbol
 Fixes:ASKAS:symbol
@@ -32,7 +30,6 @@ Fixes:BOKOL:symbol
 Fixes:BOKUK:symbol
 Fixes:BONTA:symbol
 Fixes:DABLI:symbol
-Fixes:DAGOK:symbol
 Fixes:DAKAX:symbol
 Fixes:DAKSA:symbol
 Fixes:DEVIS:symbol
@@ -72,7 +69,6 @@ Fixes:LOMUR:symbol
 Fixes:LOMUS:symbol
 Fixes:MANTI:symbol
 Fixes:MIDAL:symbol
-Fixes:MIGUS:symbol
 Fixes:MIKIM:symbol
 Fixes:MOSKA:symbol
 Fixes:MUBES:symbol
@@ -88,7 +84,6 @@ Fixes:PABAL:symbol
 Fixes:PADIM:symbol
 Fixes:PAKAL:symbol
 Fixes:PALIX:symbol
-Fixes:PUBLO:symbol
 Fixes:PUGLI:symbol
 Fixes:RAXOS:symbol
 Fixes:ROMAX:symbol
@@ -103,7 +98,6 @@ Fixes:UDENA:symbol
 Fixes:UGIRA:symbol
 Fixes:UGRIS:symbol
 Fixes:UKEKA:symbol
-Fixes:UTRUN:symbol
 Fixes:VUKNA:symbol
 Fixes:VURGI:symbol
 Free Text:EGYP\A:freetext
@@ -207,6 +201,7 @@ Free Text:SAWH\C:freetext
 Geo:Antartida:
 Geo:EGYP:
 Geo:GEO:
+Geo:IslasMalvinas:
 Geo:LineaCostera:
 Geo:SAVC:
 Geo:SAVE:
@@ -262,7 +257,6 @@ High airways:UN785:line
 High airways:UN857:line
 High airways:UP526:line
 High airways:UT103:line
-High airways:UT103:name
 High airways:UT105:line
 High airways:UT106:line
 High airways:UT108:line
@@ -320,10 +314,12 @@ High airways:UW41:line
 High airways:UW42:line
 High airways:UW44:line
 High airways:UW45:line
+High airways:UW46:line
 High airways:UW48:line
 High airways:UW5:line
 High airways:UW50:line
 High airways:UW52:line
+High airways:UW54:line
 High airways:UW56:line
 High airways:UW57:line
 High airways:UW58:line
@@ -527,4 +523,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-58.765205:-88.666821:-36.829912:-37.524229
+WINDOWAREA:-56.506462:-86.025502:-38.958228:-45.729134

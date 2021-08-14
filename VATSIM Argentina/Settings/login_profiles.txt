@@ -314,26 +314,6 @@ PROFILE:SAWH_APP:100:5
 ATIS2:Ushuaia Control
 ATIS3:argentina.vatsur.org
 ATIS4:
-PROFILE:EGYP_APP:100:5
-ATIS2:Monte Agradable Aproximación
-ATIS3:argentina.vatsur.org
-ATIS4:LOA in effect
-PROFILE:EGYP_TWR:50:4
-ATIS2:Monte Agradable Torre
-ATIS3:argentina.vatsur.org
-ATIS4:LOA in effect
-PROFILE:EGYP_GND:10:3
-ATIS2:Monte Agradable Superficie
-ATIS3:argentina.vatsur.org
-ATIS4:LOA in effect
-PROFILE:SFAL_I_TWR:10:3
-ATIS2:Stanley Informacion
-ATIS3:argentina.vatsur.org
-ATIS4:LOA in effect
-PROFILE:ISLAND_CTR:400:6
-ATIS2:Islas Radar
-ATIS3:argentina.vatsur.org
-ATIS4:LOA in effect
 PROFILE:SANC_APP:100:5
 ATIS2:Catamarca Control
 ATIS3:argentina.vatsur.org
@@ -390,4 +370,24 @@ PROFILE:ARG_OBS:149:0
 ATIS2:
 ATIS3:
 ATIS4:
+PROFILE:EGYP_APP:250:5
+ATIS2:Monte Agradable Aproximación/Mount Pleasant Approach
+ATIS3:Service for EGYP and SFAL. LoA in effect
+ATIS4:argentina.vatsur.org
+PROFILE:ISLAND_CTR:300:6
+ATIS2:Islas Radar/Island Radar
+ATIS3:argentina.vatsur.org
+ATIS4:LoA in effect
+PROFILE:EGYP_TWR:50:4
+ATIS2:Monte Agradable Torre/Mount Pleasant Tower
+ATIS3:argentina.vatsur.org
+ATIS4:LoA in effect
+PROFILE:EGYP_GND:10:3
+ATIS2:Monte Agradable Superficie/Mount Pleasant Ground
+ATIS3:argentina.vatsur.org
+ATIS4:LoA in effect
+PROFILE:SFAL_I_TWR:50:4
+ATIS2:Puerto Argentino Informacion/Stanley Information
+ATIS3:argentina.vatsur.org
+ATIS4:LoA in effect
 END

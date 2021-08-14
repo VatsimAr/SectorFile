@@ -1,5 +1,17 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v8.7 - 14/08/2021
+*Actualizado por Javier Escandarani y Mariano Lopez*
+- Actualización de AIRAC v2108
+- Actualización de dependencias en base a nuevo LoA con VATSIM UK
+- Incorporación de puntos faltantes en aproximación RNP SACO
+- Incorporación de pista única en perfiles vATIS
+- Incorporación de EGYP ATIS en perfiles vATIS
+- Incorporación de instrucciones automáticas para Sweatbox (especiales agradecimientos a Alejandro Sosa)
+- Incorporación de transponders para EGYP
+
+---
+
 ## v8.6 - 03/08/2021
 *Actualizado por Javier Escandarani y Mariano Lopez*
 - Actualización de AIRAC v2107
