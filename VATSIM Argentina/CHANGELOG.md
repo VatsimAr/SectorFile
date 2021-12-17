@@ -2,6 +2,12 @@
 
 ## v8.8 - 16/12/2021
 *Actualizado por Javier Escandarani y Mariano Lopez*
+- Actualización de SID/STAR SAWC
+- Actualización AIRAC v2112
+- Actualización de aerovías de acuerdo a nuevo airac
+- Incorporación de plugin de holding
+- Cambio de orden en SIDs para priorización según operaciones
+- Incorporación de llegadas de SCEL para coordinación
 
 ---
 
