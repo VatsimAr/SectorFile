@@ -1,5 +1,10 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v8.8 - 16/12/2021
+*Actualizado por Javier Escandarani y Mariano Lopez*
+
+---
+
 ## v8.7 - 14/08/2021
 *Actualizado por Javier Escandarani y Mariano Lopez*
 - Actualización de AIRAC v2108
