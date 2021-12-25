@@ -9,9 +9,7 @@ ARTCC high boundary:TMAResistencia:
 ARTCC low boundary:CTRCorrientes:
 ARTCC low boundary:CTRFormosa:
 ARTCC low boundary:CTRIguazu:
-ARTCC low boundary:CTRResistencia:
 Fixes:AKPEL:symbol
-Fixes:AKSAS:symbol
 Fixes:ARPAS:symbol
 Fixes:ARULA:symbol
 Fixes:ASELO:symbol
@@ -20,16 +18,18 @@ Fixes:BITUS:symbol
 Fixes:BOBIK:symbol
 Fixes:BOKIL:symbol
 Fixes:BUPLA:symbol
-Fixes:BURSA:name
 Fixes:BURSA:symbol
 Fixes:COATI:symbol
 Fixes:DAGRA:symbol
 Fixes:DAMIS:symbol
 Fixes:DANRU:symbol
+Fixes:DIGET:symbol
 Fixes:DOKBA:symbol
 Fixes:ELAMO:symbol
 Fixes:ESMOS:symbol
 Fixes:GEBUN:symbol
+Fixes:GEGUS:symbol
+Fixes:GEMSU:symbol
 Fixes:GETRA:symbol
 Fixes:GUKAS:symbol
 Fixes:ILSAS:symbol
@@ -38,37 +38,32 @@ Fixes:IREKA:symbol
 Fixes:ISLOB:symbol
 Fixes:ITADO:symbol
 Fixes:KALOM:symbol
-Fixes:KILIP:name
 Fixes:KILIP:symbol
 Fixes:KIMIK:symbol
 Fixes:KORSO:symbol
 Fixes:KORTA:symbol
 Fixes:KUBIR:symbol
 Fixes:KUGLO:symbol
-Fixes:LADER:symbol
 Fixes:LUTSO:symbol
 Fixes:MAMKA:symbol
 Fixes:MASDO:symbol
-Fixes:MEXEM:symbol
-Fixes:MORPU:name
-Fixes:MORPU:symbol
+Fixes:NAIDE:symbol
+Fixes:NESRI:symbol
 Fixes:OPKAN:symbol
 Fixes:OPNIN:symbol
 Fixes:PAMEX:symbol
 Fixes:PANOT:symbol
 Fixes:PILCO:symbol
 Fixes:PULEN:symbol
-Fixes:PULUX:name
-Fixes:PULUX:symbol
 Fixes:REPAM:symbol
-Fixes:RIOKA:symbol
 Fixes:SARNA:symbol
 Fixes:SIKOB:symbol
 Fixes:SIMOR:symbol
+Fixes:SOTSA:symbol
 Fixes:SOVLI:symbol
-Fixes:TIKLA:symbol
 Fixes:TODES:symbol
 Fixes:UGAKO:symbol
+Fixes:UROLI:symbol
 Fixes:USEPA:symbol
 Fixes:VINOS:symbol
 Free Text:SARE\1:freetext
@@ -102,11 +97,6 @@ Geo:SARE:
 Geo:SARF:
 Geo:SARI:
 Geo:SARP:
-High airways:UA306:line
-High airways:UA307:line
-High airways:UA570:line
-High airways:UB684:line
-High airways:UB687:line
 High airways:UB688:line
 High airways:UL211:line
 High airways:UL211F:line
@@ -144,6 +134,7 @@ High airways:UN775:line
 High airways:UN785:line
 High airways:UN857:line
 High airways:UP526:line
+High airways:UP779:line
 High airways:UT105:line
 High airways:UT106:line
 High airways:UT108:line
@@ -207,19 +198,14 @@ High airways:UW50:line
 High airways:UW52:line
 High airways:UW56:line
 High airways:UW57:line
-High airways:UW58:line
 High airways:UW6:line
 High airways:UW62:line
 High airways:UW63:line
-High airways:UW64:line
-High airways:UW65:line
 High airways:UW68:line
-High airways:UW7:line
 High airways:UW8:line
 High airways:UZ102:line
 High airways:UZ103:line
 High airways:UZ105:line
-High airways:UZ107:line
 High airways:UZ108:line
 High airways:UZ109:line
 High airways:UZ111:line
@@ -228,6 +214,8 @@ High airways:UZ113:line
 High airways:UZ114:line
 High airways:UZ116:line
 High airways:UZ117:line
+High airways:UZ120:line
+High airways:UZ124:line
 Low airways:A305:line
 Low airways:A306:line
 Low airways:A307:line
@@ -298,7 +286,6 @@ Low airways:W34:line
 Low airways:W37:line
 Low airways:W38:line
 Low airways:W39:line
-Low airways:W4:line
 Low airways:W40:line
 Low airways:W41:line
 Low airways:W42:line
@@ -333,7 +320,6 @@ Low airways:W8:line
 Low airways:W9:line
 Low airways:Z102:line
 Low airways:Z104:line
-Low airways:Z107:line
 Low airways:Z109:line
 Low airways:Z110:line
 Low airways:Z116:line
@@ -412,4 +398,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-31.379133:-68.373264:-22.394437:-47.741523
+WINDOWAREA:-31.418082:-68.506070:-22.433386:-47.874329

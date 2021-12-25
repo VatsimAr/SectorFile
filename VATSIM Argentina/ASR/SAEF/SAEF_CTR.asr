@@ -28,6 +28,7 @@ ARTCC low boundary:CTRSauceViejo:
 Fixes:AKPUR:symbol
 Fixes:ALGIL:symbol
 Fixes:AMVIB:symbol
+Fixes:ANDUD:symbol
 Fixes:ANRAL:symbol
 Fixes:ARMUP:symbol
 Fixes:ARSOT:symbol
@@ -36,6 +37,7 @@ Fixes:ARVET:symbol
 Fixes:ARVOV:symbol
 Fixes:ASADA:symbol
 Fixes:ATAKO:symbol
+Fixes:ATIPI:symbol
 Fixes:ATIRA:symbol
 Fixes:ATITO:symbol
 Fixes:ATOMO:symbol
@@ -44,6 +46,7 @@ Fixes:BIVAM:symbol
 Fixes:BIXIM:symbol
 Fixes:BODIR:symbol
 Fixes:BOGOR:symbol
+Fixes:BUTMO:symbol
 Fixes:BUTUV:symbol
 Fixes:CABAL:symbol
 Fixes:CHATO:symbol
@@ -52,6 +55,7 @@ Fixes:DALAB:symbol
 Fixes:DAMIN:symbol
 Fixes:DARKA:symbol
 Fixes:DEXAL:symbol
+Fixes:DILOG:symbol
 Fixes:DORVO:symbol
 Fixes:DOTRI:symbol
 Fixes:EDPIL:symbol
@@ -60,6 +64,7 @@ Fixes:EGIMA:symbol
 Fixes:EGOBO:symbol
 Fixes:EGOKO:symbol
 Fixes:EGOVI:symbol
+Fixes:EGUNO:symbol
 Fixes:EKEMO:symbol
 Fixes:EKOPA:symbol
 Fixes:EKOTA:symbol
@@ -73,13 +78,16 @@ Fixes:ESKON:symbol
 Fixes:ESLAN:symbol
 Fixes:ESNIM:symbol
 Fixes:ESURO:symbol
-Fixes:EZE19:symbol
+Fixes:FUSCA:symbol
 Fixes:GATOS:symbol
 Fixes:GAVAM:symbol
+Fixes:GEBEM:symbol
 Fixes:GEDUK:symbol
+Fixes:GEGUS:symbol
 Fixes:GELEL:symbol
 Fixes:GENAX:symbol
 Fixes:GESTA:symbol
+Fixes:GIDPI:symbol
 Fixes:GUXOR:symbol
 Fixes:ILRAM:symbol
 Fixes:ILTOS:symbol
@@ -99,7 +107,6 @@ Fixes:KORGA:symbol
 Fixes:KORTA:symbol
 Fixes:KOTOG:symbol
 Fixes:KOTUK:symbol
-Fixes:KUGRI:symbol
 Fixes:KUKEN:symbol
 Fixes:LANDA:symbol
 Fixes:LIMAY:symbol
@@ -113,6 +120,8 @@ Fixes:MULTA:symbol
 Fixes:MUMSA:symbol
 Fixes:MUPER:symbol
 Fixes:MUPIS:symbol
+Fixes:NEPIS:symbol
+Fixes:NEVLO:symbol
 Fixes:NIBGO:symbol
 Fixes:NIDBA:symbol
 Fixes:NINSI:symbol
@@ -138,6 +147,7 @@ Fixes:POSTI:symbol
 Fixes:PUGLI:symbol
 Fixes:PULAS:symbol
 Fixes:PULGA:symbol
+Fixes:PULNA:symbol
 Fixes:PULPA:symbol
 Fixes:PUNOL:symbol
 Fixes:RAXUR:symbol
@@ -159,9 +169,11 @@ Fixes:SINUT:symbol
 Fixes:SIRAN:symbol
 Fixes:SISAX:symbol
 Fixes:SUGRA:symbol
+Fixes:SURBO:symbol
 Fixes:TEDAR:symbol
 Fixes:TENIL:symbol
 Fixes:TESEX:symbol
+Fixes:TIMDO:symbol
 Fixes:TINTA:symbol
 Fixes:TIPLO:symbol
 Fixes:TODES:symbol
@@ -173,6 +185,7 @@ Fixes:TORUL:symbol
 Fixes:TOSOR:symbol
 Fixes:TRINI:symbol
 Fixes:UDITA:symbol
+Fixes:UDUPA:symbol
 Fixes:UGAGI:symbol
 Fixes:UGALA:symbol
 Fixes:UGIMI:symbol
@@ -191,393 +204,13 @@ Fixes:VOTRA:symbol
 Fixes:VUKSO:symbol
 Fixes:VUMKI:symbol
 Fixes:XOPIS:symbol
-Free Text:SAAP\1:freetext
-Free Text:SAAP\2:freetext
-Free Text:SAAP\3:freetext
-Free Text:SAAP\4:freetext
-Free Text:SAAP\5:freetext
-Free Text:SAAP\A:freetext
-Free Text:SAAP\A:freetext
-Free Text:SAAP\A:freetext
-Free Text:SAAP\A:freetext
-Free Text:SAAP\A:freetext
-Free Text:SAAP\B:freetext
-Free Text:SAAP\B:freetext
-Free Text:SAAP\C:freetext
-Free Text:SAAP\D:freetext
-Free Text:SAAP\E:freetext
-Free Text:SAAR\1:freetext
-Free Text:SAAR\1A:freetext
-Free Text:SAAR\1B:freetext
-Free Text:SAAR\2:freetext
-Free Text:SAAR\2A:freetext
-Free Text:SAAR\2B:freetext
-Free Text:SAAR\3:freetext
-Free Text:SAAR\3A:freetext
-Free Text:SAAR\3B:freetext
-Free Text:SAAR\4:freetext
-Free Text:SAAR\4A:freetext
-Free Text:SAAR\4B:freetext
-Free Text:SAAR\5:freetext
-Free Text:SAAR\6:freetext
-Free Text:SAAR\7:freetext
-Free Text:SAAR\A:freetext
-Free Text:SAAR\A:freetext
-Free Text:SAAR\B:freetext
-Free Text:SAAR\B:freetext
-Free Text:SAAR\D:freetext
-Free Text:SAAR\E:freetext
-Free Text:SABE\1:freetext
-Free Text:SABE\10:freetext
-Free Text:SABE\11:freetext
-Free Text:SABE\12:freetext
-Free Text:SABE\13:freetext
-Free Text:SABE\14:freetext
-Free Text:SABE\15:freetext
-Free Text:SABE\16:freetext
-Free Text:SABE\17:freetext
-Free Text:SABE\18:freetext
-Free Text:SABE\18A:freetext
-Free Text:SABE\19:freetext
-Free Text:SABE\2:freetext
-Free Text:SABE\20:freetext
-Free Text:SABE\21:freetext
-Free Text:SABE\22:freetext
-Free Text:SABE\23:freetext
-Free Text:SABE\24:freetext
-Free Text:SABE\25:freetext
-Free Text:SABE\26:freetext
-Free Text:SABE\27:freetext
-Free Text:SABE\28:freetext
-Free Text:SABE\29:freetext
-Free Text:SABE\3:freetext
-Free Text:SABE\30:freetext
-Free Text:SABE\31:freetext
-Free Text:SABE\32:freetext
-Free Text:SABE\33:freetext
-Free Text:SABE\39:freetext
-Free Text:SABE\4:freetext
-Free Text:SABE\40:freetext
-Free Text:SABE\41:freetext
-Free Text:SABE\42:freetext
-Free Text:SABE\43:freetext
-Free Text:SABE\44:freetext
-Free Text:SABE\45:freetext
-Free Text:SABE\46:freetext
-Free Text:SABE\47:freetext
-Free Text:SABE\48:freetext
-Free Text:SABE\49:freetext
-Free Text:SABE\5:freetext
-Free Text:SABE\50:freetext
-Free Text:SABE\51:freetext
-Free Text:SABE\52:freetext
-Free Text:SABE\53:freetext
-Free Text:SABE\54:freetext
-Free Text:SABE\55:freetext
-Free Text:SABE\56:freetext
-Free Text:SABE\6:freetext
-Free Text:SABE\66:freetext
-Free Text:SABE\67:freetext
-Free Text:SABE\68:freetext
-Free Text:SABE\69:freetext
-Free Text:SABE\7:freetext
-Free Text:SABE\8:freetext
-Free Text:SABE\9:freetext
-Free Text:SABE\A:freetext
-Free Text:SABE\A:freetext
-Free Text:SABE\A:freetext
-Free Text:SABE\A:freetext
-Free Text:SABE\B:freetext
-Free Text:SABE\C:freetext
-Free Text:SABE\D:freetext
-Free Text:SABE\E:freetext
-Free Text:SABE\F:freetext
-Free Text:SABE\H:freetext
-Free Text:SABE\I:freetext
-Free Text:SABE\J:freetext
-Free Text:SABE\K:freetext
-Free Text:SABE\L:freetext
-Free Text:SABE\M:freetext
-Free Text:SADF\1:freetext
-Free Text:SADF\1-A:freetext
-Free Text:SADF\2:freetext
-Free Text:SADF\2-A:freetext
-Free Text:SADF\2-B:freetext
-Free Text:SADF\3:freetext
-Free Text:SADF\3-A:freetext
-Free Text:SADF\4:freetext
-Free Text:SADF\4-A:freetext
-Free Text:SADF\4-B:freetext
-Free Text:SADF\A:freetext
-Free Text:SADF\A:freetext
-Free Text:SADF\A:freetext
-Free Text:SADF\B:freetext
-Free Text:SADF\C:freetext
-Free Text:SADJ\A:freetext
-Free Text:SADJ\A:freetext
-Free Text:SADJ\B:freetext
-Free Text:SADJ\C:freetext
-Free Text:SADJ\D:freetext
-Free Text:SADM\A(1):freetext
-Free Text:SADM\A(1):freetext
-Free Text:SADM\A(2):freetext
-Free Text:SADM\B:freetext
-Free Text:SADM\C:freetext
-Free Text:SADM\D:freetext
-Free Text:SADM\E:freetext
-Free Text:SADM\F:freetext
-Free Text:SADM\G:freetext
-Free Text:SADM\H:freetext
-Free Text:SADP\1:freetext
-Free Text:SADP\10:freetext
-Free Text:SADP\11:freetext
-Free Text:SADP\12:freetext
-Free Text:SADP\13:freetext
-Free Text:SADP\14:freetext
-Free Text:SADP\2:freetext
-Free Text:SADP\3:freetext
-Free Text:SADP\4:freetext
-Free Text:SADP\5:freetext
-Free Text:SADP\6:freetext
-Free Text:SADP\7:freetext
-Free Text:SADP\8:freetext
-Free Text:SADP\9:freetext
-Free Text:SADP\A:freetext
-Free Text:SADP\A:freetext
-Free Text:SADP\A:freetext
-Free Text:SADP\A-1:freetext
-Free Text:SADP\A-2:freetext
-Free Text:SADP\B:freetext
-Free Text:SADP\B:freetext
-Free Text:SADP\B:freetext
-Free Text:SADP\C:freetext
-Free Text:SADP\D:freetext
-Free Text:SAEZ\10:freetext
-Free Text:SAEZ\11:freetext
-Free Text:SAEZ\11A:freetext
-Free Text:SAEZ\11B:freetext
-Free Text:SAEZ\12:freetext
-Free Text:SAEZ\13:freetext
-Free Text:SAEZ\14:freetext
-Free Text:SAEZ\14A:freetext
-Free Text:SAEZ\14B:freetext
-Free Text:SAEZ\15:freetext
-Free Text:SAEZ\15A:freetext
-Free Text:SAEZ\15B:freetext
-Free Text:SAEZ\16:freetext
-Free Text:SAEZ\16A:freetext
-Free Text:SAEZ\16B:freetext
-Free Text:SAEZ\17:freetext
-Free Text:SAEZ\17A:freetext
-Free Text:SAEZ\17B:freetext
-Free Text:SAEZ\18:freetext
-Free Text:SAEZ\18A:freetext
-Free Text:SAEZ\18B:freetext
-Free Text:SAEZ\2:freetext
-Free Text:SAEZ\3:freetext
-Free Text:SAEZ\33:freetext
-Free Text:SAEZ\33A:freetext
-Free Text:SAEZ\33B:freetext
-Free Text:SAEZ\34:freetext
-Free Text:SAEZ\34A:freetext
-Free Text:SAEZ\34B:freetext
-Free Text:SAEZ\34C:freetext
-Free Text:SAEZ\35:freetext
-Free Text:SAEZ\35A:freetext
-Free Text:SAEZ\35B:freetext
-Free Text:SAEZ\36:freetext
-Free Text:SAEZ\36A:freetext
-Free Text:SAEZ\37:freetext
-Free Text:SAEZ\4:freetext
-Free Text:SAEZ\40:freetext
-Free Text:SAEZ\41:freetext
-Free Text:SAEZ\42:freetext
-Free Text:SAEZ\43:freetext
-Free Text:SAEZ\43A:freetext
-Free Text:SAEZ\43B:freetext
-Free Text:SAEZ\44:freetext
-Free Text:SAEZ\44A:freetext
-Free Text:SAEZ\45:freetext
-Free Text:SAEZ\46:freetext
-Free Text:SAEZ\47:freetext
-Free Text:SAEZ\5:freetext
-Free Text:SAEZ\50:freetext
-Free Text:SAEZ\50A:freetext
-Free Text:SAEZ\50B:freetext
-Free Text:SAEZ\51:freetext
-Free Text:SAEZ\51A:freetext
-Free Text:SAEZ\52:freetext
-Free Text:SAEZ\52A:freetext
-Free Text:SAEZ\52B:freetext
-Free Text:SAEZ\53:freetext
-Free Text:SAEZ\53A:freetext
-Free Text:SAEZ\54:freetext
-Free Text:SAEZ\54A:freetext
-Free Text:SAEZ\55:freetext
-Free Text:SAEZ\55A:freetext
-Free Text:SAEZ\55B:freetext
-Free Text:SAEZ\56:freetext
-Free Text:SAEZ\56A:freetext
-Free Text:SAEZ\56B:freetext
-Free Text:SAEZ\57:freetext
-Free Text:SAEZ\58:freetext
-Free Text:SAEZ\59:freetext
-Free Text:SAEZ\6:freetext
-Free Text:SAEZ\60:freetext
-Free Text:SAEZ\61:freetext
-Free Text:SAEZ\61A:freetext
-Free Text:SAEZ\61B:freetext
-Free Text:SAEZ\61C:freetext
-Free Text:SAEZ\62:freetext
-Free Text:SAEZ\62A:freetext
-Free Text:SAEZ\62B:freetext
-Free Text:SAEZ\62C:freetext
-Free Text:SAEZ\63:freetext
-Free Text:SAEZ\63A:freetext
-Free Text:SAEZ\63B:freetext
-Free Text:SAEZ\63C:freetext
-Free Text:SAEZ\64:freetext
-Free Text:SAEZ\64A:freetext
-Free Text:SAEZ\64B:freetext
-Free Text:SAEZ\64C:freetext
-Free Text:SAEZ\65:freetext
-Free Text:SAEZ\65A:freetext
-Free Text:SAEZ\65B:freetext
-Free Text:SAEZ\65C:freetext
-Free Text:SAEZ\66:freetext
-Free Text:SAEZ\66A:freetext
-Free Text:SAEZ\66B:freetext
-Free Text:SAEZ\66C:freetext
-Free Text:SAEZ\67A:freetext
-Free Text:SAEZ\7:freetext
-Free Text:SAEZ\70:freetext
-Free Text:SAEZ\71:freetext
-Free Text:SAEZ\72:freetext
-Free Text:SAEZ\73:freetext
-Free Text:SAEZ\74:freetext
-Free Text:SAEZ\74A:freetext
-Free Text:SAEZ\74B:freetext
-Free Text:SAEZ\75:freetext
-Free Text:SAEZ\75A:freetext
-Free Text:SAEZ\75B:freetext
-Free Text:SAEZ\76:freetext
-Free Text:SAEZ\76A:freetext
-Free Text:SAEZ\76B:freetext
-Free Text:SAEZ\77:freetext
-Free Text:SAEZ\77A:freetext
-Free Text:SAEZ\77B:freetext
-Free Text:SAEZ\8:freetext
-Free Text:SAEZ\9:freetext
-Free Text:SAEZ\A:freetext
-Free Text:SAEZ\B:freetext
-Free Text:SAEZ\C:freetext
-Free Text:SAEZ\D:freetext
-Free Text:SAEZ\D:freetext
-Free Text:SAEZ\E:freetext
-Free Text:SAEZ\F:freetext
-Free Text:SAEZ\F:freetext
-Free Text:SAEZ\G:freetext
-Free Text:SAEZ\G:freetext
-Free Text:SAEZ\G:freetext
-Free Text:SAEZ\H:freetext
-Free Text:SAEZ\H:freetext
-Free Text:SAEZ\H:freetext
-Free Text:SAEZ\I:freetext
-Free Text:SAEZ\I:freetext
-Free Text:SAEZ\I:freetext
-Free Text:SAEZ\J:freetext
-Free Text:SAEZ\J:freetext
-Free Text:SAEZ\K:freetext
-Free Text:SAZB\1:freetext
-Free Text:SAZB\2:freetext
-Free Text:SAZB\3:freetext
-Free Text:SAZB\4:freetext
-Free Text:SAZB\5:freetext
-Free Text:SAZB\6:freetext
-Free Text:SAZB\7:freetext
-Free Text:SAZB\8:freetext
-Free Text:SAZB\A:freetext
-Free Text:SAZB\A:freetext
-Free Text:SAZB\B:freetext
-Free Text:SAZB\B:freetext
-Free Text:SAZB\B:freetext
-Free Text:SAZB\C:freetext
-Free Text:SAZB\D:freetext
-Free Text:SAZB\E:freetext
-Free Text:SAZB\E:freetext
-Free Text:SAZB\F:freetext
-Free Text:SAZB\F:freetext
-Free Text:SAZB\G:freetext
-Free Text:SAZB\H:freetext
-Free Text:SAZM\1:freetext
-Free Text:SAZM\10:freetext
-Free Text:SAZM\11:freetext
-Free Text:SAZM\12:freetext
-Free Text:SAZM\12A:freetext
-Free Text:SAZM\2:freetext
-Free Text:SAZM\3:freetext
-Free Text:SAZM\4:freetext
-Free Text:SAZM\5:freetext
-Free Text:SAZM\5A:freetext
-Free Text:SAZM\6:freetext
-Free Text:SAZM\7:freetext
-Free Text:SAZM\8:freetext
-Free Text:SAZM\9:freetext
-Free Text:SAZM\A:freetext
-Free Text:SAZM\B:freetext
-Free Text:SAZM\B:freetext
-Free Text:SAZM\C:freetext
-Free Text:SAZN\1:freetext
-Free Text:SAZN\2:freetext
-Free Text:SAZN\3:freetext
-Free Text:SAZN\4:freetext
-Free Text:SAZN\5:freetext
-Free Text:SAZN\6:freetext
-Free Text:SAZN\7:freetext
-Free Text:SAZN\8:freetext
-Free Text:SAZN\A:freetext
-Free Text:SAZN\B:freetext
-Free Text:SAZN\C:freetext
-Free Text:SAZN\C:freetext
-Free Text:SAZR\1:freetext
-Free Text:SAZR\2:freetext
-Free Text:SAZR\2A:freetext
-Free Text:SAZR\3:freetext
-Free Text:SAZR\3A:freetext
-Free Text:SAZR\4:freetext
-Free Text:SAZR\A:freetext
-Free Text:SAZS\1:freetext
-Free Text:SAZS\10:freetext
-Free Text:SAZS\2:freetext
-Free Text:SAZS\3:freetext
-Free Text:SAZS\4:freetext
-Free Text:SAZS\5:freetext
-Free Text:SAZS\5B:freetext
-Free Text:SAZS\5C:freetext
-Free Text:SAZS\6:freetext
-Free Text:SAZS\7:freetext
-Free Text:SAZS\8:freetext
-Free Text:SAZS\A:freetext
-Free Text:SAZS\A:freetext
-Free Text:SAZS\B:freetext
-Free Text:SAZS\C:freetext
-Free Text:SAZT\1:freetext
-Free Text:SAZT\A:freetext
-Free Text:SAZY\1:freetext
-Free Text:SAZY\2:freetext
-Free Text:SAZY\3:freetext
-Free Text:SAZY\3A:freetext
-Free Text:SAZY\3B:freetext
-Free Text:SAZY\4:freetext
-Free Text:SAZY\5:freetext
-Free Text:SAZY\A:freetext
 Geo:BAIRES1:
 Geo:GEO:
+Geo:LineaCostera:
 Geo:RadarSAEF:
 Geo:SAAC:
 Geo:SAAG:
 Geo:SAAJ:
-Geo:SAAK:
 Geo:SAAN Airport:
 Geo:SAAP:
 Geo:SAAR:
@@ -600,17 +233,11 @@ Geo:SAZS:
 Geo:SAZT:
 Geo:SAZV:
 Geo:SAZY:
-High airways:UA306:line
-High airways:UA307:line
-High airways:UA570:line
-High airways:UB684:line
-High airways:UB687:line
 High airways:UB688:line
 High airways:UL211:line
 High airways:UL211F:line
 High airways:UL216:line
 High airways:UL322:line
-High airways:UL324:line
 High airways:UL404:line
 High airways:UL405:line
 High airways:UL416:line
@@ -626,7 +253,6 @@ High airways:UM418:line
 High airways:UM424:line
 High airways:UM534:line
 High airways:UM543:line
-High airways:UM654:line
 High airways:UM658:line
 High airways:UM776:line
 High airways:UM783:line
@@ -642,7 +268,7 @@ High airways:UN775:line
 High airways:UN785:line
 High airways:UN857:line
 High airways:UP526:line
-High airways:UT103:line
+High airways:UP664:line
 High airways:UT105:line
 High airways:UT106:line
 High airways:UT108:line
@@ -706,19 +332,14 @@ High airways:UW50:line
 High airways:UW52:line
 High airways:UW56:line
 High airways:UW57:line
-High airways:UW58:line
 High airways:UW6:line
 High airways:UW62:line
 High airways:UW63:line
-High airways:UW64:line
-High airways:UW65:line
 High airways:UW68:line
-High airways:UW7:line
 High airways:UW8:line
 High airways:UZ102:line
 High airways:UZ103:line
 High airways:UZ105:line
-High airways:UZ107:line
 High airways:UZ108:line
 High airways:UZ109:line
 High airways:UZ111:line
@@ -727,6 +348,7 @@ High airways:UZ113:line
 High airways:UZ114:line
 High airways:UZ116:line
 High airways:UZ117:line
+High airways:UZ127:line
 Low airways:A305:line
 Low airways:A306:line
 Low airways:A307:line
@@ -753,6 +375,7 @@ Low airways:M424:line
 Low airways:M789:line
 Low airways:N650:line
 Low airways:N674:line
+Low airways:N785:line
 Low airways:R563:line
 Low airways:R683:line
 Low airways:T105:line
@@ -782,7 +405,6 @@ Low airways:W20:line
 Low airways:W21:line
 Low airways:W22:line
 Low airways:W23:line
-Low airways:W24:line
 Low airways:W25:line
 Low airways:W26:line
 Low airways:W27:line
@@ -797,7 +419,6 @@ Low airways:W34:line
 Low airways:W37:line
 Low airways:W38:line
 Low airways:W39:line
-Low airways:W4:line
 Low airways:W40:line
 Low airways:W41:line
 Low airways:W42:line
@@ -829,10 +450,8 @@ Low airways:W71:line
 Low airways:W72:line
 Low airways:W73:line
 Low airways:W8:line
-Low airways:W9:line
 Low airways:Z102:line
 Low airways:Z104:line
-Low airways:Z107:line
 Low airways:Z109:line
 Low airways:Z110:line
 Low airways:Z116:line
@@ -858,13 +477,46 @@ Regions:SABE:polygon
 Regions:SADF:polygon
 Regions:SADP:polygon
 Regions:SAEZ:polygon
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 2
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 2 left ticks
+Runways:SAAP GEN URQUIZA 02-20:extended centerline 2 right ticks
+Runways:SAAR ISLAS MALVINAS 02-20:extended centerline 2
+Runways:SAAR ISLAS MALVINAS 02-20:extended centerline 2 left ticks
+Runways:SAAR ISLAS MALVINAS 02-20:extended centerline 2 right ticks
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 2
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 2 left ticks
+Runways:SAAV SAUCE VIEJO 03-21:extended centerline 2 right ticks
 Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:centerline
 Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 1
 Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 1 left ticks
 Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 1 right ticks
-Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 2
-Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 2 left ticks
-Runways:SABE JORGE NEWBERY AEROPARQUE 13-31:extended centerline 2 right ticks
+Runways:SADP EL PALOMAR 17-35:extended centerline 1
+Runways:SADP EL PALOMAR 17-35:extended centerline 1 left ticks
+Runways:SADP EL PALOMAR 17-35:extended centerline 1 right ticks
+Runways:SAEZ EZEIZA INTL MINISTRO PIS 11-29:extended centerline 1
+Runways:SAEZ EZEIZA INTL MINISTRO PIS 11-29:extended centerline 1 left ticks
+Runways:SAEZ EZEIZA INTL MINISTRO PIS 11-29:extended centerline 1 right ticks
+Runways:SAEZ EZEIZA INTL MINISTRO PIS 17-35:extended centerline 2
+Runways:SAEZ EZEIZA INTL MINISTRO PIS 17-35:extended centerline 2 left ticks
+Runways:SAEZ EZEIZA INTL MINISTRO PIS 17-35:extended centerline 2 right ticks
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 1
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 1 left ticks
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 1 right ticks
+Runways:SAZM ASTOR PIAZZOLLA 13-31:extended centerline 1
+Runways:SAZM ASTOR PIAZZOLLA 13-31:extended centerline 1 left ticks
+Runways:SAZM ASTOR PIAZZOLLA 13-31:extended centerline 1 right ticks
+Runways:SAZN PRESIDENTE PERON 09-27:extended centerline 1
+Runways:SAZN PRESIDENTE PERON 09-27:extended centerline 1 left ticks
+Runways:SAZN PRESIDENTE PERON 09-27:extended centerline 1 right ticks
+Runways:SAZR SANTA ROSA 01-19:extended centerline 2
+Runways:SAZR SANTA ROSA 01-19:extended centerline 2 left ticks
+Runways:SAZR SANTA ROSA 01-19:extended centerline 2 right ticks
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2 left ticks
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2 right ticks
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 2
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 2 left ticks
+Runways:SAZT HEROES DE MALVINAS 01-19:extended centerline 2 right ticks
 VORs:BAR:name
 VORs:BAR:symbol
 VORs:BCA:name
@@ -914,8 +566,8 @@ VORs:SNT:symbol
 VORs:STO:name
 VORs:STO:symbol
 SHOWC:1
-SHOWSB:1
-BELOW:0
+SHOWSB:0
+BELOW:500
 ABOVE:0
 LEADER:10
 SHOWLEADER:1
@@ -926,4 +578,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-42.976827:-75.795311:-29.664100:-45.225024
+WINDOWAREA:-37.005216:-63.543949:-32.642895:-53.526663

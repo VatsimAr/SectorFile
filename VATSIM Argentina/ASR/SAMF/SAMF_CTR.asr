@@ -14,7 +14,6 @@ Fixes:ARVET:symbol
 Fixes:ASIMO:symbol
 Fixes:ASOTA:symbol
 Fixes:BOBAP:symbol
-Fixes:BURMI:symbol
 Fixes:DABAL:symbol
 Fixes:DIGER:symbol
 Fixes:DIKIS:symbol
@@ -44,7 +43,6 @@ Fixes:KIBUN:symbol
 Fixes:KIMIS:symbol
 Fixes:KOTNI:symbol
 Fixes:KOVUN:symbol
-Fixes:KUGRI:symbol
 Fixes:LAJAS:symbol
 Fixes:LOLAS:symbol
 Fixes:LOLIV:symbol
@@ -59,28 +57,30 @@ Fixes:MUMAT:symbol
 Fixes:NEBEG:symbol
 Fixes:NIRTA:symbol
 Fixes:OPRIL:symbol
-Fixes:OPSIS:symbol
 Fixes:OPTUL:symbol
 Fixes:ORABA:symbol
 Fixes:PAMAL:symbol
 Fixes:PAPIR:symbol
+Fixes:POPLU:symbol
 Fixes:REPEV:symbol
+Fixes:ROGOD:symbol
 Fixes:SALBO:symbol
 Fixes:SATRA:symbol
 Fixes:SIBOX:symbol
-Fixes:SIGEM:symbol
 Fixes:SILOP:symbol
 Fixes:SINAL:symbol
 Fixes:SIPOM:symbol
 Fixes:SOLER:symbol
+Fixes:SOSKU:symbol
 Fixes:SOTLA:symbol
-Fixes:TERON:symbol
 Fixes:TOSOR:symbol
 Fixes:UKESO:symbol
 Fixes:UMKAL:symbol
+Fixes:USVER:symbol
 Fixes:USVET:symbol
 Fixes:UTRET:symbol
 Fixes:VADON:symbol
+Fixes:VUGDU:symbol
 Fixes:VUGMA:symbol
 Fixes:VURTA:symbol
 Free Text:SAME\1:freetext
@@ -181,9 +181,6 @@ Geo:SAMR:
 Geo:SANU:
 Geo:SAOR:
 Geo:SAOU:
-High airways:UA306:line
-High airways:UA307:line
-High airways:UB684:line
 High airways:UL322:line
 High airways:UL405:line
 High airways:UL416:line
@@ -191,6 +188,7 @@ High airways:UL531:line
 High airways:UM424:line
 High airways:UM529:line
 High airways:UM783:line
+High airways:UM799:line
 High airways:UN527:line
 High airways:UT652:line
 High airways:UT653:line
@@ -204,9 +202,9 @@ High airways:UW3:line
 High airways:UW37:line
 High airways:UW44:line
 High airways:UZ105:line
-High airways:UZ107:line
 High airways:UZ108:line
 High airways:UZ114:line
+High airways:UZ128:line
 NDBs:RYD:frequency
 NDBs:RYD:symbol
 Regions:SAME:polygon
