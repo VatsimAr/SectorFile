@@ -1,0 +1,75 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMARioCuarto:
+Fixes:ALDOR:name
+Fixes:ALDOR:symbol
+Fixes:EGETU:name
+Fixes:EGETU:symbol
+Fixes:GELOS:name
+Fixes:GELOS:symbol
+Fixes:IROKA:name
+Fixes:IROKA:symbol
+Fixes:KOTOL:name
+Fixes:KOTOL:symbol
+Fixes:LAJAS:name
+Fixes:LAJAS:symbol
+Fixes:OC002:name
+Fixes:OC002:symbol
+Fixes:OC731:name
+Fixes:OC731:symbol
+Fixes:TESIT:name
+Fixes:TESIT:symbol
+Fixes:VURTA:name
+Fixes:VURTA:symbol
+Free Text:SAOC\1:freetext
+Free Text:SAOC\2:freetext
+Free Text:SAOC\A:freetext
+Free Text:SAOC\B:freetext
+Geo:SAOC:
+Runways:SAOC AREA DE MATERIAL 05-23:centerline
+Runways:SAOC AREA DE MATERIAL 05-23:extended centerline 1
+Runways:SAOC AREA DE MATERIAL 05-23:extended centerline 1 left base
+Runways:SAOC AREA DE MATERIAL 05-23:extended centerline 1 left ticks
+Runways:SAOC AREA DE MATERIAL 05-23:extended centerline 1 left vectoring
+Runways:SAOC AREA DE MATERIAL 05-23:extended centerline 1 right base
+Runways:SAOC AREA DE MATERIAL 05-23:extended centerline 1 right ticks
+Runways:SAOC AREA DE MATERIAL 05-23:extended centerline 1 right vectoring
+Runways:SAOC AREA DE MATERIAL 05-23:extended centerline 2
+Runways:SAOC AREA DE MATERIAL 05-23:extended centerline 2 left base
+Runways:SAOC AREA DE MATERIAL 05-23:extended centerline 2 left ticks
+Runways:SAOC AREA DE MATERIAL 05-23:extended centerline 2 left vectoring
+Runways:SAOC AREA DE MATERIAL 05-23:extended centerline 2 right base
+Runways:SAOC AREA DE MATERIAL 05-23:extended centerline 2 right ticks
+Runways:SAOC AREA DE MATERIAL 05-23:extended centerline 2 right vectoring
+Runways:SAOC AREA DE MATERIAL 05-23:name
+Runways:SAOC AREA DE MATERIAL 18-36:centerline
+Runways:SAOC AREA DE MATERIAL 18-36:extended centerline 1
+Runways:SAOC AREA DE MATERIAL 18-36:extended centerline 1 left base
+Runways:SAOC AREA DE MATERIAL 18-36:extended centerline 1 left ticks
+Runways:SAOC AREA DE MATERIAL 18-36:extended centerline 1 left vectoring
+Runways:SAOC AREA DE MATERIAL 18-36:extended centerline 1 right base
+Runways:SAOC AREA DE MATERIAL 18-36:extended centerline 1 right ticks
+Runways:SAOC AREA DE MATERIAL 18-36:extended centerline 1 right vectoring
+Runways:SAOC AREA DE MATERIAL 18-36:extended centerline 2
+Runways:SAOC AREA DE MATERIAL 18-36:extended centerline 2 left base
+Runways:SAOC AREA DE MATERIAL 18-36:extended centerline 2 left ticks
+Runways:SAOC AREA DE MATERIAL 18-36:extended centerline 2 left vectoring
+Runways:SAOC AREA DE MATERIAL 18-36:extended centerline 2 right base
+Runways:SAOC AREA DE MATERIAL 18-36:extended centerline 2 right ticks
+Runways:SAOC AREA DE MATERIAL 18-36:extended centerline 2 right vectoring
+Runways:SAOC AREA DE MATERIAL 18-36:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-33.717589:-65.563212:-32.491339:-62.782856
