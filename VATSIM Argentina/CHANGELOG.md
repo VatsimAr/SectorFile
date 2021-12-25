@@ -1,5 +1,15 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v8.9 - 26/12/2021
+*Actualizado por Javier Escandarani y Mariano Lopez*
+- Incorporación de SID/STAR SAWC en archivo .ese
+- Incorporación de llegadas de Puerto Montt y La Serena para coordinación
+- Adaptación de ASRs de FIRs según nuevo AIRAC
+- Incorporación de ASRs por aeropuerto, dependencia y pista en uso
+- Incorporación de SABE_DEL como dependencia
+
+---
+
 ## v8.8 - 16/12/2021
 *Actualizado por Javier Escandarani y Mariano Lopez*
 - Actualización de SID/STAR SAWC

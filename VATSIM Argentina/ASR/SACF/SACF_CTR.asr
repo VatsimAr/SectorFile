@@ -14,33 +14,44 @@ Fixes:AKRAS:symbol
 Fixes:ALDEX:symbol
 Fixes:ALDOR:symbol
 Fixes:ALGAR:symbol
+Fixes:ANDEG:symbol
 Fixes:ANGEN:symbol
 Fixes:ARMOS:symbol
 Fixes:ARNIB:symbol
 Fixes:ARUSO:symbol
 Fixes:ASEMI:symbol
 Fixes:ASISA:symbol
+Fixes:ASODO:symbol
 Fixes:BITIS:symbol
+Fixes:BIVID:symbol
 Fixes:BUPLA:symbol
-Fixes:BURMI:symbol
 Fixes:BUSLO:symbol
+Fixes:DADMI:symbol
 Fixes:DAMAP:symbol
+Fixes:DIKOR:symbol
 Fixes:DONKA:symbol
 Fixes:DOPRI:symbol
+Fixes:EDLUM:symbol
+Fixes:EDPUN:symbol
+Fixes:EDSUB:symbol
 Fixes:EDVIK:symbol
 Fixes:EGAKU:symbol
 Fixes:EGETU:symbol
 Fixes:EGIKA:symbol
 Fixes:ELABO:symbol
+Fixes:ENRID:symbol
 Fixes:ENVOK:symbol
 Fixes:ESKOP:symbol
 Fixes:ESLED:symbol
+Fixes:ESOKA:symbol
 Fixes:ESPER:symbol
 Fixes:ETEPO:symbol
+Fixes:EVTAM:symbol
 Fixes:GAVAM:symbol
 Fixes:GAVEX:symbol
 Fixes:GAXOK:symbol
 Fixes:GEKAL:symbol
+Fixes:GEMIK:symbol
 Fixes:GEMOP:symbol
 Fixes:GENAS:symbol
 Fixes:GESPA:symbol
@@ -53,18 +64,18 @@ Fixes:IRATI:symbol
 Fixes:IRAVO:symbol
 Fixes:IREKA:symbol
 Fixes:ISIPO:symbol
+Fixes:ISKUK:symbol
 Fixes:ISLOB:symbol
 Fixes:ISOPO:symbol
 Fixes:ITELA:symbol
 Fixes:KADAT:symbol
 Fixes:KAKAN:symbol
-Fixes:KOGSA:symbol
 Fixes:KONRI:symbol
 Fixes:KOPSI:symbol
 Fixes:KOSNO:symbol
 Fixes:KOTOL:symbol
 Fixes:KOVUN:symbol
-Fixes:KUGIN:symbol
+Fixes:KUGSU:symbol
 Fixes:LAJAS:symbol
 Fixes:LITOR:symbol
 Fixes:LOBUK:symbol
@@ -74,10 +85,14 @@ Fixes:MIMEX:symbol
 Fixes:MOXAT:symbol
 Fixes:MUDUL:symbol
 Fixes:MUMUK:symbol
+Fixes:NAXET:symbol
+Fixes:NESRI:symbol
+Fixes:NIPMU:symbol
 Fixes:OPTIR:symbol
 Fixes:ORABA:symbol
 Fixes:OSILI:symbol
 Fixes:OSUDA:symbol
+Fixes:PABEN:symbol
 Fixes:PADOG:symbol
 Fixes:PAGAR:symbol
 Fixes:PAMAK:symbol
@@ -85,16 +100,19 @@ Fixes:PAMAL:symbol
 Fixes:PILCO:symbol
 Fixes:PONPI:symbol
 Fixes:PORKA:symbol
-Fixes:POSMO:name
-Fixes:POSMO:symbol
+Fixes:POVNA:symbol
 Fixes:PUBER:symbol
 Fixes:PUBUM:symbol
+Fixes:PUDBA:symbol
 Fixes:PULOV:symbol
+Fixes:PUNGU:symbol
+Fixes:PUPON:symbol
 Fixes:PUPSI:symbol
+Fixes:QUILI:symbol
 Fixes:RAXUR:symbol
-Fixes:ROKAT:name
-Fixes:ROKAT:symbol
+Fixes:REPUM:symbol
 Fixes:ROKER:symbol
+Fixes:ROLIM:symbol
 Fixes:ROMUR:symbol
 Fixes:SARNA:symbol
 Fixes:SIBOL:symbol
@@ -107,19 +125,24 @@ Fixes:SOLER:symbol
 Fixes:SORTI:symbol
 Fixes:SUKPA:symbol
 Fixes:TEGAV:symbol
-Fixes:TERON:symbol
 Fixes:TESIT:symbol
-Fixes:TIKLA:symbol
 Fixes:TIPLO:symbol
+Fixes:TOLEM:symbol
 Fixes:TOPOG:symbol
 Fixes:TREJO:symbol
 Fixes:UBRIX:symbol
 Fixes:UBSAS:symbol
+Fixes:UBSOX:symbol
 Fixes:UDEXA:symbol
 Fixes:UGVAX:symbol
 Fixes:UMKAD:symbol
+Fixes:UMKEV:symbol
 Fixes:UMSAR:symbol
+Fixes:UREVI:symbol
+Fixes:USTOT:symbol
 Fixes:UTRAX:symbol
+Fixes:VADUN:symbol
+Fixes:VAKUX:symbol
 Fixes:VAPES:symbol
 Fixes:VINOS:symbol
 Fixes:VULEK:symbol
@@ -174,53 +197,6 @@ Free Text:SACO\A:freetext
 Free Text:SACO\A:freetext
 Free Text:SACO\B:freetext
 Free Text:SACO\C:freetext
-Free Text:SANT\1:freetext
-Free Text:SANT\1A:freetext
-Free Text:SANT\1B:freetext
-Free Text:SANT\1C:freetext
-Free Text:SANT\1C:freetext
-Free Text:SANT\2:freetext
-Free Text:SANT\2A:freetext
-Free Text:SANT\3:freetext
-Free Text:SANT\4:freetext
-Free Text:SANT\5:freetext
-Free Text:SANT\5A:freetext
-Free Text:SANT\6:freetext
-Free Text:SANT\6A:freetext
-Free Text:SANT\6B:freetext
-Free Text:SANT\A:freetext
-Free Text:SANT\A:freetext
-Free Text:SANT\B:freetext
-Free Text:SANT\C:freetext
-Free Text:SANT\D:freetext
-Free Text:SANT\D:freetext
-Free Text:SASA\1:freetext
-Free Text:SASA\2:freetext
-Free Text:SASA\3:freetext
-Free Text:SASA\3A:freetext
-Free Text:SASA\3B:freetext
-Free Text:SASA\4:freetext
-Free Text:SASA\4A:freetext
-Free Text:SASA\6:freetext
-Free Text:SASA\6A:freetext
-Free Text:SASA\7:freetext
-Free Text:SASA\7A:freetext
-Free Text:SASA\A:freetext
-Free Text:SASA\A:freetext
-Free Text:SASA\B:freetext
-Free Text:SASA\B:freetext
-Free Text:SASA\D:freetext
-Free Text:SASJ\1:freetext
-Free Text:SASJ\1A:freetext
-Free Text:SASJ\2:freetext
-Free Text:SASJ\3:freetext
-Free Text:SASJ\4:freetext
-Free Text:SASJ\5:freetext
-Free Text:SASJ\A:freetext
-Free Text:SASJ\A:freetext
-Free Text:SASJ\B:freetext
-Free Text:SASJ\C:freetext
-Free Text:SASJ\C:freetext
 Geo:CordobaControl:
 Geo:GEO:
 Geo:SACE_SACA:
@@ -241,11 +217,6 @@ Geo:SAOS:
 Geo:SAOU:
 Geo:SASA:
 Geo:SASJ:
-High airways:UA306:line
-High airways:UA307:line
-High airways:UA570:line
-High airways:UB684:line
-High airways:UB687:line
 High airways:UB688:line
 High airways:UL211:line
 High airways:UL211F:line
@@ -265,6 +236,7 @@ High airways:UM400:line
 High airways:UM402:line
 High airways:UM418:line
 High airways:UM424:line
+High airways:UM529:line
 High airways:UM534:line
 High airways:UM543:line
 High airways:UM654:line
@@ -346,19 +318,14 @@ High airways:UW50:line
 High airways:UW52:line
 High airways:UW56:line
 High airways:UW57:line
-High airways:UW58:line
 High airways:UW6:line
 High airways:UW62:line
 High airways:UW63:line
-High airways:UW64:line
-High airways:UW65:line
 High airways:UW68:line
-High airways:UW7:line
 High airways:UW8:line
 High airways:UZ102:line
 High airways:UZ103:line
 High airways:UZ105:line
-High airways:UZ107:line
 High airways:UZ108:line
 High airways:UZ109:line
 High airways:UZ111:line
@@ -367,6 +334,7 @@ High airways:UZ113:line
 High airways:UZ114:line
 High airways:UZ116:line
 High airways:UZ117:line
+High airways:UZ120:line
 Low airways:A305:line
 Low airways:A306:line
 Low airways:A307:line
@@ -437,7 +405,6 @@ Low airways:W34:line
 Low airways:W37:line
 Low airways:W38:line
 Low airways:W39:line
-Low airways:W4:line
 Low airways:W40:line
 Low airways:W41:line
 Low airways:W42:line
@@ -472,7 +439,6 @@ Low airways:W8:line
 Low airways:W9:line
 Low airways:Z102:line
 Low airways:Z104:line
-Low airways:Z107:line
 Low airways:Z109:line
 Low airways:Z110:line
 Low airways:Z116:line
@@ -556,14 +522,14 @@ VORs:LYE:name
 VORs:LYE:symbol
 VORs:MJZ:name
 VORs:MJZ:symbol
+VORs:RCU:name
+VORs:RCU:symbol
 VORs:SAL:name
 VORs:SAL:symbol
 VORs:SDE:name
 VORs:SDE:symbol
 VORs:SRC:name
 VORs:SRC:symbol
-VORs:TRC:name
-VORs:TRC:symbol
 VORs:TRH:name
 VORs:TRH:symbol
 VORs:TUC:name
@@ -581,4 +547,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-35.092963:-80.262752:-20.997542:-47.895148
+WINDOWAREA:-33.890963:-69.797573:-28.117479:-56.539803

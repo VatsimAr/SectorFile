@@ -2,6 +2,9 @@ PROFILE
 PROFILE:SAEZ_DEL:5:2
 ATIS2:Ezeiza Clearence/Autorizaciones
 ATIS3:argentina.vatsur.org
+PROFILE:SABE_DEL:5:2
+ATIS2:Aeroparque Clearence/Autorizaciones
+ATIS3:argentina.vatsur.org
 PROFILE:SABE_GND:10:3
 ATIS2:Aeroparque Ground/Superficie
 ATIS3:argentina.vatsur.org
