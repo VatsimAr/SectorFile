@@ -1,0 +1,150 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMATucuman:
+ARTCC low boundary:CTRTucuman:
+Fixes:ALGAR:name
+Fixes:ALGAR:symbol
+Fixes:ANGEN:name
+Fixes:ANGEN:symbol
+Fixes:BITIS:name
+Fixes:BITIS:symbol
+Fixes:ESPIP:name
+Fixes:ESPIP:symbol
+Fixes:ILMEV:name
+Fixes:ILMEV:symbol
+Fixes:ILPAR:name
+Fixes:ILPAR:symbol
+Fixes:IMBOL:name
+Fixes:IMBOL:symbol
+Fixes:KUMOT:name
+Fixes:KUMOT:symbol
+Fixes:LOLAR:name
+Fixes:LOLAR:symbol
+Fixes:MIPAB:name
+Fixes:MIPAB:symbol
+Fixes:MUBAD:name
+Fixes:MUBAD:symbol
+Fixes:NT731:name
+Fixes:NT731:symbol
+Fixes:NT872:name
+Fixes:NT872:symbol
+Fixes:NT873:name
+Fixes:NT873:symbol
+Fixes:NT874:name
+Fixes:NT874:symbol
+Fixes:NT875:name
+Fixes:NT875:symbol
+Fixes:NT876:name
+Fixes:NT876:symbol
+Fixes:NT878:name
+Fixes:NT878:symbol
+Fixes:NT879:name
+Fixes:NT879:symbol
+Fixes:PONPI:name
+Fixes:PONPI:symbol
+Fixes:POSMO:name
+Fixes:POSMO:symbol
+Fixes:PUBER:name
+Fixes:PUBER:symbol
+Fixes:ROKAT:name
+Fixes:ROKAT:symbol
+Fixes:SIGUR:name
+Fixes:SIGUR:symbol
+Fixes:SORTI:name
+Fixes:SORTI:symbol
+Fixes:UGRIN:name
+Fixes:UGRIN:symbol
+Fixes:VUSAB:name
+Fixes:VUSAB:symbol
+Free Text:SANR\1:freetext
+Free Text:SANR\10:freetext
+Free Text:SANR\11:freetext
+Free Text:SANR\12:freetext
+Free Text:SANR\2:freetext
+Free Text:SANR\3:freetext
+Free Text:SANR\4:freetext
+Free Text:SANR\5:freetext
+Free Text:SANR\6:freetext
+Free Text:SANR\7:freetext
+Free Text:SANR\8:freetext
+Free Text:SANR\9:freetext
+Free Text:SANR\A:freetext
+Free Text:SANR\A:freetext
+Free Text:SANR\B:freetext
+Free Text:SANR\B:freetext
+Free Text:SANT\1:freetext
+Free Text:SANT\1A:freetext
+Free Text:SANT\1B:freetext
+Free Text:SANT\1C:freetext
+Free Text:SANT\1C:freetext
+Free Text:SANT\2:freetext
+Free Text:SANT\2A:freetext
+Free Text:SANT\3:freetext
+Free Text:SANT\4:freetext
+Free Text:SANT\5:freetext
+Free Text:SANT\5A:freetext
+Free Text:SANT\6:freetext
+Free Text:SANT\6A:freetext
+Free Text:SANT\6B:freetext
+Free Text:SANT\A:freetext
+Free Text:SANT\A:freetext
+Free Text:SANT\B:freetext
+Free Text:SANT\C:freetext
+Free Text:SANT\D:freetext
+Free Text:SANT\D:freetext
+Geo:SANR:
+Geo:SANT:
+Regions:SANT:polygon
+Runways:SANR TERMAS DE RIO HONDO 01-19:centerline
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1 left base
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1 left ticks
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1 left vectoring
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1 right base
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1 right ticks
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 1 right vectoring
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 left base
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 left ticks
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 left vectoring
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 right base
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 right ticks
+Runways:SANR TERMAS DE RIO HONDO 01-19:extended centerline 2 right vectoring
+Runways:SANR TERMAS DE RIO HONDO 01-19:name
+Runways:SANT BENJAMIN MATIENZO 02-20:centerline
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 1
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 1 left base
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 1 left ticks
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 1 left vectoring
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 1 right base
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 1 right ticks
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 1 right vectoring
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 2
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 2 left base
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 2 left ticks
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 2 left vectoring
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 2 right base
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 2 right ticks
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 2 right vectoring
+Runways:SANT BENJAMIN MATIENZO 02-20:name
+VORs:TRH:frequency
+VORs:TRH:name
+VORs:TRH:symbol
+VORs:TUC:frequency
+VORs:TUC:name
+VORs:TUC:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-27.966411:-67.712108:-25.571393:-62.281725

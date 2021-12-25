@@ -1,0 +1,73 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC low boundary:CTRTucuman:
+Fixes:ESPIP:name
+Fixes:ESPIP:symbol
+Fixes:KUMOT:name
+Fixes:KUMOT:symbol
+Fixes:POSMO:name
+Fixes:POSMO:symbol
+Fixes:ROKAT:name
+Fixes:ROKAT:symbol
+Fixes:SIGUR:name
+Fixes:SIGUR:symbol
+Fixes:UGRIN:name
+Fixes:UGRIN:symbol
+Fixes:VUSAB:name
+Fixes:VUSAB:symbol
+Free Text:SANT\1:freetext
+Free Text:SANT\1A:freetext
+Free Text:SANT\1B:freetext
+Free Text:SANT\1C:freetext
+Free Text:SANT\1C:freetext
+Free Text:SANT\2:freetext
+Free Text:SANT\2A:freetext
+Free Text:SANT\3:freetext
+Free Text:SANT\4:freetext
+Free Text:SANT\5:freetext
+Free Text:SANT\5A:freetext
+Free Text:SANT\6:freetext
+Free Text:SANT\6A:freetext
+Free Text:SANT\6B:freetext
+Free Text:SANT\A:freetext
+Free Text:SANT\A:freetext
+Free Text:SANT\B:freetext
+Free Text:SANT\C:freetext
+Free Text:SANT\D:freetext
+Free Text:SANT\D:freetext
+Geo:SANT:
+Regions:SANT:polygon
+Runways:SANT BENJAMIN MATIENZO 02-20:centerline
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 1
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 1 left base
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 1 left ticks
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 1 left vectoring
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 1 right base
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 1 right ticks
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 1 right vectoring
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 2
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 2 left base
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 2 left ticks
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 2 left vectoring
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 2 right base
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 2 right ticks
+Runways:SANT BENJAMIN MATIENZO 02-20:extended centerline 2 right vectoring
+Runways:SANT BENJAMIN MATIENZO 02-20:name
+VORs:TUC:frequency
+VORs:TUC:name
+VORs:TUC:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-27.048551:-65.563422:-26.651801:-64.652355
