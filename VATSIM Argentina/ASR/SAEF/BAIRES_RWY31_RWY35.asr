@@ -15,6 +15,8 @@ Fixes:ASADA:name
 Fixes:ASADA:symbol
 Fixes:ATOVO:name
 Fixes:ATOVO:symbol
+Fixes:BE920:name
+Fixes:BE920:symbol
 Fixes:BIVAM:name
 Fixes:BIVAM:symbol
 Fixes:DORVO:name
@@ -25,12 +27,11 @@ Fixes:ENPID:symbol
 Fixes:ESLAN:name
 Fixes:ESLAN:symbol
 Fixes:EZE19:symbol
+Fixes:FUSCA:name
 Fixes:FUSCA:symbol
 Fixes:GESTA:name
 Fixes:GESTA:symbol
-Fixes:IMBOD:symbol
 Fixes:KABIS:symbol
-Fixes:KOPRO:symbol
 Fixes:KOVUK:name
 Fixes:KOVUK:symbol
 Fixes:KUKEN:name
@@ -47,13 +48,16 @@ Fixes:OPLOM:name
 Fixes:OPLOM:symbol
 Fixes:PAGON:name
 Fixes:PAGON:symbol
+Fixes:PAPAP:name
+Fixes:PAPAP:symbol
 Fixes:PAPIX:name
 Fixes:PAPIX:symbol
 Fixes:POSRA:name
 Fixes:POSRA:symbol
+Fixes:SIKED:name
+Fixes:SIKED:symbol
 Fixes:SURBO:name
 Fixes:SURBO:symbol
-Fixes:SURLI:symbol
 Fixes:TEDAR:name
 Fixes:TEDAR:symbol
 Fixes:TENIL:name
@@ -72,7 +76,8 @@ Fixes:VALOS:name
 Fixes:VALOS:symbol
 Fixes:VANAR:name
 Fixes:VANAR:symbol
-Fixes:VUPAN:symbol
+Fixes:VERAS:name
+Fixes:VERAS:symbol
 Free Text:SABE\1:freetext
 Free Text:SABE\10:freetext
 Free Text:SABE\11:freetext
@@ -349,12 +354,9 @@ NDBs:ILM:frequency
 NDBs:ILM:name
 NDBs:ILM:symbol
 Regions:SABE:polygon
-Regions:SABE_ILS13:polygon
 Regions:SADF:polygon
 Regions:SADP:polygon
-Regions:SADP_ILS17:polygon
 Regions:SAEZ:polygon
-Regions:SAEZ_ILS11:polygon
 Regions:SAEZ_ILS35:polygon
 VORs:EZE:frequency
 VORs:EZE:name
