@@ -1,0 +1,64 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC low boundary:CTRIguazu:
+Fixes:ESABI:name
+Fixes:ESABI:symbol
+Fixes:ISUBA:name
+Fixes:ISUBA:symbol
+Fixes:JOALI:name
+Fixes:JOALI:symbol
+Fixes:OBLET:name
+Fixes:OBLET:symbol
+Fixes:RI555:name
+Fixes:RI555:symbol
+Fixes:SEDIA:name
+Fixes:SEDIA:symbol
+Free Text:SARI\1:freetext
+Free Text:SARI\2:freetext
+Free Text:SARI\2B:freetext
+Free Text:SARI\3:freetext
+Free Text:SARI\4:freetext
+Free Text:SARI\4B:freetext
+Free Text:SARI\5:freetext
+Free Text:SARI\A:freetext
+Free Text:SARI\B:freetext
+Free Text:SARI\C:freetext
+Free Text:SARI\C:freetext
+Geo:SARI:
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:centerline
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:extended centerline 1
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:extended centerline 1 left base
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:extended centerline 1 left ticks
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:extended centerline 1 left vectoring
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:extended centerline 1 right base
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:extended centerline 1 right ticks
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:extended centerline 1 right vectoring
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:extended centerline 2
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:extended centerline 2 left base
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:extended centerline 2 left ticks
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:extended centerline 2 left vectoring
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:extended centerline 2 right base
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:extended centerline 2 right ticks
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:extended centerline 2 right vectoring
+Runways:SARI MAYOR D CARLOS EDUARDO K 13-31:name
+VORs:FOZ:frequency
+VORs:FOZ:name
+VORs:FOZ:symbol
+VORs:IGU:frequency
+VORs:IGU:name
+VORs:IGU:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-25.988133:-54.859723:-25.592982:-53.952330
