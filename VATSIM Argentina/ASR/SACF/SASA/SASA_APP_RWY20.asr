@@ -1,15 +1,39 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMASalta:
+ARTCC low boundary:CTRJuJuy:
 ARTCC low boundary:CTRSalta:
-Fixes:KUDRA:name
-Fixes:KUDRA:symbol
-Fixes:MUMIN:name
-Fixes:MUMIN:symbol
-Fixes:RIXUD:name
-Fixes:RIXUD:symbol
-Fixes:VADEK:name
-Fixes:VADEK:symbol
+Fixes:ALGAR:name
+Fixes:ALGAR:symbol
+Fixes:ANKAB:name
+Fixes:ANKAB:symbol
+Fixes:ILPAR:name
+Fixes:ILPAR:symbol
+Fixes:ILTOK:name
+Fixes:ILTOK:symbol
+Fixes:KIBIG:name
+Fixes:KIBIG:symbol
+Fixes:KOVAT:name
+Fixes:KOVAT:symbol
+Fixes:MIMEX:name
+Fixes:MIMEX:symbol
+Fixes:MOXAT:name
+Fixes:MOXAT:symbol
+Fixes:MUBOK:name
+Fixes:MUBOK:symbol
+Fixes:OGNAX:name
+Fixes:OGNAX:symbol
+Fixes:PANUX:name
+Fixes:PANUX:symbol
+Fixes:PONPI:name
+Fixes:PONPI:symbol
+Fixes:PUBTI:name
+Fixes:PUBTI:symbol
+Fixes:SISEV:name
+Fixes:SISEV:symbol
+Fixes:TEGAV:name
+Fixes:TEGAV:symbol
 Free Text:SASA\1:freetext
 Free Text:SASA\2:freetext
 Free Text:SASA\3:freetext
@@ -26,7 +50,19 @@ Free Text:SASA\A:freetext
 Free Text:SASA\B:freetext
 Free Text:SASA\B:freetext
 Free Text:SASA\D:freetext
+Free Text:SASJ\1:freetext
+Free Text:SASJ\1A:freetext
+Free Text:SASJ\2:freetext
+Free Text:SASJ\3:freetext
+Free Text:SASJ\4:freetext
+Free Text:SASJ\5:freetext
+Free Text:SASJ\A:freetext
+Free Text:SASJ\A:freetext
+Free Text:SASJ\B:freetext
+Free Text:SASJ\C:freetext
+Free Text:SASJ\C:freetext
 Geo:SASA:
+Geo:SASJ:
 Regions:SASA:polygon
 Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:centerline
 Runways:SASA GEN. DON MARTIN MIGUEL D 02-20:extended centerline 1
@@ -60,6 +96,25 @@ Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 2 right base
 Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 2 right ticks
 Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:extended centerline 2 right vectoring
 Runways:SASA GEN. DON MARTIN MIGUEL D 06-24:name
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:centerline
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:extended centerline 1
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:extended centerline 1 left base
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:extended centerline 1 left ticks
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:extended centerline 1 left vectoring
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:extended centerline 1 right base
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:extended centerline 1 right ticks
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:extended centerline 1 right vectoring
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:extended centerline 2
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:extended centerline 2 left base
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:extended centerline 2 left ticks
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:extended centerline 2 left vectoring
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:extended centerline 2 right base
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:extended centerline 2 right ticks
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:extended centerline 2 right vectoring
+Runways:SASJ GOBERNADOR HORACIO GUZMA 16-34:name
+VORs:JUJ:frequency
+VORs:JUJ:name
+VORs:JUJ:symbol
 VORs:SAL:frequency
 VORs:SAL:name
 VORs:SAL:symbol
@@ -76,4 +131,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSIM Argentina
-WINDOWAREA:-25.055559:-65.925130:-24.658808:-65.014063
+WINDOWAREA:-26.106373:-68.185869:-23.741554:-62.755487
