@@ -1,0 +1,145 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:SAZS:name
+Airports:SAZS:symbol
+ARTCC high boundary:TMABariloche:
+Fixes:ALGIL:name
+Fixes:ALGIL:symbol
+Fixes:ATAKO:name
+Fixes:ATAKO:symbol
+Fixes:ATIRA:name
+Fixes:ATIRA:symbol
+Fixes:CHATO:name
+Fixes:CHATO:symbol
+Fixes:DOGLA:name
+Fixes:DOGLA:symbol
+Fixes:EKIVO:name
+Fixes:EKIVO:symbol
+Fixes:ILRAM:name
+Fixes:ILRAM:symbol
+Fixes:LIMAY:name
+Fixes:LIMAY:symbol
+Fixes:ORERA:name
+Fixes:ORERA:symbol
+Fixes:PUKIB:name
+Fixes:PUKIB:symbol
+Fixes:PUNOL:name
+Fixes:PUNOL:symbol
+Fixes:TONAR:name
+Fixes:TONAR:symbol
+Fixes:TORES:name
+Fixes:TORES:symbol
+Fixes:VUGMA:name
+Fixes:VUGMA:symbol
+Fixes:ZS018:name
+Fixes:ZS018:symbol
+Fixes:ZS020:name
+Fixes:ZS020:symbol
+Fixes:ZS023:name
+Fixes:ZS023:symbol
+Fixes:ZS027:name
+Fixes:ZS027:symbol
+Fixes:ZS028:name
+Fixes:ZS028:symbol
+Fixes:ZS030:name
+Fixes:ZS030:symbol
+Fixes:ZS031:name
+Fixes:ZS031:symbol
+Fixes:ZS032:name
+Fixes:ZS032:symbol
+Fixes:ZS033:name
+Fixes:ZS033:symbol
+Fixes:ZS034:name
+Fixes:ZS034:symbol
+Fixes:ZS035:name
+Fixes:ZS035:symbol
+Fixes:ZS036:name
+Fixes:ZS036:symbol
+Fixes:ZS038:name
+Fixes:ZS038:symbol
+Fixes:ZS039:name
+Fixes:ZS039:symbol
+Fixes:ZS040:name
+Fixes:ZS040:symbol
+Fixes:ZS041:name
+Fixes:ZS041:symbol
+Fixes:ZS042:name
+Fixes:ZS042:symbol
+Fixes:ZS043:name
+Fixes:ZS043:symbol
+Fixes:ZS044:name
+Fixes:ZS044:symbol
+Fixes:ZS080:name
+Fixes:ZS080:symbol
+Fixes:ZS081:name
+Fixes:ZS081:symbol
+Fixes:ZS082:name
+Fixes:ZS082:symbol
+Fixes:ZS083:name
+Fixes:ZS083:symbol
+Fixes:ZS084:name
+Fixes:ZS084:symbol
+Fixes:ZS085:name
+Fixes:ZS085:symbol
+Fixes:ZS101:name
+Fixes:ZS101:symbol
+Fixes:ZS104:name
+Fixes:ZS104:symbol
+Fixes:ZS105:name
+Fixes:ZS105:symbol
+Fixes:ZS107:name
+Fixes:ZS107:symbol
+Fixes:ZS111:name
+Fixes:ZS111:symbol
+Fixes:ZS204:name
+Fixes:ZS204:symbol
+Free Text:SAZS\1:freetext
+Free Text:SAZS\10:freetext
+Free Text:SAZS\2:freetext
+Free Text:SAZS\3:freetext
+Free Text:SAZS\4:freetext
+Free Text:SAZS\5:freetext
+Free Text:SAZS\5B:freetext
+Free Text:SAZS\5C:freetext
+Free Text:SAZS\6:freetext
+Free Text:SAZS\7:freetext
+Free Text:SAZS\8:freetext
+Free Text:SAZS\A:freetext
+Free Text:SAZS\A:freetext
+Free Text:SAZS\B:freetext
+Free Text:SAZS\C:freetext
+Geo:SAZS:
+Runways:SAZS S C DE BARILOCHE 11-29:centerline
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 1
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 1 left base
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 1 left ticks
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 1 left vectoring
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 1 right base
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 1 right ticks
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 1 right vectoring
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2 left base
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2 left ticks
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2 left vectoring
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2 right base
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2 right ticks
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2 right vectoring
+Runways:SAZS S C DE BARILOCHE 11-29:name
+VORs:BAR:frequency
+VORs:BAR:name
+VORs:BAR:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-41.889823:-72.792527:-40.460380:-69.510067

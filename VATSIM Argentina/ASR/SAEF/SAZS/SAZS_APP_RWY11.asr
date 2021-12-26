@@ -1,0 +1,105 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:SAZS:name
+Airports:SAZS:symbol
+ARTCC high boundary:TMABariloche:
+Fixes:ALGIL:name
+Fixes:ALGIL:symbol
+Fixes:ATAKO:name
+Fixes:ATAKO:symbol
+Fixes:ATIRA:name
+Fixes:ATIRA:symbol
+Fixes:CHATO:name
+Fixes:CHATO:symbol
+Fixes:LIMAY:name
+Fixes:LIMAY:symbol
+Fixes:ORERA:name
+Fixes:ORERA:symbol
+Fixes:PUNOL:name
+Fixes:PUNOL:symbol
+Fixes:TEGOP:name
+Fixes:TEGOP:symbol
+Fixes:TONAR:name
+Fixes:TONAR:symbol
+Fixes:TORES:name
+Fixes:TORES:symbol
+Fixes:VUDUB:name
+Fixes:VUDUB:symbol
+Fixes:ZS001:name
+Fixes:ZS001:symbol
+Fixes:ZS002:name
+Fixes:ZS002:symbol
+Fixes:ZS003:name
+Fixes:ZS003:symbol
+Fixes:ZS005:name
+Fixes:ZS005:symbol
+Fixes:ZS006:name
+Fixes:ZS006:symbol
+Fixes:ZS007:name
+Fixes:ZS007:symbol
+Fixes:ZS009:name
+Fixes:ZS009:symbol
+Fixes:ZS010:name
+Fixes:ZS010:symbol
+Fixes:ZS011:name
+Fixes:ZS011:symbol
+Fixes:ZS015:name
+Fixes:ZS015:symbol
+Fixes:ZS016:name
+Fixes:ZS016:symbol
+Fixes:ZS017:name
+Fixes:ZS017:symbol
+Fixes:ZS104:name
+Fixes:ZS104:symbol
+Fixes:ZS305:name
+Fixes:ZS305:symbol
+Free Text:SAZS\1:freetext
+Free Text:SAZS\10:freetext
+Free Text:SAZS\2:freetext
+Free Text:SAZS\3:freetext
+Free Text:SAZS\4:freetext
+Free Text:SAZS\5:freetext
+Free Text:SAZS\5B:freetext
+Free Text:SAZS\5C:freetext
+Free Text:SAZS\6:freetext
+Free Text:SAZS\7:freetext
+Free Text:SAZS\8:freetext
+Free Text:SAZS\A:freetext
+Free Text:SAZS\A:freetext
+Free Text:SAZS\B:freetext
+Free Text:SAZS\C:freetext
+Geo:SAZS:
+Runways:SAZS S C DE BARILOCHE 11-29:centerline
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 1
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 1 left base
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 1 left ticks
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 1 left vectoring
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 1 right base
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 1 right ticks
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 1 right vectoring
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2 left base
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2 left ticks
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2 left vectoring
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2 right base
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2 right ticks
+Runways:SAZS S C DE BARILOCHE 11-29:extended centerline 2 right vectoring
+Runways:SAZS S C DE BARILOCHE 11-29:name
+VORs:BAR:frequency
+VORs:BAR:name
+VORs:BAR:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-41.889823:-72.792527:-40.460380:-69.510067
