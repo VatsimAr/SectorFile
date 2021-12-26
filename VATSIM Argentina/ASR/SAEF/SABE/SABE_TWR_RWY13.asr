@@ -1,0 +1,176 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC low boundary:ATZMayo:
+ARTCC low boundary:ATZPalomar:
+ARTCC low boundary:ATZSanFer:
+ARTCC low boundary:CTRAeroparque:
+Fixes:ENPID:name
+Fixes:ENPID:symbol
+Fixes:FUSCA:name
+Fixes:FUSCA:symbol
+Fixes:KABIS:name
+Fixes:KABIS:symbol
+Fixes:MUPER:name
+Fixes:MUPER:symbol
+Fixes:TRINI:name
+Fixes:TRINI:symbol
+Fixes:VANAR:name
+Fixes:VANAR:symbol
+Fixes:VERAS:name
+Fixes:VERAS:symbol
+Free Text:SABE\1:freetext
+Free Text:SABE\10:freetext
+Free Text:SABE\11:freetext
+Free Text:SABE\12:freetext
+Free Text:SABE\13:freetext
+Free Text:SABE\14:freetext
+Free Text:SABE\15:freetext
+Free Text:SABE\16:freetext
+Free Text:SABE\17:freetext
+Free Text:SABE\18:freetext
+Free Text:SABE\18A:freetext
+Free Text:SABE\19:freetext
+Free Text:SABE\2:freetext
+Free Text:SABE\20:freetext
+Free Text:SABE\21:freetext
+Free Text:SABE\22:freetext
+Free Text:SABE\23:freetext
+Free Text:SABE\24:freetext
+Free Text:SABE\25:freetext
+Free Text:SABE\26:freetext
+Free Text:SABE\27:freetext
+Free Text:SABE\28:freetext
+Free Text:SABE\29:freetext
+Free Text:SABE\3:freetext
+Free Text:SABE\30:freetext
+Free Text:SABE\31:freetext
+Free Text:SABE\32:freetext
+Free Text:SABE\33:freetext
+Free Text:SABE\39:freetext
+Free Text:SABE\4:freetext
+Free Text:SABE\40:freetext
+Free Text:SABE\41:freetext
+Free Text:SABE\42:freetext
+Free Text:SABE\43:freetext
+Free Text:SABE\44:freetext
+Free Text:SABE\45:freetext
+Free Text:SABE\46:freetext
+Free Text:SABE\47:freetext
+Free Text:SABE\48:freetext
+Free Text:SABE\49:freetext
+Free Text:SABE\5:freetext
+Free Text:SABE\50:freetext
+Free Text:SABE\51:freetext
+Free Text:SABE\52:freetext
+Free Text:SABE\53:freetext
+Free Text:SABE\54:freetext
+Free Text:SABE\55:freetext
+Free Text:SABE\56:freetext
+Free Text:SABE\6:freetext
+Free Text:SABE\66:freetext
+Free Text:SABE\67:freetext
+Free Text:SABE\68:freetext
+Free Text:SABE\69:freetext
+Free Text:SABE\7:freetext
+Free Text:SABE\8:freetext
+Free Text:SABE\9:freetext
+Free Text:SABE\A:freetext
+Free Text:SABE\A:freetext
+Free Text:SABE\A:freetext
+Free Text:SABE\A:freetext
+Free Text:SABE\B:freetext
+Free Text:SABE\C:freetext
+Free Text:SABE\D:freetext
+Free Text:SABE\E:freetext
+Free Text:SABE\F:freetext
+Free Text:SABE\H:freetext
+Free Text:SABE\I:freetext
+Free Text:SABE\J:freetext
+Free Text:SABE\K:freetext
+Free Text:SABE\L:freetext
+Free Text:SABE\M:freetext
+Free Text:SADF\1:freetext
+Free Text:SADF\1-A:freetext
+Free Text:SADF\2:freetext
+Free Text:SADF\2-A:freetext
+Free Text:SADF\2-B:freetext
+Free Text:SADF\3:freetext
+Free Text:SADF\3-A:freetext
+Free Text:SADF\4:freetext
+Free Text:SADF\4-A:freetext
+Free Text:SADF\4-B:freetext
+Free Text:SADF\A:freetext
+Free Text:SADF\A:freetext
+Free Text:SADF\A:freetext
+Free Text:SADF\B:freetext
+Free Text:SADF\C:freetext
+Free Text:SADP\1:freetext
+Free Text:SADP\10:freetext
+Free Text:SADP\11:freetext
+Free Text:SADP\12:freetext
+Free Text:SADP\13:freetext
+Free Text:SADP\14:freetext
+Free Text:SADP\2:freetext
+Free Text:SADP\3:freetext
+Free Text:SADP\4:freetext
+Free Text:SADP\5:freetext
+Free Text:SADP\6:freetext
+Free Text:SADP\7:freetext
+Free Text:SADP\8:freetext
+Free Text:SADP\9:freetext
+Free Text:SADP\A:freetext
+Free Text:SADP\A:freetext
+Free Text:SADP\A:freetext
+Free Text:SADP\A-1:freetext
+Free Text:SADP\A-2:freetext
+Free Text:SADP\B:freetext
+Free Text:SADP\B:freetext
+Free Text:SADP\B:freetext
+Free Text:SADP\C:freetext
+Free Text:SADP\D:freetext
+Geo:LineaCostera:
+Geo:SABE:
+Geo:SADF:
+Geo:SADO:
+Geo:SADP:
+NDBs:ILM:name
+NDBs:ILM:symbol
+NDBs:N:name
+NDBs:N:name
+NDBs:N:symbol
+NDBs:OP:name
+NDBs:OP:name
+NDBs:OP:symbol
+NDBs:P:name
+NDBs:P:name
+NDBs:P:name
+NDBs:P:name
+NDBs:P:symbol
+NDBs:P:symbol
+Regions:SABE:polygon
+Regions:SABE_ILS13:polygon
+Regions:SADF:polygon
+Regions:SADP:polygon
+Regions:SADP_ILS17:polygon
+VORs:ENO:symbol
+VORs:FDO:frequency
+VORs:FDO:name
+VORs:FDO:symbol
+VORs:PAL:frequency
+VORs:PAL:name
+VORs:PAL:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-34.821568:-59.033741:-34.201643:-57.610195
