@@ -1,0 +1,75 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMASantaRosa:
+Fixes:AKPUR:name
+Fixes:AKPUR:symbol
+Fixes:KUBSI:name
+Fixes:KUBSI:symbol
+Fixes:OGLER:name
+Fixes:OGLER:symbol
+Fixes:RAXIV:name
+Fixes:RAXIV:symbol
+Fixes:TIMKU:name
+Fixes:TIMKU:symbol
+Fixes:UMTAB:name
+Fixes:UMTAB:symbol
+Fixes:URISI:name
+Fixes:URISI:symbol
+Fixes:XIXOS:name
+Fixes:XIXOS:symbol
+Fixes:ZARZA:name
+Fixes:ZARZA:symbol
+Fixes:ZR009:name
+Fixes:ZR009:symbol
+Fixes:ZR022:name
+Fixes:ZR022:symbol
+Fixes:ZR023:name
+Fixes:ZR023:symbol
+Fixes:ZR024:name
+Fixes:ZR024:symbol
+Fixes:ZR027:name
+Fixes:ZR027:symbol
+Fixes:ZR028:name
+Fixes:ZR028:symbol
+Free Text:SAZR\1:freetext
+Free Text:SAZR\2:freetext
+Free Text:SAZR\2A:freetext
+Free Text:SAZR\3:freetext
+Free Text:SAZR\3A:freetext
+Free Text:SAZR\4:freetext
+Free Text:SAZR\A:freetext
+Geo:SAZR:
+Runways:SAZR SANTA ROSA 01-19:centerline
+Runways:SAZR SANTA ROSA 01-19:extended centerline 1
+Runways:SAZR SANTA ROSA 01-19:extended centerline 1 left base
+Runways:SAZR SANTA ROSA 01-19:extended centerline 1 left ticks
+Runways:SAZR SANTA ROSA 01-19:extended centerline 1 left vectoring
+Runways:SAZR SANTA ROSA 01-19:extended centerline 1 right base
+Runways:SAZR SANTA ROSA 01-19:extended centerline 1 right ticks
+Runways:SAZR SANTA ROSA 01-19:extended centerline 1 right vectoring
+Runways:SAZR SANTA ROSA 01-19:extended centerline 2
+Runways:SAZR SANTA ROSA 01-19:extended centerline 2 left base
+Runways:SAZR SANTA ROSA 01-19:extended centerline 2 left ticks
+Runways:SAZR SANTA ROSA 01-19:extended centerline 2 left vectoring
+Runways:SAZR SANTA ROSA 01-19:extended centerline 2 right base
+Runways:SAZR SANTA ROSA 01-19:extended centerline 2 right ticks
+Runways:SAZR SANTA ROSA 01-19:extended centerline 2 right vectoring
+Runways:SAZR SANTA ROSA 01-19:name
+VORs:OSA:frequency
+VORs:OSA:name
+VORs:OSA:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-37.332088:-65.854443:-35.902645:-62.571983
