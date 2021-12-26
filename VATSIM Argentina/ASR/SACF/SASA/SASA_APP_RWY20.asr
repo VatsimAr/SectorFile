@@ -30,14 +30,14 @@ Fixes:PONPI:name
 Fixes:PONPI:symbol
 Fixes:PUBTI:name
 Fixes:PUBTI:symbol
+Fixes:SA917:name
+Fixes:SA917:symbol
+Fixes:SA934:name
+Fixes:SA934:symbol
 Fixes:SISEV:name
 Fixes:SISEV:symbol
 Fixes:TEGAV:name
 Fixes:TEGAV:symbol
-Fixes:SA934:name
-Fixes:SA934:symbol
-Fixes:SA917:name
-Fixes:SA917:symbol
 Free Text:SASA\1:freetext
 Free Text:SASA\2:freetext
 Free Text:SASA\3:freetext

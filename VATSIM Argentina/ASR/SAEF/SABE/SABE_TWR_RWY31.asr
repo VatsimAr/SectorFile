@@ -5,6 +5,8 @@ ARTCC low boundary:ATZMayo:
 ARTCC low boundary:ATZPalomar:
 ARTCC low boundary:ATZSanFer:
 ARTCC low boundary:CTRAeroparque:
+Fixes:BE920:name
+Fixes:BE920:symbol
 Fixes:ENPID:name
 Fixes:ENPID:symbol
 Fixes:FUSCA:name
@@ -15,8 +17,6 @@ Fixes:VANAR:name
 Fixes:VANAR:symbol
 Fixes:VERAS:name
 Fixes:VERAS:symbol
-Fixes:BE920:name
-Fixes:BE920:symbol
 Free Text:SABE\1:freetext
 Free Text:SABE\10:freetext
 Free Text:SABE\11:freetext

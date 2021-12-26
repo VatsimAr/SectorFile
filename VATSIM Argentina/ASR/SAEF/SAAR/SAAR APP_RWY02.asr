@@ -2,6 +2,32 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 ARTCC high boundary:TMARosario:
+Fixes:AR001:name
+Fixes:AR001:symbol
+Fixes:AR002:name
+Fixes:AR002:symbol
+Fixes:AR003:name
+Fixes:AR003:symbol
+Fixes:AR004:name
+Fixes:AR004:symbol
+Fixes:AR009:name
+Fixes:AR009:symbol
+Fixes:AR010:name
+Fixes:AR010:symbol
+Fixes:AR011:name
+Fixes:AR011:symbol
+Fixes:AR056:name
+Fixes:AR056:symbol
+Fixes:AR151:name
+Fixes:AR151:symbol
+Fixes:AR152:name
+Fixes:AR152:symbol
+Fixes:AR153:name
+Fixes:AR153:symbol
+Fixes:AR154:name
+Fixes:AR154:symbol
+Fixes:AR155:name
+Fixes:AR155:symbol
 Fixes:ATAGU:name
 Fixes:ATAGU:symbol
 Fixes:DABOT:name
@@ -35,32 +61,6 @@ Fixes:VUKSO:name
 Fixes:VUKSO:symbol
 Fixes:VUMKI:name
 Fixes:VUMKI:symbol
-Fixes:AR001:name
-Fixes:AR001:symbol
-Fixes:AR002:name
-Fixes:AR002:symbol
-Fixes:AR003:name
-Fixes:AR003:symbol
-Fixes:AR004:name
-Fixes:AR004:symbol
-Fixes:AR009:name
-Fixes:AR009:symbol
-Fixes:AR010:name
-Fixes:AR010:symbol
-Fixes:AR011:name
-Fixes:AR011:symbol
-Fixes:AR056:name
-Fixes:AR056:symbol
-Fixes:AR151:name
-Fixes:AR151:symbol
-Fixes:AR152:name
-Fixes:AR152:symbol
-Fixes:AR153:name
-Fixes:AR153:symbol
-Fixes:AR154:name
-Fixes:AR154:symbol
-Fixes:AR155:name
-Fixes:AR155:symbol
 Free Text:SAAR\1:freetext
 Free Text:SAAR\1A:freetext
 Free Text:SAAR\1B:freetext
