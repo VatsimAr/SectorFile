@@ -38,6 +38,14 @@ Fixes:USIXU:name
 Fixes:USIXU:symbol
 Fixes:VUVLA:name
 Fixes:VUVLA:symbol
+Fixes:SA668:name
+Fixes:SA668:symbol
+Fixes:SA512:name
+Fixes:SA512:symbol
+Fixes:SA514:name
+Fixes:SA514:symbol
+Fixes:SA308:name
+Fixes:SA308:symbol
 Free Text:SASA\1:freetext
 Free Text:SASA\2:freetext
 Free Text:SASA\3:freetext

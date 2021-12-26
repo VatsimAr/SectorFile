@@ -34,6 +34,8 @@ Fixes:SISEV:name
 Fixes:SISEV:symbol
 Fixes:TEGAV:name
 Fixes:TEGAV:symbol
+Fixes:SA824:name
+Fixes:SA824:symbol
 Free Text:SASA\1:freetext
 Free Text:SASA\2:freetext
 Free Text:SASA\3:freetext

@@ -32,7 +32,36 @@ Fixes:VUKSO:name
 Fixes:VUKSO:symbol
 Fixes:VUMKI:name
 Fixes:VUMKI:symbol
+Fixes:VUSPO:name
 Fixes:VUSPO:symbol
+Fixes:AR250:name
+Fixes:AR250:symbol
+Fixes:AR251:name
+Fixes:AR251:symbol
+Fixes:AR252:name
+Fixes:AR252:symbol
+Fixes:AR253:name
+Fixes:AR253:symbol
+Fixes:AR254:name
+Fixes:AR254:symbol
+Fixes:AR255:name
+Fixes:AR255:symbol
+Fixes:AR400:name
+Fixes:AR400:symbol
+Fixes:AR401:name
+Fixes:AR401:symbol
+Fixes:AR403:name
+Fixes:AR403:symbol
+Fixes:AR405:name
+Fixes:AR405:symbol
+Fixes:AR406:name
+Fixes:AR406:symbol
+Fixes:AR408:name
+Fixes:AR408:symbol
+Fixes:AR409:name
+Fixes:AR409:symbol
+Fixes:AR411:name
+Fixes:AR411:symbol
 Free Text:SAAR\1:freetext
 Free Text:SAAR\1A:freetext
 Free Text:SAAR\1B:freetext

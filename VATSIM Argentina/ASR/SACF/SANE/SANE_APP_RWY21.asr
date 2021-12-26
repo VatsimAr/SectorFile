@@ -24,6 +24,8 @@ Fixes:VUPRO:name
 Fixes:VUPRO:symbol
 Fixes:VUROM:name
 Fixes:VUROM:symbol
+Fixes:NE865:name
+Fixes:NE865:symbol
 Free Text:SANE\1:freetext
 Free Text:SANE\2:freetext
 Free Text:SANE\3:freetext
