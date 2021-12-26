@@ -1,0 +1,140 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMABahia:
+ARTCC low boundary:CTRBahia:
+Fixes:AKNOS:name
+Fixes:AKNOS:symbol
+Fixes:DAMIN:name
+Fixes:DAMIN:symbol
+Fixes:DOTRI:name
+Fixes:DOTRI:symbol
+Fixes:EDPIL:name
+Fixes:EDPIL:symbol
+Fixes:GENAX:name
+Fixes:GENAX:symbol
+Fixes:ISVOR:name
+Fixes:ISVOR:symbol
+Fixes:KIMID:name
+Fixes:KIMID:symbol
+Fixes:KONLO:name
+Fixes:KONLO:symbol
+Fixes:MOXAN:name
+Fixes:MOXAN:symbol
+Fixes:MUBUD:name
+Fixes:MUBUD:symbol
+Fixes:NEDET:name
+Fixes:NEDET:symbol
+Fixes:PULAS:name
+Fixes:PULAS:symbol
+Fixes:SANBU:name
+Fixes:SANBU:symbol
+Fixes:ZB049:name
+Fixes:ZB049:symbol
+Fixes:ZB713:name
+Fixes:ZB713:symbol
+Fixes:ZB714:name
+Fixes:ZB714:symbol
+Fixes:ZB717:name
+Fixes:ZB717:symbol
+Fixes:ZB728:name
+Fixes:ZB728:symbol
+Fixes:ZB730:name
+Fixes:ZB730:symbol
+Fixes:ZB731:name
+Fixes:ZB731:symbol
+Fixes:ZB732:name
+Fixes:ZB732:symbol
+Fixes:ZB734:name
+Fixes:ZB734:symbol
+Fixes:ZB741:name
+Fixes:ZB741:symbol
+Fixes:ZB742:name
+Fixes:ZB742:symbol
+Free Text:SAZB\1:freetext
+Free Text:SAZB\2:freetext
+Free Text:SAZB\3:freetext
+Free Text:SAZB\4:freetext
+Free Text:SAZB\5:freetext
+Free Text:SAZB\6:freetext
+Free Text:SAZB\7:freetext
+Free Text:SAZB\8:freetext
+Free Text:SAZB\A:freetext
+Free Text:SAZB\A:freetext
+Free Text:SAZB\B:freetext
+Free Text:SAZB\B:freetext
+Free Text:SAZB\B:freetext
+Free Text:SAZB\C:freetext
+Free Text:SAZB\D:freetext
+Free Text:SAZB\E:freetext
+Free Text:SAZB\E:freetext
+Free Text:SAZB\F:freetext
+Free Text:SAZB\F:freetext
+Free Text:SAZB\G:freetext
+Free Text:SAZB\H:freetext
+Geo:SAZB:
+Runways:SAZB COMANDANTE ESPORA 06-24:centerline
+Runways:SAZB COMANDANTE ESPORA 06-24:extended centerline 1
+Runways:SAZB COMANDANTE ESPORA 06-24:extended centerline 1 left base
+Runways:SAZB COMANDANTE ESPORA 06-24:extended centerline 1 left ticks
+Runways:SAZB COMANDANTE ESPORA 06-24:extended centerline 1 left vectoring
+Runways:SAZB COMANDANTE ESPORA 06-24:extended centerline 1 right base
+Runways:SAZB COMANDANTE ESPORA 06-24:extended centerline 1 right ticks
+Runways:SAZB COMANDANTE ESPORA 06-24:extended centerline 1 right vectoring
+Runways:SAZB COMANDANTE ESPORA 06-24:extended centerline 2
+Runways:SAZB COMANDANTE ESPORA 06-24:extended centerline 2 left base
+Runways:SAZB COMANDANTE ESPORA 06-24:extended centerline 2 left ticks
+Runways:SAZB COMANDANTE ESPORA 06-24:extended centerline 2 left vectoring
+Runways:SAZB COMANDANTE ESPORA 06-24:extended centerline 2 right base
+Runways:SAZB COMANDANTE ESPORA 06-24:extended centerline 2 right ticks
+Runways:SAZB COMANDANTE ESPORA 06-24:extended centerline 2 right vectoring
+Runways:SAZB COMANDANTE ESPORA 06-24:name
+Runways:SAZB COMANDANTE ESPORA 17L-35R:centerline
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 1
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 1 left base
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 1 left ticks
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 1 left vectoring
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 1 right base
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 1 right ticks
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 1 right vectoring
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 2
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 2 left base
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 2 left ticks
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 2 left vectoring
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 2 right base
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 2 right ticks
+Runways:SAZB COMANDANTE ESPORA 17L-35R:extended centerline 2 right vectoring
+Runways:SAZB COMANDANTE ESPORA 17L-35R:name
+Runways:SAZB COMANDANTE ESPORA 17R-35L:centerline
+Runways:SAZB COMANDANTE ESPORA 17R-35L:extended centerline 1
+Runways:SAZB COMANDANTE ESPORA 17R-35L:extended centerline 1 left base
+Runways:SAZB COMANDANTE ESPORA 17R-35L:extended centerline 1 left ticks
+Runways:SAZB COMANDANTE ESPORA 17R-35L:extended centerline 1 left vectoring
+Runways:SAZB COMANDANTE ESPORA 17R-35L:extended centerline 1 right base
+Runways:SAZB COMANDANTE ESPORA 17R-35L:extended centerline 1 right ticks
+Runways:SAZB COMANDANTE ESPORA 17R-35L:extended centerline 1 right vectoring
+Runways:SAZB COMANDANTE ESPORA 17R-35L:extended centerline 2
+Runways:SAZB COMANDANTE ESPORA 17R-35L:extended centerline 2 left base
+Runways:SAZB COMANDANTE ESPORA 17R-35L:extended centerline 2 left ticks
+Runways:SAZB COMANDANTE ESPORA 17R-35L:extended centerline 2 left vectoring
+Runways:SAZB COMANDANTE ESPORA 17R-35L:extended centerline 2 right base
+Runways:SAZB COMANDANTE ESPORA 17R-35L:extended centerline 2 right ticks
+Runways:SAZB COMANDANTE ESPORA 17R-35L:extended centerline 2 right vectoring
+Runways:SAZB COMANDANTE ESPORA 17R-35L:name
+VORs:BCA:frequency
+VORs:BCA:name
+VORs:BCA:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-39.854624:-64.694547:-37.592597:-59.565704
