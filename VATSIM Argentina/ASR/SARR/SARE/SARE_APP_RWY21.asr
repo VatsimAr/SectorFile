@@ -1,0 +1,191 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\users\javo\My Documents\EuroScope\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
+SECTORTITLE:VATSIM Argentina.sct
+ARTCC high boundary:TMAResistencia:
+ARTCC low boundary:CTRCorrientes:
+ARTCC low boundary:CTRFormosa:
+ARTCC low boundary:CTRResistencia:
+Fixes:BIXOL:name
+Fixes:BIXOL:symbol
+Fixes:BOBIK:name
+Fixes:BOBIK:symbol
+Fixes:BURSA:name
+Fixes:BURSA:symbol
+Fixes:DIGET:name
+Fixes:DIGET:symbol
+Fixes:EPDIL:name
+Fixes:EPDIL:symbol
+Fixes:ESMOS:name
+Fixes:ESMOS:symbol
+Fixes:GUKAS:name
+Fixes:GUKAS:symbol
+Fixes:ILPES:name
+Fixes:ILPES:symbol
+Fixes:LUTSO:name
+Fixes:LUTSO:symbol
+Fixes:MAMPU:name
+Fixes:MAMPU:symbol
+Fixes:MORPU:name
+Fixes:MORPU:symbol
+Fixes:NUXAS:name
+Fixes:NUXAS:symbol
+Fixes:OPKAN:name
+Fixes:OPKAN:symbol
+Fixes:ORUXO:name
+Fixes:ORUXO:symbol
+Fixes:PANOT:name
+Fixes:PANOT:symbol
+Fixes:PULUX:name
+Fixes:PULUX:symbol
+Fixes:RC008:name
+Fixes:RC008:symbol
+Fixes:RE060:name
+Fixes:RE060:symbol
+Fixes:RR001:name
+Fixes:RR001:symbol
+Fixes:RR002:name
+Fixes:RR002:symbol
+Fixes:RR011:name
+Fixes:RR011:symbol
+Fixes:RR254:name
+Fixes:RR254:symbol
+Fixes:RR255:name
+Fixes:RR255:symbol
+Fixes:RR256:name
+Fixes:RR256:symbol
+Fixes:RR258:name
+Fixes:RR258:symbol
+Fixes:RR401:name
+Fixes:RR401:symbol
+Fixes:RR403:name
+Fixes:RR403:symbol
+Fixes:RR405:name
+Fixes:RR405:symbol
+Fixes:RR407:name
+Fixes:RR407:symbol
+Fixes:RR408:name
+Fixes:RR408:symbol
+Fixes:RR410:name
+Fixes:RR410:symbol
+Fixes:RR411:name
+Fixes:RR411:symbol
+Fixes:RR412:name
+Fixes:RR412:symbol
+Fixes:RR413:name
+Fixes:RR413:symbol
+Fixes:RR414:name
+Fixes:RR414:symbol
+Fixes:SOSNI:name
+Fixes:SOSNI:symbol
+Fixes:TODEP:name
+Fixes:TODEP:symbol
+Fixes:UDUDA:name
+Fixes:UDUDA:symbol
+Fixes:UGASI:name
+Fixes:UGASI:symbol
+Free Text:SARC\1:freetext
+Free Text:SARC\2:freetext
+Free Text:SARC\3:freetext
+Free Text:SARC\4:freetext
+Free Text:SARC\5:freetext
+Free Text:SARC\6:freetext
+Free Text:SARC\7:freetext
+Free Text:SARC\8:freetext
+Free Text:SARC\A:freetext
+Free Text:SARC\B:freetext
+Free Text:SARC\C:freetext
+Free Text:SARE\1:freetext
+Free Text:SARE\2:freetext
+Free Text:SARE\3:freetext
+Free Text:SARE\3A:freetext
+Free Text:SARE\4:freetext
+Free Text:SARE\5:freetext
+Free Text:SARE\6:freetext
+Free Text:SARE\7:freetext
+Free Text:SARE\8:freetext
+Free Text:SARE\A:freetext
+Free Text:SARF\1:freetext
+Free Text:SARF\2:freetext
+Free Text:SARF\2A:freetext
+Free Text:SARF\3:freetext
+Free Text:SARF\4:freetext
+Free Text:SARF\5:freetext
+Free Text:SARF\A:freetext
+Free Text:SARF\B:freetext
+Free Text:SARF\B:freetext
+Geo:SARC:
+Geo:SARE:
+Geo:SARF:
+Runways:SARC CORRIENTES 02-20:centerline
+Runways:SARC CORRIENTES 02-20:extended centerline 1
+Runways:SARC CORRIENTES 02-20:extended centerline 1 left base
+Runways:SARC CORRIENTES 02-20:extended centerline 1 left ticks
+Runways:SARC CORRIENTES 02-20:extended centerline 1 left vectoring
+Runways:SARC CORRIENTES 02-20:extended centerline 1 right base
+Runways:SARC CORRIENTES 02-20:extended centerline 1 right ticks
+Runways:SARC CORRIENTES 02-20:extended centerline 1 right vectoring
+Runways:SARC CORRIENTES 02-20:extended centerline 2
+Runways:SARC CORRIENTES 02-20:extended centerline 2 left base
+Runways:SARC CORRIENTES 02-20:extended centerline 2 left ticks
+Runways:SARC CORRIENTES 02-20:extended centerline 2 left vectoring
+Runways:SARC CORRIENTES 02-20:extended centerline 2 right base
+Runways:SARC CORRIENTES 02-20:extended centerline 2 right ticks
+Runways:SARC CORRIENTES 02-20:extended centerline 2 right vectoring
+Runways:SARC CORRIENTES 02-20:name
+Runways:SARE RESISTENCIA 03-21:centerline
+Runways:SARE RESISTENCIA 03-21:extended centerline 1
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 left base
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 left ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 left vectoring
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 right base
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 right ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 right vectoring
+Runways:SARE RESISTENCIA 03-21:extended centerline 2
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 left base
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 left ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 left vectoring
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 right base
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 right ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 right vectoring
+Runways:SARE RESISTENCIA 03-21:name
+Runways:SARF FORMOSA 04-22:centerline
+Runways:SARF FORMOSA 04-22:extended centerline 1
+Runways:SARF FORMOSA 04-22:extended centerline 1 left base
+Runways:SARF FORMOSA 04-22:extended centerline 1 left ticks
+Runways:SARF FORMOSA 04-22:extended centerline 1 left vectoring
+Runways:SARF FORMOSA 04-22:extended centerline 1 right base
+Runways:SARF FORMOSA 04-22:extended centerline 1 right ticks
+Runways:SARF FORMOSA 04-22:extended centerline 1 right vectoring
+Runways:SARF FORMOSA 04-22:extended centerline 2
+Runways:SARF FORMOSA 04-22:extended centerline 2 left base
+Runways:SARF FORMOSA 04-22:extended centerline 2 left ticks
+Runways:SARF FORMOSA 04-22:extended centerline 2 left vectoring
+Runways:SARF FORMOSA 04-22:extended centerline 2 right base
+Runways:SARF FORMOSA 04-22:extended centerline 2 right ticks
+Runways:SARF FORMOSA 04-22:extended centerline 2 right vectoring
+Runways:SARF FORMOSA 04-22:name
+VORs:CRS:frequency
+VORs:CRS:name
+VORs:CRS:symbol
+VORs:FSA:frequency
+VORs:FSA:name
+VORs:FSA:symbol
+VORs:SIS:frequency
+VORs:SIS:name
+VORs:SIS:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-28.703621:-62.094548:-25.759516:-55.333939

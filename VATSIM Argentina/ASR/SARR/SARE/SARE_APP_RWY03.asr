@@ -1,0 +1,213 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\users\javo\My Documents\EuroScope\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
+SECTORTITLE:VATSIM Argentina.sct
+ARTCC high boundary:TMAResistencia:
+ARTCC low boundary:CTRCorrientes:
+ARTCC low boundary:CTRFormosa:
+ARTCC low boundary:CTRResistencia:
+Fixes:BIXOL:name
+Fixes:BIXOL:symbol
+Fixes:BOBIK:name
+Fixes:BOBIK:symbol
+Fixes:BURSA:name
+Fixes:BURSA:symbol
+Fixes:DIGET:name
+Fixes:DIGET:symbol
+Fixes:ESLOD:name
+Fixes:ESLOD:symbol
+Fixes:ESMOS:name
+Fixes:ESMOS:symbol
+Fixes:GUKAS:name
+Fixes:GUKAS:symbol
+Fixes:KEXOS:name
+Fixes:KEXOS:symbol
+Fixes:KILIP:name
+Fixes:KILIP:symbol
+Fixes:KORSI:name
+Fixes:KORSI:symbol
+Fixes:LUTSO:name
+Fixes:LUTSO:symbol
+Fixes:OPKAN:name
+Fixes:OPKAN:symbol
+Fixes:OPLID:name
+Fixes:OPLID:symbol
+Fixes:PANOT:name
+Fixes:PANOT:symbol
+Fixes:PUKIK:name
+Fixes:PUKIK:symbol
+Fixes:PULRA:name
+Fixes:PULRA:symbol
+Fixes:RC003:name
+Fixes:RC003:symbol
+Fixes:RE005:name
+Fixes:RE005:symbol
+Fixes:RE989:name
+Fixes:RE989:symbol
+Fixes:RR001:name
+Fixes:RR001:symbol
+Fixes:RR002:name
+Fixes:RR002:symbol
+Fixes:RR003:name
+Fixes:RR003:symbol
+Fixes:RR004:name
+Fixes:RR004:symbol
+Fixes:RR005:name
+Fixes:RR005:symbol
+Fixes:RR006:name
+Fixes:RR006:symbol
+Fixes:RR007:name
+Fixes:RR007:symbol
+Fixes:RR009:name
+Fixes:RR009:symbol
+Fixes:RR010:name
+Fixes:RR010:symbol
+Fixes:RR151:name
+Fixes:RR151:symbol
+Fixes:RR152:name
+Fixes:RR152:symbol
+Fixes:RR153:name
+Fixes:RR153:symbol
+Fixes:RR154:name
+Fixes:RR154:symbol
+Fixes:RR155:name
+Fixes:RR155:symbol
+Fixes:RR156:name
+Fixes:RR156:symbol
+Fixes:RR159:name
+Fixes:RR159:symbol
+Fixes:RR160:name
+Fixes:RR160:symbol
+Fixes:RR161:name
+Fixes:RR161:symbol
+Fixes:RR162:name
+Fixes:RR162:symbol
+Fixes:RR163:name
+Fixes:RR163:symbol
+Fixes:RR164:name
+Fixes:RR164:symbol
+Fixes:RR166:name
+Fixes:RR166:symbol
+Fixes:RR167:name
+Fixes:RR167:symbol
+Fixes:RR168:name
+Fixes:RR168:symbol
+Fixes:RR170:name
+Fixes:RR170:symbol
+Fixes:SOSNI:name
+Fixes:SOSNI:symbol
+Fixes:SULBO:name
+Fixes:SULBO:symbol
+Fixes:UDUDA:name
+Fixes:UDUDA:symbol
+Fixes:UGASI:name
+Fixes:UGASI:symbol
+Fixes:UGIBO:name
+Fixes:UGIBO:symbol
+Fixes:USAVO:name
+Fixes:USAVO:symbol
+Free Text:SARC\1:freetext
+Free Text:SARC\2:freetext
+Free Text:SARC\3:freetext
+Free Text:SARC\4:freetext
+Free Text:SARC\5:freetext
+Free Text:SARC\6:freetext
+Free Text:SARC\7:freetext
+Free Text:SARC\8:freetext
+Free Text:SARC\A:freetext
+Free Text:SARC\B:freetext
+Free Text:SARC\C:freetext
+Free Text:SARE\1:freetext
+Free Text:SARE\2:freetext
+Free Text:SARE\3:freetext
+Free Text:SARE\3A:freetext
+Free Text:SARE\4:freetext
+Free Text:SARE\5:freetext
+Free Text:SARE\6:freetext
+Free Text:SARE\7:freetext
+Free Text:SARE\8:freetext
+Free Text:SARE\A:freetext
+Free Text:SARF\1:freetext
+Free Text:SARF\2:freetext
+Free Text:SARF\2A:freetext
+Free Text:SARF\3:freetext
+Free Text:SARF\4:freetext
+Free Text:SARF\5:freetext
+Free Text:SARF\A:freetext
+Free Text:SARF\B:freetext
+Free Text:SARF\B:freetext
+Geo:SARC:
+Geo:SARE:
+Geo:SARF:
+Runways:SARC CORRIENTES 02-20:centerline
+Runways:SARC CORRIENTES 02-20:extended centerline 1
+Runways:SARC CORRIENTES 02-20:extended centerline 1 left base
+Runways:SARC CORRIENTES 02-20:extended centerline 1 left ticks
+Runways:SARC CORRIENTES 02-20:extended centerline 1 left vectoring
+Runways:SARC CORRIENTES 02-20:extended centerline 1 right base
+Runways:SARC CORRIENTES 02-20:extended centerline 1 right ticks
+Runways:SARC CORRIENTES 02-20:extended centerline 1 right vectoring
+Runways:SARC CORRIENTES 02-20:extended centerline 2
+Runways:SARC CORRIENTES 02-20:extended centerline 2 left base
+Runways:SARC CORRIENTES 02-20:extended centerline 2 left ticks
+Runways:SARC CORRIENTES 02-20:extended centerline 2 left vectoring
+Runways:SARC CORRIENTES 02-20:extended centerline 2 right base
+Runways:SARC CORRIENTES 02-20:extended centerline 2 right ticks
+Runways:SARC CORRIENTES 02-20:extended centerline 2 right vectoring
+Runways:SARC CORRIENTES 02-20:name
+Runways:SARE RESISTENCIA 03-21:centerline
+Runways:SARE RESISTENCIA 03-21:extended centerline 1
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 left base
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 left ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 left vectoring
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 right base
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 right ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 1 right vectoring
+Runways:SARE RESISTENCIA 03-21:extended centerline 2
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 left base
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 left ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 left vectoring
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 right base
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 right ticks
+Runways:SARE RESISTENCIA 03-21:extended centerline 2 right vectoring
+Runways:SARE RESISTENCIA 03-21:name
+Runways:SARF FORMOSA 04-22:centerline
+Runways:SARF FORMOSA 04-22:extended centerline 1
+Runways:SARF FORMOSA 04-22:extended centerline 1 left base
+Runways:SARF FORMOSA 04-22:extended centerline 1 left ticks
+Runways:SARF FORMOSA 04-22:extended centerline 1 left vectoring
+Runways:SARF FORMOSA 04-22:extended centerline 1 right base
+Runways:SARF FORMOSA 04-22:extended centerline 1 right ticks
+Runways:SARF FORMOSA 04-22:extended centerline 1 right vectoring
+Runways:SARF FORMOSA 04-22:extended centerline 2
+Runways:SARF FORMOSA 04-22:extended centerline 2 left base
+Runways:SARF FORMOSA 04-22:extended centerline 2 left ticks
+Runways:SARF FORMOSA 04-22:extended centerline 2 left vectoring
+Runways:SARF FORMOSA 04-22:extended centerline 2 right base
+Runways:SARF FORMOSA 04-22:extended centerline 2 right ticks
+Runways:SARF FORMOSA 04-22:extended centerline 2 right vectoring
+Runways:SARF FORMOSA 04-22:name
+VORs:CRS:frequency
+VORs:CRS:name
+VORs:CRS:symbol
+VORs:FSA:frequency
+VORs:FSA:name
+VORs:FSA:symbol
+VORs:SIS:frequency
+VORs:SIS:name
+VORs:SIS:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-28.703621:-62.094548:-25.759516:-55.333939
