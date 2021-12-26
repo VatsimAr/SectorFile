@@ -1,0 +1,204 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC low boundary:ATZMoron:
+ARTCC low boundary:CTREzeiza:
+Fixes:ARSOT:name
+Fixes:ARSOT:symbol
+Fixes:IMBOD:name
+Fixes:IMBOD:symbol
+Fixes:KOPRO:name
+Fixes:KOPRO:symbol
+Fixes:NEVLO:name
+Fixes:NEVLO:symbol
+Fixes:SURLI:name
+Fixes:SURLI:symbol
+Fixes:VUPAN:name
+Fixes:VUPAN:symbol
+Free Text:SADM\A(1):freetext
+Free Text:SADM\A(1):freetext
+Free Text:SADM\A(2):freetext
+Free Text:SADM\B:freetext
+Free Text:SADM\C:freetext
+Free Text:SADM\D:freetext
+Free Text:SADM\E:freetext
+Free Text:SADM\F:freetext
+Free Text:SADM\G:freetext
+Free Text:SADM\H:freetext
+Free Text:SAEZ\10:freetext
+Free Text:SAEZ\11:freetext
+Free Text:SAEZ\11A:freetext
+Free Text:SAEZ\11B:freetext
+Free Text:SAEZ\12:freetext
+Free Text:SAEZ\13:freetext
+Free Text:SAEZ\14:freetext
+Free Text:SAEZ\14A:freetext
+Free Text:SAEZ\14B:freetext
+Free Text:SAEZ\15:freetext
+Free Text:SAEZ\15A:freetext
+Free Text:SAEZ\15B:freetext
+Free Text:SAEZ\16:freetext
+Free Text:SAEZ\16A:freetext
+Free Text:SAEZ\16B:freetext
+Free Text:SAEZ\17:freetext
+Free Text:SAEZ\17A:freetext
+Free Text:SAEZ\17B:freetext
+Free Text:SAEZ\18:freetext
+Free Text:SAEZ\18A:freetext
+Free Text:SAEZ\18B:freetext
+Free Text:SAEZ\2:freetext
+Free Text:SAEZ\3:freetext
+Free Text:SAEZ\33:freetext
+Free Text:SAEZ\33A:freetext
+Free Text:SAEZ\33B:freetext
+Free Text:SAEZ\34:freetext
+Free Text:SAEZ\34A:freetext
+Free Text:SAEZ\34B:freetext
+Free Text:SAEZ\34C:freetext
+Free Text:SAEZ\35:freetext
+Free Text:SAEZ\35A:freetext
+Free Text:SAEZ\35B:freetext
+Free Text:SAEZ\36:freetext
+Free Text:SAEZ\36A:freetext
+Free Text:SAEZ\37:freetext
+Free Text:SAEZ\4:freetext
+Free Text:SAEZ\40:freetext
+Free Text:SAEZ\41:freetext
+Free Text:SAEZ\42:freetext
+Free Text:SAEZ\43:freetext
+Free Text:SAEZ\43A:freetext
+Free Text:SAEZ\43B:freetext
+Free Text:SAEZ\44:freetext
+Free Text:SAEZ\44A:freetext
+Free Text:SAEZ\45:freetext
+Free Text:SAEZ\46:freetext
+Free Text:SAEZ\47:freetext
+Free Text:SAEZ\5:freetext
+Free Text:SAEZ\50:freetext
+Free Text:SAEZ\50A:freetext
+Free Text:SAEZ\50B:freetext
+Free Text:SAEZ\51:freetext
+Free Text:SAEZ\51A:freetext
+Free Text:SAEZ\52:freetext
+Free Text:SAEZ\52A:freetext
+Free Text:SAEZ\52B:freetext
+Free Text:SAEZ\53:freetext
+Free Text:SAEZ\53A:freetext
+Free Text:SAEZ\54:freetext
+Free Text:SAEZ\54A:freetext
+Free Text:SAEZ\55:freetext
+Free Text:SAEZ\55A:freetext
+Free Text:SAEZ\55B:freetext
+Free Text:SAEZ\56:freetext
+Free Text:SAEZ\56A:freetext
+Free Text:SAEZ\56B:freetext
+Free Text:SAEZ\57:freetext
+Free Text:SAEZ\58:freetext
+Free Text:SAEZ\59:freetext
+Free Text:SAEZ\6:freetext
+Free Text:SAEZ\60:freetext
+Free Text:SAEZ\61:freetext
+Free Text:SAEZ\61A:freetext
+Free Text:SAEZ\61B:freetext
+Free Text:SAEZ\61C:freetext
+Free Text:SAEZ\62:freetext
+Free Text:SAEZ\62A:freetext
+Free Text:SAEZ\62B:freetext
+Free Text:SAEZ\62C:freetext
+Free Text:SAEZ\63:freetext
+Free Text:SAEZ\63A:freetext
+Free Text:SAEZ\63B:freetext
+Free Text:SAEZ\63C:freetext
+Free Text:SAEZ\64:freetext
+Free Text:SAEZ\64A:freetext
+Free Text:SAEZ\64B:freetext
+Free Text:SAEZ\64C:freetext
+Free Text:SAEZ\65:freetext
+Free Text:SAEZ\65A:freetext
+Free Text:SAEZ\65B:freetext
+Free Text:SAEZ\65C:freetext
+Free Text:SAEZ\66:freetext
+Free Text:SAEZ\66A:freetext
+Free Text:SAEZ\66B:freetext
+Free Text:SAEZ\66C:freetext
+Free Text:SAEZ\67A:freetext
+Free Text:SAEZ\7:freetext
+Free Text:SAEZ\70:freetext
+Free Text:SAEZ\71:freetext
+Free Text:SAEZ\72:freetext
+Free Text:SAEZ\73:freetext
+Free Text:SAEZ\74:freetext
+Free Text:SAEZ\74A:freetext
+Free Text:SAEZ\74B:freetext
+Free Text:SAEZ\75:freetext
+Free Text:SAEZ\75A:freetext
+Free Text:SAEZ\75B:freetext
+Free Text:SAEZ\76:freetext
+Free Text:SAEZ\76A:freetext
+Free Text:SAEZ\76B:freetext
+Free Text:SAEZ\77:freetext
+Free Text:SAEZ\77A:freetext
+Free Text:SAEZ\77B:freetext
+Free Text:SAEZ\8:freetext
+Free Text:SAEZ\9:freetext
+Free Text:SAEZ\A:freetext
+Free Text:SAEZ\B:freetext
+Free Text:SAEZ\C:freetext
+Free Text:SAEZ\D:freetext
+Free Text:SAEZ\D:freetext
+Free Text:SAEZ\E:freetext
+Free Text:SAEZ\F:freetext
+Free Text:SAEZ\F:freetext
+Free Text:SAEZ\G:freetext
+Free Text:SAEZ\G:freetext
+Free Text:SAEZ\G:freetext
+Free Text:SAEZ\H:freetext
+Free Text:SAEZ\H:freetext
+Free Text:SAEZ\H:freetext
+Free Text:SAEZ\I:freetext
+Free Text:SAEZ\I:freetext
+Free Text:SAEZ\I:freetext
+Free Text:SAEZ\J:freetext
+Free Text:SAEZ\J:freetext
+Free Text:SAEZ\K:freetext
+Geo:SADM:
+Geo:SAEF:
+NDBs:C:frequency
+NDBs:C:frequency
+NDBs:C:frequency
+NDBs:C:name
+NDBs:C:name
+NDBs:C:name
+NDBs:C:symbol
+NDBs:C:symbol
+NDBs:C:symbol
+NDBs:OA:frequency
+NDBs:OA:symbol
+NDBs:OC:frequency
+NDBs:OC:frequency
+NDBs:OC:frequency
+NDBs:OC:name
+NDBs:OC:name
+NDBs:OC:name
+NDBs:OC:symbol
+NDBs:OC:symbol
+NDBs:OC:symbol
+Regions:SAEZ:polygon
+Regions:SAEZ_ILS11:polygon
+VORs:EZE:frequency
+VORs:EZE:name
+VORs:EZE:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-35.204745:-59.181640:-34.584820:-57.758093
