@@ -1,0 +1,160 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMAMendoza:
+ARTCC low boundary:CTRMendoza:
+Fixes:DOSLO:name
+Fixes:DOSLO:symbol
+Fixes:ESITO:name
+Fixes:ESITO:symbol
+Fixes:GUVAD:name
+Fixes:GUVAD:symbol
+Fixes:KAMUV:name
+Fixes:KAMUV:symbol
+Fixes:KOTES:name
+Fixes:KOTES:symbol
+Fixes:LOMAD:name
+Fixes:LOMAD:symbol
+Fixes:ME304:name
+Fixes:ME304:symbol
+Fixes:ME528:name
+Fixes:ME528:symbol
+Fixes:ME535:name
+Fixes:ME535:symbol
+Fixes:ME536:name
+Fixes:ME536:symbol
+Fixes:ME542:name
+Fixes:ME542:symbol
+Fixes:ME543:name
+Fixes:ME543:symbol
+Fixes:ME544:name
+Fixes:ME544:symbol
+Fixes:ME548:name
+Fixes:ME548:symbol
+Fixes:ME553:name
+Fixes:ME553:symbol
+Fixes:ME554:name
+Fixes:ME554:symbol
+Fixes:ME555:name
+Fixes:ME555:symbol
+Fixes:ME556:name
+Fixes:ME556:symbol
+Fixes:ME788:name
+Fixes:ME788:symbol
+Fixes:ME789:name
+Fixes:ME789:symbol
+Fixes:ME795:name
+Fixes:ME795:symbol
+Fixes:ME797:name
+Fixes:ME797:symbol
+Fixes:ME798:name
+Fixes:ME798:symbol
+Fixes:ME799:name
+Fixes:ME799:symbol
+Fixes:ME898:name
+Fixes:ME898:symbol
+Fixes:ME999:name
+Fixes:ME999:symbol
+Fixes:MEBRA:name
+Fixes:MEBRA:symbol
+Fixes:NEBEG:name
+Fixes:NEBEG:symbol
+Fixes:PAPIR:name
+Fixes:PAPIR:symbol
+Fixes:SALBO:name
+Fixes:SALBO:symbol
+Fixes:SIREK:name
+Fixes:SIREK:symbol
+Fixes:SUCUA:name
+Fixes:SUCUA:symbol
+Fixes:UMKAL:name
+Fixes:UMKAL:symbol
+Fixes:VAROR:name
+Fixes:VAROR:symbol
+Fixes:VURSI:name
+Fixes:VURSI:symbol
+Fixes:XOGIV:name
+Fixes:XOGIV:symbol
+Free Text:DOZRADAR\FL060:freetext
+Free Text:DOZRADAR\FL070:freetext
+Free Text:DOZRADAR\FL080:freetext
+Free Text:DOZRADAR\FL090:freetext
+Free Text:DOZRADAR\FL100:freetext
+Free Text:DOZRADAR\FL120:freetext
+Free Text:DOZRADAR\FL140:freetext
+Free Text:DOZRADAR\FL140:freetext
+Free Text:DOZRADAR\FL150:freetext
+Free Text:DOZRADAR\FL160:freetext
+Free Text:DOZRADAR\FL160:freetext
+Free Text:DOZRADAR\FL180:freetext
+Free Text:DOZRADAR\FL190:freetext
+Free Text:DOZRADAR\FL200:freetext
+Free Text:DOZRADAR\FL210:freetext
+Free Text:DOZRADAR\FL220:freetext
+Free Text:DOZRADAR\FL230:freetext
+Free Text:DOZRADAR\FL230:freetext
+Free Text:DOZRADAR\FL260:freetext
+Free Text:SAME\1:freetext
+Free Text:SAME\10:freetext
+Free Text:SAME\10A:freetext
+Free Text:SAME\10B:freetext
+Free Text:SAME\11:freetext
+Free Text:SAME\11A:freetext
+Free Text:SAME\11B:freetext
+Free Text:SAME\12:freetext
+Free Text:SAME\12A:freetext
+Free Text:SAME\2:freetext
+Free Text:SAME\2A:freetext
+Free Text:SAME\3:freetext
+Free Text:SAME\4:freetext
+Free Text:SAME\4A:freetext
+Free Text:SAME\5:freetext
+Free Text:SAME\5A:freetext
+Free Text:SAME\5B:freetext
+Free Text:SAME\6:freetext
+Free Text:SAME\6A:freetext
+Free Text:SAME\6B:freetext
+Free Text:SAME\6C:freetext
+Free Text:SAME\7:freetext
+Free Text:SAME\7A:freetext
+Free Text:SAME\7B:freetext
+Free Text:SAME\8:freetext
+Free Text:SAME\8A:freetext
+Free Text:SAME\8B:freetext
+Free Text:SAME\9:freetext
+Free Text:SAME\9A:freetext
+Free Text:SAME\A:freetext
+Free Text:SAME\A:freetext
+Free Text:SAME\A:freetext
+Free Text:SAME\A:freetext
+Free Text:SAME\A:freetext
+Free Text:SAME\A:freetext
+Free Text:SAME\B:freetext
+Free Text:SAME\B:freetext
+Free Text:SAME\C:freetext
+Free Text:SAME\D:freetext
+Free Text:SAME\D:freetext
+Free Text:SAME\E:freetext
+Free Text:SAME\F:freetext
+Free Text:SAME\G:freetext
+Free Text:SAME\H:freetext
+Geo:DOZ_RADAR:
+Geo:SAME:
+Regions:SAME:polygon
+VORs:DOZ:frequency
+VORs:DOZ:name
+VORs:DOZ:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-34.478843:-72.404681:-31.489607:-65.540438
