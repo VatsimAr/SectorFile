@@ -1,0 +1,63 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC low boundary:CTRGallegos:
+Fixes:ENTIS:name
+Fixes:ENTIS:symbol
+Fixes:LIXIM:name
+Fixes:LIXIM:symbol
+Fixes:ORODA:name
+Fixes:ORODA:symbol
+Fixes:SIPUR:name
+Fixes:SIPUR:symbol
+Fixes:UMLOP:name
+Fixes:UMLOP:symbol
+Fixes:VULAR:name
+Fixes:VULAR:symbol
+Free Text:SAWG\1:freetext
+Free Text:SAWG\2:freetext
+Free Text:SAWG\3:freetext
+Free Text:SAWG\4:freetext
+Free Text:SAWG\5:freetext
+Free Text:SAWG\A:freetext
+Free Text:SAWG\A:freetext
+Free Text:SAWG\B:freetext
+Free Text:SAWG\B:freetext
+Free Text:SAWG\C:freetext
+Free Text:SAWG\C:freetext
+Free Text:SAWG\D:freetext
+Free Text:SAWG\D:freetext
+Geo:SAWG:
+Runways:SAWG NORBERTO FERNANDEZ 07-25:centerline
+Runways:SAWG NORBERTO FERNANDEZ 07-25:extended centerline 1
+Runways:SAWG NORBERTO FERNANDEZ 07-25:extended centerline 1 left base
+Runways:SAWG NORBERTO FERNANDEZ 07-25:extended centerline 1 left ticks
+Runways:SAWG NORBERTO FERNANDEZ 07-25:extended centerline 1 left vectoring
+Runways:SAWG NORBERTO FERNANDEZ 07-25:extended centerline 1 right base
+Runways:SAWG NORBERTO FERNANDEZ 07-25:extended centerline 1 right ticks
+Runways:SAWG NORBERTO FERNANDEZ 07-25:extended centerline 1 right vectoring
+Runways:SAWG NORBERTO FERNANDEZ 07-25:extended centerline 2
+Runways:SAWG NORBERTO FERNANDEZ 07-25:extended centerline 2 left base
+Runways:SAWG NORBERTO FERNANDEZ 07-25:extended centerline 2 left ticks
+Runways:SAWG NORBERTO FERNANDEZ 07-25:extended centerline 2 left vectoring
+Runways:SAWG NORBERTO FERNANDEZ 07-25:extended centerline 2 right base
+Runways:SAWG NORBERTO FERNANDEZ 07-25:extended centerline 2 right ticks
+Runways:SAWG NORBERTO FERNANDEZ 07-25:extended centerline 2 right vectoring
+Runways:SAWG NORBERTO FERNANDEZ 07-25:name
+VORs:GAL:frequency
+VORs:GAL:name
+VORs:GAL:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-52.116161:-70.378592:-51.151437:-68.163276
