@@ -1,0 +1,132 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMATrelew:
+ARTCC low boundary:CTRMadryn:
+Fixes:DILIL:name
+Fixes:DILIL:symbol
+Fixes:EKATO:name
+Fixes:EKATO:symbol
+Fixes:EVLAD:name
+Fixes:EVLAD:symbol
+Fixes:GATUD:name
+Fixes:GATUD:symbol
+Fixes:GUVUM:name
+Fixes:GUVUM:symbol
+Fixes:ILNEL:name
+Fixes:ILNEL:symbol
+Fixes:ILPOT:name
+Fixes:ILPOT:symbol
+Fixes:KAKOG:name
+Fixes:KAKOG:symbol
+Fixes:KAMOV:name
+Fixes:KAMOV:symbol
+Fixes:KOLVA:name
+Fixes:KOLVA:symbol
+Fixes:MAMGO:name
+Fixes:MAMGO:symbol
+Fixes:MIGUS:name
+Fixes:MIGUS:symbol
+Fixes:MULSI:name
+Fixes:MULSI:symbol
+Fixes:MUMAB:name
+Fixes:MUMAB:symbol
+Fixes:MUNAV:name
+Fixes:MUNAV:symbol
+Fixes:NAJAL:name
+Fixes:NAJAL:symbol
+Fixes:OPSIR:name
+Fixes:OPSIR:symbol
+Fixes:ORAMU:name
+Fixes:ORAMU:symbol
+Fixes:PABOP:name
+Fixes:PABOP:symbol
+Fixes:POPRO:name
+Fixes:POPRO:symbol
+Fixes:PUBAX:name
+Fixes:PUBAX:symbol
+Fixes:ROGIP:name
+Fixes:ROGIP:symbol
+Fixes:ROKAB:name
+Fixes:ROKAB:symbol
+Fixes:SILAN:name
+Fixes:SILAN:symbol
+Fixes:SUPKU:name
+Fixes:SUPKU:symbol
+Fixes:TEPES:name
+Fixes:TEPES:symbol
+Fixes:UDULI:name
+Fixes:UDULI:symbol
+Fixes:USILO:name
+Fixes:USILO:symbol
+Fixes:UTLEP:name
+Fixes:UTLEP:symbol
+Fixes:VT620:name
+Fixes:VT620:symbol
+Fixes:VT777:name
+Fixes:VT777:symbol
+Fixes:VURPI:name
+Fixes:VURPI:symbol
+Fixes:VUVLA:name
+Fixes:VUVLA:symbol
+Fixes:VY610:name
+Fixes:VY610:symbol
+Free Text:SAVT\1-A:freetext
+Free Text:SAVT\2:freetext
+Free Text:SAVT\3:freetext
+Free Text:SAVT\4:freetext
+Free Text:SAVT\5:freetext
+Free Text:SAVT\6:freetext
+Free Text:SAVT\A:freetext
+Free Text:SAVT\A:freetext
+Free Text:SAVT\B:freetext
+Free Text:SAVT\C:freetext
+Free Text:SAVT\D:freetext
+Free Text:SAVT\E:freetext
+Free Text:SAVT\F:freetext
+Free Text:SAVT\G:freetext
+Free Text:SAVY\1:freetext
+Free Text:SAVY\1A:freetext
+Free Text:SAVY\2:freetext
+Free Text:SAVY\2A:freetext
+Free Text:SAVY\3:freetext
+Free Text:SAVY\3A:freetext
+Free Text:SAVY\A:freetext
+Geo:SAVT:
+Geo:SAVY:
+Runways:SAVY EL TEHUELCHE 06-24:centerline
+Runways:SAVY EL TEHUELCHE 06-24:extended centerline 1
+Runways:SAVY EL TEHUELCHE 06-24:extended centerline 1 left base
+Runways:SAVY EL TEHUELCHE 06-24:extended centerline 1 left ticks
+Runways:SAVY EL TEHUELCHE 06-24:extended centerline 1 left vectoring
+Runways:SAVY EL TEHUELCHE 06-24:extended centerline 1 right base
+Runways:SAVY EL TEHUELCHE 06-24:extended centerline 1 right ticks
+Runways:SAVY EL TEHUELCHE 06-24:extended centerline 1 right vectoring
+Runways:SAVY EL TEHUELCHE 06-24:extended centerline 2
+Runways:SAVY EL TEHUELCHE 06-24:extended centerline 2 left base
+Runways:SAVY EL TEHUELCHE 06-24:extended centerline 2 left ticks
+Runways:SAVY EL TEHUELCHE 06-24:extended centerline 2 left vectoring
+Runways:SAVY EL TEHUELCHE 06-24:extended centerline 2 right base
+Runways:SAVY EL TEHUELCHE 06-24:extended centerline 2 right ticks
+Runways:SAVY EL TEHUELCHE 06-24:extended centerline 2 right vectoring
+Runways:SAVY EL TEHUELCHE 06-24:name
+VORs:DRY:frequency
+VORs:DRY:name
+VORs:DRY:symbol
+VORs:TRE:frequency
+VORs:TRE:name
+VORs:TRE:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-44.391109:-67.829444:-42.035825:-62.420957
