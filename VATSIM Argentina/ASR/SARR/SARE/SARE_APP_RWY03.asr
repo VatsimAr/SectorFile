@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\users\javo\My Documents\EuroScope\SectorFile\VATSIM Argentina\VATSIM Argentina.sct
-SECTORTITLE:VATSIM Argentina.sct
 ARTCC high boundary:TMAResistencia:
 ARTCC low boundary:CTRCorrientes:
 ARTCC low boundary:CTRFormosa:
