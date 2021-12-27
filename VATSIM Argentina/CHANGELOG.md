@@ -7,6 +7,8 @@
 - Adaptación de ASRs de FIRs según nuevo AIRAC
 - Incorporación de ASRs por aeropuerto, dependencia y pista en uso
 - Incorporación de SABE_DEL como dependencia
+- Incorporación de ASR para SAWC_TWR
+- Reincorporación de puntos locales de aeródromo
 
 ---
 
