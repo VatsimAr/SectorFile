@@ -1,0 +1,114 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:TMARioGrande:
+ARTCC high boundary:TMAUShuaia:
+Fixes:ASGEN:name
+Fixes:ASGEN:symbol
+Fixes:BONTA:name
+Fixes:BONTA:symbol
+Fixes:DABLI:name
+Fixes:DABLI:symbol
+Fixes:EDPAN:name
+Fixes:EDPAN:symbol
+Fixes:EKIPI:symbol
+Fixes:ESPAT:name
+Fixes:ESPAT:symbol
+Fixes:GEDAB:name
+Fixes:GEDAB:symbol
+Fixes:GUDUX:name
+Fixes:GUDUX:symbol
+Fixes:KEXOP:name
+Fixes:KEXOP:symbol
+Fixes:KOVSI:name
+Fixes:KOVSI:symbol
+Fixes:MUBES:name
+Fixes:MUBES:symbol
+Fixes:REDET:name
+Fixes:REDET:symbol
+Fixes:ROMIV:name
+Fixes:ROMIV:symbol
+Fixes:SASTA:name
+Fixes:SASTA:symbol
+Fixes:TOGOR:name
+Fixes:TOGOR:symbol
+Fixes:UGIRA:name
+Fixes:UGIRA:symbol
+Fixes:UTNOS:name
+Fixes:UTNOS:symbol
+Fixes:WH213:name
+Fixes:WH213:symbol
+Fixes:WH214:name
+Fixes:WH214:symbol
+Free Text:SAWE\1:freetext
+Free Text:SAWE\2:freetext
+Free Text:SAWE\3:freetext
+Free Text:SAWE\4:freetext
+Free Text:SAWE\5:freetext
+Free Text:SAWE\A:freetext
+Free Text:SAWE\B:freetext
+Free Text:SAWE\C:freetext
+Free Text:SAWH\1:freetext
+Free Text:SAWH\1A:freetext
+Free Text:SAWH\2:freetext
+Free Text:SAWH\3:freetext
+Free Text:SAWH\4:freetext
+Free Text:SAWH\5:freetext
+Free Text:SAWH\A:freetext
+Free Text:SAWH\B:freetext
+Free Text:SAWH\C:freetext
+Geo:LineaCostera:
+Geo:SAWE:
+Geo:SAWH:
+Runways:SAWE RIO GRANDE 08-26:centerline
+Runways:SAWE RIO GRANDE 08-26:extended centerline 1
+Runways:SAWE RIO GRANDE 08-26:extended centerline 1 left base
+Runways:SAWE RIO GRANDE 08-26:extended centerline 1 left ticks
+Runways:SAWE RIO GRANDE 08-26:extended centerline 1 left vectoring
+Runways:SAWE RIO GRANDE 08-26:extended centerline 1 right base
+Runways:SAWE RIO GRANDE 08-26:extended centerline 1 right ticks
+Runways:SAWE RIO GRANDE 08-26:extended centerline 1 right vectoring
+Runways:SAWE RIO GRANDE 08-26:extended centerline 2
+Runways:SAWE RIO GRANDE 08-26:extended centerline 2 left base
+Runways:SAWE RIO GRANDE 08-26:extended centerline 2 left ticks
+Runways:SAWE RIO GRANDE 08-26:extended centerline 2 left vectoring
+Runways:SAWE RIO GRANDE 08-26:extended centerline 2 right base
+Runways:SAWE RIO GRANDE 08-26:extended centerline 2 right ticks
+Runways:SAWE RIO GRANDE 08-26:extended centerline 2 right vectoring
+Runways:SAWE RIO GRANDE 08-26:name
+Runways:SAWH MALVINAS ARGENTINAS 07-25:centerline
+Runways:SAWH MALVINAS ARGENTINAS 07-25:extended centerline 1
+Runways:SAWH MALVINAS ARGENTINAS 07-25:extended centerline 1 left base
+Runways:SAWH MALVINAS ARGENTINAS 07-25:extended centerline 1 left ticks
+Runways:SAWH MALVINAS ARGENTINAS 07-25:extended centerline 1 left vectoring
+Runways:SAWH MALVINAS ARGENTINAS 07-25:extended centerline 1 right base
+Runways:SAWH MALVINAS ARGENTINAS 07-25:extended centerline 1 right ticks
+Runways:SAWH MALVINAS ARGENTINAS 07-25:extended centerline 1 right vectoring
+Runways:SAWH MALVINAS ARGENTINAS 07-25:extended centerline 2
+Runways:SAWH MALVINAS ARGENTINAS 07-25:extended centerline 2 left base
+Runways:SAWH MALVINAS ARGENTINAS 07-25:extended centerline 2 left ticks
+Runways:SAWH MALVINAS ARGENTINAS 07-25:extended centerline 2 left vectoring
+Runways:SAWH MALVINAS ARGENTINAS 07-25:extended centerline 2 right base
+Runways:SAWH MALVINAS ARGENTINAS 07-25:extended centerline 2 right ticks
+Runways:SAWH MALVINAS ARGENTINAS 07-25:extended centerline 2 right vectoring
+Runways:SAWH MALVINAS ARGENTINAS 07-25:name
+VORs:GRA:frequency
+VORs:GRA:name
+VORs:GRA:symbol
+VORs:USU:frequency
+VORs:USU:name
+VORs:USU:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSIM Argentina
+WINDOWAREA:-55.450320:-70.284132:-52.506215:-63.523523
