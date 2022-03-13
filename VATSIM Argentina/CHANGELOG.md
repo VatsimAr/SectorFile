@@ -1,5 +1,31 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v9.0 - 13/03/2022
+*Actualizado por Javier Escandarani y Mariano Lopez*
+- Corrección SID/STAR SAWC
+- Corrección SID SANE
+- Corrección SID/STAR SANT, se cambia el orden de las STAR de RWY02 para que se sugiera primero las RNAV
+- Corrección SID SANU
+- Corrección SID/STAR SARC
+- Corrección SID SARE
+- Corrección SID/STAR SARI
+- Corrección SID SAVC
+- Corrección SID SAWE 
+- Corrección STAR SAAR
+- Corrección STAR SASA
+- Eliminación SID PWL de SAWH
+- Se dibujan SID de SAZR
+- Se modifica el orden de las STAR de SAZS, para que se sugieran primero las RNAV
+- Se agrega al archivo .sct las llegadas estandarizadas de la pista 29 de SAEZ, para poder visualizarlas
+- Se agregan pistas de varios aeropuertos de los FIR Ezeiza, Córdoba y Comodoro que no figuraban, impidiendo activar los aeropuertos (y departure list)
+- Cambio de frecuencia de Córdoba Centro
+- Se corrige error del Login de SARI TWR
+- Se agregan los callsign de Aerolineas Virtual (ARV), Imperial (IAL) y Nova (NVA)
+- Se agrega posibilidad de asumir tránsitos desde etiqueta de superficie
+- Actualización AIRAC v2202
+
+---
+
 ## v8.9 - 27/12/2021
 *Actualizado por Javier Escandarani y Mariano Lopez*
 - Incorporación de SID/STAR SAWC en archivo .ese

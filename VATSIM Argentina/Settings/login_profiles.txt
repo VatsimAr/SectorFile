@@ -142,7 +142,7 @@ ATIS2:Formosa Tower/Torre
 ATIS3:argentina.vatsur.org
 ATIS4:argentina.vatsur.org
 PROFILE:SARI_TWR:30:4
-ATIS2:Sauce Viejo Tower/Torre
+ATIS2:Cataratas Tower/Torre
 ATIS3:argentina.vatsur.org
 ATIS4:
 PROFILE:SAVC_TWR:30:4

@@ -410,7 +410,7 @@ ARR	Air Armenia - Armenia	AIR ARMENIA
 ARS	Aeromet Servicios - Chile	METSERVICE
 ART	Aerotal Aerolineas Territoriales de Colombia Ltda - Colombia	AEROTAL
 ARU	Aruba Airlines - AW	ARUBA AIRLINES
-ARV	Aravco Ltd. - United Kingdom	ARAVCO
+ARV	Aerolineas Argentinas Virtual - Argentina	AEROLINEAS VIRTUAL
 ARW	Aria - France	ARIABIRD
 ARX	Air Xpress, Inc. - United States	AIREX
 ARY	Argosy Airways - United States	GOSEY
@@ -2624,6 +2624,7 @@ IAG	EPAG Groupe Air France - France	EPAG
 IAI	Israel Aircraft Industries - Israel	ISRAEL AIRCRAFT
 IAJ	Islandair Jersey - United Kingdom	JARLAND
 IAK	International Air Cargo Corporation - Egypt	AIR CARGO EGYPT
+IAL	Imperial Lineas Aereas - Argentina	IMPERIAL
 IAM	ARA Flugrettungs GmbH - AT	ARA-AMBULANCE
 IAN	Compania Interandina de Aviacion - Colombia	INTERANDES
 IAR	Iliamna Air Taxi - United States	ILIAMNA AIR
@@ -4011,7 +4012,7 @@ NUL	Aeroservicios De Nuevo Leon - Mexico	SERVICIOS NUEVOLEON
 NUN	Nunasi-Central Airlines - Canada	NUNASI
 NUR	Nur Airlines - UZ	NURBEK
 NUS	Northern Illinois Flight Center - US	ENJET
-NVA	Nile Valley Aviation Company - Egypt	UNKNOWN
+NVA	Nova - Argentina	Nova
 NVC	Nav Canada - Canada	NAV CAN
 NVD	Nordic Solutions - Lithuania	NORDVIND
 NVG	Novogorod Air Enterprise - Russia	SADKO AVIA
