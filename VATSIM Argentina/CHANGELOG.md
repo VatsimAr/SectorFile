@@ -1,5 +1,24 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v9.1 - 21/04/2022
+*Actualizado por Javier Escandarani y Mariano Lopez*
+
+- Actualización de STARs RWY 13 SABE para que terminen en VANAR (no FDO)
+- Creación de salidas estandarizadas SADF
+- Creación de salidas estandarizadas SADP
+- Se dibujan las aproximaciones RNP a las 4 pistas de SACO (como STAR, en DISPLAY)
+- Se dibuja la aproximación RNP 17 en SAEZ
+- Se agrega posición SULS TWR
+- Se crean STARs RWY 06/24 de SUMU desde DARKA
+- Modificación del orden de las SID y STAR de SAZS y SAZB para que las RNAV aparezcan primero en las listas
+- Actualización archivo vATIS de SABE para inlcuir perfil de LVP
+- Se actualizan los puntos de coordinación entre Ezeiza y Baires con niveles preestablecidos de descenso
+- Se actualizan los puntos de coordinación entre Baires y Aeroparque y Ezeiza
+- Se actualizan los puntos de coordinación entre Aeroparque y San Fernando
+- Se actualizan puntos de coordinación entre SUEO y SAEF/SACF
+
+---
+
 ## v9.0 - 13/03/2022
 *Actualizado por Javier Escandarani y Mariano Lopez*
 - Corrección SID/STAR SAWC
