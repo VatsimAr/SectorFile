@@ -12,7 +12,7 @@
 - Se agregan STARs RNAV de SADP (17) y se eliminan las convecionales (7C).
 - Se dibuja la aproximación RNP RWY 23 en SADF
 - Se corrige identificación de SUMU TWR (de CAT a CRT) por conflicto con SANC.
-- Se agregan aerovanes: A338/A339/TBM9
+- Se agregan aeronaves: A338/A339/TBM9
 - Se corrijen taxiways de SARC
 - Se eliminan las posiciones SARC_GND, SARE_GND, SAWC_GND, SAZY_GND.
 - Se actualiza Topsky a su última versión
