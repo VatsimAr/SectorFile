@@ -57,32 +57,12 @@ PROFILE:SAME_GND:10:3
 ATIS2:Mendoza Ground/Superficie
 ATIS3:argentina.vatsur.org
 ATIS4:
-PROFILE:SARC_GND:10:3
-ATIS2:Corrientes Ground/Superficie
-ATIS3:argentina.vatsur.org
-ATIS4:
-PROFILE:SARE_GND:10:3
-ATIS2:Resistencia Ground/Superficie
-ATIS3:argentina.vatsur.org
-ATIS4:
-PROFILE:SARI_GND:10:3
-ATIS2:Cataratas Ground/Superficie
-ATIS3:argentina.vatsur.org
-ATIS4:
-PROFILE:SAWC_GND:10:3
-ATIS2:Calafate Ground/Superficie
-ATIS3:argentina.vatsur.org
-ATIS4:
 PROFILE:SANT_GND:10:3
 ATIS2:Tucuman Ground/Superficie
 ATIS3:argentina.vatsur.org
 ATIS4:
 PROFILE:SACO_GND:10:3
 ATIS2:Cordoba Ground/Superficie
-ATIS3:argentina.vatsur.org
-ATIS4:
-PROFILE:SAZY_GND:10:3
-ATIS2:Palomar Ground/Superficie
 ATIS3:argentina.vatsur.org
 ATIS4:
 PROFILE:SADF_TWR:20:4
@@ -142,7 +122,7 @@ ATIS2:Formosa Tower/Torre
 ATIS3:argentina.vatsur.org
 ATIS4:argentina.vatsur.org
 PROFILE:SARI_TWR:30:4
-ATIS2:Cataratas Tower/Torre
+ATIS2:Sauce Viejo Tower/Torre
 ATIS3:argentina.vatsur.org
 ATIS4:
 PROFILE:SAVC_TWR:30:4

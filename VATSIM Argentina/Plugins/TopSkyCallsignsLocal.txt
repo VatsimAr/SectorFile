@@ -1,3 +1,0 @@
-ARG Argentina Aerolineas Argentinas
-FBZ	Bondi	Fly Bondi
-SUR	Sur	SurAir

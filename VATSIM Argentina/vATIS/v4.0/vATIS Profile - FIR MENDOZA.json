@@ -1,0 +1,90 @@
+{
+  "Name": "FIR MENDOZA",
+  "Composites": [
+    {
+      "Id": "639f6cce-e1ed-4038-86c4-19d6e1232b25",
+      "Name": "Mendoza",
+      "Identifier": "SAME",
+      "AtisType": 0,
+      "Contractions": [],
+      "AtisFrequency": 27600,
+      "ObservationTime": {
+        "Enabled": true,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "SAME 36",
+          "AirportConditions": "DEP AND ARR RWY 36. EXP ILS ZULU APP RWY 36.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "SAME 18",
+          "AirportConditions": "DEP AND ARR RWY 18. EXP RNP APP RWY 18.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 80
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 75
+        },
+        {
+          "Low": 1014,
+          "High": 1032,
+          "Altitude": 70
+        },
+        {
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 65
+        }
+      ],
+      "UseFaaFormat": false,
+      "UseExternalAtisGenerator": false,
+      "UseNotamPrefix": true,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": true,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true
+    }
+  ]
+}

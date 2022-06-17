@@ -1,5 +1,27 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v9.2 - 17/06/2022
+*Actualizado por Javier Escandarani y Mariano Lopez*
+
+- Actualización del AIRAC a 2206
+- Eliminación del VOR Moreno (ENO)
+- Se agregan STARs RNAV de SAEZ (11/35) y se eliminan las convecionales (6A/6B).
+- Se agregan STARs RNAV a RWY 17 en SAEZ
+- Se agregan STARs RNAV de SABE (RWY13) y se eliminan STARs convencionales RWY 13 (7C/8C).
+- Se corrige STAR PAPIX1R de SABE (31)
+- Se agregan STARs RNAV de SADP (17) y se eliminan las convecionales (7C).
+- Se dibuja la aproximación RNP RWY 23 en SADF
+- Se corrige identificación de SUMU TWR (de CAT a CRT) por conflicto con SANC.
+- Se agregan aerovanes: A338/A339/TBM9
+- Se corrijen taxiways de SARC
+- Se eliminan las posiciones SARC_GND, SARE_GND, SAWC_GND, SAZY_GND.
+- Se actualiza Topsky a su última versión
+- Se crea nuevo TAG basado en el Plugin Topsky
+- Se elimina el Holding Plugin (al estar incorporado al TAG de Topsky).
+- Se incorporan los perfiles para vATIS V4.0, con los 5 FIR creados (y los respectivos ATIS dentro de cada FIR). Se incluyen los cálculos automáticos de nivel de transición para cada aeropuerto.
+
+---
+
 ## v9.1 - 21/04/2022
 *Actualizado por Javier Escandarani y Mariano Lopez*
 

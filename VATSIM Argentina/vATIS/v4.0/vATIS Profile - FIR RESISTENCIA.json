@@ -1,0 +1,186 @@
+{
+  "Name": "FIR RESISTENCIA",
+  "Composites": [
+    {
+      "Id": "6f2d3438-90ba-433a-8e20-5c36aa915c1d",
+      "Name": "Cataratas",
+      "Identifier": "SARI",
+      "AtisType": 0,
+      "Contractions": [],
+      "AtisFrequency": 27700,
+      "ObservationTime": {
+        "Enabled": true,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "RWY 13",
+          "AirportConditions": "DEP AND ARR RWY 13. EXP RNP APP RWY 13.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "RWY 31",
+          "AirportConditions": "DEP AND ARR RWY 31. EXP ILS ZULU APP RWY 31.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [
+        {
+          "Ordinal": 1,
+          "Text": "RWY CONDITION WET",
+          "Enabled": false
+        },
+        {
+          "Ordinal": 2,
+          "Text": "WINDSHEAR ALL RWYS",
+          "Enabled": false
+        }
+      ],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 50
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 45
+        },
+        {
+          "Low": 1014,
+          "High": 1032,
+          "Altitude": 40
+        },
+        {
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 35
+        }
+      ],
+      "UseFaaFormat": false,
+      "UseExternalAtisGenerator": false,
+      "UseNotamPrefix": true,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": true,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true
+    },
+    {
+      "Id": "fe46399c-97c7-4e41-b1c2-7f59364c810b",
+      "Name": "Resistencia",
+      "Identifier": "SARE",
+      "AtisType": 0,
+      "Contractions": [],
+      "AtisFrequency": 27850,
+      "ObservationTime": {
+        "Enabled": true,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "RWY 03",
+          "AirportConditions": "DEP AND ARR RWY 03. EXP RNP APP RWY 03.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "RWY 21",
+          "AirportConditions": "DEP AND ARR RWY 21. EXP ILS ZULU APP RWY 21.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 50
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 45
+        },
+        {
+          "Low": 1014,
+          "High": 1032,
+          "Altitude": 40
+        },
+        {
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 35
+        }
+      ],
+      "UseFaaFormat": false,
+      "UseExternalAtisGenerator": false,
+      "UseNotamPrefix": true,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": true,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true
+    }
+  ]
+}

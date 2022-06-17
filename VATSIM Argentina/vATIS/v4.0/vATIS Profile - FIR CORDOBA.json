@@ -1,0 +1,256 @@
+{
+  "Name": "FIR CORDOBA",
+  "Composites": [
+    {
+      "Id": "db1ff383-dde1-4ca7-b0bf-b4e8255543e1",
+      "Name": "Córdoba",
+      "Identifier": "SACO",
+      "AtisType": 0,
+      "Contractions": [],
+      "AtisFrequency": 27500,
+      "ObservationTime": {
+        "Enabled": true,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "RWYS 01/05",
+          "AirportConditions": "DEP RWY 05. ARR RWY 01. EXP RNP APP RWY 01.",
+          "Notams": "",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "RWYS 19/23",
+          "AirportConditions": "DEP RWY 19. ARR RWY 23. EXP RNP APP RWY 23.",
+          "Notams": "",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "RWYS 05/19",
+          "AirportConditions": "DEP RWY 05. ARR RWY 19. EXP ILS ZULU APP RWY 19.",
+          "Notams": "AFTER LDG VACATE RWY VIA TWY CHARLIE OR BRAVO",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "RWY 01",
+          "AirportConditions": "DEP AND ARR RWY 01. EXP RNP APP RWY 01.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "RWY 05",
+          "AirportConditions": "DEP AND ARR RWY 05. EXP RNP APP RWY 05.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "RWY 19",
+          "AirportConditions": "DEP AND ARR RWY 19. EXP ILS ZULU APP RWY 19.",
+          "Notams": "",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "RWY 23",
+          "AirportConditions": "DEP AND ARR RWY 23. EXP RNP APP RWY 23.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [
+        {
+          "Ordinal": 1,
+          "Text": "RWY CONDITION WET",
+          "Enabled": false
+        },
+        {
+          "Ordinal": 2,
+          "Text": "WINDSHEAR ALL RWYS",
+          "Enabled": false
+        }
+      ],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 55
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 50
+        },
+        {
+          "Low": 1014,
+          "High": 1032,
+          "Altitude": 45
+        },
+        {
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 40
+        }
+      ],
+      "UseFaaFormat": false,
+      "UseExternalAtisGenerator": false,
+      "UseNotamPrefix": true,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": true,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true
+    },
+    {
+      "Id": "aa6a320b-846c-4fb5-b086-bef4f4ce0ff1",
+      "Name": "Tucuman",
+      "Identifier": "SANT",
+      "AtisType": 0,
+      "Contractions": [],
+      "AtisFrequency": 27700,
+      "ObservationTime": {
+        "Enabled": true,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "RWY 02",
+          "AirportConditions": "DEP AND ARR RWY 02. EXP ILS ZULU APP RWY 02.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "RWY 20",
+          "AirportConditions": "DEP AND ARR RWY 20. EXP VOR Y APP RWY 20.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 85
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 80
+        },
+        {
+          "Low": 1014,
+          "High": 1032,
+          "Altitude": 75
+        },
+        {
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 70
+        }
+      ],
+      "UseFaaFormat": false,
+      "UseExternalAtisGenerator": false,
+      "UseNotamPrefix": true,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": true,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true
+    }
+  ]
+}

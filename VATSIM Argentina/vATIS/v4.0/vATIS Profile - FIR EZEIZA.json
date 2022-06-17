@@ -1,0 +1,802 @@
+{
+  "Name": "FIR EZEIZA",
+  "Composites": [
+    {
+      "Id": "d173bb81-d061-4cd4-8c93-010874365ddf",
+      "Name": "Aeroparque",
+      "Identifier": "SABE",
+      "AtisType": 0,
+      "Contractions": [],
+      "AtisFrequency": 27600,
+      "ObservationTime": {
+        "Enabled": true,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "SABE 13",
+          "AirportConditions": "DEP AND ARR RWY 13. EXP ILS ZULU APP RWY 13. ",
+          "Notams": "NOISE ABATEMENT PROCEDURES IN EFCT. IFR CLNC AVBL VIA PDC.",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS].ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "SABE 31",
+          "AirportConditions": "DEP AND ARR RWY 31. EXP RNP ZULU APP RWY 31.",
+          "Notams": "NOISE ABATEMENT PROCEDURES IN EFCT. IFR CLNC AVBL VIA PDC.",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "SABE 13 LVP",
+          "AirportConditions": "LOW VISIBILITY PROCEDURES IN EFFECT. DEP AND ARR RWY 13. EXP ILS X RAY APP RWY 13. ",
+          "Notams": "NOISE ABATEMENT PROCEDURES IN EFCT. IFR CLNC AVBL VIA PDC.",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [
+        {
+          "Ordinal": 1,
+          "Text": "RWY CONDITION WET",
+          "Enabled": false
+        },
+        {
+          "Ordinal": 2,
+          "Text": "WINDSHEAR ALL RWYS",
+          "Enabled": false
+        }
+      ],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 50
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 45
+        },
+        {
+          "Low": 1014,
+          "High": 1032,
+          "Altitude": 40
+        },
+        {
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 35
+        }
+      ],
+      "UseFaaFormat": false,
+      "UseExternalAtisGenerator": false,
+      "UseNotamPrefix": true,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": true,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true
+    },
+    {
+      "Id": "561b95e2-0275-4f8e-ad7a-e0b193152855",
+      "Name": "Bariloche",
+      "Identifier": "SAZS",
+      "AtisType": 0,
+      "Contractions": [],
+      "AtisFrequency": 27900,
+      "ObservationTime": {
+        "Enabled": true,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "SAZS 29",
+          "AirportConditions": "DEP AND ARR RWY 29. EXP ILS ZULU APP RWY 29.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "SAZS 11",
+          "AirportConditions": "DEP AND ARR RWY 11. EXP RNP APP RWY 11.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [
+        {
+          "Ordinal": 1,
+          "Text": "RWY CONDITION WET",
+          "Enabled": false
+        },
+        {
+          "Ordinal": 2,
+          "Text": "WINDSHEAR ALL RWYS",
+          "Enabled": false
+        }
+      ],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 100
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 95
+        },
+        {
+          "Low": 1014,
+          "High": 1032,
+          "Altitude": 90
+        },
+        {
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 85
+        }
+      ],
+      "UseFaaFormat": false,
+      "UseExternalAtisGenerator": false,
+      "UseNotamPrefix": true,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": true,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true
+    },
+    {
+      "Id": "88ad811c-a277-49e9-a181-78f5bd016fde",
+      "Name": "El Palomar",
+      "Identifier": "SADP",
+      "AtisType": 0,
+      "Contractions": [],
+      "AtisFrequency": 27625,
+      "ObservationTime": {
+        "Enabled": true,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "SADP 17",
+          "AirportConditions": "DEP AND ARR RWY 17. EXP ILS ZULU APP RWY 17.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "SADP 35",
+          "AirportConditions": "DEP AND ARR RWY 35. EXP ILS ZULU APP RWY 17, CIRCLE TO LAND RWY 35.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 50
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 45
+        },
+        {
+          "Low": 1014,
+          "High": 1032,
+          "Altitude": 40
+        },
+        {
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 35
+        }
+      ],
+      "UseFaaFormat": false,
+      "UseExternalAtisGenerator": false,
+      "UseNotamPrefix": true,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": true,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true
+    },
+    {
+      "Id": "e2789245-af17-4d29-ab4d-5af04bdb5b2c",
+      "Name": "Ezeiza",
+      "Identifier": "SAEZ",
+      "AtisType": 0,
+      "Contractions": [],
+      "AtisFrequency": 27800,
+      "ObservationTime": {
+        "Enabled": true,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "SAEZ 11",
+          "AirportConditions": "DEP AND ARR RWY 11. EXP ILS X-RAY APP RWY 11. ",
+          "Notams": "AFTER LANDING IF CONDITIONS PERMIT EXPT TO VACATE RWY VIA RWY 35. IFR CLNC AVBL VIA PDC.",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "SAEZ 29",
+          "AirportConditions": "DEP AND ARR RWY 29. EXP RNP APP RWY 29",
+          "Notams": "IFR CLNC AVBL VIA PDC.",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "SAEZ 35/29",
+          "AirportConditions": "DEP RWY 29. ARR RWY 35. EXP ILS Z APP RWY 35",
+          "Notams": "IFR CLNC AVBL VIA PDC.",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "SAEZ 11 - LVP",
+          "AirportConditions": "LOW VISIBILITY PROCEDURES IN EFCT. DEP AND ARR RWY 11. EXP ILS ZULU APP RWY 11. ",
+          "Notams": "AFTER LANDING EXPT TO VACATE RWY VIA TWY HOTEL. IFR CLNC AVBL VIA PDC.",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "SAEZ 35",
+          "AirportConditions": "DEP AND ARR RWY 35. EXP ILS Z APP RWY 35",
+          "Notams": "IFR CLNC AVBL VIA PDC.",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "SAEZ 17",
+          "AirportConditions": "DEP AND ARR RWY 17. EXP RNP APP RWY 17",
+          "Notams": "IFR CLNC AVBL VIA PDC.",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [
+        {
+          "Ordinal": 1,
+          "Text": "RWY CONDITION WET",
+          "Enabled": false
+        },
+        {
+          "Ordinal": 2,
+          "Text": "WINDSHEAR ALL RWYS",
+          "Enabled": false
+        }
+      ],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 50
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 45
+        },
+        {
+          "Low": 1014,
+          "High": 1032,
+          "Altitude": 40
+        },
+        {
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 35
+        }
+      ],
+      "UseFaaFormat": false,
+      "UseExternalAtisGenerator": false,
+      "UseNotamPrefix": true,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": true,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true
+    },
+    {
+      "Id": "c4c99544-68bb-4a81-a43c-31dd24f6e75d",
+      "Name": "Moron",
+      "Identifier": "SADM",
+      "AtisType": 0,
+      "Contractions": [],
+      "AtisFrequency": 27700,
+      "ObservationTime": {
+        "Enabled": true,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "RWY 02",
+          "AirportConditions": "DEP AND ARR RWY 02",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "RWY 20",
+          "AirportConditions": "DEP AND ARR RWY 20",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 50
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 45
+        },
+        {
+          "Low": 1014,
+          "High": 1032,
+          "Altitude": 40
+        },
+        {
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 35
+        }
+      ],
+      "UseFaaFormat": false,
+      "UseExternalAtisGenerator": false,
+      "UseNotamPrefix": true,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": true,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true
+    },
+    {
+      "Id": "dd466e3e-2fc9-45dc-a1ee-6fb86ea736dd",
+      "Name": "Neuquén",
+      "Identifier": "SAZN",
+      "AtisType": 0,
+      "Contractions": [],
+      "AtisFrequency": 27650,
+      "ObservationTime": {
+        "Enabled": true,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "SAZN 27",
+          "AirportConditions": "DEP AND ARR RWY 27. EXP RNP APP RWY 27.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "SAZN 09",
+          "AirportConditions": "DEP AND ARR RWY 09. EXP ILS ZULU APP RWY 09.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 56
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 51
+        },
+        {
+          "Low": 1014,
+          "High": 1032,
+          "Altitude": 46
+        },
+        {
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 41
+        }
+      ],
+      "UseFaaFormat": false,
+      "UseExternalAtisGenerator": false,
+      "UseNotamPrefix": true,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": true,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true
+    },
+    {
+      "Id": "48afb864-9d67-4f53-8bc4-ed0032c67dc5",
+      "Name": "Rosario",
+      "Identifier": "SAAR",
+      "AtisType": 0,
+      "Contractions": [],
+      "AtisFrequency": 27400,
+      "ObservationTime": {
+        "Enabled": true,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "SAAR 20",
+          "AirportConditions": "DEP AND ARR RWY 20. EXP ILS Z RWY 20.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "SAAR 02",
+          "AirportConditions": "DEP AND ARR RWY 02. EXP RNP APP RWY 02.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "SAAR 02/20",
+          "AirportConditions": "DEP RWY 02. ARR RWY 20. EXP ILS Z RWY 20.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 50
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 45
+        },
+        {
+          "Low": 1014,
+          "High": 1032,
+          "Altitude": 40
+        },
+        {
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 35
+        }
+      ],
+      "UseFaaFormat": false,
+      "UseExternalAtisGenerator": false,
+      "UseNotamPrefix": true,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": true,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true
+    },
+    {
+      "Id": "74eed461-6501-4a75-9daf-21dd0d450208",
+      "Name": "San Fernando",
+      "Identifier": "SADF",
+      "AtisType": 0,
+      "Contractions": [],
+      "AtisFrequency": 29500,
+      "ObservationTime": {
+        "Enabled": true,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "SADF 05",
+          "AirportConditions": "DEP AND ARR RWY 05. EXP ILS APP RWY 05.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Name": "SADF 23",
+          "AirportConditions": "DEP AND ARR RWY 23. EXP VOR APP RWY 23.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 50
+        },
+        {
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 45
+        },
+        {
+          "Low": 1014,
+          "High": 1032,
+          "Altitude": 40
+        },
+        {
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 35
+        }
+      ],
+      "UseFaaFormat": false,
+      "UseExternalAtisGenerator": false,
+      "UseNotamPrefix": true,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": true,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true
+    }
+  ]
+}
