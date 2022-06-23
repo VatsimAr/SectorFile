@@ -3,7 +3,7 @@
 ## v9.2.1 - 22/06/2022
 *Actualizado por Javier Escandarani, Mariano Lopez y Giuliano Viola*
 
-- arreglo los perfiles del vATIS
+- Arreglo de los perfiles del vATIS
 - Incorporación de coordinación silenciosa en el nuevo TAG
 - Incorporación de menú Waypoint en donde se da el directo desde el TAG
 - Incorporación de pista asignada en TAG
