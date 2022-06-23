@@ -1,6 +1,6 @@
 ;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ;        VATSIM Argentina - SECTOR FILE PARA EUROSCOPE
-;                      VERSION 9.2
+;                      VERSION 9.2.1
 ;
 ;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ; Si tiene alguna consulta o sugerencia, escriba a vatsur10@vatsur.org
@@ -51,7 +51,7 @@
 #define gray 3158064
 
 [INFO]
-VATSIM Argentina v9.2
+VATSIM Argentina v9.2.1
 ARG
 SAEZ
 S034.49.27.000

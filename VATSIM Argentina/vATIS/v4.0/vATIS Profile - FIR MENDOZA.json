@@ -27,7 +27,7 @@
           "AirportConditions": "DEP AND ARR RWY 36. EXP ILS ZULU APP RWY 36.",
           "Notams": null,
           "ArbitraryText": null,
-          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [TL]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
           "ExternalGenerator": {
             "Url": null,
             "Arrival": null,
@@ -41,7 +41,7 @@
           "AirportConditions": "DEP AND ARR RWY 18. EXP RNP APP RWY 18.",
           "Notams": null,
           "ArbitraryText": null,
-          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [TL]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
           "ExternalGenerator": {
             "Url": null,
             "Arrival": null,
@@ -57,14 +57,9 @@
       "NotamsBeforeFreeText": false,
       "TransitionLevels": [
         {
-          "Low": 978,
-          "High": 995,
-          "Altitude": 80
-        },
-        {
-          "Low": 996,
-          "High": 1013,
-          "Altitude": 75
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 65
         },
         {
           "Low": 1014,
@@ -72,9 +67,14 @@
           "Altitude": 70
         },
         {
-          "Low": 1033,
-          "High": 1050,
-          "Altitude": 65
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 75
+        },
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 80
         }
       ],
       "UseFaaFormat": false,

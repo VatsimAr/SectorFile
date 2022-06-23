@@ -1,7 +1,18 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v9.2.1 - 22/06/2022
+*Actualizado por Javier Escandarani, Mariano Lopez y Giuliano Viola*
+
+- arreglo los perfiles del vATIS
+- Incorporación de coordinación silenciosa en el nuevo TAG
+- Incorporación de menú Waypoint en donde se da el directo desde el TAG
+- Incorporación de pista asignada en TAG
+- Mejoras varias al TAG
+
+---
+
 ## v9.2 - 17/06/2022
-*Actualizado por Javier Escandarani y Mariano Lopez*
+*Actualizado por Javier Escandarani, Mariano Lopez y Giuliano Viola*
 
 - Actualización del AIRAC a 2206
 - Eliminación del VOR Moreno (ENO)

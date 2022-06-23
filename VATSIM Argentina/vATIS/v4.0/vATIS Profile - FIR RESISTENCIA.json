@@ -27,7 +27,7 @@
           "AirportConditions": "DEP AND ARR RWY 13. EXP RNP APP RWY 13.",
           "Notams": null,
           "ArbitraryText": null,
-          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [TL]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
           "ExternalGenerator": {
             "Url": null,
             "Arrival": null,
@@ -41,7 +41,7 @@
           "AirportConditions": "DEP AND ARR RWY 31. EXP ILS ZULU APP RWY 31.",
           "Notams": null,
           "ArbitraryText": null,
-          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [TL]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
           "ExternalGenerator": {
             "Url": null,
             "Arrival": null,
@@ -123,7 +123,7 @@
           "AirportConditions": "DEP AND ARR RWY 03. EXP RNP APP RWY 03.",
           "Notams": null,
           "ArbitraryText": null,
-          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [TL]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
           "ExternalGenerator": {
             "Url": null,
             "Arrival": null,
@@ -137,7 +137,7 @@
           "AirportConditions": "DEP AND ARR RWY 21. EXP ILS ZULU APP RWY 21.",
           "Notams": null,
           "ArbitraryText": null,
-          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [TL]. [ARPT_COND]. [NOTAMS]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE].",
           "ExternalGenerator": {
             "Url": null,
             "Arrival": null,
@@ -153,14 +153,9 @@
       "NotamsBeforeFreeText": false,
       "TransitionLevels": [
         {
-          "Low": 978,
-          "High": 995,
-          "Altitude": 50
-        },
-        {
-          "Low": 996,
-          "High": 1013,
-          "Altitude": 45
+          "Low": 1033,
+          "High": 1050,
+          "Altitude": 35
         },
         {
           "Low": 1014,
@@ -168,9 +163,14 @@
           "Altitude": 40
         },
         {
-          "Low": 1033,
-          "High": 1050,
-          "Altitude": 35
+          "Low": 996,
+          "High": 1013,
+          "Altitude": 45
+        },
+        {
+          "Low": 978,
+          "High": 995,
+          "Altitude": 50
         }
       ],
       "UseFaaFormat": false,
