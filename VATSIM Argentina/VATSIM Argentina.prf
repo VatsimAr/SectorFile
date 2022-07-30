@@ -42,3 +42,5 @@ Sounds	Sound15	\Sounds\new_atis.wav
 Sounds	Sound16	\Sounds\handoff_refused.wav
 Sounds	Sound17	\Sounds\pointout.wav
 Sounds	Sound18	\Sounds\startup.wav
+Plugins	Plugin0	\Plugins\TopSky\TopSky.dll
+Plugins	Plugin0Display0	Standard ES radar screen
