@@ -1,5 +1,19 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v9.2.2 - 30/07/2022
+*Actualizado por Javier Escandarani, Mariano Lopez y Giuliano Viola*
+
+- Se agrega COPX entre Baires y SAEF para posición ATOVO que faltaba.
+- Se corrigen SID y STAR de SANT.
+- Se corrigen SID y STAR de SAME.
+- Correcciones menores en el TAG Topsky.
+- Correcciones de los ATZ de San Fernando, Palomar, Moreno, Campo de Mayo.
+- Se agregan los FIXes de las aproximaciones de San Fernando
+- Corrección de error en lista de STARs RWY 17 de SAEZ
+- Se agregan Aerolíneas: JAP (Jetsmart Perú), BVX (Osprey), ABS (Aerobrasil).
+
+---
+
 ## v9.2.1 - 22/06/2022
 *Actualizado por Javier Escandarani, Mariano Lopez y Giuliano Viola*
 
