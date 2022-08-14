@@ -3170,6 +3170,7 @@ KWN	Kwena Air - South Africa	KWENA
 KYA	Yana Air Cargo (Kenya) Limited - Kenya	YANA AIR
 KYB	Skybridge Airops - Italy	SKY AIROPS
 KYC	Av Atlantic - United States	DOLPHIN
+KYE	SkyLease Cargo - United States	SKY CUBE
 KYL	Kyrgyz International Airlines - Kyrgyzstan	KYRMAL
 KYM	Krym - Ukraine	CRIMEA AIR
 KYR	Sky Aeronautical Services - Mexico	SKY AERONAUTICAL

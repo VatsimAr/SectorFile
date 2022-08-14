@@ -1,5 +1,17 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v9.2.3 - 14/08/2022
+*Actualizado por Javier Escandarani, Mariano Lopez y Giuliano Viola*
+
+- Corrección de STARs de SCEL
+- Creación de RWYS en SCEL, SUMU, SCTE y SCSE para facilitar la selección de las STARs para los handoff.
+- Se corrigen errores en puntos de coordinación (COPX)
+- Se agregan colores a algunos elementos de las listas para facilitar la lectura de la información relevante de cada una.
+- Se agregan aerolíneas faltantes
+- Actualizaciòn de AIRAC v2208
+
+---
+
 ## v9.2.2 - 30/07/2022
 *Actualizado por Javier Escandarani, Mariano Lopez y Giuliano Viola*
 
