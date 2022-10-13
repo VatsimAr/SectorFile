@@ -1,5 +1,20 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v9.3 - 13/10/2022
+*Actualizado por Javier Escandarani, Mariano Lopez y Agustin Miglino*
+
+- Se actualizan todas las STARs para incluir todos los fixes hasta el FAF, lo que facilita dar directos. 
+- Se corrigen errores en SID/STAR de SAVC
+- Se corrigen erroes en SID/STAR de SARC
+- Se agregan aerolíneas faltantes
+- Se actualiza al AIRAC 2210 
+- Se actualiza el Plugin Topsky a la última versión
+- Se agrega alertas MSAW en Córdoba Control (SACO APP)
+- Se eliminan STARs de SUMU
+- Se eliminan segmentos de aerovías no existentes (LYE-GEMSU y MLG-STO).
+
+---
+
 ## v9.2.3 - 14/08/2022
 *Actualizado por Javier Escandarani, Mariano Lopez y Giuliano Viola*
 

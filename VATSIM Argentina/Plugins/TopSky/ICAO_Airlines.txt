@@ -40,7 +40,7 @@ ABO	APSA Colombia - Colombia	AEROEXPRESO
 ABP	Aba Air - Czech Republic	BAIR
 ABQ	Airblue - Pakistan	PAKBLUE
 ABR	Air Contractors - Ireland	CONTRACT
-ABS	Transwest Air - Canada	ATHABASKA
+ABS	Aerobrasil	Aerobrasil
 ABT	Air Brousse - Canada	AIR BROUSSE
 ABU	Aerovias Bueno - Colombia	AEROBUENO
 ABV	Antrak Air - Ghana	ANTRAK
@@ -886,6 +886,7 @@ BVR	ACM Air Charter - Germany	BAVARIAN
 BVT	Berjaya Air - Malaysia	BERJAYA
 BVU	Bellview Airlines, Sierra Leone - Sierra Leone	UNKNOWN
 BVV	Spark+ Joint-Stock Company - Russia	SPARK
+BVX	Osprey Virtual Airline		OSPREY
 BVZ	Abavia - Georgia	ABAZIA
 BWA	Caribbean Airlines - Trinidad and Tobago	CARIBBEAN AIRLINES
 BWE	Baltimore Air Transport, Inc. - United States of America	BEEWEE
@@ -2841,6 +2842,7 @@ JAI	Jet Airways - India	JET AIRWAYS
 JAK	Jana-Arka - Kazakhstan	YANZAR
 JAL	Japan Airlines - Japan	JAPANAIR
 JAM	Sunline Express - Kenya	SUNTRACK
+JAP	Jetsmart Peru - Peru-	REDSMART
 JAR	Airlink - Austria	AIRLINK
 JAS	Japan Air System Co., Ltd. - Japan	AIR SYSTEM
 JAT	Jetsmart Chile	ROCKSMART
@@ -3168,6 +3170,7 @@ KWN	Kwena Air - South Africa	KWENA
 KYA	Yana Air Cargo (Kenya) Limited - Kenya	YANA AIR
 KYB	Skybridge Airops - Italy	SKY AIROPS
 KYC	Av Atlantic - United States	DOLPHIN
+KYE	SkyLease Cargo - United States	SKY CUBE
 KYL	Kyrgyz International Airlines - Kyrgyzstan	KYRMAL
 KYM	Krym - Ukraine	CRIMEA AIR
 KYR	Sky Aeronautical Services - Mexico	SKY AERONAUTICAL

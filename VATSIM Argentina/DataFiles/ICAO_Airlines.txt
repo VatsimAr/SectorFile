@@ -40,7 +40,7 @@ ABO	APSA Colombia - Colombia	AEROEXPRESO
 ABP	Aba Air - Czech Republic	BAIR
 ABQ	Airblue - Pakistan	PAKBLUE
 ABR	Air Contractors - Ireland	CONTRACT
-ABS	Aerobrasil	Aerobrasil
+ABS	Aerobrasil	- Brasil 	AEROBRASIL
 ABT	Air Brousse - Canada	AIR BROUSSE
 ABU	Aerovias Bueno - Colombia	AEROBUENO
 ABV	Antrak Air - Ghana	ANTRAK
@@ -6173,7 +6173,7 @@ WAN	Wane Aviation Ltd. - Kenya	WANE KENYA
 WAP	Arrow Panama - Panama	ARROW PANAMA
 WAR	NZ Warbirds Association - New Zealand	WARBIRDS
 WAS	Walsten Air Services - Canada	WALSTEN
-WAT	Wings Air Transport - Sudan	UNKNOWN
+WAT	Walker - United States	Walker
 WAV	Warbelow's Air Ventures - United States	WARBELOW
 WAW	Wings Airways - United States	WING SHUTTLE
 WAY	Airways - France	GARONNE
