@@ -1,5 +1,15 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v9.4 - 20/01/2023
+*Actualizado por Javier Escandarani, Mariano Lopez y Giuliano Viola*
+
+- Actualización AIRAC 2213
+- Creación de antenas de radar para poder utilizar el modo Profesional
+- Actualización de pista de SARP
+- Actualización de posiciones de estacionamiento de SARI
+- Eliminación de posición de SAZV
+- Incorporación de sistema PDC via Hoppie en Topsky (para uso en SABE y SAEZ)
+
 ## v9.3 - 13/10/2022
 *Actualizado por Javier Escandarani, Mariano Lopez y Agustin Miglino*
 

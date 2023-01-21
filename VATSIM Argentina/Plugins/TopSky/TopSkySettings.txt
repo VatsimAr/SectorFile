@@ -28,8 +28,9 @@ Label_CFL_DefaultValue=1
 Label_DAPs=1
 Menu_DAPs=1
 Window_HoldList_MaxListItems=20
+Window_CPDLC_Current=0,1460,500
 Window_MsgIn=1,810,51
-List_Holding=1600,500
+List_Holding=1600,700
 FlightLeg_AutoShow=1
 FlightLeg_AssumeTime=2
 RwyAppLines_Auto=0
@@ -150,7 +151,8 @@ Color_Proposition_Out=0,64,128
 Color_Weather_Map=200,200,100 
 
 //CPDLC System Settings
-CPDLC_MinLevel=195
+CPDLC_Default=1
+CPDLC_MinLevel=1
 CPDLC_Transfer=1
 CPDLC_CFL=1
 CPDLC_DCT=1
