@@ -1,5 +1,20 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v9.5 - 05/03/2023
+*Actualizado por Javier Escandarani, Mariano Lopez y Giuliano Viola*
+
+- Se agregan aproximaciones de SADF como STAR para poder seleccionarlas
+- Se corrigen STAR "7D" para RWY 31, considerando aproximación NDB.
+- Se crea nueva "STAR" de pista 29 desde ESLAN
+- Se mofician STARs UGIMI6A/B de SAEZ a pista 11/35, agreando el inicio desde ESLAN 
+- Se crea posición SAEF_FSS (Ezeiza Radio), con sus puntos de coordinación con FAJO_FSS y SAEF, login profile y ASR.
+- Se activa CPDLC para sector oceánico
+- Correcciones en login profiles de SAEF y Baires
+- Correcciones de simbología para el TAG profesional en Topsky
+- Se actualiza el AIRAC al 2302
+
+---
+
 ## v9.4 - 20/01/2023
 *Actualizado por Javier Escandarani, Mariano Lopez y Giuliano Viola*
 
@@ -9,6 +24,8 @@
 - Actualización de posiciones de estacionamiento de SARI
 - Eliminación de posición de SAZV
 - Incorporación de sistema PDC via Hoppie en Topsky (para uso en SABE y SAEZ)
+
+---
 
 ## v9.3 - 13/10/2022
 *Actualizado por Javier Escandarani, Mariano Lopez y Agustin Miglino*

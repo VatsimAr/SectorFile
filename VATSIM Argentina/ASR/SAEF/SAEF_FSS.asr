@@ -1,0 +1,38 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Euroscope\VATSIM Argentina\VATSIM Argentina.sct
+SECTORTITLE:VATSIM Argentina.sct
+Fixes:ANKOK:symbol
+Fixes:ESLAN:symbol
+Fixes:GATOS:symbol
+Fixes:GUXOR:symbol
+Fixes:KAKIN:symbol
+Fixes:KETIS:symbol
+Fixes:KILOS:symbol
+Fixes:MORSI:symbol
+Fixes:MUNES:name
+Fixes:MUNES:symbol
+Fixes:PAGAD:name
+Fixes:PAGAD:symbol
+Fixes:REKUL:symbol
+Geo:LineaCostera:
+Geo:SAEF_FSS:
+High airways:UL211:line
+High airways:UL211:name
+High airways:UL211F:line
+High airways:UL211F:name
+SHOWC:1
+SHOWSB:0
+BELOW:500
+ABOVE:0
+LEADER:-10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATARG Topsky
+WINDOWAREA:-53.175457:-64.979114:-28.207549:-7.190664
