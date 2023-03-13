@@ -1,5 +1,12 @@
 # Changelog - VATSIM Argentina SectorFile
 
+## v9.5.1 - 12/03/2023
+*Actualizado por Javier Escandarani, Mariano Lopez y Giuliano Viola*
+
+- Incorporación de sector FAJO en archivo .ese
+
+---
+
 ## v9.5 - 05/03/2023
 *Actualizado por Javier Escandarani, Mariano Lopez y Giuliano Viola*
 
