@@ -22,7 +22,7 @@ Settings	airways	\DataFiles\AIRWAY.txt
 Settings	sector	\VATSIM Argentina.sct
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-RecentFiles	Recent1	\ASR\ARGENTINA.asr
+RecentFiles	Recent1	\ASR\SAEF\SAEF_S_CTR.asr
 Sounds	Sound0	\Sounds\handoff_request.wav
 Sounds	Sound1	\Sounds\handoff_accept.wav
 Sounds	Sound2	\Sounds\conflict_alert.wav
@@ -44,3 +44,17 @@ Sounds	Sound17	\Sounds\pointout.wav
 Sounds	Sound18	\Sounds\startup.wav
 Plugins	Plugin0	\Plugins\TopSky\TopSky.dll
 Plugins	Plugin0Display0	Standard ES radar screen
+LastSession	atis_freq4	118000
+LastSession	connecttype	0
+LastSession	facility	6
+LastSession	rating	6
+LastSession	tovatsim	1
+LastSession	range	600
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+RecentFiles	Recent2	\ASR\ARGENTINA.asr
+LastSession	callsign	SAEF_S_CTR
+LastSession	server	SweatBox
+LastSession	atis2	Ezeiza Radar
+LastSession	atis3	argentina.vatsur.org
+LastSession	atis4	ONLY PROVIDING ATC SERVICES FOR CTP TRAFFIC
